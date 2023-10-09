@@ -67,7 +67,7 @@
         "currentTab": 1
       },
       {
-        "id": "f2b568f260cad90e",
+        "id": "0fa3354bd1ba1a62",
         "type": "tabs",
         "children": [
           {
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -216,15 +217,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fc40b7e9d0786914",
   "lastOpenFiles": [
-    "Made this to check commits.md",
-    "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Vasspryg.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Made this to check commits.md",
     "Ixalan Complex.md",
     "World of Helodaria/Splitmount.md",
     "Uldronos Council.md",
