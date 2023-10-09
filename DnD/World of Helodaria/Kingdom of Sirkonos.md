@@ -1,0 +1,5 @@
+The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the westmost civilisation on the continent.
+
+Old woods, teeming with older magics and eldritch curses. Walled towns, owned by paranoid barons, constantly on guard from external threats. A central stone city cowering in the shadow of a dark manor, patrolled by a dreadful legion, subtly enforcing their master's will.
+
+Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous socialscape in order to study the innate darkness of the land.The Elven royal family has seeming all but forgotten about the rest of the country, all the while, the powerful vampires of Clan Vorciln are exerting their influence on those around them from their dark castle gateway to the outer planes.
