@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "0fa3354bd1ba1a62",
@@ -149,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +186,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World of Helodaria/Republic of Ruina.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,11 +217,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc40b7e9d0786914",
+  "active": "8d53c263fe25c154",
   "lastOpenFiles": [
+    "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Vasspryg.md",
-    "World of Helodaria/Republic of Ruina.md",
     "Made this to check commits.md",
     "Ixalan Complex.md",
     "World of Helodaria/Splitmount.md",
