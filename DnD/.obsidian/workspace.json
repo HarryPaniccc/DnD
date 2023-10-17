@@ -54,20 +54,12 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8d53c263fe25c154",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "0fa3354bd1ba1a62",
+        "id": "31110e296781f285",
         "type": "tabs",
         "children": [
           {
@@ -149,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World of Helodaria/Vasspryg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World of Helodaria/Vasspryg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World of Helodaria/Vasspryg.md"
+              }
             }
           },
           {
@@ -217,17 +213,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d53c263fe25c154",
+  "active": "e2c076bfc3b8cd34",
   "lastOpenFiles": [
-    "World of Helodaria/Republic of Ruina.md",
-    "World of Helodaria/Einzberns.md",
     "World of Helodaria/Vasspryg.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "World of Helodaria/Kenifria.md",
+    "World of Helodaria/Gods of Helodaria.md",
+    "World of Helodaria/Einzberns.md",
     "Made this to check commits.md",
     "Ixalan Complex.md",
     "World of Helodaria/Splitmount.md",
     "Uldronos Council.md",
     "Lawbearers.md",
-    "World of Helodaria/Kenifria.md",
     "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
     "Session Notes/Session 69 - Silb is Resurrected question mark.md",
     "Items/Howl.md",
@@ -239,7 +236,6 @@
     "World of Helodaria/Eranulaid.md",
     "Templates/Settlement.md",
     "Templates/Item template.md",
-    "World of Helodaria/Gods of Helodaria.md",
     "World of Helodaria/Ironbase.md",
     "World of Helodaria/Ben Mendage.md",
     "World of Helodaria/Douglas Throughfinger.md",
