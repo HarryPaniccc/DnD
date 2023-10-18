@@ -38,13 +38,11 @@ The Helodarian Calendar is one that is derived from a North-Zitrumean Elvish Cal
 The holy day of [[Lathander]] celebrates community and life. #TODO add to lathanders block
 ### Tharanuhel Festival
 An elvish festival that celebrates expression and is the holy day of the [[Sehanine]], the Moon Heart. #TODO add to Sehanine's block
-
 ### Days of Awakening and First Scribe
 Both celebrate the birth and teachings of [[Centuria]], Holder of the Azure. 
 
 **The Day of Awakening** is the day dedicated to her birth, the young God’s true birthday being unknown, the day being celebrated with games and sports, revelling in the freedom of Centuria’s heart. 
 
 **The Day of First Scribe** is a day dedicated to telling stories and sharing knowledge, one where history is recounted in epic plays and ballads for all the world to revel in. It celebrates when Centuria first began to sew the stars into their constellation shapes.
-
 ### Winter’s Valley Festival
 A midwinter festival celebrated in the [[Republic of Ruina]] on the longest night of winter, starting as soon as the sun can no longer be seen and ending at sunrise. It is a night of great feasts, games and camaraderie among all citizens of the empire. Large fires are lit and the more valuable food reserves are consumed.

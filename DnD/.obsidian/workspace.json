@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "fc40b7e9d0786914",
+            "id": "60cd49b857b99d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,21 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "887e800bd6f43ac0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "31110e296781f285",
+        "id": "d642feb49ab202f1",
         "type": "tabs",
         "children": [
           {
-            "id": "e2c076bfc3b8cd34",
+            "id": "b69c4ecd35be0b9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Wyrm Hole.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Wyrm Hole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Wyrm Hole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md"
+                "file": "Wyrm Hole.md"
               }
             }
           },
@@ -213,34 +225,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2c076bfc3b8cd34",
+  "active": "b69c4ecd35be0b9c",
   "lastOpenFiles": [
-    "World of Helodaria/Vasspryg.md",
     "World of Helodaria/Republic of Ruina.md",
+    "Wyrm Hole.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Vasspryg.md",
+    "Bizook Harty.md",
+    "Tiffany Axe.md",
+    "Fork.md",
     "World of Helodaria/Kenifria.md",
+    "Gizelda.md",
+    "The Faces.md",
+    "Bogbog.md",
+    "Kye.md",
+    "Tiwrath the Blue.md",
+    "Mira.md",
+    "World of Helodaria/Eranulaid.md",
+    "Jorric.md",
+    "Martin Proushe.md",
+    "Lawbearer Ludleth.md",
+    "High Priestess Bailey.md",
+    "Valfite.md",
+    "Eluhou.md",
     "World of Helodaria/Gods of Helodaria.md",
     "World of Helodaria/Einzberns.md",
     "Made this to check commits.md",
     "Ixalan Complex.md",
     "World of Helodaria/Splitmount.md",
-    "Uldronos Council.md",
-    "Lawbearers.md",
-    "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
-    "Session Notes/Session 69 - Silb is Resurrected question mark.md",
-    "Items/Howl.md",
-    "Items/Gem of Brightness.md",
-    "Items/Medallion of Intuition.md",
-    "Items/Mace of Disruption.md",
-    "Items/Dawnmail.md",
-    "Session Notes/Session 67 - Through the Labyrinth.md",
-    "World of Helodaria/Eranulaid.md",
-    "Templates/Settlement.md",
-    "Templates/Item template.md",
-    "World of Helodaria/Ironbase.md",
-    "World of Helodaria/Ben Mendage.md",
-    "World of Helodaria/Douglas Throughfinger.md",
-    "World of Helodaria/Jaden Austring.md",
-    "World of Helodaria/Kreck.md",
     "Items",
     "Session Notes",
     "Templates",

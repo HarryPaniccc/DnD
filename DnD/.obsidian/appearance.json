@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "cssTheme": "Cybertron Shifted",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 19
 }
