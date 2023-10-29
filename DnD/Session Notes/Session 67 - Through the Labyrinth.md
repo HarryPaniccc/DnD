@@ -70,7 +70,7 @@ There is an ethereal air to the place. The water reflects one's form very well. 
 
 “Threads of the old lines weave forth to understanding. Cast into the water, and it might be yours”
 
-If a player with Elven blood (Esilme) casts a strand of their hair into the pool, it will shimmer and react. There will be an intense glow as the brightness of the pool glows a stronger white and blue. The cavern is lit in a blinding display for a moment and the players cover their eyes instinctually. Then, a ray of moonlight shines from the pool to the roof of the cavern, and in it, a floating, ethereal elf form. The cadaverous edge will go cold at her appearance, but she will not be hostile.
+If a player with Elven blood (Isilme) casts a strand of their hair into the pool, it will shimmer and react. There will be an intense glow as the brightness of the pool glows a stronger white and blue. The cavern is lit in a blinding display for a moment and the players cover their eyes instinctually. Then, a ray of moonlight shines from the pool to the roof of the cavern, and in it, a floating, ethereal elf form. The cadaverous edge will go cold at her appearance, but she will not be hostile.
 
 “Blood of the old lines, what answers do you seek my children?”
 

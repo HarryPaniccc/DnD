@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "tag: #PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
+      }
+    },
+    {
       "query": "tag: Settlement",
       "color": {
         "a": 1,
@@ -60,6 +67,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.39654439463925845,
+  "scale": 0.1328043414558553,
   "close": false
 }

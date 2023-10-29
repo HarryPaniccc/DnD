@@ -448,7 +448,7 @@ NPCs
     
 
 ## Dularen
-
+#TODO 
 The centre of the empire, geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the ashen legion holds a fortress for training, the high temple of pantheons holds entire districts for worship, and the empirical arcanists have a large records library within the centre of the city. Every trading guild works hard to keep their hold within dularen.
 
   
