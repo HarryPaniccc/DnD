@@ -54,11 +54,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a66095a248691f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Republic of Ruina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "d642feb49ab202f1",
+        "id": "b89d4c1ce4a5f3f4",
         "type": "tabs",
         "children": [
           {
@@ -67,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wyrm Hole.md",
+                "file": "World of Helodaria/Wyrm Hole.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dularen.md",
+                "file": "World of Helodaria/Dularen.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Isilme Vanariel.md",
+                "file": "World of Helodaria/Bizook Harty.md",
                 "mode": "source",
                 "source": false
               }
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isilme Vanariel.md",
+                "file": "World of Helodaria/Bizook Harty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isilme Vanariel.md",
+                "file": "World of Helodaria/Bizook Harty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Isilme Vanariel.md"
+                "file": "World of Helodaria/Bizook Harty.md"
               }
             }
           },
@@ -234,37 +247,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
   "active": "3b2a6831c271b3d7",
   "lastOpenFiles": [
-    "Templates/PC.md",
-    "Isilme Vanariel.md",
+    "Statblocks/Adult White Dragon.md",
+    "Statblocks/Vampire.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Wyrm Hole.md",
+    "World of Helodaria/Bizook Harty.md",
+    "Templates/Statblock.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Statblocks",
     "World of Helodaria/Republic of Ruina.md",
-    "2023-10-27.md",
-    "Dularen.md",
-    "Session Notes/Session 67 - Through the Labyrinth.md",
-    "Wyrm Hole.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Vasspryg.md",
-    "Bizook Harty.md",
-    "Tiffany Axe.md",
-    "Fork.md",
-    "World of Helodaria/Kenifria.md",
-    "Gizelda.md",
-    "The Faces.md",
-    "Bogbog.md",
-    "Kye.md",
-    "Tiwrath the Blue.md",
-    "Mira.md",
     "World of Helodaria/Eranulaid.md",
-    "Jorric.md",
-    "Martin Proushe.md",
-    "Lawbearer Ludleth.md",
-    "High Priestess Bailey.md",
-    "Valfite.md",
-    "Eluhou.md",
+    "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Kenifria.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "Templates/PC.md",
+    "2023-10-27.md",
+    "Session Notes/Session 67 - Through the Labyrinth.md",
+    "World of Helodaria/Vasspryg.md",
+    "World of Helodaria/Tiffany Axe.md",
+    "World of Helodaria/Fork.md",
+    "World of Helodaria/Gizelda.md",
+    "World of Helodaria/The Faces.md",
+    "World of Helodaria/Bogbog.md",
+    "World of Helodaria/Kye.md",
+    "World of Helodaria/Tiwrath the Blue.md",
+    "World of Helodaria/Mira.md",
     "Items",
     "Session Notes",
     "Templates",

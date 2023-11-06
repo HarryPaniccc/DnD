@@ -1,0 +1,3 @@
+```statblock
+monster: Vampire
+```

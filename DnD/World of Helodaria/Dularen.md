@@ -9,3 +9,5 @@ tags:
 # Notable Characters
 
 # Locations
+
+[[Castle Anavar]], home to [[House Vanariel]] 

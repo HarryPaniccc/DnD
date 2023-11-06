@@ -2,4 +2,4 @@
 tags: Character
 ---
 #TODO 
-Canonically has had sex with [[Rylai]]
+Canonically has had sex with [[Rylai Sweetsong]]

@@ -449,23 +449,16 @@ NPCs
 
 ## Dularen
 #TODO 
-The centre of the empire, geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the ashen legion holds a fortress for training, the high temple of pantheons holds entire districts for worship, and the empirical arcanists have a large records library within the centre of the city. Every trading guild works hard to keep their hold within dularen.
-
-  
+The centre of the empire, geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the ashen legion holds a fortress for training, the high temple of pantheons holds entire districts for worship, and the empirical arcanists have a large records library within the centre of the city. Every trading guild works hard to keep their hold within Dularen.
 
 The city is not only a centre for the wealthy but also a utopia for thieves. All kinds of shady businesses are run by the various gangs. 
 
-  
-
 On every street, a bar, every district a brothel, Dularen seeks to offer services for the less wealthy too.
 
-  
 
-Districts
+### Districts
 
 The large city has to be divided into districts, otherwise there would be no order or getting around the place. The districts are as follows: the Warrens, upper and lower, the Silver-Sewn Quarter, the Outer-City fields, the Adulation District and the Blooming Run (or the Bloom for short)
-
-  
 
 The Outer-City fields is the name of the region south of the city. The richest of families and clans live in this farmland area, dotted with villas and fortresses and many of the more rich farms, such as grapevines and crops used in the liquor industry, as well as smaller food farms tended to by servants in order to keep the nobles independently fed. It is somewhat more dangerous to live outside of the city limits, however, and those who are unable to privately fund a defensive garrison usually are in danger of being robbed by highwaymen.
 

@@ -11,7 +11,7 @@
       "query": "tag: Core",
       "color": {
         "a": 1,
-        "rgb": 12881633
+        "rgb": 2303
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 201,
-  "scale": 0.1328043414558553,
+  "scale": 0.27229554996148353,
   "close": false
 }
