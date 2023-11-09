@@ -464,10 +464,9 @@ The Outer-City fields is the name of the region south of the city. The richest o
 
   
 
-Locations found at the Outer-City fields:
+### Locations found at the Outer-City fields:
 
 - Gundrei Manor is a large structure surrounded by a fortified wall that is well manned with the [Gundrei family’s](https://docs.google.com/document/d/12Q-K-YXxsv5JPoc_l5m-Eg1pzObZF0RHYu0AFOstwo8/edit#bookmark=id.p379bu3n8vuf) personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. The area inside the walls consists of:
-    
 
 - A temple to Tyr
     
@@ -509,39 +508,23 @@ The Adulation District is the district devoted solely to worship of the Gods, th
 
 Locations found in the Adulation District
 
-- The Grave Nest is both a graveyard and a place of worship to the followers of the Raven Queen. The area is approximately 75 hectares surrounded by well kept metal and stone fences and gates, the main gate about double the size of the smaller ones. There are a total of 5 temple-structures within the Nest, the largest of which acting as a central worshiping location. The location is dotted with trees and a great variance in grave sizes and level of affluence. There are stone benches, small shrines and pathways throughout the entire area.
-    
+- The [[Grave Nest]] is both a graveyard and a place of worship to the followers of the Raven Queen. The area is approximately 75 hectares surrounded by well kept metal and stone fences and gates, the main gate about double the size of the smaller ones. There are a total of 5 temple-structures within the Nest, the largest of which acting as a central worshiping location. The location is dotted with trees and a great variance in grave sizes and level of affluence. There are stone benches, small shrines and pathways throughout the entire area.
 
-- There are a few historical records of the Shadowfell and death in the larger, more central of the 5 temples. Below this is also Catacombs where some of the more prominent families of Dularen are buried.
-    
-- The head Cleric of the Temples is the High Walker Lorgar Thell
-    
-- The area within the Grave Nest is usually darker or slightly more overcast than the rest of the city. Usually, ravens can be found roosting in the trees of the area.
-    
-- Priests and Clerics of the Raven Queen wander the area, offering prayer and comfort to those who are grieving their loved ones. One such cleric is Veylan Glovir, a human cleric of the Raven queen.
-    
-- The five temples each have a use. 
-    
+	- There are a few historical records of the Shadowfell and death in the larger, more central of the 5 temples. Below this is also Catacombs where some of the more prominent families of Dularen are buried.
+	- The head Cleric of the Temples is the High Walker Lorgar Thell
+	- The area within the Grave Nest is usually darker or slightly more overcast than the rest of the city. Usually, ravens can be found roosting in the trees of the area.
+	- Priests and Clerics of the Raven Queen wander the area, offering prayer and comfort to those who are grieving their loved ones. One such cleric is Veylan Glovir, a human cleric of the Raven queen.
+#### The five temples each have a use. 
+- The **central** one is used for the majority of the various services that the worship provides, places of embalming and candle making and scribing. This is also where the most prestigious of tombs are found in the Grave Nest, often nobles come to pray or meditate in their family tombs.
+- The **north most** of the western temples acts as a living space for the members of the order. There is a dining room, a collection of bath houses, as well as burial chambers for some of the members of the order.
+- The **south most** of the western temples is a place of worship and is at the center of a large graveyard.
+- The **eastmost** of the temples is a small place where memorial and funeral services are held.
+- The **second most easterly** of the temples is the largest of the temples and the center of communion and worship for the raven queen. This is the most gothic cathedral-like of all of the structures in the area. Dark hallways, stained glass, and many candles lit around the entire location. Deep in the basement, around the same level as the under-crypt where Kara’s soul was being held, in a chamber roughly 70ft tall, there stands a statue of the Raven Queen that protrudes from a pool of dark water roughly 20ft square. This pool is used to commune with the Raven Queen. By entering the water, a numb feeling extends around someone that can be resisted. By succumbing to this numbness, one can induce a form of undeath while in the pool, and can commune with the Raven Queen.
 
-- The central one is used for the majority of the various services that the worship provides, places of embalming and candle making and scribing. This is also where the most prestigious of tombs are found in the Grave Nest, often nobles come to pray or meditate in their family tombs.
+- The **Spire of Radiance** is an incredibly tall, prism-like structure that is a temple dedicated to Lathander, the Lord of Radiance. Its height penetrates the skyline of Dularen, easily being the tallest structure in the city. Its base is a sturdy, light grey rock structure with stained glass windows of light, warm colours.
     
-- The north most of the western temples acts as a living space for the members of the order. There is a dining room, a collection of bath houses, as well as burial chambers for some of the members of the order.
-    
-- The south most of the western temples is a place of worship and is at the center of a large graveyard.
-    
-- The eastmost of the temples is a small place where memorial and funeral services are held.
-    
-- The second most easterly of the temples is the largest of the temples and the center of communion and worship for the raven queen. This is the most gothic cathedral-like of all of the structures in the area. Dark hallways, stained glass, and many candles lit around the entire location. Deep in the basement, around the same level as the undercrypt where Kara’s soul was being held, in a chamber roughly 70ft tall, there stands a statue of the Raven Queen that protrudes from a pool of dark water roughly 20ft square. This pool is used to commune with the Raven Queen. By entering the water, a numb feeling extends around someone that can be resisted. By succumbing to this numbness, one can induce a form of undeath while in the pool, and can commune with the Raven Queen.
-    
+- The Great [[Dularen Heart-Kiln]] is a wide based structure with banners depicting Moradin flowing around it in the wind. Decorated with elements of deep red and gold. There is a mighty forge at the center of this temple in the lower levels, but it pales in comparison to its sister in Mountreach. Nevertheless weapons and armour adorn the walls, as well as the great anvil in the center of the communal room being used to forge weapons and crafts ceremoniously. It is a spiritual place of dwarvish and communal strength. One of three Heart-Kilns in Ruina.
 
-- The Spire of Radiance is an incredibly tall, prism-like structure that is a temple dedicated to Lathander, the Lord of Radiance. Its height penetrates the skyline of Dularen, easily being the tallest structure in the city. Its base is a sturdy, light grey rock structure with stained glass windows of light, warm colours.
-    
-- The Great Heart-Kiln is a wide based structure with banners depicting Moradin flowing around it in the wind. Decorated with elements of deep red and gold. There is a mighty forge at the center of this temple in the lower levels, but it pales in comparison to its sister in Mountreach. Nevertheless weapons and armour adorn the walls, as well as the great anvil in the center of the communal room being used to forge weapons and crafts ceremoniously. It is a spiritual place of dwarvish and communal strength. One of three in Ruina.
-    
--   
-    
-
-  
 
 The Blooming Run takes up the most amount of space of the districts. It houses the center of trade, the majority of the guard force of the city, and many of the lower-middle to high-middle class citizens of Dularen. Much of the trade that passes through Dularen is done in this district, specifically in the Peddle.
 

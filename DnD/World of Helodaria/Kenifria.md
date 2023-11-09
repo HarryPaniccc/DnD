@@ -1,4 +1,4 @@
-Kenifria is the birthplace of the Einzberns, a lost temple to [[Lathander]] where the [[Einzberns]] were created by [[Siegfried Einzbern]].
+Kenifria is the birthplace of the Einzberns, a lost temple to [[Lathander]] where the [[Einzberns]] were created by [[Siegfried Einzbern]]. 
 ![[Einzberns#THE FOUNDING EINZBERNS]]
 # Dungeon Layout
 #### 1. Entrance Courtyard/Bridge
@@ -96,10 +96,11 @@ A wide study space, with tables covered in open books and various arcane looking
 - **Arcane table corner**. There is a spell crafting corner with a table with various arcane runes and sigils carved into it. There is still latent magics present in the table, and by using a 3rd level spell slot, a spellcaster can cast *scrying* using the table for free. The table loses its magic after that.
 - **Lectern**: A shadowy mist pours from the book on the lectern. Once someone approaches, the book will fling open and the ink of the pages will fly out and animate into an **Allip**. Once defeated, the book will become legible again.
 ##### **Book**. The book is a spell tome containing the following spells:
-	- Soul Cage (6th necromancy)
-	- Banishment
-	- Planar Binding
-	- Magic Circle
+- Soul Cage (6th necromancy)
+- Banishment
+- Planar Binding
+- Magic Circle
+
 as well as various rune work and symbols. The development of the Einzbern brand is here too. The book contains information on **The Urd Tree** as well as a solar map of the feywild. Information on the [[Einzberns|Einzbern]] curse is rich in here.
 
 ##### Vision

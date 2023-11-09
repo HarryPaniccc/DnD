@@ -12,4 +12,4 @@ The founding Einzberns are as follows:
 - Syr [[Lorian Foltran]]. Short black hair and moustached human with serious tone. Strong and certain in his mannerisms
 - Syr [[Tristan Renwillow]]. Golden locks and a light build wearing an ornate breastplate and a blade at his side. Happy but also serious when the time calls for it.
 - Syr [[Jerrit Marlow]]. Dwarf of maul-wielding stature. He has extremely long black hair and a very well adorned beard. He has a tired air about how he speaks.
-- Syr [[Siegfried Einzbern]]. Short, tamed hair. Middle age. Longsword at his back and armoured pauldrons atop hard leather fittings and chainmail and metal. His right pauldron is adorned with a wolf’s head insignia. He has a greatsword on his back.
+- Syr [[Siegfried Einzbern]]. Short, tamed hair. Middle age. Longsword at his back and armoured pauldrons atop hard leather fittings and chainmail and metal. His right pauldron is adorned with a wolf’s head insignia. He often also uses a maul in combat.
