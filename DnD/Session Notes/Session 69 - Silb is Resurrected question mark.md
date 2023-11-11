@@ -9,7 +9,7 @@
 > 
 > The blood and death energy mixing with that of the arcane power you are conjuring forth to complete the teleportation ritual, the gem chalk partially turned to a paste with the murky, almost greenish goblin blood, you feel avenues of conjuration magic that have never been open to you before because of this axis of concentration you find yourself in.
 
-If Skye decides to focus in on this darkness
+If Skye decides to focus in on this darkness #TODO 
 
 ### [[Dularen]]
 The vanguard are looking to teleport into the Hall of Verdicts. Ruina should be around 2 to 3 hours ahead of the [[Kingdom of Sirkonos]]. 

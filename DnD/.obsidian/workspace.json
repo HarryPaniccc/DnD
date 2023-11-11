@@ -97,9 +97,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08e4391d87c5ae7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105d674a87ea35f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 69 - Silb is Resurrected question mark.md",
+                "file": "General Notes and Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 69 - Silb is Resurrected question mark.md",
+                "file": "General Notes and Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 69 - Silb is Resurrected question mark.md"
+                "file": "General Notes and Ideas.md"
               }
             }
           },
@@ -267,22 +291,26 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "ec2971d6319b91d0",
+  "active": "08e4391d87c5ae7a",
   "lastOpenFiles": [
+    "Vanguard Campaign Journal.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Session 69 - Silb is Resurrected question mark.md",
+    "Items/Daybreakers.md",
+    "World of Helodaria/Dularen.md",
+    "Items/Dawnmail.md",
+    "Items/Howl.md",
     "World of Helodaria/Grave Nest.md",
     "World of Helodaria/Brindor Shieldwall.md",
-    "Session Notes/Session 69 - Silb is Resurrected question mark.md",
     "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
     "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Kenifria.md",
-    "World of Helodaria/Dularen.md",
     "World of Helodaria/Wyrm Hole.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Bizook Harty.md",
     "Templates/Statblock.md",
     "Items/Mace of Disruption.md",
-    "Items/Howl.md",
     "Statblocks/Adult White Dragon.md",
     "Statblocks/Vampire.md",
     "World of Helodaria/Isilme Vanariel.md",
@@ -292,10 +320,6 @@
     "World of Helodaria/Rylai Sweetsong.md",
     "Templates/PC.md",
     "2023-10-27.md",
-    "Session Notes/Session 67 - Through the Labyrinth.md",
-    "World of Helodaria/Vasspryg.md",
-    "World of Helodaria/Tiffany Axe.md",
-    "World of Helodaria/Fork.md",
     "Items",
     "Session Notes",
     "Templates",
