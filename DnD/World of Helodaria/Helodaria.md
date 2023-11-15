@@ -35,7 +35,7 @@ The Helodarian Calendar is one that is derived from a North-Zitrumean Elvish Cal
 |Danudrei|29|Winter’s Valley (7th)|
 ## Holidays
 ### The Dawn Solstice
-The holy day of [[Lathander]] celebrates community and life. #TODO add to lathanders block
+The holy day of [[Lathander]] celebrates community and life. #TODO add to Lathander's block
 ### Tharanuhel Festival
 An elvish festival that celebrates expression and is the holy day of the [[Sehanine]], the Moon Heart. #TODO add to Sehanine's block
 ### Days of Awakening and First Scribe

@@ -15,12 +15,20 @@ tags:
 		- [ ] Skye
 		- [ ] Adhara?
 	- [ ] Session notes archive
-- [ ] Design
+- [ ] Zakuul motivations
+- [ ] Sirkon motivations
+# Scratch Notes
+- City of the Glass Moon?
 # Vorciln Sirkonos
 - [[Lucius]] wants to use the [[Vessel of Avarice]] to break [[Athelstan]] out of his bindings and 
 - Final battle will have the chalice ritual be interruptible
+- I think the chalice should act as a creature
 # Zakuul
 - Temple of elemental evil?
 - Goals are?
+# Ulrandir
+Loyalists. Maybe he wants to ally with the Drow to attack Ruina?
+
+
 # Sirkon
 - Slowly charging a ritual

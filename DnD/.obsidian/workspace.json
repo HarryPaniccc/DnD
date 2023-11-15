@@ -4,21 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "af3f981ec9721184",
+        "id": "b89d4c1ce4a5f3f4",
         "type": "tabs",
         "children": [
-          {
-            "id": "128e93b0ac3ff176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Eranulaid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "ab7597a7b8796c12",
             "type": "leaf",
@@ -32,7 +20,7 @@
             }
           },
           {
-            "id": "c8bc78e1eb1c38aa",
+            "id": "e27faa83f4d3cea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +32,19 @@
             }
           },
           {
-            "id": "887e800bd6f43ac0",
+            "id": "a655a026ad1dbbfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cba3c25f15f4ab5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,74 +56,31 @@
             }
           },
           {
-            "id": "2a66095a248691f4",
+            "id": "b7ae732ad3acdcf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
+                "file": "Session Notes/Session 69 - Some Other Time.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2f5053d992edc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 70 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "b89d4c1ce4a5f3f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "53846e5be8ddf43c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dularen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec2971d6319b91d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 69 - Silb is Resurrected question mark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08e4391d87c5ae7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "105d674a87ea35f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,8 +147,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes and Ideas.md",
-                "collapseAll": false,
+                "file": "World of Helodaria/Kenifria.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -207,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "World of Helodaria/Kenifria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes and Ideas.md"
+                "file": "World of Helodaria/Kenifria.md"
               }
             }
           },
@@ -242,34 +199,6 @@
               "state": {
                 "sortOrder": "frequency"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "65fc94ca9cd2f4b6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e8ba3b306fbafae5",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "4cb981a04804151d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7217218f42703ac9",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
             }
           }
         ]
@@ -291,35 +220,35 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "08e4391d87c5ae7a",
+  "active": "e27faa83f4d3cea1",
   "lastOpenFiles": [
-    "Vanguard Campaign Journal.md",
-    "General Notes and Ideas.md",
-    "Session Notes/Session 69 - Silb is Resurrected question mark.md",
-    "Items/Daybreakers.md",
-    "World of Helodaria/Dularen.md",
-    "Items/Dawnmail.md",
+    "Templates/Item template.md",
+    "Session Notes/Session 70 -.md",
     "Items/Howl.md",
-    "World of Helodaria/Grave Nest.md",
-    "World of Helodaria/Brindor Shieldwall.md",
-    "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Kenifria.md",
-    "World of Helodaria/Wyrm Hole.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Bizook Harty.md",
-    "Templates/Statblock.md",
-    "Items/Mace of Disruption.md",
+    "Session Notes/Session 69 - Some Other Time.md",
+    "World of Helodaria/Gods of Helodaria.md",
+    "Statblocks/Fire Elemental Myrmidon.md",
     "Statblocks/Adult White Dragon.md",
-    "Statblocks/Vampire.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "Statblocks",
     "World of Helodaria/Helodaria.md",
+    "Vanguard Campaign Journal.md",
+    "Templates/Session Notes Template.md",
+    "Session 69 Summary.md",
+    "World of Helodaria/Einzberns.md",
+    "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "Templates/PC.md",
-    "2023-10-27.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Brindor Shieldwall.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Items/Dawnmail.md",
+    "Items/Mace of Disruption.md",
+    "Items/Medallion of Intuition.md",
+    "Items/Gem of Brightness.md",
+    "Items/Boon of Aerondite.md",
+    "Items/Daybreakers.md",
+    "World of Helodaria/Grave Nest.md",
+    "Statblocks",
     "Items",
     "Session Notes",
     "Templates",
