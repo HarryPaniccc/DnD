@@ -78,9 +78,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc3ef3ff0e12fd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
+      },
+      {
+        "id": "5e5b27ae32738011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac5956a8f6e78a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Vampire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -147,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Kenifria.md",
+                "file": "World of Helodaria/Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Kenifria.md",
+                "file": "World of Helodaria/Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Kenifria.md"
+                "file": "World of Helodaria/Lucius.md"
               }
             }
           },
@@ -220,12 +249,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e27faa83f4d3cea1",
+  "active": "cc3ef3ff0e12fd53",
   "lastOpenFiles": [
+    "Statblocks/Vampire.md",
+    "World of Helodaria/Lucius.md",
+    "Items/Anathema.md",
+    "Untitled.md",
+    "World of Helodaria/Kenifria.md",
     "Templates/Item template.md",
     "Session Notes/Session 70 -.md",
     "Items/Howl.md",
-    "World of Helodaria/Kenifria.md",
     "Session Notes/Session 69 - Some Other Time.md",
     "World of Helodaria/Gods of Helodaria.md",
     "Statblocks/Fire Elemental Myrmidon.md",
@@ -244,10 +277,6 @@
     "Items/Dawnmail.md",
     "Items/Mace of Disruption.md",
     "Items/Medallion of Intuition.md",
-    "Items/Gem of Brightness.md",
-    "Items/Boon of Aerondite.md",
-    "Items/Daybreakers.md",
-    "World of Helodaria/Grave Nest.md",
     "Statblocks",
     "Items",
     "Session Notes",
