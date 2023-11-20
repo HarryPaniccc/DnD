@@ -99,7 +99,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac5956a8f6e78a47",
+            "id": "ac4f10133ef7fc36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",

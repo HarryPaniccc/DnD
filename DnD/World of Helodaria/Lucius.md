@@ -60,8 +60,8 @@ Theme: Brawler. Efficient and brutal. He needs to be a force you avoid on the ba
 #### ACTION ORIENTED DESIGN
 #### Actions:
 **Multiattack**: Make two fire-empowered strikes that splash fire damage in an area.
-**Hurl Through Hell**: On hit, hurl the target through a portal into hell.
-**Wrath strike**: Cone thunder punch 
+**Hurl Through Hell**: On hit, hurl the target through a portal into hell (1/day) 10d10 psychic damage
+**Wrath strike**: Cone thunder punch (Sett)
 #### Bonus Actions:
 **Ignite fists**: Spellblade, procs the aoe fire damage on his fists like a smite.
 
