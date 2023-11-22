@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Statblocks/Vampire.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Statblocks/Vampire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Lucius.md"
+                "file": "Statblocks/Vampire.md"
               }
             }
           },
@@ -262,10 +262,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "cc3ef3ff0e12fd53",
+  "active": "ac4f10133ef7fc36",
   "lastOpenFiles": [
-    "Items/Cloak of Terror.md",
     "World of Helodaria/Lucius.md",
+    "Items/Cloak of Terror.md",
     "Statblocks/Fire Elemental Myrmidon.md",
     "Session Notes/Session 70 -.md",
     "Statblocks/Vampire.md",

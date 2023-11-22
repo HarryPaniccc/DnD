@@ -13,7 +13,7 @@ alignment: Lawful Evil
 ac: 20
 hp: 286 (22d8 + 110)
 stats: [20,18,20,19,15,18]
-cr: 17
+cr: 20
 saves:
   - Dexterity: +10
   - Wisdom: +8
@@ -69,7 +69,6 @@ legendary_actions:
   - name: Wrathflight (Costs 2 Actions)
     desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 5 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
 ```
-
 
 ## Planning
 Theme: Brawler. Efficient and brutal. He needs to be a force you avoid on the battle field. You have to hold his ass down. AOE fire attacks?
