@@ -131,7 +131,7 @@ If Aerondite's shield and sword are returned to her grasp, her body will animate
 
 - If Aerondite attacks, her weapons will fly into her hands and she will slam her shield into the ground, turning parts of the center of the cathedral to lava about 3 feet deep
 
-- The lava, if fallen into, deals very *10d10 fire damage*
+- The lava, if fallen into, deals *10d10 fire damage*
 
 > "NO! You have come to plunder and desecrate my home! LET ME SHOW YOU WHY HERETICS FEAR THE DAWN."
 
@@ -145,16 +145,34 @@ If Aerondite is killed, her stone body will fall and her true spirit form will r
 - He looks to Lathran
 #### 10. Bathing Pool
 - Rejuvenating water flows through this bathing pool. Taking 10 minutes to soothe oneself in the water while nude *restores 2 expended hit dice*
-- A character that acts hostile to the area
+- A character that acts hostile to the area might summon a **water weird** to start drowning them
 #### 11. Entrance to Prison Wing
 #### 12. Hallway
 Corruption from the feywild grows more present heading in this direction.
 #### 13. Workshop
 Tables with various construction implements decorate this room, all of which are covered in a thick layer of dust and cobwebs, to the point that breathing in here is even slightly more strenuous. Implements of craft lay scattered around this ancient workshop. A single door on the opposite side of the room lies closed.
+
+*There is a button hidden behind a bookshelf*. This is noticeable by
+- Scraping marks below the shelf
+- The shelf is noticeably not flush with the wall
+- The entire area is somewhat cluttered except in front of the bookshelf
+
+**Loot**:
+- Rusted cylinder that can be crafted into a repeating crossbow
+- The rest of the area's items are degraded by age
 #### 14. Scribing Room
 This room is filled with 8 lecterns, some with long destroyed ink still in their holders, others with half-scribed books, long ruined by the ages. There is thick dust and even thicker cobwebs lining the walls.
+
+- Unfinished tomes that have just the exposed page barely readable, but the rest of the book is simply too old to gain any value from
+- There is a button clearly visible on the northmost wall that is identical to the button in the *Workshop*
 #### 14. Prison Antechamber
-On the south side of this large chamber there is a collapsed pathway that would have lead to another wing of Kenifria, and what would have been the main entrance for the prison further in. A pair of great iron doors held shut prevent further traversal into the prison wing
+On the south side of this large chamber there is a collapsed pathway that would have lead to another wing of Kenifria, and what would have been the main entrance for the prison further in. A pair of great iron doors held shut prevent further traversal into the prison wing.
+
+*Activating both buttons simultaneously will open the doors*. Once the doors open, a **Demonfeed spider** will jump through the doors and attack whoever is closest with its web spinner attack.
+
+**ENCOUNTER:** Demonfeed spider
+#### 17. Prison
+
 #### 16. Corpse Flower Garden
 There are three braziers around the area with burning fires in them, remaining after the ages. The area has signs of garden-like growth, as well as a few graves on the ground.
 
@@ -170,11 +188,14 @@ The beautifully crafted chest behind the corpse flower contains:
 - Two vials of *holy water*
 - A *superior healing potion*
 #### 18. Ruined Armory
-This armory is broken into three chambers, all holding piles of ransacked
+This armoury is broken into three chambers, all holding piles of ransacked and degraded armor and weapons.
 ##### Loot:
 - [[Mace of Disruption]]
 - Ruined Art Pieces
-- Armors that have fallen to rust and age
+	- A 250Gp large gold bracelet
+	- A 250Gp golden ring with a beautiful candlestone embedded as a gem
+	- A 100Gp bronze chalice with golden filigree
+- Armours that have fallen to rust and age
 - *Aerondite's golden sword*
 - *Arrow of fog cloud*
 - +1 longsword

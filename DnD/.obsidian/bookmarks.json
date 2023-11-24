@@ -36,6 +36,53 @@
         }
       ],
       "title": "Tabs for data import"
+    },
+    {
+      "type": "group",
+      "ctime": 1700677013162,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "World of Helodaria/Einzberns.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "World of Helodaria/Kenifria.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "Vanguard Campaign Journal.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "World of Helodaria/Helodaria.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "Session Notes/Session 69 - Some Other Time.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "Statblocks/Fire Elemental Myrmidon.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "World of Helodaria/Lucius.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1700676998089,
+          "path": "Statblocks/Vampire.md"
+        }
+      ],
+      "title": "Tabs for next session"
     }
   ]
 }

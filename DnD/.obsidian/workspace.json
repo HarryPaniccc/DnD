@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b89d4c1ce4a5f3f4",
+        "id": "4df27f0bb8027f73",
         "type": "tabs",
         "children": [
           {
-            "id": "ab7597a7b8796c12",
+            "id": "5b52f3f4c48c0bf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +20,7 @@
             }
           },
           {
-            "id": "e27faa83f4d3cea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kenifria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a655a026ad1dbbfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cba3c25f15f4ab5f",
+            "id": "822f126e0cfc68eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +32,43 @@
             }
           },
           {
-            "id": "b7ae732ad3acdcf1",
+            "id": "c665a2b8088c66bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 69 - Some Other Time.md",
+                "file": "Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2f5053d992edc7b",
+            "id": "87d3865f74d2972c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kenifria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2696be3e1b94f562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 70 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a750c474b5dabab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "cc3ef3ff0e12fd53",
+            "id": "4eecb7252a2c6632",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,16 +90,9 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "5e5b27ae32738011",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "ac4f10133ef7fc36",
+            "id": "8347b83e5e750b8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,20 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "df86cd8379dfab11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Adult White Dragon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 261,
     "collapsed": true
   },
   "right": {
@@ -182,6 +164,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 38.07692307692307,
         "children": [
           {
             "id": "b3c79ccde858898a",
@@ -189,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statblocks/Vampire.md",
+                "file": "World of Helodaria/Kenifria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statblocks/Vampire.md",
+                "file": "World of Helodaria/Kenifria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statblocks/Vampire.md"
+                "file": "World of Helodaria/Kenifria.md"
               }
             }
           },
@@ -241,6 +224,21 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea0222b9ce38c0c9",
+        "type": "tabs",
+        "dimension": 61.92307692307693,
+        "children": [
+          {
+            "id": "44a9b511c8831103",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
             }
           }
         ]
@@ -262,34 +260,34 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "ac4f10133ef7fc36",
+  "active": "87d3865f74d2972c",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
-    "Items/Cloak of Terror.md",
-    "Statblocks/Fire Elemental Myrmidon.md",
     "Session Notes/Session 70 -.md",
+    "Statblocks/Fire Elemental Myrmidon.md",
+    "Goblin.md",
+    "Vanguard Campaign Journal.md",
+    "World of Helodaria/Lucius.md",
     "Statblocks/Vampire.md",
+    "Statblocks/Basilisk.md",
+    "Session Notes/Session 69 - Some Other Time.md",
+    "World of Helodaria/Kenifria.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Dularen.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "World of Helodaria/Eranulaid.md",
+    "Items/Cloak of Terror.md",
     "Statblocks/Adult White Dragon.md",
     "Items/Anathema.md",
-    "Untitled.md",
-    "World of Helodaria/Kenifria.md",
     "Templates/Item template.md",
     "Items/Howl.md",
-    "Session Notes/Session 69 - Some Other Time.md",
     "World of Helodaria/Gods of Helodaria.md",
-    "World of Helodaria/Helodaria.md",
-    "Vanguard Campaign Journal.md",
     "Templates/Session Notes Template.md",
     "Session 69 Summary.md",
-    "World of Helodaria/Einzberns.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Dularen.md",
     "World of Helodaria/Brindor Shieldwall.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "Items/Dawnmail.md",
-    "Items/Mace of Disruption.md",
     "Statblocks",
     "Items",
     "Session Notes",

@@ -95,7 +95,7 @@ On initiative count 20. They happen in order like villainous actions.
 - Cast wall of fire surrounding itself. Concentration is held by Lucius
 - Choose a point in the lair. Any creature in an area within 20ft. from that point gains vulnerability to fire damage while in the area.
 - 
-#### Magic Items
+#### Magic Items #TODO 
 - [[Cloak of Terror]]
 #### Spells
 - [Shadow of Moil](https://5e.tools/spells.html#shadow%20of%20moil_xge)

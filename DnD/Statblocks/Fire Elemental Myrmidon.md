@@ -32,7 +32,7 @@ actions:
 # Kenifria Variant
 ```statblock
 creature: Fire Elemental Myrmidon
-name: Kenifrian Elemental MYrmidon
+name: Kenifrian Elemental Myrmidon
 traits+:
   - name: Fire Shield
     desc: When bloodied (HP<61), deal 2d8 fire damage to anyone who deals melee damage in 5ft
