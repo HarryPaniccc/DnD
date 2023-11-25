@@ -203,8 +203,8 @@ This armoury is broken into three chambers, all holding piles of ransacked and d
 
 #### 19. Portcullis Lever Area
 #### 20. Hound Master's Crypt
-
 #### 21. Crypt Fountain
+**Nito**, hound of Sigfried, will visit as a spirit
 
 ### Loot
 - [ ] [[Dawnmail]] (Area 15)

@@ -30,6 +30,7 @@ actions:
 
 
 # Kenifria Variant
+123 HP
 ```statblock
 creature: Fire Elemental Myrmidon
 name: Kenifrian Elemental Myrmidon

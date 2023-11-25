@@ -13,10 +13,12 @@ A goblin scouting party searches the region for whoever caused the commotion in 
 
 - The hobgoblin captain has on him a *potion of invulnerability* and a *potion of superior healing*. He will use either if he needs to to survive.
 # Kenifria
-![[Kenifria]]
+![[Kenifria#Dungeon Layout]]
 
 # Statblocks
 ![[Fire Elemental Myrmidon#Kenifria Variant]]
+
+![[Aerondite#Statblock (Maddened)]]
 
 ![[Basilisk]]
 ![[Goblin]]

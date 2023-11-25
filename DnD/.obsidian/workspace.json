@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "eeaa7ef18ef49028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aerondite.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2696be3e1b94f562",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 38.07692307692307,
         "children": [
           {
             "id": "b3c79ccde858898a",
@@ -172,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Kenifria.md",
+                "file": "Session Notes/Session 70 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Kenifria.md",
+                "file": "Session Notes/Session 70 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Kenifria.md"
+                "file": "Session Notes/Session 70 -.md"
               }
             }
           },
@@ -224,21 +235,6 @@
               "state": {
                 "sortOrder": "frequency"
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ea0222b9ce38c0c9",
-        "type": "tabs",
-        "dimension": 61.92307692307693,
-        "children": [
-          {
-            "id": "44a9b511c8831103",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
             }
           }
         ]
@@ -260,17 +256,20 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "87d3865f74d2972c",
+  "active": "2696be3e1b94f562",
   "lastOpenFiles": [
-    "Session Notes/Session 70 -.md",
     "Statblocks/Fire Elemental Myrmidon.md",
+    "Session Notes/Session 70 -.md",
+    "Aerondite.md",
+    "World of Helodaria/Kenifria.md",
+    "Planetar.md",
+    "Deva.md",
     "Goblin.md",
     "Vanguard Campaign Journal.md",
     "World of Helodaria/Lucius.md",
     "Statblocks/Vampire.md",
     "Statblocks/Basilisk.md",
     "Session Notes/Session 69 - Some Other Time.md",
-    "World of Helodaria/Kenifria.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Dularen.md",
@@ -285,9 +284,6 @@
     "World of Helodaria/Gods of Helodaria.md",
     "Templates/Session Notes Template.md",
     "Session 69 Summary.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Brindor Shieldwall.md",
     "Statblocks",
     "Items",
     "Session Notes",
