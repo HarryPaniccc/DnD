@@ -110,7 +110,7 @@ Syr [[Lathran Murke]] (Black wizard) and Syr [[Lorian Foltran]] will discuss the
 #### 9. Cathedral
 A vast cathedral chamber, lit gently by fungal and crystal light. The once-tiled floor is cracked open with roots and crystals. The beautiful masonry of the structure has eroded incredibly over time, parts of ceiling have caved in, and some of the wall's facades have collapsed.
 ##### Statue
-Saint [[Aerondite]], imprisoned in statue form, is on display in the hallway, missing her golden shield and golden sword. **Restoring the sword and shield to her is the only way to have her reanimate.** The statue has crack-like tears streaming down her face.
+Saint [[Aerondite]], imprisoned in statue form, is on display in the hallway, missing her golden shield and golden sword. **Restoring the sword and shield to her is the only way to have her reanimate.** The statue has crack-like tears streaming down her face. 
 
 Aerondite is the sworn defender of Kenifria, but in the ages since her oath was taken, and after Sigfried succumbed to vampirism, her vision of duty would have failed. She has succumbed to a small degree of madness.
 

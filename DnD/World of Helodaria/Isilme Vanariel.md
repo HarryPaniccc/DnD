@@ -33,3 +33,4 @@ Isilme was raised in the ranks of the guards, her mother was unable to either pa
 ---
 - [[Ulrandir Vanariel]], Isilme's grandfather and former member of the [[Uldronos Council]].
 - [[Minra Vanariel]], Isilme's mother.
+- [[Sabien]], Isilme's Half-Orc owner of the Red Dagger Tavern in [[Dularen]]

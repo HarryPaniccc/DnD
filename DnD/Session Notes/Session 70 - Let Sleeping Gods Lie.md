@@ -23,4 +23,5 @@ A goblin scouting party searches the region for whoever caused the commotion in 
 ![[Basilisk]]
 ![[Goblin]]
 
-##### Session *Number and Title* Summary
+##### Session 70 - Let Sleeping Gods Lie Summary
+**Banahras 1st**
