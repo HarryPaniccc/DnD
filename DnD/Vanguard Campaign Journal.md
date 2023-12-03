@@ -12,3 +12,4 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 
 [[Session 68 - The Birthplace of the Einzberns]]
 ![[Session 69 - Some Other Time#Session 69 - Some Other Time Summary]]
+![[Session 70 - Let Sleeping Gods Lie#Session 70 - Let Sleeping Gods Lie Summary]]

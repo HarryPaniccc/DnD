@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4df27f0bb8027f73",
+        "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5b52f3f4c48c0bf1",
+            "id": "0e4178dc9c921dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "822f126e0cfc68eb",
+            "id": "aa5881853e72412d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "c665a2b8088c66bd",
+            "id": "601d172d4477e909",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "87d3865f74d2972c",
+            "id": "3858e2d771823fcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "eeaa7ef18ef49028",
+            "id": "f9f80d3d4da9bd82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,16 +66,9 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "fe59b0832f2de737",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5a750c474b5dabab",
+            "id": "c9ef5bccaaacc9c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,8 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb1a4cefd9a91306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 71 - Day Breaks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5076409701ade9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Daybreakers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a30c270719fb5053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,13 +162,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -154,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
+                "file": "Session Notes/Session 71 - Day Breaks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
+                "file": "Session Notes/Session 71 - Day Breaks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 70 - Let Sleeping Gods Lie.md"
+                "file": "Session Notes/Session 71 - Day Breaks.md"
               }
             }
           },
@@ -212,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477,
+    "width": 426,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,15 +255,27 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "5a750c474b5dabab",
+  "active": "cb1a4cefd9a91306",
   "lastOpenFiles": [
-    "Session Notes/Session 69 - Some Other Time.md",
+    "Items/Daybreakers.md",
+    "Junk.md",
+    "Session Notes/Session 71 - Day Breaks.md",
+    "Items/Dawnmail.md",
+    "World of Helodaria/Kenifria.md",
+    "Aerondite.md",
     "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
     "Vanguard Campaign Journal.md",
-    "World of Helodaria/Kenifria.md",
     "World of Helodaria/Einzberns.md",
+    "Items/Boon of Aerondite.md",
+    "World of Helodaria/Helodaria.md",
+    "Items/Medallion of Intuition.md",
+    "Items/Howl.md",
+    "Items/Gem of Brightness.md",
+    "Items/Cloak of Terror.md",
+    "Items/Anathema.md",
+    "Items/Blade of Sigfried Einzbern.md",
+    "Session Notes/Session 69 - Some Other Time.md",
     "Ulrandir Vanariel.md",
-    "Aerondite.md",
     "World of Helodaria/Lucius.md",
     "Statblocks/Vampire.md",
     "Statblocks/Fire Elemental Myrmidon.md",
@@ -243,18 +283,6 @@
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Dularen.md",
     "Planetar.md",
-    "Deva.md",
-    "Goblin.md",
-    "Statblocks/Basilisk.md",
-    "World of Helodaria/Helodaria.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "World of Helodaria/Eranulaid.md",
-    "Items/Cloak of Terror.md",
-    "Statblocks/Adult White Dragon.md",
-    "Items/Anathema.md",
-    "Templates/Item template.md",
-    "Items/Howl.md",
     "Statblocks",
     "Items",
     "Session Notes",

@@ -205,12 +205,22 @@ This armoury is broken into three chambers, all holding piles of ransacked and d
 #### 20. Hound Master's Crypt
 #### 21. Crypt Fountain
 **Nito**, hound of Sigfried, will visit as a spirit
+- A chilling mist hangs around this area
+- Entrance to inner sanctum area
+- The door is sealed by statues holding it closed, but with reasonable effort can be opened.
+- Crystals grow outward from the seam as though spreading like veins
+#### Sanctum
+Sigfried awaits, watching a still burning flame
+**Reasons for him to attack**
+- Prove yourself
+- You will take my place
+- You are unworthy of this
 
 ### Loot
-- [ ] [[Dawnmail]] (Area 15)
-- [ ] [[Mace of Disruption]] (Area 18)
+- [x] [[Dawnmail]] (Area 15)
+- [x] [[Mace of Disruption]] (Area 18)
 - [ ] [[Medallion of Intuition]] (Area 3)
-- [ ] [[Blade of Sigfried Einzbern]] (On Sigfried)
+- [ ] [[Anathema]] (On Sigfried)
 - [ ] [[Gem of Brightness]] (Area 6 in the well)
 - [ ] [[Howl]] (Area 1)
 - [ ] [[Boon of Aerondite]] (Area 9)
