@@ -222,6 +222,6 @@ Sigfried awaits, watching a still burning flame
 - [ ] [[Medallion of Intuition]] (Area 3)
 - [ ] [[Anathema]] (On Sigfried)
 - [ ] [[Gem of Brightness]] (Area 6 in the well)
-- [ ] [[Howl]] (Area 1)
-- [ ] [[Boon of Aerondite]] (Area 9)
+- [x] [[Howl]] (Area 1)
+- [x] [[Boon of Aerondite]] (Area 9)
 
