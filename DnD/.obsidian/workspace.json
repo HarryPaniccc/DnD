@@ -61,19 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aerondite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9ef5bccaaacc9c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
+                "file": "World of Helodaria/Aerondite.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,24 +80,36 @@
             }
           },
           {
-            "id": "e5076409701ade9f",
+            "id": "63f8c0192a644d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Daybreakers.md",
+                "file": "Session Notes/Session 72 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "11ab36c323e8564e",
+            "id": "017f07581653ddd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Boon of Aerondite.md",
+                "file": "Items/Anathema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49a7ed767ef33dea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 71 - Day Breaks.md",
+                "file": "Session Notes/Session 72 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 71 - Day Breaks.md",
+                "file": "Session Notes/Session 72 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 71 - Day Breaks.md"
+                "file": "Session Notes/Session 72 -.md"
               }
             }
           },
@@ -256,34 +256,35 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "cb1a4cefd9a91306",
+  "active": "63f8c0192a644d16",
   "lastOpenFiles": [
+    "World of Helodaria/Aerondite.md",
+    "Session Notes/Session 71 - Day Breaks.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "Items/Anathema.md",
+    "Session Notes/Session 72 -.md",
+    "World of Helodaria/Helodaria.md",
+    "Session Notes/Session 66 - The Ethfalian Caverns.md",
+    "Session Notes/Session 67 - Through the Labyrinth.md",
+    "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
+    "Session Notes/Session 69 - Some Other Time.md",
+    "Excalidraw/Drawing 2023-12-09 15.09.37.excalidraw.md",
+    "Excalidraw",
+    "World of Helodaria/Ulrandir Vanariel.md",
+    "Vanguard Campaign Journal.md",
+    "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
+    "Items/Daybreakers.md",
+    "Items/Boon of Aerondite.md",
+    "World of Helodaria/Lathander.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Kenifria.md",
-    "Session Notes/Session 71 - Day Breaks.md",
-    "Items/Daybreakers.md",
     "Items/Howl.md",
     "Junk.md",
-    "Items/Boon of Aerondite.md",
-    "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
-    "Aerondite.md",
     "Items/Dawnmail.md",
-    "Vanguard Campaign Journal.md",
-    "World of Helodaria/Helodaria.md",
     "Items/Medallion of Intuition.md",
     "Items/Gem of Brightness.md",
     "Items/Cloak of Terror.md",
-    "Items/Anathema.md",
     "Items/Blade of Sigfried Einzbern.md",
-    "Session Notes/Session 69 - Some Other Time.md",
-    "Ulrandir Vanariel.md",
-    "World of Helodaria/Lucius.md",
-    "Statblocks/Vampire.md",
-    "Statblocks/Fire Elemental Myrmidon.md",
-    "Sabien.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Dularen.md",
-    "Planetar.md",
     "Statblocks",
     "Items",
     "Session Notes",

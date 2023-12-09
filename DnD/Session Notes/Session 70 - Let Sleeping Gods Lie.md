@@ -25,4 +25,12 @@ A goblin scouting party searches the region for whoever caused the commotion in 
 
 ##### Session 70 - Let Sleeping Gods Lie Summary
 **Banahras 1st**
-Whoops
+- 09:00 The party notices a small family of Basilisks have taken residence in the cathedral. They battle the family and are ambushed by a goblin scouting party, defeating the basilisks with a giant illusory mirror and the goblins with force
+- 09:30 Kanan views Sigfried and the founding Einzberns through a grim psychometry vision. Caede harvests basilisk gland fluid for a petrification cure
+- 09:45 The party returns Aerondite's sword to the statue
+- 09:50 The party loots all magic items from the armoury where Silb was slain
+- 10:00 The party battle and defeat a corpse flower in the garden near the pool, claiming the chest attached to its roots
+- 10:05 The party heads to the prison wing of the temple, solves the puzzle to open the door, retrieves the repeating crossbow cylinder, and annihilates the demonweb spider
+- 10:40 The party crosses into the prison, defeats the darkness of the prison, claims the shield of Aerondite and the Dawnmail
+- 11:00 short rest in Cathedral and find and claim the howl chest
+- 11:40 The party returns Aerondite to life, but her madness causes her to attack. 

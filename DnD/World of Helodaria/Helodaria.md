@@ -1,7 +1,7 @@
 ---
 tags: Lore, Core
 ---
-# [[History of Helodaria]]
+ # [[History of Helodaria]]
 Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age. The Vanguard started in the year 812 PF.
 # Continents of Helodaria
 

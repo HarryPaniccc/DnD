@@ -1,3 +1,4 @@
+The blade Anathema is rusted, and requires restoration in order to return to its power
 # Anathema
 
 *Type (type), attunement, rarity*
