@@ -220,7 +220,7 @@ Sigfried awaits, watching a still burning flame
 - [x] [[Dawnmail]] (Area 15)
 - [x] [[Mace of Disruption]] (Area 18)
 - [ ] [[Medallion of Intuition]] (Area 3)
-- [ ] [[Anathema]] (On Sigfried)
+- [x] [[Anathema]] (On Sigfried)
 - [ ] [[Gem of Brightness]] (Area 6 in the well)
 - [x] [[Howl]] (Area 1)
 - [x] [[Boon of Aerondite]] (Area 9)

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "83767a7357082f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Shot Rune Cannon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa7a7262bea0cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ieyemra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "601d172d4477e909",
             "type": "leaf",
             "state": {
@@ -50,18 +74,6 @@
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Kenifria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9f80d3d4da9bd82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Aerondite.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,9 +126,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04b7fed2223d23fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f7197ee82d808d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -183,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 72 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 72 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 72 -.md"
+                "file": "World of Helodaria/Lucius.md"
               }
             }
           },
@@ -256,14 +292,20 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "63f8c0192a644d16",
+  "active": "04b7fed2223d23fb",
   "lastOpenFiles": [
-    "World of Helodaria/Aerondite.md",
-    "Session Notes/Session 71 - Day Breaks.md",
+    "World of Helodaria/Einzberns.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "Items/Anathema.md",
+    "Diredahl.md",
     "Session Notes/Session 72 -.md",
+    "World of Helodaria/Lucius.md",
+    "World of Helodaria/Kenifria.md",
+    "4 Shot Rune Cannon.md",
+    "Ieyemra.md",
     "World of Helodaria/Helodaria.md",
+    "Session Notes/Session 71 - Day Breaks.md",
+    "World of Helodaria/Aerondite.md",
+    "Items/Anathema.md",
     "Session Notes/Session 66 - The Ethfalian Caverns.md",
     "Session Notes/Session 67 - Through the Labyrinth.md",
     "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
@@ -276,15 +318,9 @@
     "Items/Daybreakers.md",
     "Items/Boon of Aerondite.md",
     "World of Helodaria/Lathander.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Kenifria.md",
     "Items/Howl.md",
     "Junk.md",
     "Items/Dawnmail.md",
-    "Items/Medallion of Intuition.md",
-    "Items/Gem of Brightness.md",
-    "Items/Cloak of Terror.md",
-    "Items/Blade of Sigfried Einzbern.md",
     "Statblocks",
     "Items",
     "Session Notes",
