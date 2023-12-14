@@ -1,0 +1,3 @@
+The Sieleran River is a mineral-rich, blessed river that flows from the foothills of the Maghlas Mountains, out of the [[Ethfalian Caverns]]. It blesses much of the land surrounding it with bountiful soil and life, giving an almost feywild-like atmosphere near its banks. On occasion, one might find flowers that should be native to the fey growing on its banks.
+
+The source of the Sieleran River is a beautiful cascade of waterfalls that come out of cracks in a sheer mountain slope, pooling deeply at the waterfalls base. Behind one of the larger falls, there is an opening that leads to the [[Ethfalian Caverns]].

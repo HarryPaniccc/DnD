@@ -1,0 +1,6 @@
+#TODO 
+The greatest scar left on Eranulaid from the ages of the fall, the Wastes was the site of a great battle that occurred during the god’s war. Old fortresses can still be found permeating the badlands, and under the swamps and forests lie chapels to the dark, forgotten gods.
+
+[[Banespear Mountain]] is a large, cursed peak, and was the site of great territorial conquest during the great battles. The mountain has many permutations of magics that have flowed through it in the years past, and has dark secrets hidden within.
+
+> Travel through the wastes takes roughly 4 times as long due to the dangerous nature of the landscape alone: rivers, ravines, cliff faces and natural hazards all slow cross-country travel to a great extent, and the roads that do exist zigzag and double back on themselves as to secure a safer path away from the monstrosities and the terrain. A ranger with the favoured terrain of swamp, forest and wasteland can receive benefits from 2 of their favoured terrains in order to have the wastes act as a normal area.

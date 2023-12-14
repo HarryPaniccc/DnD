@@ -6,67 +6,35 @@ Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, 
 # History
 Before the apparent Sirkon royal lineage, the region where Sirkonos now sits as ruled by a 
 # Geography
+The Kingdom is situated on the Western Shores of the northmost continent of [[Helodaria]], [[Eranulaid]]. The [[Maghlas Mountains]] have foothills that stretch down into the borders of the kingdom. From the north to the south shore of the eastern third of the kingdom there stretches a vast region of wasteland and mire, the [[Eastern Wastes]]. a scar on the land left behind from [[The Fall]]. [[Banespear Mountain]] stands proudly at the south of the Wastes, [[Mount Ethris]] sits in the center of the built-up region of the land, and dark forests dot the landscape. #TODO 
+### [[Aldwyn Highlands]]
+- [[Port Eidenspear]]: The largest port town in the Kingdom, Eidenspear connects the people of Sirkonos to the rest of the world through trade, despite being somewhat isolated from other trade routes within the Kingdom
+- **Villages** to be added
+### [[Eastern Wastes]]
+The large scar that stretches across the east third of the Kingdom and the greatest scar left on Eranulaid's land from the wars of [[The Fall]].
+- [[Banespear Mountain]] is a vast, cursed peak that stands against the horizon like a split in a painting's canvass
+### [[Miletohr Wilds]]
+The large stretch of wilderness that curves below and into the foothills of the [[Maghlas Mountains]], the Miletohr wilds are a sometimes magical and often accursed wood.
+- [[Castle Leerehalt]]: The seat of Sirkonos' Royal family and the fortress where the [[Kronesguard]] are based and commanded from.
+- [[Strahldale]]: An idyllic, calm farming village situated in the foothills of the [[Maghlas Mountains]] and overlooking the Wilds, the Wastes, and the Kingdom
+- The [[Sieleran River]]: A mineral-rich river that flows through the northern wilds of Sirkonos
+- The [[Ethfalian Caverns]]: A large, mineral-rich network of caves that lead to the underdark and to [[Kenifria]]
+### [[Maghlas Mountains]]
+- [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
+
+### #TODO There is more to do here
 # Society
 ## Politics
 ### The Crown
 The Sirkonian royal line is represented by deep purples and blues, rules from castle [[Leerehalt]], and bares the symbol of two dragons facing apart from one another with their mouths open. The royal lineage has their founding in the fall, where [[King Sirkon]] the first defended the ancient city of [[Diredahl]] from the hordes of [[Malar]] from the position of [[Don Murroc]], the Great Spire of the West.
+## Military
+## Religion
 
 
 
 ---
 #TODO 
 **
-
-# Factions
-
-# Geography
-
-There are large dark forests and mires as well as wastelands to the east. To the west is more developable. To the far north is a great mountain range where orcs and dwarves and dragons live. Steinwalde is one of the first dwarven settlements, whose history can easily be followed 4000 years into the past. It is found in this mountain range - the Maghlas mountains.
-
-## Eastern Wastes
-
-The greatest scar left on Eranulaid from the ages of the fall, the Wastes was the site of a great battle that occurred during the god’s war. Old fortresses can still be found permeating the badlands, and under the swamps and forests lie chapels to the dark, forgotten gods.
-
-Banespear mountain is a large, cursed peak, and was the site of great territorial conquest during the great battles. The mountain has many permutations of magics that have flowed through it in the years past, and has dark secrets hidden within.
-
-Travel through the wastes takes roughly 4 times as long due to the dangerous nature of the landscape alone: rivers, ravines, cliff faces and natural hazards all slow cross-country travel to a great extent, and the roads that do exist zigzag and double back on themselves as to secure a safer path away from the monstrosities and the terrain. A ranger with the favoured terrain of swamp, forest and wasteland can receive benefits from 2 of their favoured terrains in order to have the wastes act as a normal area.
-## Aldwyn Highlands
-
-The wet highlands 
-
-## Miletohr Wilds
-
-The large stretch of wilderness and forestry in the foothills of the Maghlas Mountains, north of Leerehalt. The woods are known to bear many curses.
-
-### The Sieleran River
-
-The Sieleran River is a mineral-rich, blessed river that flows from the foothills of the Maghlas Mountains, out of the Ethfalian Caverns. It blesses much of the land surrounding it with bountiful soil and life, giving an almost feywild-like atmosphere near its banks. On occasion, one might find flowers that should be native to the fey growing on its banks.
-
-  
-
-The source of the Sieleran River is a beautiful cascade of waterfalls that come out of cracks in a sheer mountain slope, pooling deeply at the waterfalls base. Behind one of the larger falls, there is an opening that leads to the Ethfalian Caverns.
-
-### Ethfalian Caverns
-
-The Ethfalian Caverns are a large, mineral rich network of caves and tunnels that have formed around a region where the space between the feywild and material plane is thin. The crystals found in these caverns are greatly varied in their properties, and often form large reflective or even luminescent clusters. Many stretches of the caverns even have massive, entirely crystal pillars that resemble support beams that span 20 - 50 feet in length.
-
-  
-
-The realm between the feywild is thin in these caverns, growing thinner and thinner as one heads deeper. The Steinefni Mining company of Steinwalde has set up a walled section for the extraction of resources within the caverns, with a bridge that leads beyond a chasm that is never lowered, as beyond the chasm is deemed unsafe for excavation due to the weak barriers between the planes.
-
-# Settlements
-
-## Planning Section
-
-Towns to introduce
-
-- Nachtwand (night wand - town?)
-    
-
-## Steinwalde
-
-One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the [Redacted mountain name].
-
 ## Diredahl
 
 The Capital City of Sirkonos, Diredahl is a giant, low lying, multi textural city that has survived for a time longer than the current age. As old as Leerehalt Keep itself, Diredahl is said to have been founded almost 1300 years ago by some scholars, but it's true age is not known.
@@ -183,14 +151,6 @@ The southern forests stretch sparsely into the city limits on the southern side.
   
 
 The primary trade of the city is an influx of raw material from the wastes. It essentially operates as the main trade route between the capital and the resource rich wastes.
-
-## Strahldale
-
-Outside the northmost border of Sirkonos, squeezed between an ancient northern forest, the eastern wastes, and the Maghlas mountains, sitting comfortably on a gentle section of the foothills, is the quiet farming village of Strahldale. One of the calmest places in Sirkonos, Strahldale’s grazing fields rarely see a year without bountiful grazing. As such, and due to crop fields being too difficult to maintain on the slopes, Strahldale has become a very potent agricultural powerhouse. Although the chill in the winters descending from the mountains means that large barns need to be constructed to keep the animals warm and safe, Strahldale sees many furs, skins, meats and other animal products being exported throughout the harvest seasons.
-
-  
-
-The mineral water from the Efthalian Cave flows down the Sieleran River through the foothills north of the village, and collects in the White Lake south of the village. To the east, one can see the wastes, and to the west, a large, dark stretch of wilderness known as the Miletohr Wilds.
 
 ### Notable Locations
 

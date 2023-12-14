@@ -1,19 +1,124 @@
 {
   "main": {
-    "id": "6286040d350998e0",
+    "id": "e3ca7fd74647b9f6",
     "type": "split",
     "children": [
       {
-        "id": "bfd54b472f3dd8e0",
+        "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "397546898dae6e7e",
+            "id": "0e4178dc9c921dd2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Splinter Character creation.md"
+                "file": "World of Helodaria/Einzberns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5881853e72412d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa7a7262bea0cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ieyemra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "601d172d4477e909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3858e2d771823fcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kenifria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "017f07581653ddd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Anathema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d4189d9bb0a3052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e2b15df9ded2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Republic of Ruina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "5d2d8498684230a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "166eb51b0626acfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -23,15 +128,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7fad2fcba2b94be",
+    "id": "d7ebda78c129d618",
     "type": "split",
     "children": [
       {
-        "id": "d93318950081b247",
+        "id": "8ca0f1d486588d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "163756300545094e",
+            "id": "3b2a6831c271b3d7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,13 +146,13 @@
             }
           },
           {
-            "id": "916f2242e5ab9be4",
+            "id": "ee81b9515bf62e4a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,7 +161,7 @@
             }
           },
           {
-            "id": "384c6b00ee7e631f",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,25 +172,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 261,
     "collapsed": true
   },
   "right": {
-    "id": "492b53c18e5f0e08",
+    "id": "ea35a9a317969db7",
     "type": "split",
     "children": [
       {
-        "id": "5291dd18d57c9a21",
+        "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
           {
-            "id": "242c132ba6384c8a",
+            "id": "b3c79ccde858898a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Splinter Character creation.md",
-                "collapseAll": false,
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -96,19 +201,19 @@
             }
           },
           {
-            "id": "f75be52e3f07f899",
+            "id": "e26a69bedfa5e5f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Splinter Character creation.md",
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4c3ade593896f3ea",
+            "id": "dfa8baabc6155b2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,7 +224,17 @@
             }
           },
           {
-            "id": "592e3b1677df29cb",
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md"
+              }
+            }
+          },
+          {
+            "id": "c21e89a76f4631bf",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -127,44 +242,61 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "8cd9b61893a107db",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/Splinter Character creation.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 426,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "397546898dae6e7e",
+  "active": "166eb51b0626acfd",
   "lastOpenFiles": [
-    "Pasted Image 20231212190832_254.png",
-    "Excalidraw/Splinter Character creation.md",
-    "Excalidraw/Drawing 2023-12-09 15.09.37.excalidraw.md",
-    "Pasted Image 20231212184614_693.png",
+    "Steinwalde.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
+    "Strahldale.md",
+    "Ethfalian Caverns.md",
+    "Sieleran River.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Eastern Wastes.md",
+    "World of Helodaria/Lucius.md",
+    "Session Notes/Session 72 - Gathering a Storm.md",
+    "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
+    "Until Dawn.md",
+    "The Fall.md",
+    "Pasted Image 20231212190832_254.png",
+    "Pasted Image 20231212184614_693.png",
+    "Excalidraw/Splinter Character creation.md",
+    "Session Notes/Session 72 - Banding Together.md",
+    "Session Notes/Session 71 - Day Breaks (Hit Level 14).md",
+    "World of Helodaria/Einzberns.md",
     "Diredahl.md",
-    "Session Notes/Session 72 -.md"
+    "World of Helodaria/Kenifria.md",
+    "4 Shot Rune Cannon.md",
+    "Ieyemra.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Aerondite.md",
+    "Items/Anathema.md",
+    "Session Notes/Session 66 - The Ethfalian Caverns.md",
+    "Session Notes/Session 67 - Through the Labyrinth.md",
+    "Session Notes/Session 68 - The Birthplace of the Einzberns.md",
+    "Excalidraw",
+    "Statblocks",
+    "Items",
+    "Session Notes",
+    "Templates",
+    "World of Helodaria"
   ]
 }
