@@ -14,7 +14,7 @@ For a few years, a patchwork government protected trade routes and mostly kept t
 
 Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]].
 # Geography
-The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the #TODO *Shard Foothills(?)*. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
+The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the [[Shard Foothills]]. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
 ### [[Mungandr Lake]]
 - [[Ironbase]]: A small settlement of farmers built around an old fortress left to the elements and the ages.
 ### The [[Dularen Plains]] and [[Platinum Highroad]]

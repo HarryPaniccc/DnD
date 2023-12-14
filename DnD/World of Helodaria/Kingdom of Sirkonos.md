@@ -1,18 +1,23 @@
-The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the westmost civilisation on the continent.
+The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the westmost civilisation on the continent, and has historical roots in a pre-[[The Fall|Fall]] civilisation
 
 Old woods, teeming with older magics and eldritch curses. Walled towns, owned by paranoid barons, constantly on guard from external threats. A central stone city cowering in the shadow of a dark manor, patrolled by a dreadful legion, subtly enforcing their master's will.
 
-Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous socialscape in order to study the innate darkness of the land.The Elven royal family has seeming all but forgotten about the rest of the country, all the while, the powerful vampires of Clan Vorciln are exerting their influence on those around them from their dark castle gateway to the outer planes.
+Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous socialscape in order to study the innate darkness of the land. The royal family has seeming all but forgotten about the rest of the country, all the while, the powerful vampires of Clan [[Vorciln]] are exerting their influence on those around them from their dark castle gateway to the outer planes.
+# History
+Before the apparent Sirkon royal lineage, the region where Sirkonos now sits as ruled by a 
+# Geography
+# Society
+## Politics
+### The Crown
+The Sirkonian royal line is represented by deep purples and blues, rules from castle [[Leerehalt]], and bares the symbol of two dragons facing apart from one another with their mouths open. The royal lineage has their founding in the fall, where [[King Sirkon]] the first defended the ancient city of [[Diredahl]] from the hordes of [[Malar]] from the position of [[Don Murroc]], the Great Spire of the West.
+
+
 
 ---
 #TODO 
 **
 
 # Factions
-
-## The Crown
-
-Colours are deep purples and blues, the symbol of it is a pair of dragons, facing outwards to either side, mouths open. The sirkonian royal line has ruled the kingdom since before the current age: Their lineage probably beginning sometime into the Fall.
 
 # Geography
 
@@ -22,14 +27,9 @@ There are large dark forests and mires as well as wastelands to the east. To the
 
 The greatest scar left on Eranulaid from the ages of the fall, the Wastes was the site of a great battle that occurred during the god’s war. Old fortresses can still be found permeating the badlands, and under the swamps and forests lie chapels to the dark, forgotten gods.
 
-  
-
 Banespear mountain is a large, cursed peak, and was the site of great territorial conquest during the great battles. The mountain has many permutations of magics that have flowed through it in the years past, and has dark secrets hidden within.
 
-  
-
 Travel through the wastes takes roughly 4 times as long due to the dangerous nature of the landscape alone: rivers, ravines, cliff faces and natural hazards all slow cross-country travel to a great extent, and the roads that do exist zigzag and double back on themselves as to secure a safer path away from the monstrosities and the terrain. A ranger with the favoured terrain of swamp, forest and wasteland can receive benefits from 2 of their favoured terrains in order to have the wastes act as a normal area.
-
 ## Aldwyn Highlands
 
 The wet highlands 

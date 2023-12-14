@@ -41,7 +41,7 @@ Golems were constructed by intelligent mages that wanted to see if they could mi
 ![[Centuria#The birth of Centuria]]
 
 #TODO Fill out a lot of events that happened in the Fall and Age of Ascension (Athelstan, Einzberns, etc.)
-## The Fall
+## [[The Fall]]
 
 Very little is certain regarding the events of the Fall. No one is certain how long it lasted, but no one born before the beginning of it saw its end. No one knows how it started, but the events of the war between the gods and their followers is still remembered to this day. 
 
