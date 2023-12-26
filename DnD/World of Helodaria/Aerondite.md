@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-#TODO 
+#TODO Make her a deity/holy patron
 When Aerondite is freed from the curse of the feywild, she more accurately resembles a [[Planetar]] in stats
 # Statblock (Maddened)
 HP = 272

@@ -1,6 +1,7 @@
-The deity Tyr is a God of righteousness and law. He is worshipped by those who wish for stability and strength of the civilisation around them, as well as by judges and lawmen. Often seen as the greatest of the good Gods, Tyr is a symbol of good, righteous strength. They are the sworn enemy of [[Gruumsh]], as Gruumsh embodies lawless barbarism.
+The deity Tyr is a God of righteousness, law, and warfare in the face of defence of civilisation and justice. They are worshipped by those who wish for stability and strength of the civilisation around them, as well as by judges and lawmen. Often seen as the greatest of the good Gods, Tyr is a symbol of good, righteous strength. They are the sworn enemy of [[Gruumsh]], as Gruumsh embodies lawless barbarism.
 # Details
 ## Titles
+- The Great Balancer
 - Wielder of Justice
 ## Appearance
 He is depicted as a knight wearing extremely heavy plate armour, face concealed and wielding a halberd. From beneath the partitions in the armour, orange flame licks the surrounding air.

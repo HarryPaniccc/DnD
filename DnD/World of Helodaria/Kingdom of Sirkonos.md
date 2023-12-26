@@ -3,6 +3,8 @@ The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]].
 Old woods, teeming with older magics and eldritch curses. Walled towns, owned by paranoid barons, constantly on guard from external threats. A central stone city cowering in the shadow of a dark manor, patrolled by a dreadful legion, subtly enforcing their master's will.
 
 Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous socialscape in order to study the innate darkness of the land. The royal family has seeming all but forgotten about the rest of the country, all the while, the powerful vampires of Clan [[Vorciln]] are exerting their influence on those around them from their dark castle gateway to the outer planes.
+## Rough Map
+![[Pasted image 20231217153118.png]]
 # History
 Before the apparent Sirkon royal lineage, the region where Sirkonos now sits as ruled by a 
 # Geography
@@ -13,6 +15,7 @@ The Kingdom is situated on the Western Shores of the northmost continent of [[He
 ### [[Eastern Wastes]]
 The large scar that stretches across the east third of the Kingdom and the greatest scar left on Eranulaid's land from the wars of [[The Fall]].
 - [[Banespear Mountain]] is a vast, cursed peak that stands against the horizon like a split in a painting's canvass
+- [[Kohldwall]] is a town that acts as a bastion within the Wastes. People usually use it as a point of refuge and trade from towns that are off its main path
 ### [[Miletohr Wilds]]
 The large stretch of wilderness that curves below and into the foothills of the [[Maghlas Mountains]], the Miletohr wilds are a sometimes magical and often accursed wood.
 - [[Castle Leerehalt]]: The seat of Sirkonos' Royal family and the fortress where the [[Kronesguard]] are based and commanded from.
@@ -21,7 +24,7 @@ The large stretch of wilderness that curves below and into the foothills of the 
 - The [[Ethfalian Caverns]]: A large, mineral-rich network of caves that lead to the underdark and to [[Kenifria]]
 ### [[Maghlas Mountains]]
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
-
+### 
 ### #TODO There is more to do here
 # Society
 ## Politics
@@ -34,30 +37,6 @@ The Sirkonian royal line is represented by deep purples and blues, rules from ca
 
 ---
 #TODO 
-**
-## Diredahl
-
-The Capital City of Sirkonos, Diredahl is a giant, low lying, multi textural city that has survived for a time longer than the current age. As old as Leerehalt Keep itself, Diredahl is said to have been founded almost 1300 years ago by some scholars, but it's true age is not known.
-
-  
-
-The city proper is surrounded by a wall that reaches as high as 60 feet, hung well with royal banners and watched by Kronesguard. The city is layered, stretching higher in altitude the further West it stretches, as though it sprawled up a mountainous hillscape to soak in the rising sun from the East. Dead in the centre, surrounded by a fortress of hard stone base and walls and iron, jutting out from the landscape like 
-
-  
-
-The city is divided into districts: The Red district, the Blue district, the Sun district and the Moon district. The sources of their names are ancient and it is not truly known, and the divisions of the districts are not set in stone. If you were to live in Diredahl for a year, you might gain an understanding of where one begins and another ends, but no one will be able to guide you as to where the boundaries are.
-
-  
-
-Notable Locations
-
-- Don Murroc, The Great Spire of the West. An ancient tower at the centre of Diredahl, Don Murroc has a history shrouded in warfare, in unity and in salvation. It is said that during the great walls of the Fall, King Sirkon the first, before he had his crown, held the invaders of the great City of Diredahl from all sides by setting legendary archers on the battlements of Don Murroc, and having his people shelter inside. Though the city was taken, the spire was not, and with only twenty archers under his command, King Sirkon fended off the hoards that were beset on the city, and Sirkonos found its name, and its first king.  
-      
-    The spire stands at a magnificent height, rising above the apex of structures at the centre of the walled city, within a fortress structure that sits like an iron rose at the centre of the city. The top is a grand viewing platform, from which one can see all around for miles, with good enough eyes you could see Keldmire on a clear day. Around the structure are battlements, balconies, and stairways that all interlink into an intensely complex structure. 
-    
--   
-    
-
 ## Port Eidenspear
 
 Port Eidenspear is the large port city on the southern shore of Sirkonos. It is the largest city in the kingdom other than Diredahl. Eidenspear is culturally the most vibrant city in Sirkonos, trade vessels from all around the world using it either as a refreshment port or trading with it directly.

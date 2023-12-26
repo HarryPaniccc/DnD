@@ -1,11 +1,13 @@
 ---
 tags: Lore, Core
 ---
-# Worship and Gods
-#TODO Edit below
-The Empire of Ruina has many major gods that they worship, with other deities being worshipped alongside. The main deity worshipped is Tyr, and the High Paladin of Tyr oversees the Lawbearers, and acts as the High Temple of Pantheon’s Voice on the Uldronos Council There are gods that are not recognised as legal in Ruina, and then there are gods that are heretical to worship.
-## The Founding Gods
-- [[Tyr]], Wielder of Justice (LG)
+The deities of [[Helodaria]] are extremely powerful entities, often worshipped by large temples or cults. The most powerful and oldest of these beings are the [[Founding Gods]]. These deities were the first beings to find their way to Helodaria, ending the [[History of Helodaria#The Eternity of Before|Eternity of Before]], and enforcing order over the collapsing elemental chaos. Younger Gods found their way among the pantheons of Helodaria. Godly children of the Founding Gods took hold of their respective domains, and demigods ascended and fell over history.
+
+Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed away or banished from the [[Material Plane]] imposed upon themselves an exile, in which their true forms were not able to return to the Materium for the safety of the celestial order. The gods now reside in their homes, and prisons, in the outer planes, and other locations in the [[Multiverse]].
+# The [[Founding Gods]]
+The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are simply replaceable to them, usually.
+## The [[Creation Gods]]
+- [[Tyr]], The Great Balancer (LG)
 - [[Bahumat]], Platinum Dragon (LG)
 - [[Ilmater]], The Calloused Hands (NG)
 - [[Feylan]], Verdant Mother (N)
@@ -16,6 +18,27 @@ The Empire of Ruina has many major gods that they worship, with other deities be
 - [[The Raven Queen]] (N)
 - [[Corellon]], First Speaker (NG)
 - [[Lathander]], the Lord of Dawn (LG)
+## The [[Destroyer Gods]]
+- [[Asmodeus]], Ninth Imprisoned (LE)
+- [[Tiamat]], the Five Hungers (CE)
+- [[Vecna]], Hoarder of Secrets (NE)
+- [[Gruumsh]], the Slayer (CE)
+- [[Lolth]], the Spider Queen (NE)
+- [[Tharizdun]], Void Eternal (No Alignment)
+- [[Malar]], Lord of Slaughter (CE)
+- [[Das Moge]], Betrayal's Muse (No Alignment)
+# Other Gods
+- [[Ioun]], the Mistress of Sight (NG)
+- [[Boldrei]], the Hearth Maker
+- [[Mystra]], the Lady of the Weave
+# Lesser Idols and Deities
+## Archdevils
+Archdevils, or the Lords of the Nine Hells, are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
+## Demon Lords
+## Archfey
+- [[Athelstan]], the Bleeding Archfey
+## Angels
+- [[Aerondite]], Saint of the Dawn
 ### Details
 |  Name | Deity of  | Symbol  | Domains  |
 |---|---|---|---|
@@ -30,15 +53,7 @@ The Empire of Ruina has many major gods that they worship, with other deities be
 |Raven Queen, Matron of Death|Goddess of Life and Natural Death|Raven related images, usually a ravens head in profile facing left|Death, Grave|
 |Corellon, Maker of the First Peoples|Elves and arcane magic|Star|Light, Arcane|
 |Lathander, the Lord of Radiance|The Sun, Dawn and Renewal|A sun rising over a valley or field|Light, Life|
-## The Forgotten gods
-- [[Asmodeus]], Ninth Imprisoned (LE)
-- [[Tiamat]], the Five Hungers (CE)
-- [[Vecna]], Hoarder of Secrets (NE)
-- [[Gruumsh]], the Slayer (CE)
-- [[Lolth]], the Spider Queen (NE)
-- [[Tharizdun]], Void Eternal (?)
-- [[Malar]], Lord of Slaughter (CE)
-- [[Das Moge]], Betrayal's Muse (No Alignment)
+
 ### Details
 |Name|Deity of|Symbol|Domains|
 |---|---|---|---|
@@ -50,13 +65,4 @@ The Empire of Ruina has many major gods that they worship, with other deities be
 |Tharizdun, Void Eternal|Eternal darkness within the depths, madness|An octopus creating a spiralling cloud of ink or many chains|Trickery|
 |Malar, Lord of Slaughter|Cruelty, slaughter, cannibals|A skinless torso with a skull for a head and 6 arms, all chained|War|
 |Das Moge, The Betrayer|Betrayal|A snake biting its own tail|Trickery|
-
-## Other, Lesser Idols  
-|Name|Deity of|Symbol|Domains|
-|---|---|---|---|
-|Odin, Lord of the Hanged|Magic and Death.|Three drinking horns interlocked|Arcana, Death, Knowledge|
-|Savathuun, the Bleeding Fey|Impurity, change|Einzbern Family crest|Blood|
-|The Malevolence|Sorcerers and Tyranny|A circle with another, smaller circle orbiting it to the bottom right.|Arcana|
-|Boldrei, the hearth maker|Community and home|A pot over a fire|Solidarity|
-|All major demon lords are worshipped||||
-
+## Other, Lesser Idols 

@@ -7,7 +7,6 @@ Her Fortress of Memories is a place of solemnness, containing countless souls th
 - The Queen of the Damned
 ## Appearance
 The Raven Queen is a more abstract being than the other gods, appearing often as a collection of ravens or as signs. Her true form is that of a young, dark haired woman wearing shadows as garments. Underneath her usual, expressionless mask she is quite beautiful.
-
 ## Birth of the Raven Queen
 During the Fall, a powerful Elven Sorceress Queen, in an attempt to unite the houses of her people and the gods that ruled over them began rituals in an attempt to elevate herself to godhood. A group of zealots, wanting to take her new divine power for themselves, interrupted the last of these rituals, moving all present, the Sorceress, her devout followers, and themselves to the [[Shadowfell]]. The now-Goddess, in the confusion and pain of her shattered mind, clutched to her existence with all of her power, and almost forgot all of who she was. Thus, [[The Raven Queen]] was born. The other gods, viewing this act as a potential threat to their power, destroyed the means for this ritual to be repeated, and banished the memory of the Queen’s true name from all mortal minds and history.
 # Tenets and Teachings
