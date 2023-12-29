@@ -37,7 +37,7 @@ Archdevils, or the Lords of the Nine Hells, are powerful infernal fiends. They a
 ## Demon Lords
 ## Archfey
 - [[Athelstan]], the Bleeding Archfey
-## Angels
+## Celestials
 - [[Aerondite]], Saint of the Dawn
 ### Details
 |  Name | Deity of  | Symbol  | Domains  |
