@@ -8,11 +8,11 @@ Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed a
 The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are simply replaceable to them, usually.
 ## The [[Creation Gods]]
 - [[Tyr]], The Great Balancer (LG)
-- [[Bahumat]], Platinum Dragon (LG)
+- [[Bahamut]], Platinum Dragon (LG)
 - [[Ilmater]], The Calloused Hands (NG)
 - [[Feylan]], Verdant Mother (N)
 - [[Centuria]], Holder of the Azure (LN)
-- [[Moradin]], Allhammer (LG)
+- [[Moradin]], The All Hammer (LG)
 - [[Sehanine]], The Moon Heart (NG)
 - [[Umberlee]], The Storm Weaver(CG)
 - [[The Raven Queen]] (N)

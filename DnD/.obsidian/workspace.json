@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ieyemra.md",
+                "file": "World of Helodaria/Ieyemra.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,31 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3858e2d771823fcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kenifria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "017f07581653ddd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Anathema.md",
+                "file": "Session Notes/Session 72 - Gathering a Storm.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,50 +80,43 @@
             }
           },
           {
-            "id": "a46c95c1977e79e6",
+            "id": "a1e92889a901b234",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 8
-      },
-      {
-        "id": "d581bef61cf4ff96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef89470454dabab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/History of Helodaria.md",
+                "file": "World of Helodaria/Diredahl.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a1e92889a901b234",
+            "id": "ea8a47db4fa93830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diredahl.md",
+                "file": "Session Notes/Session 72 - Gathering a Storm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3996b752a76ed450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 73 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "Session Notes/Session 72 - Gathering a Storm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "Session Notes/Session 72 - Gathering a Storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md"
+                "file": "Session Notes/Session 72 - Gathering a Storm.md"
               }
             }
           },
@@ -287,37 +256,39 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "a46c95c1977e79e6",
+  "active": "ea8a47db4fa93830",
   "lastOpenFiles": [
-    "Diredahl.md",
-    "Don Murroc.md",
-    "World of Helodaria/Vasspryg.md",
+    "Session 73 -.md",
+    "Session Notes/Session 72 - Gathering a Storm.md",
+    "World of Helodaria/Diredahl.md",
+    "Vanguard Campaign Journal.md",
+    "World of Helodaria/Kenifria.md",
+    "World of Helodaria/Lucius.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
+    "Items/Anathema.md",
+    "Items/Dawnmail.md",
+    "World of Helodaria/Boldrei.md",
+    "World of Helodaria/Elizabeth Curte.md",
+    "World of Helodaria/Ieyemra.md",
+    "Attachments/Pasted image 20231217153118.png",
+    "World of Helodaria/The Fall.md",
+    "World of Helodaria/Strahldale.md",
+    "Items/Until Dawn.md",
+    "Attachments/Pasted Image 20231212184614_693.png",
+    "World of Helodaria/Ioun.md",
     "World of Helodaria/History of Helodaria.md",
+    "Attachments/Pasted image 20231231094810.png",
+    "Attachments",
     "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Aerondite.md",
-    "Elizabeth Curte.md",
-    "Boldrei.md",
-    "Ioun.md",
-    "World of Helodaria/Tyr.md",
+    "Mystra.md",
+    "World of Helodaria/Asmodeus.md",
     "World of Helodaria/The Raven Queen.md",
-    "World of Helodaria/Einzberns.md",
-    "Excalidraw/Drawing 2023-12-09 15.09.37.excalidraw.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Helodaria.md",
-    "Pasted image 20231217153118.png",
-    "Steinwalde.md",
-    "Strahldale.md",
-    "Ethfalian Caverns.md",
-    "Sieleran River.md",
-    "Eastern Wastes.md",
-    "World of Helodaria/Lucius.md",
-    "Session Notes/Session 72 - Gathering a Storm.md",
-    "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
-    "Until Dawn.md",
-    "Pasted Image 20231212190832_254.png",
-    "Pasted Image 20231212184614_693.png",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Bahamut.md",
+    "World of Helodaria/Don Murroc.md",
+    "World of Helodaria/Vasspryg.md",
+    "Attachments/Pasted Image 20231212190832_254.png",
     "Excalidraw",
     "Statblocks",
     "Items",

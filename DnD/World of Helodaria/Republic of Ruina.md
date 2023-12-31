@@ -44,7 +44,7 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 The Uldronos Council is a hereditary council, ruled by houses that were elected around 200 P.F. The Council does not hand out duties to specific houses, but some houses have naturally swayed towards fulfilling a role in governing the Republic.
 ## Military
 ### The [[Ruinan Guard]]
-The [[High Paladin of Tyr]] has the primary say in the law making of Ruina and ensuring that the laws are fairly upheld. The militant group of guards uphold the laws in the official Republic cities and towns, each overseen by a Guard Steward assigned to a specific settlement. They are recognisable by their uniforms: well kept leather and scale-male, a steel helmet, and a halberd, as well as their own personal cloaks are allowed to combat the cold Ruinan winters
+The [[High Paladin of Tyr]] has the primary say in the law making of Ruina and ensuring that the laws are fairly upheld. The militant group of guards uphold the laws in the official Republic cities and towns, each overseen by a Guard Steward assigned to a specific settlement. They are recognisable by their uniforms: well kept leather and scale-male, a steel helmet, and a halberd, as well as their own personal cloaks are allowed to combat the cold Ruinan winters.
 ### The [[Boreal Conclave]]
 ## Religion
 The Republic of Ruina has many major gods that they worship, with other deities being worshipped alongside. The main deity worshipped is Tyr, and the [[High Paladin of Tyr]] oversees the [[Lawbearers]], and acts as the High Temple of Pantheon’s Voice on the Uldronos Council. There are gods that are not recognised as legal in Ruina, and then there are gods that are heretical to worship.

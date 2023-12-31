@@ -1,3 +1,4 @@
+The 4 shot runecannon
 # Until Dawn
 
 *Weapon (Pepperbox), rare*
