@@ -14,3 +14,5 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ![[Session 69 - Some Other Time#Session 69 - Some Other Time Summary]]
 ![[Session 70 - Let Sleeping Gods Lie#Session 70 - Let Sleeping Gods Lie Summary]]
 ![[Session 71 - Day Breaks (Hit level 14)#Session 71 - Day Breaks Summary]]
+![[Session 72 - Gathering a Storm#Session 72 - Gathering a Storm Summary]]
+![[Session 73 -#Session 73 - Summary]]

@@ -19,7 +19,7 @@ The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]
 - [[Ironbase]]: A small settlement of farmers built around an old fortress left to the elements and the ages.
 ### The [[Dularen Plains]] and [[Platinum Highroad]]
 The center of the Republic, the Dularen Plains is a region of great prosperity for the Republic's people.
-- [[Splitmount]]: At the entrance to the valley, the farming town provides a large portion of the empire with farm produce.  
+- [[Splitmount]]: At the entrance to the valley, the farming town provides a large portion of the empire with farm produce. 
 - [[Vasspryg]]: A medium sized city surrounded by a strong fortress. There is a small export of valuable minerals from the mines in the mountain.
 - [[Midvale]]. A town built due to the crossing of the [[Platinum Highroad]] and the [[Eithval River]] 
 - [[Malibrook]]. A somewhat medium sized town of vessel construction. Built due to the volcanically enforced wood providing a valuable construction material.

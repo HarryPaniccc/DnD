@@ -4,6 +4,7 @@ Old woods, teeming with older magics and eldritch curses. Walled towns, owned by
 
 Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous socialscape in order to study the innate darkness of the land. The royal family has seeming all but forgotten about the rest of the country, all the while, the powerful vampires of Clan [[Vorciln]] are exerting their influence on those around them from their dark castle gateway to the outer planes.
 ## Rough Map
+
 ![[Pasted image 20231217153118.png]]
 # History
 Before the apparent Sirkon royal lineage, the region where Sirkonos now sits as ruled by a 
@@ -44,13 +45,6 @@ Port Eidenspear is the large port city on the southern shore of Sirkonos. It is 
   
 
 The city is situated in a large bay that is itself set into the mainland and leads into a river, the shores of which are made of tall rocky mountains. The majority of the city situates itself between the base of these mountains and the shoreline.
-
-  
-
-Notable Locations
-
--   
-    
 
 ## Fengate
 
