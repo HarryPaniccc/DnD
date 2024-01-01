@@ -6,6 +6,7 @@
       {
         "id": "54a7779a7d96e681",
         "type": "tabs",
+        "dimension": 48.18763326226013,
         "children": [
           {
             "id": "68d0e2aadc0053c0",
@@ -18,12 +19,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "166eb51b0626acfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8018674d6e4af37c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Strahldale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
+        "dimension": 51.812366737739865,
         "children": [
           {
             "id": "0e4178dc9c921dd2",
@@ -74,18 +101,6 @@
             }
           },
           {
-            "id": "166eb51b0626acfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1e92889a901b234",
             "type": "leaf",
             "state": {
@@ -110,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,14 +269,16 @@
   },
   "active": "3996b752a76ed450",
   "lastOpenFiles": [
-    "Vanguard Campaign Journal.md",
+    "Syr Emelia Richstrahd.md",
     "Session Notes/Session 73 -.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Strahldale.md",
+    "Vanguard Campaign Journal.md",
     "Session Notes/Session 72 - Gathering a Storm.md",
     "World of Helodaria/Diredahl.md",
     "Itchy Foot Inn.md",
     "Untitled.md",
     "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Republic of Ruina.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Kenifria.md",
@@ -273,7 +290,6 @@
     "World of Helodaria/Ieyemra.md",
     "Attachments/Pasted image 20231217153118.png",
     "World of Helodaria/The Fall.md",
-    "World of Helodaria/Strahldale.md",
     "Items/Until Dawn.md",
     "Attachments/Pasted Image 20231212184614_693.png",
     "World of Helodaria/Ioun.md",
@@ -283,7 +299,6 @@
     "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/Mystra.md",
     "World of Helodaria/Asmodeus.md",
-    "World of Helodaria/The Raven Queen.md",
     "Attachments/Pasted Image 20231212190832_254.png",
     "Excalidraw",
     "Statblocks",
