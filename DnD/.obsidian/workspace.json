@@ -43,14 +43,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3062ac46bd8eabe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
-        "dimension": 51.812366737739865,
+        "dimension": 51.81236673773987,
         "children": [
           {
             "id": "0e4178dc9c921dd2",
@@ -171,7 +183,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 73 -.md",
+                "file": "General Notes and Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 73 -.md",
+                "file": "General Notes and Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 73 -.md"
+                "file": "General Notes and Ideas.md"
               }
             }
           },
@@ -267,11 +280,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3996b752a76ed450",
+  "active": "3062ac46bd8eabe2",
   "lastOpenFiles": [
-    "Syr Emelia Richstrahd.md",
     "Session Notes/Session 73 -.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
+    "Syr Emelia Richstrahd.md",
     "World of Helodaria/Strahldale.md",
     "Vanguard Campaign Journal.md",
     "Session Notes/Session 72 - Gathering a Storm.md",
