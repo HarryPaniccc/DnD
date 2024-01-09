@@ -78,6 +78,43 @@
         }
       ],
       "title": "Tabs for next session"
+    },
+    {
+      "type": "group",
+      "ctime": 1704569225581,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "World of Helodaria/Einzberns.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "World of Helodaria/Ieyemra.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "World of Helodaria/Lucius.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "World of Helodaria/Republic of Ruina.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "World of Helodaria/Diredahl.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1704569222148,
+          "path": "Session Notes/Session 73 -.md"
+        }
+      ],
+      "title": "January 6, 2024 9:27 PM"
     }
   ]
 }
