@@ -1,0 +1,1 @@
+The Steinefni Mining Company is a dwarven mining company in the north of Sirkonos, in the base of the [[Maghlas Mountains]] at the  [[Ethfalian Caverns]], in the origin of the [[Sieleran River]].

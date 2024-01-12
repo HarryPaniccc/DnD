@@ -1,4 +1,4 @@
-The 4 shot runecannon
+2d8 Piercing, ranged (40/120), reload (1d4), miss fire 1
 # Until Dawn
 
 *Weapon (Pepperbox), rare*
