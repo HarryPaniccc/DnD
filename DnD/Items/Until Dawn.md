@@ -7,5 +7,7 @@ When you hit a creature with an attack from this weapon while there are 4 shots 
 When you missfire with *Until Dawn*, you must succeed on the same Wisdom saving throw or be blinded until the start of your next turn.
 
 ---
-> Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
+> Forged amidst the undead turmoil plaguing Sirkonos with seemingly only one purpose. 
+> Liberation. 
+> This weapons smooth chamber glides silently as it spins, listening close yields naught but mere whispers.
 
