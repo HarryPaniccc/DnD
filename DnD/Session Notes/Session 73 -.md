@@ -42,12 +42,25 @@ If the party hear two or more of the conversations, Syr Richstrahd will come up 
 - She will know about [[Strahldale]] up ahead, and will suggest that the battalion resupplies and rests there
 - If she hears about the farmers being sacrificed, she will assume that Strahldale has fallen
 ## Strategies
+- There are 4 cannons in the battalion. Each uses the following statblock![[Pasted image 20240121113005.png]]
+- They are each controlled by 3 cannon operators capable of loading, aiming, and firing once per round
+- **Pass without Trace on the whole camp**
+##### The Battalion's army consists of
+- Rangers (level 4)
+- Rangers (level 5)
+- Fighters of level 4 and 5
+- Thugs wearing breast plates and shields (AC 16)
+- A few Veterans and Knights
 
+Average battalion stealth check is +3, +13 with pass without trace
 # The Borders Breaking
-The region 
+The region surrounding Strahldale 
 # Vorciln Manor
 Lucius' forces have had his manor move to north of [[Strahldale]]
 
+**ENCOUNTER: Redcaps x 3, Yeth Hounds x 6**
+
+**ENCOUNTER: Hell Roc + Cambion + Merregon x 2 + Tithe Inquisitor x 2 + Vorciln Knights x 3**
 
 ##### Session 73 - Summary
 **Banahras 2nd**

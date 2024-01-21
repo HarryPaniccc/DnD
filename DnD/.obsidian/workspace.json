@@ -67,9 +67,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0598f2dfabb82953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Howl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "9eedd15f5eb7d4bb",
@@ -247,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -264,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "Items/Howl.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "Items/Howl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Helodarian Firearms.md"
+                "file": "Items/Howl.md"
               }
             }
           },
@@ -339,12 +350,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "35fde85ef05afb26",
+  "active": "0598f2dfabb82953",
   "lastOpenFiles": [
-    "Session Notes/Session 73 -.md",
-    "Helodarian Firearms.md",
+    "Items/Gem of Brightness.md",
+    "Items/Daybreakers.md",
+    "Items/Dawnmail.md",
     "Items/Until Dawn.md",
     "Statblocks/Kronesguard Ranger.md",
+    "Session Notes/Session 73 -.md",
+    "Helodarian Firearms.md",
+    "Attachments/Pasted image 20240121113005.png",
     "World of Helodaria/Strahldale.md",
     "Session Notes/Session 66 - The Ethfalian Caverns.md",
     "World of Helodaria/Helodaria.md",
@@ -365,9 +380,6 @@
     "World of Helodaria/Itchy Foot Inn.md",
     "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
     "World of Helodaria/Kenifria.md",
-    "Items/Anathema.md",
-    "Items/Dawnmail.md",
-    "World of Helodaria/Boldrei.md",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted Image 20231212184614_693.png",
     "Attachments/Pasted image 20231231094810.png",
