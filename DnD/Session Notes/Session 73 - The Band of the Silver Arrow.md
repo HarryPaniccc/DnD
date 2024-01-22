@@ -54,7 +54,7 @@ If the party hear two or more of the conversations, Syr Richstrahd will come up 
 
 Average battalion stealth check is +3, +13 with pass without trace
 # The Borders Breaking
-The region surrounding Strahldale 
+The region surrounding Strahldale has aurora like fissures where the separation between the Material plane and the Feywild is failing.
 # Vorciln Manor
 Lucius' forces have had his manor move to north of [[Strahldale]]
 
