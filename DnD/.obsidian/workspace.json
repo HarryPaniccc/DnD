@@ -86,14 +86,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 74 -.md",
+                "file": "Session Notes/Session 74 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9eedd15f5eb7d4bb",
@@ -259,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -276,7 +275,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+                "file": "Session Notes/Session 74 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +292,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+                "file": "Session Notes/Session 74 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +315,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md"
+                "file": "Session Notes/Session 74 -.md"
               }
             }
           },
@@ -351,10 +350,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3996b752a76ed450",
+  "active": "6f59a2b3cdd5f7b7",
   "lastOpenFiles": [
-    "Session 74 -.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Session Notes/Session 74 -.md",
     "Items/Until Dawn.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Diredahl.md",
