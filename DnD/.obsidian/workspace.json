@@ -6,7 +6,7 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
-        "dimension": 52.88203753351207,
+        "dimension": 51.34048257372654,
         "children": [
           {
             "id": "166eb51b0626acfd",
@@ -45,60 +45,48 @@
             }
           },
           {
-            "id": "39b051b59d917598",
+            "id": "1c4f88fd0a0c4dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Until Dawn.md",
+                "file": "World of Helodaria/Vessel of Avarice.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "35fde85ef05afb26",
+            "id": "771cd9c2930e64fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "Items/Aegis of the Onlooker.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3996b752a76ed450",
+            "id": "d84878dd9fb3be26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f59a2b3cdd5f7b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 74 -.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
-        "dimension": 47.11796246648793,
+        "dimension": 48.65951742627346,
         "children": [
           {
             "id": "68d0e2aadc0053c0",
@@ -137,42 +125,6 @@
             }
           },
           {
-            "id": "36b47917c6854c66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Ieyemra.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d4189d9bb0a3052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lucius.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e2b15df9ded2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1e92889a901b234",
             "type": "leaf",
             "state": {
@@ -185,31 +137,31 @@
             }
           },
           {
-            "id": "2971ac0774e57e82",
+            "id": "b83ac0caae53e504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "source",
+                "file": "Elandra, Duchess of the Vorciln.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "33f3dd09b843a53e",
+            "id": "3605931e330b1fd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Helodaria.md",
+                "file": "World of Helodaria/Lucius.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -259,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 338,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -275,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 74 -.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 74 -.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 74 -.md"
+                "file": "Elandra, Duchess of the Vorciln.md"
               }
             }
           },
@@ -350,36 +303,36 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "6f59a2b3cdd5f7b7",
+  "active": "b83ac0caae53e504",
   "lastOpenFiles": [
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-    "Session Notes/Session 74 -.md",
-    "Items/Until Dawn.md",
-    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Lucius.md",
+    "Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Diredahl.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Ieyemra.md",
+    "Items/Aegis of the Onlooker.md",
+    "World of Helodaria/Vessel of Avarice.md",
     "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Ieyemra.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Strahldale.md",
+    "Statblocks/Kronesguard Ranger.md",
     "Helodarian Firearms.md",
+    "Items/Until Dawn.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Session Notes/Session 74 -.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Items/Daybreakers.md",
     "Items/Howl.md",
     "Items/Gem of Brightness.md",
     "Items/Dawnmail.md",
-    "Statblocks/Kronesguard Ranger.md",
     "Attachments/Pasted image 20240121113005.png",
     "Session Notes/Session 66 - The Ethfalian Caverns.md",
-    "World of Helodaria/Lucius.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Steinefni Mining Company.md",
     "World of Helodaria/Malar.md",
     "World of Helodaria/Republic of Ruina.md",
     "Excalidraw/Westmarches notes.md",
     "Attachments/Pasted Image 20240106212953_129.png",
-    "Excalidraw/Drawing 2024-01-06 21.27.17.excalidraw.md",
-    "General Notes and Ideas.md",
-    "Vanguard Campaign Journal.md",
-    "World of Helodaria/Syr Emelia Richstrahd.md",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted Image 20231212184614_693.png",
     "Attachments/Pasted image 20231231094810.png",

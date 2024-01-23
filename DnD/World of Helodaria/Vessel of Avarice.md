@@ -1,0 +1,1 @@
+The Vessel of Avarice is an artefact forged before the end of the Age of Ascension. It was used by [[Athelstan]] to claim the power of the sun and the stars and become a vampire that was able to drink light.

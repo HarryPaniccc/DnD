@@ -21,7 +21,7 @@ The large scar that stretches across the east third of the Kingdom and the great
 The large stretch of wilderness that curves below and into the foothills of the [[Maghlas Mountains]], the Miletohr wilds are a sometimes magical and often accursed wood.
 - [[Castle Leerehalt]]: The seat of Sirkonos' Royal family and the fortress where the [[Kronesguard]] are based and commanded from.
 - [[Strahldale]]: An idyllic, calm farming village situated in the foothills of the [[Maghlas Mountains]] and overlooking the Wilds, the Wastes, and the Kingdom
-- The [[Sieleran River]]: A mineral-rich river that flows through the northern wilds of Sirkonos
+- The [[Sieleran River]]: A mineral-rich river that flows through the northern wilds of Sirkonos, and cuts through [[Strahldale]]
 - The [[Ethfalian Caverns]]: A large, mineral-rich network of caves that lead to the underdark and to [[Kenifria]]
 ### [[Maghlas Mountains]]
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range

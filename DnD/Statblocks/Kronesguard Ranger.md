@@ -1,4 +1,5 @@
-Rangers of the Silver Battalion and other battalions of the Kronesguard are trained in navigating and hunting in
+Rangers of the Silver Battalion and other battalions of the Kronesguard are trained in navigating and hunting in the varied wilds that the [[Kingdom of Sirkonos]] is made up of. They make up the most mobile parts of Sirkonos' standing army, and are instrumental in dealing with threats quickly around the Kingdom.
+
 ```statblock
 image: [[Wikilink To Image]]
 name: Name

@@ -1,10 +1,7 @@
 #TODO 
-A prominent family 
-# THE FOUNDING EINZBERNS
-
+A prominent monster hunting family of the [[Kingdom of Sirkonos]]
+# The Founding Einzberns
 The group of knights that make up the seven founding members of the Einzberns made their home in a grand temple to [[Lathander]] and fortress during the [[History of Helodaria#The Age of Ascension|Age of Ascension]], [[Kenifria]]. Their binding of [[Athelstan]] required the sacrifice of their afterlife, and the corruption of their bloodlines. They stole holy light and bound it to their descendants - syphoning power to the Urd tree that binds Athelstan, and stealing power from him in turn.
-
-The founding Einzberns are as follows:
 
 - Syr [[Riemann Maine]]. Bald, tall, axe wearing human. Sirkonian, more gentle, deep voice but jolly and tries to bolster his friends.
 - Syr [[Elizabeth Curte]]. Well built young woman with black hair and an ashy patch. British and proper sounding, but not proper in her mannerisms.

@@ -9,12 +9,14 @@ The city proper is surrounded by a wall that reaches as high as 60 feet, hung we
 # History
 
 # Notable Characters
+- [[Woed]] #TODO 
+- 
 
 # Locations
 The city is divided into districts: The Red district, the Blue district, the Sun district and the Moon district. The sources of their names are ancient and it is not truly known, and the divisions of the districts are not set in stone. If you were to live in Diredahl for a year, you might gain an understanding of where one begins and another ends, but no one will be able to guide you as to where the boundaries are.
 
 - [[Don Murroc]], The Great Spire of the West. A great tower that site atop an iron-rose like fortress at the heart of the city, standing hundreds of feet tall and unbelievably well fortified. It is atop this great tower that the royal lineage of the Sirkon family found its crown, and the Kingdom of Sirkonos found its name.
-- [[Dragon's Breath Shop]]
+- [[Dragon's Breath Shop]], run by [[Woed]]
 - [[Itchy Foot Inn]] inn
 ## The Labyrinth Below
 Below the city lies a labyrinth of old buildings and tunnels, remnants of the city's long forgotten heritage. The sewer system often intersects oddly with these old passageways, and few go deep into the labyrinth and survive.
