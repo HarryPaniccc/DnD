@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes and Ideas.md"
+                "file": "Elandra, Duchess of the Vorciln.md"
               }
             }
           },
@@ -303,12 +303,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3062ac46bd8eabe2",
+  "active": "b83ac0caae53e504",
   "lastOpenFiles": [
-    "Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Lucius.md",
-    "World of Helodaria/Diredahl.md",
+    "Elandra, Duchess of the Vorciln.md",
     "Items/Aegis of the Onlooker.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Diredahl.md",
     "World of Helodaria/Vessel of Avarice.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Ieyemra.md",
@@ -317,7 +318,6 @@
     "Statblocks/Kronesguard Ranger.md",
     "Helodarian Firearms.md",
     "Items/Until Dawn.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Deities of Helodaria.md",
     "Session Notes/Session 74 -.md",
