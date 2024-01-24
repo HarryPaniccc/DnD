@@ -2,13 +2,14 @@
 tags:
   - Character
 ---
+
 ```statblock
 name: Elandra, Duchess of the Vorciln
 size: Medium
 type: Undead
 subtype: Shapechanger
 alignment: Chaotic Evil
-ac: 18 (Bracers of defence)
+ac: 18 (Natural + Bracers of defence)
 hp: 204 (17d8 + 68)
 hit_dice:
 speed: 30 ft.
@@ -18,11 +19,12 @@ saves:
   - Wis: +9
   - Cha: +7
 skillsaves:
-  - Skill: bonus
-damage_vulnerabilities: string
-damage_resistances: string
-damage_immunities: string
-condition_immunities: string
+  - Athletics: +9
+  - Perception: +9
+  - Stealth: +9
+damage_resistances: Cold, Necrotic, nonmagical weapon damage
+damage_immunities: Poison
+condition_immunities: Poisoned
 senses: string
 languages: string
 cr: 16
@@ -70,6 +72,4 @@ reactions:
 # Items:
 Amulet of Devout +1
 Bracers of Defence
-
-
-
+Ring of cold resistance
