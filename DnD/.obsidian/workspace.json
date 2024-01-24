@@ -236,6 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,6 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +275,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md"
+              }
             }
           },
           {
