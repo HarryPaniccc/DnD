@@ -29,18 +29,20 @@ senses: string
 languages: string
 cr: 16
 spells:
-  - Elandra is a 17th level spellcaster (Wisdom)
-  - 9th level (1 slot): Spell 1, spell 2
-  - 8th level ():
-  - 7th level ():
-  - 6th level ():
-  - 5th level ():
-  - 4th level ():
-  - 3rd level ():
-  - 2nd level ():
-  - 1st level ():
-  - cantrips:
+  - Elandra is a 17th level spellcaster (DC: 18, +10 to spell attacks, Wisdom, prepare 21 spells)
+  - 9th level (O): 
+  - 8th level (O):
+  - 7th level (O):
+  - 6th level (O):
+  - 5th level (O):
+  - 4th level (O O):
+  - 3rd level (O O O):
+  - 2nd level (O O O):
+  - 1st level (O O O O):
+  - cantrips: 
 traits:
+  - name: Channe Divinity Blood Domain (Crimson bond or Blood Puppet)
+    desc: 
   - name: Shapechanger
     desc: See the vampire statblock
   - name: Regeneration
@@ -71,8 +73,6 @@ reactions:
     desc: Moves reactively
   - ...
 ```
-
-
 
 # Items:
 Amulet of Devout +1

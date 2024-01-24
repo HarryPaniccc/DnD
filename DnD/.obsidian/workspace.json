@@ -161,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md",
+                "file": "General Notes and Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md",
+                "file": "General Notes and Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md"
+                "file": "General Notes and Ideas.md"
               }
             }
           },
@@ -303,10 +303,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "b83ac0caae53e504",
+  "active": "3062ac46bd8eabe2",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
     "Elandra, Duchess of the Vorciln.md",
+    "World of Helodaria/Lucius.md",
     "World of Helodaria/Diredahl.md",
     "Items/Aegis of the Onlooker.md",
     "World of Helodaria/Vessel of Avarice.md",
