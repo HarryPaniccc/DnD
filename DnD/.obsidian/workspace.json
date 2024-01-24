@@ -143,7 +143,7 @@
               "type": "markdown",
               "state": {
                 "file": "Elandra, Duchess of the Vorciln.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -303,7 +303,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d84878dd9fb3be26",
+  "active": "b83ac0caae53e504",
   "lastOpenFiles": [
     "Items/Aegis of the Onlooker.md",
     "Elandra, Duchess of the Vorciln.md",
