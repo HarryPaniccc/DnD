@@ -13,7 +13,7 @@ ac: 18 (Natural + Bracers of defence)
 hp: 204 (17d8 + 68)
 hit_dice:
 speed: 30 ft.
-stats: [18,18,18,17,18,15]
+stats: [18,18,18,11,18,15]
 saves:
   - Dex: +9
   - Wis: +9
@@ -33,9 +33,14 @@ spells:
   - 9th level (1 slot): Spell 1, spell 2
   - 8th level ():
   - 7th level ():
+  - 6th level ():
+  - 5th level ():
+  - 4th level ():
+  - 3rd level ():
+  - 2nd level ():
+  - 1st level ():
+  - cantrips:
 traits:
-  - name: Trait 1
-    desc: This monster has this trait
   - name: Shapechanger
     desc: See the vampire statblock
   - name: Regeneration
