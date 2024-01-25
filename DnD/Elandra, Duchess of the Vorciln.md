@@ -32,14 +32,14 @@ cr: 16
 spells:
   - Elandra is a 17th level spellcaster (DC: 18, +10 to spell attacks, Wisdom, prepare 21 spells)
   - 9th level (O): 
-  - 8th level (O):
-  - 7th level (O):
-  - 6th level (O):
-  - 5th level (O):
-  - 4th level (O O):
-  - 3rd level (O O O):
-  - 2nd level (O O O):
-  - 1st level (O O O O):
+  - 8th level (O): Earthquake
+  - 7th level (O): Firestorm, Etherealness
+  - 6th level (O): Word of Recall, Harm
+  - 5th level (O): Scrying
+  - 4th level (O O): Death Ward*, Banishment, Blight
+  - 3rd level (O O O): Dispel Magic, Sending, Speak w Dead, Spirit Guardians, Glyph of Warding
+  - 2nd level (O O O): Spiritual Weapon, Silence, Blindness/Deafness
+  - 1st level (O O O O): Inflict Wounds, Command, Detect Magic, Guiding Bolt
   - cantrips: Toll the Dead (4d8), Spare the Dying, Thaumaturgy, Light, Guidance
 traits:
   - name: Channe Divinity Blood Domain (Crimson bond or Blood Puppet)
@@ -67,7 +67,7 @@ actions:
   - name: Bite
     desc: +9 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6 + 2d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
   - name: Charm
-    desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see the vampire, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack. Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
+    desc: Elandra targets one humanoid she can see within 30 ft. of him. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack. Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
 legendary_actions:
   - name: Move
@@ -81,12 +81,11 @@ legendary_actions:
   - name: Sanguine Rosaria (Costs 3 actions)
     desc: Elandra collects the blood on the ground into the shape of weapons, summoning three third-level spiritual weapons as blood weapons, which she can move and attack with this turn (2d8 + 4) force damage
 bonus_actions:
-  - name: Bonus Act
-    desc: Time for bonus things
-  - ...
+  - name: Spiritual Weapon
+    desc: Spell of Weapons of the Spirit (DOES FORCE DAMAGE)
 reactions:
-  - name: Moves
-    desc: Moves reactively
+  - name: Attack of opportunity
+    desc: Nothing really here
   - ...
 ```
 
