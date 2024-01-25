@@ -2,7 +2,8 @@
 tags:
   - Character
 ---
-Stupid credentials
+
+
 ```statblock
 name: Elandra, Duchess of the Vorciln
 size: Medium
@@ -60,11 +61,11 @@ actions:
   - name: Multiattack
     desc: Elandra makes two attacks, one of which can be a bite. Or she makes two claw attacks and uses Bloodthorn Chains
   - name: Claws
-    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 nectoric or can grapple (escape DC 17
+    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 nectoric or can grapple (escape DC 17)
   - name: Bloodthorn Chains
     desc: One target within 60ft. Thorns of blood burst from the bloodstream and try to entangle the target. Target must succeed on a DC 18 Con save or suffer 3d8 necrotic damage and be restrained until the end of their next turn.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+    desc: +9 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6 + 2d8) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see the vampire, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack. Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
@@ -74,9 +75,11 @@ legendary_actions:
   - name: Cantrip
     desc: Elandra casts a cantrip
   - name: Claws
-    desc: Elandra makes an Claws attack
+    desc: Elandra makes an Claws attack or uses a summoned blood weapon
   - name: Bite (Costs 2 actions)
     desc: Elandra makes a bite attack
+  - name: Sanguine Rosaria (Costs 3 actions)
+    desc: Elandra collects the blood on the ground into the shape of weapons, summoning three third-level spiritual weapons as blood weapons, which she can move and attack with this turn (2d8 + 4) force damage
 bonus_actions:
   - name: Bonus Act
     desc: Time for bonus things
