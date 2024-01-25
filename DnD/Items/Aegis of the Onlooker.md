@@ -7,5 +7,3 @@ The Aegis is a great shield constructed of hammered steel and dark green iron. A
 ---
 > Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
 
-
-> **Note**: This format will change a lot, but right now I think that this template with the **Atom** theme looks good in print

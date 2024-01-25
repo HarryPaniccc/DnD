@@ -1,0 +1,2 @@
+- Stormshield clan went to Vanguard for the cube
+- Stonefoot clan is another clan

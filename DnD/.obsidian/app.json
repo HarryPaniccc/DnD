@@ -6,5 +6,6 @@
     "downscalePercent": 80
   },
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "promptDelete": false
 }

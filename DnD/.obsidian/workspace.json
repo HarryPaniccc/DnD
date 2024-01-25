@@ -69,24 +69,24 @@
             }
           },
           {
-            "id": "d84878dd9fb3be26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elandra, Duchess of the Vorciln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab18d802cdc53bde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Item Pricing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691edbdf647bb95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
       {
         "id": "9eedd15f5eb7d4bb",
         "type": "tabs",
-        "dimension": 51.97228144989339,
+        "dimension": 51.972281449893394,
         "children": [
           {
             "id": "68d0e2aadc0053c0",
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Item Pricing.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Item Pricing.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item Pricing.md"
+                "file": "World of Helodaria/Deities of Helodaria.md"
               }
             }
           },
@@ -315,11 +315,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "ab18d802cdc53bde",
+  "active": "691edbdf647bb95e",
   "lastOpenFiles": [
-    "Item Pricing.md",
-    "Elandra, Duchess of the Vorciln.md",
     "Items/Aegis of the Onlooker.md",
+    "Statblocks/Suc(In)cubus.md",
+    "Statblocks/Adult White Dragon.md",
+    "Elandra, Duchess of the Vorciln.md",
+    "Succubus Incubus.md",
+    "Untitled",
+    "Item Pricing.md",
+    "Uldronos Council.md",
     "World of Helodaria/Lucius.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Diredahl.md",
@@ -340,10 +345,6 @@
     "Items/Gem of Brightness.md",
     "Items/Dawnmail.md",
     "Attachments/Pasted image 20240121113005.png",
-    "Session Notes/Session 66 - The Ethfalian Caverns.md",
-    "World of Helodaria/Steinefni Mining Company.md",
-    "World of Helodaria/Malar.md",
-    "World of Helodaria/Republic of Ruina.md",
     "Attachments/Pasted Image 20240106212953_129.png",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted Image 20231212184614_693.png",

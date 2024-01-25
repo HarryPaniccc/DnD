@@ -1,7 +1,7 @@
 ---
 tags: Lore, Core
 ---
-The deities of [[Helodaria]] are extremely powerful entities, worshipped by large temples or cults. The most powerful and oldest of these beings are the [[Founding Gods]]. These deities were the first beings to find their way to Helodaria, ending the [[History of Helodaria#The Eternity of Before|Eternity of Before]], and enforcing order over the collapsing elemental chaos. Younger Gods found their way among the pantheons of Helodaria. Godly children of the Founding Gods took hold of their respective domains, and demigods ascended and fell over history.
+SThe deities of [[Helodaria]] are extremely powerful entities, worshipped by large temples or cults. The most powerful and oldest of these beings are the [[Founding Gods]]. These deities were the first beings to find their way to Helodaria, ending the [[History of Helodaria#The Eternity of Before|Eternity of Before]], and enforcing order over the collapsing elemental chaos. Younger Gods found their way among the pantheons of Helodaria. Godly children of the Founding Gods took hold of their respective domains, and demigods ascended and fell over history.
 
 Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed away or banished from the [[Material Plane]] imposed upon themselves an exile, in which their true forms were not able to return to the Materium for the safety of the celestial order. The gods now reside in their homes, and prisons, in the outer planes, and other locations in the [[Multiverse]].
 # The [[Founding Gods]]
