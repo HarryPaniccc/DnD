@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-Just doing one more change on arch to test it, then we should be good
+
 ```statblock
 name: Elandra, Duchess of the Vorciln
 size: Medium
@@ -75,7 +75,7 @@ legendary_actions:
     desc: Elandra casts a cantrip
   - name: Claws
     desc: Elandra makes an Claws attack
-  - name: Bit
+  - name: Bite (Costs 2 actions)
     desc: Elandra makes a bite attack
 bonus_actions:
   - name: Bonus Act

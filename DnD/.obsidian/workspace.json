@@ -79,17 +79,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e10bb70732cef6cb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "9eedd15f5eb7d4bb",
@@ -236,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "file": "Elandra, Duchess of the Vorciln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md"
+                "file": "Elandra, Duchess of the Vorciln.md"
               }
             }
           },
@@ -311,7 +303,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e10bb70732cef6cb",
+  "active": "d84878dd9fb3be26",
   "lastOpenFiles": [
     "Elandra, Duchess of the Vorciln.md",
     "Items/Aegis of the Onlooker.md",
