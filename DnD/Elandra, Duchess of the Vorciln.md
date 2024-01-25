@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-
+Stupid credentials
 ```statblock
 name: Elandra, Duchess of the Vorciln
 size: Medium
