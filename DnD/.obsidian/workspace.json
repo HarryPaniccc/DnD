@@ -79,9 +79,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab18d802cdc53bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item Pricing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "9eedd15f5eb7d4bb",
@@ -228,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md",
+                "file": "Item Pricing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md",
+                "file": "Item Pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elandra, Duchess of the Vorciln.md"
+                "file": "Item Pricing.md"
               }
             }
           },
@@ -303,8 +315,9 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d84878dd9fb3be26",
+  "active": "ab18d802cdc53bde",
   "lastOpenFiles": [
+    "Item Pricing.md",
     "Elandra, Duchess of the Vorciln.md",
     "Items/Aegis of the Onlooker.md",
     "World of Helodaria/Lucius.md",
@@ -331,7 +344,6 @@
     "World of Helodaria/Steinefni Mining Company.md",
     "World of Helodaria/Malar.md",
     "World of Helodaria/Republic of Ruina.md",
-    "Excalidraw/Westmarches notes.md",
     "Attachments/Pasted Image 20240106212953_129.png",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted Image 20231212184614_693.png",
