@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Aegis of the Onlooker.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Aegis of the Onlooker.md",
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Aegis of the Onlooker.md",
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Aegis of the Onlooker.md"
+                "file": "World of Helodaria/Kingdom of Sirkonos.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   },
   "active": "3b2a6831c271b3d7",
   "lastOpenFiles": [
+    "World of Helodaria/Kingdom of Sirkonos.md",
     "Statblocks/Vorciln Purge Inquisitor.md",
     "Statblocks/Kronesguard Ranger.md",
     "World of Helodaria/Vessel of Avarice.md",
@@ -254,17 +255,16 @@
     "World of Helodaria/Lucius.md",
     "World of Helodaria/Diredahl.md",
     "Items/Aegis of the Onlooker.md",
-    "Elandra, Duchess of the Vorciln.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Item Pricing.md",
     "World of Helodaria/Deities of Helodaria.md",
     "Statblocks/Suc(In)cubus.md",
     "Statblocks/Adult White Dragon.md",
     "Succubus Incubus.md",
     "Untitled",
-    "Uldronos Council.md",
+    "World of Helodaria/Uldronos Council.md",
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Ieyemra.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Strahldale.md",
     "Helodarian Firearms.md",
     "Items/Until Dawn.md",
