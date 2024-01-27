@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "c5e8504d48d2457a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d0f54369d17421b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 74 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
@@ -97,7 +115,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 74 -.md",
+                "file": "Vorciln Tithe Inquisitor.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,26 +139,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tithe Inquisitor General.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fcdaada69390ff1b",
+            "id": "5b6faa59f7716b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vorciln Tithing Blade.md",
+                "file": "Statblocks/Vorciln Purge Inquisitor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vorciln Tithing Blade.md",
+                "file": "Session Notes/Session 74 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vorciln Tithing Blade.md",
+                "file": "Session Notes/Session 74 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vorciln Tithing Blade.md"
+                "file": "Session Notes/Session 74 -.md"
               }
             }
           },
@@ -281,25 +299,27 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "fcdaada69390ff1b",
+  "active": "1d0f54369d17421b",
   "lastOpenFiles": [
-    "Tithe Inquisitor General.md",
-    "Vorciln Tithing Blade.md",
-    "World of Helodaria/Lucius.md",
-    "Vanguard Campaign Journal.md",
-    "Tithe Inquisitor.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Session Notes/Session 74 -.md",
+    "Vorciln Tithe Inquisitor General.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Statblocks/Vorciln Purge Inquisitor.md",
+    "Vorciln Tithing Blade.md",
+    "Vorciln Tithe Inquisitor.md",
+    "World of Helodaria/Lucius.md",
+    "Statblocks/Roc.md",
+    "Junk.md",
+    "Vanguard Campaign Journal.md",
     "World of Helodaria/Strahldale.md",
     "Statblocks/Kronesguard Ranger.md",
     "World of Helodaria/Vessel of Avarice.md",
     "General Notes and Ideas.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Items/Aegis of the Onlooker.md",
     "Statblocks/Vampire.md",
     "World of Helodaria/Uldronos Council.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "Statblocks/Vorciln Purge Inquisitor.md",
     "World of Helodaria/Diredahl.md",
     "Item Pricing.md",
     "World of Helodaria/Deities of Helodaria.md",
@@ -308,8 +328,6 @@
     "Succubus Incubus.md",
     "Untitled",
     "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Ieyemra.md",
-    "Helodarian Firearms.md",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",
     "Attachments/Pasted image 20231217153118.png",

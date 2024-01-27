@@ -1,6 +1,6 @@
 	
 ```statblock
-name: Tithe Inquisitor General
+name: Vorciln Tithe Inquisitor General
 size: Medium
 type: Fiend
 alignment: Lawful Evil
@@ -39,7 +39,7 @@ actions:
   - name: Shield Bash
     desc: Melee weapon, +8, reach 5ft. (1d8 + 4) Bludgeoning damage and pushed 10ft. away
   - name: Firebolt
-    desc: Ranged spell attck, +7, 120ft. range (2d10) Fire damage
+    desc: Ranged spell attack, +7, 120ft. range (2d10) Fire damage
 bonus_actions:
   - name: Fury of the Nine
     desc: The Inquisitor General chooses another creature that can see or hear it within 120 feet. That creature gains advantage on all attack rolls and saving throws for the next minute or until the cambion uses this ability again.

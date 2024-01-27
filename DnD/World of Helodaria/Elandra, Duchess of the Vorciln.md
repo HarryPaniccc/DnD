@@ -61,7 +61,7 @@ actions:
   - name: Multiattack
     desc: Elandra makes two attacks, one of which can be a bite. Or she makes two claw attacks and uses Bloodthorn Chains
   - name: Claws
-    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 nectoric or can grapple (escape DC 17)
+    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 necrotic or can grapple (escape DC 17)
   - name: Bloodthorn Chains
     desc: One target within 60ft. Thorns of blood burst from the bloodstream and try to entangle the target. Target must succeed on a DC 18 Con save or suffer 3d8 necrotic damage and be restrained until the end of their next turn.
   - name: Bite
