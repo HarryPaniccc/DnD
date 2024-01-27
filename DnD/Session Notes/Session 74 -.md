@@ -1,11 +1,16 @@
 **GENERAL NOTES**
 - There are three hellish pillars being used to channel the magic of the Chalice between the planes. 
+- At the north most apex of the town sits Castle Vorciln overlooking the occupied territory
+- Behind it
 
 While preparing the Raid on [[Strahldale]], the Vanguard will hear the sound of weapons being drawn and monstrous baying outside, as well as stabs and shouts. They will be attacked by Yeth hounds and Redcaps, fowl fey gnome-like creatures with hats stained and dripping in blood. They wield massive curved blades.
 
 **ENCOUNTER: Redcaps x 3, Yeth Hounds x 6**
 - Yeth Hounds: HP 51
 - Redcaps: HP 4
+
+
+**ENCOUNTER: Elandra, Succubus, Incubus, Abjurer (Borovik the Magician), Cultists x 3, Wolven Chimaera**
 # Strahldale
 Strahldale is in flames. To the east, the fields used for grazing and farming are mostly burned, and the farmhouses ransacked and destroyed. The [[Miletohr Wilds]] provide cover that stretches around the east and northeast borders of the village. The [[Vorciln]] have instilled an iron-grip on the town, turning into a vile encampment of occult magic and violence.
 
