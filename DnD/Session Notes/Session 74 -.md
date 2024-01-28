@@ -9,8 +9,10 @@ While preparing the Raid on [[Strahldale]], the Vanguard will hear the sound of 
 - Yeth Hounds: HP 51
 - Redcaps: HP 4
 
+**ENCOUNTER: Hell Roc + Cambion + Merregon x 2 + Tithe Inquisitor x 2 + Vorciln Knights x 3**
 
 **ENCOUNTER: Elandra, Succubus, Incubus, Abjurer (Borovik the Magician), Cultists x 3, Wolven Chimaera**
+- Elandra
 # Strahldale
 Strahldale is in flames. To the east, the fields used for grazing and farming are mostly burned, and the farmhouses ransacked and destroyed. The [[Miletohr Wilds]] provide cover that stretches around the east and northeast borders of the village. The [[Vorciln]] have instilled an iron-grip on the town, turning into a vile encampment of occult magic and violence.
 
@@ -33,24 +35,16 @@ The center of town has been turned into a channeling region for the Tithe Inquis
 
 Average battalion stealth check is +3, +13 with
 # Statblocks
-```statblock
-monster: Roc
-```
+
 ```statblock
 monster: Vorciln Purge Inquisitor
 ```
 ```statblock
 monster: Tithe Inquisitor General
 ```
-```statblock
-monster: Succubus/Incubus
-```
+
 
 ```statblock
 monster: Elandra, Duchess of the Vorciln
 ```
 
-
-```statblock
-monster: Hell Hound
-```
