@@ -1,0 +1,1 @@
+A rounder and heavier man than most, Thron is cold and focussed on his work, but kind to the children of Strahldale. He is bald and low eyed, and deep of voice. Thron is experienced in combat; in his youth he was part of an adventuring party who used to hunt lycans and other beasts of the sirkonian wastes for bounties.

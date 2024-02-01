@@ -23,6 +23,8 @@ The large stretch of wilderness that curves below and into the foothills of the 
 - [[Strahldale]]: An idyllic, calm farming village situated in the foothills of the [[Maghlas Mountains]] and overlooking the Wilds, the Wastes, and the Kingdom
 - The [[Sieleran River]]: A mineral-rich river that flows through the northern wilds of Sirkonos, and cuts through [[Strahldale]]
 - The [[Ethfalian Caverns]]: A large, mineral-rich network of caves that lead to the underdark and to [[Kenifria]]
+- [[Ahnzlad Pass]] is a path that leads north of [[Brocia]]
+- [[Steinjotunenwand]] or the Giant's Ward Fortress (Notes for this and Ahnzlad Pass are in Session 64)
 ### [[Maghlas Mountains]]
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
 ### 
