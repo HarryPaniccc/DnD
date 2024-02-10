@@ -10,15 +10,15 @@ ac: 19
 hp: 210
 hit_dice: Hit Dice
 speed: 35ft.
-stats: [18, 20, 16, 18, 12, 14]
+stats: [20, 20, 16, 18, 12, 14]
 saves:
-  - Str: +8
+  - Str: +9
   - Dex: +14
   - Con: +7
   - Int: +9
 skillsaves:
   - Acrobatics: +10
-  - Athletics: +9
+  - Athletics: +10
   - History: +9
   - Insight: +6
   - Intimidation: +6

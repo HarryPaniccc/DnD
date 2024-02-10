@@ -138,8 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fea53daacb87337b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Duskdrinker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -205,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 75 -.md",
+                "file": "World of Helodaria/Tevis Einzbern.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 75 -.md",
+                "file": "World of Helodaria/Tevis Einzbern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 75 -.md"
+                "file": "World of Helodaria/Tevis Einzbern.md"
               }
             }
           },
@@ -280,20 +293,24 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d1003b9104f7e078",
+  "active": "e5798f6cb7567866",
   "lastOpenFiles": [
-    "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "Session Notes/Session 75 -.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Items/Duskdrinker.md",
     "World of Helodaria/Tevis Einzbern.md",
+    "Items/Bracers of Defence.md",
+    "Items/Ring of Cold Resistance.md",
+    "Items/Amulet of the Devout +1.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Session Notes/Session 75 -.md",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Session Notes/Session 74 - The Battle of Strahldale.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "Statblocks/Vorciln Purge Inquisitor.md",
     "Item Pricing.md",
     "World of Helodaria/Lucius.md",
     "World of Helodaria/Helodaria.md",
     "Items/Aegis of the Onlooker.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Strahldale.md",
     "World of Helodaria/Thron Richter.md",
     "World of Helodaria/Lund.md",
@@ -304,10 +321,6 @@
     "Items/Until Dawn.md",
     "Session Notes/Session 72 - Gathering a Storm.md",
     "Statblocks/Roc.md",
-    "Junk.md",
-    "Vanguard Campaign Journal.md",
-    "Statblocks/Kronesguard Ranger.md",
-    "World of Helodaria/Vessel of Avarice.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

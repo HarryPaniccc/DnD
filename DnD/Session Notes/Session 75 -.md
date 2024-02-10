@@ -22,3 +22,14 @@ There will be a moment of rest as the Silver arrow decides their next move and a
 Raiders go in with them into hall and are cut off by living castle? Half orc will be with them, as well as the tieflings.
 
 ##
+Statblocks needed
+- Abjurer
+- Flameskull
+- Skeletons
+- Elandra
+- Cult Fanatics
+- Vampire Spawn (Edited)
+- Inquisitor General
+- Cambions
+- Succubus/incubus
+- Tevis
