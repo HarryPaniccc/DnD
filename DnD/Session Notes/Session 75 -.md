@@ -20,16 +20,11 @@ There will be a moment of rest as the Silver arrow decides their next move and a
 - If things are swinging away from the players have the knights 
 
 Raiders go in with them into hall and are cut off by living castle? Half orc will be with them, as well as the tieflings.
-
-##
-Statblocks needed
-- Abjurer
-- Flameskull
-- Skeletons
-- Elandra
-- Cult Fanatics
-- Vampire Spawn (Edited)
-- Inquisitor General
-- Cambions
-- Succubus/incubus
-- Tevis
+### Initiatives, AC, HP
+- General (21) AC = 22, HP = 210
+- Fanatic (19) AC = 13, HP = 33
+- Flameskull (14) AC = 13, HP = 40
+- Cambion (10) AC = 19, HP = 82
+- Spawn Soldiers (6) AC = 16 (Scale Male), HP = 82
+- Skeleton (6) AC = 13, HP = 13
+- Abjurer (4) AC = 15 (Mage Armor), HP = 84

@@ -151,8 +151,7 @@
               }
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Tevis Einzbern.md",
+                "file": "Session Notes/Session 75 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Tevis Einzbern.md",
+                "file": "Session Notes/Session 75 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Tevis Einzbern.md"
+                "file": "Session Notes/Session 75 -.md"
               }
             }
           },
@@ -272,6 +271,20 @@
                 "showSearch": false,
                 "searchQuery": ""
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee48a746dc2bbf54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "487cd97855bbb967",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
             }
           }
         ]
@@ -293,16 +306,18 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e5798f6cb7567866",
+  "active": "d1003b9104f7e078",
   "lastOpenFiles": [
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Session Notes/Session 75 -.md",
     "Items/Duskdrinker.md",
+    "Statblocks of Session 75.md",
+    "Items/Aegis of the Onlooker.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Items/Bracers of Defence.md",
     "Items/Ring of Cold Resistance.md",
     "Items/Amulet of the Devout +1.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-    "Session Notes/Session 75 -.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
@@ -310,7 +325,6 @@
     "Item Pricing.md",
     "World of Helodaria/Lucius.md",
     "World of Helodaria/Helodaria.md",
-    "Items/Aegis of the Onlooker.md",
     "World of Helodaria/Strahldale.md",
     "World of Helodaria/Thron Richter.md",
     "World of Helodaria/Lund.md",
@@ -320,7 +334,6 @@
     "Helodarian Firearms.md",
     "Items/Until Dawn.md",
     "Session Notes/Session 72 - Gathering a Storm.md",
-    "Statblocks/Roc.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",
