@@ -80,6 +80,8 @@ legendary_actions:
     desc: Elandra makes a bite attack
   - name: Sanguine Rosaria (Costs 3 actions)
     desc: Elandra collects the blood on the ground into the shape of weapons, summoning three third-level spiritual weapons as blood weapons, which she can move and attack with this turn (2d8 + 4) force damage
+  - name: Control Sanguine Rosaria
+    desc: She moves and attacks with a weapon
 bonus_actions:
   - name: Spiritual Weapon
     desc: Spell of Weapons of the Spirit (DOES FORCE DAMAGE)
