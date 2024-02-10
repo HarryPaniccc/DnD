@@ -61,7 +61,7 @@ actions:
   - name: Multiattack
     desc: Elandra makes two attacks, one of which can be a bite. Or she makes two claw attacks and uses Bloodthorn Chains
   - name: Claws
-    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 necrotic or can grapple (escape DC 17)
+    desc: Melee attack; +9 to hit, 1d6 + 4 slashing + 2d8 cold or can grapple (escape DC 17)
   - name: Bloodthorn Chains
     desc: One target within 60ft. Thorns of blood burst from the bloodstream and try to entangle the target. Target must succeed on a DC 18 Con save or suffer 3d8 necrotic damage and be restrained until the end of their next turn.
   - name: Bite
@@ -80,8 +80,6 @@ legendary_actions:
     desc: Elandra makes a bite attack
   - name: Sanguine Rosaria (Costs 3 actions)
     desc: Elandra collects the blood on the ground into the shape of weapons, summoning three third-level spiritual weapons as blood weapons, which she can move and attack with this turn (2d8 + 4) force damage
-  - name: Control Sanguine Rosaria
-    desc: She moves and attacks with a weapon
 bonus_actions:
   - name: Spiritual Weapon
     desc: Spell of Weapons of the Spirit (DOES FORCE DAMAGE)

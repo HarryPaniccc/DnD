@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "fea53daacb87337b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Duskdrinker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fba3fb5da27ce0b0",
             "type": "leaf",
             "state": {
@@ -32,72 +44,36 @@
             }
           },
           {
-            "id": "26f15c64f6d04271",
+            "id": "97b17abe01f4c5b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Aegis of the Onlooker.md",
+                "file": "Items/Bracers of Defence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a034600d0c9dd3b5",
+            "id": "9d9283e30e22600d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Vorciln Tithing Blade.md",
+                "file": "Items/Amulet of the Devout +1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8018674d6e4af37c",
+            "id": "1e92271cde34f7fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Strahldale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c4f88fd0a0c4dea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Vessel of Avarice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3062ac46bd8eabe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3605931e330b1fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Items/Ring of Cold Resistance.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,18 +92,6 @@
             }
           },
           {
-            "id": "5b6faa59f7716b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Vorciln Purge Inquisitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5798f6cb7567866",
             "type": "leaf",
             "state": {
@@ -140,18 +104,67 @@
             }
           },
           {
-            "id": "fea53daacb87337b",
+            "id": "5b6faa59f7716b93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Duskdrinker.md",
+                "file": "Statblocks/Vorciln Purge Inquisitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3062ac46bd8eabe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e008da992b6eeef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Vessel of Avarice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ff2803955ad657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Strahldale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3605931e330b1fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -217,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 75 -.md",
+                "file": "World of Helodaria/Strahldale.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 75 -.md",
+                "file": "World of Helodaria/Strahldale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 75 -.md"
+                "file": "World of Helodaria/Strahldale.md"
               }
             }
           },
@@ -306,34 +319,34 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d1003b9104f7e078",
+  "active": "56ff2803955ad657",
   "lastOpenFiles": [
-    "Items/Duskdrinker.md",
-    "Session Notes/Session 75 -.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Lucius.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Statblocks of Session 75.md",
-    "Items/Aegis of the Onlooker.md",
-    "World of Helodaria/Tevis Einzbern.md",
-    "Items/Bracers of Defence.md",
+    "Session Notes/Session 75 -.md",
+    "Items/Duskdrinker.md",
+    "World of Helodaria/Strahldale.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "General Notes and Ideas.md",
     "Items/Ring of Cold Resistance.md",
     "Items/Amulet of the Devout +1.md",
+    "Items/Bracers of Defence.md",
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Items/Aegis of the Onlooker.md",
+    "Items/Vorciln Tithing Blade.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Statblocks of Session 75.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "Statblocks/Vorciln Purge Inquisitor.md",
     "Item Pricing.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Strahldale.md",
     "World of Helodaria/Thron Richter.md",
     "World of Helodaria/Lund.md",
     "World of Helodaria/Splitmount.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "Items/Vorciln Tithing Blade.md",
     "Helodarian Firearms.md",
-    "Items/Until Dawn.md",
-    "Session Notes/Session 72 - Gathering a Storm.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

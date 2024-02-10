@@ -20,7 +20,7 @@ There will be a moment of rest as the Silver arrow decides their next move and a
 Raiders go in with them into hall and are cut off by living castle? Half orc will be with them, as well as the tieflings.
 ### Initiatives, AC, HP
 - General (21) AC = 22, HP = 210
-- Fanatic (19) AC = 13, HP = 33
+- Fanatic (19) AC = 13, HP = 53
 - Kronesguard Knights (18) AC = 18, HP = 52
 - Flameskull (14) AC = 13, HP = 40
 - Cambion (10) AC = 19, HP = 82
@@ -33,3 +33,4 @@ The castle's rear balconies overlook a massive hole tunneled down into a differe
 
 ## Ethfalian Hallways
 **ENCOUNTER: Elandra, Tevis, and maybe a chimera from behind**
+

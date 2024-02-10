@@ -1,4 +1,4 @@
-	
+
 ```statblock
 name: Vorciln Tithe Inquisitor General
 size: Medium
