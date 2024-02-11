@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "fba3fb5da27ce0b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Vorciln Tithe Inquisitor General.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97b17abe01f4c5b9",
             "type": "leaf",
             "state": {
@@ -74,6 +62,18 @@
               "type": "markdown",
               "state": {
                 "file": "Items/Ring of Cold Resistance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fba3fb5da27ce0b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Vorciln Tithe Inquisitor General.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3dfda769a92d616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Strahldale.md",
+                "file": "Junk.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Strahldale.md",
+                "file": "Junk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Strahldale.md"
+                "file": "Junk.md"
               }
             }
           },
@@ -319,22 +332,23 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "56ff2803955ad657",
+  "active": "d3dfda769a92d616",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Junk.md",
     "Session Notes/Session 75 -.md",
-    "Items/Duskdrinker.md",
-    "World of Helodaria/Strahldale.md",
-    "World of Helodaria/Vessel of Avarice.md",
-    "General Notes and Ideas.md",
     "Items/Ring of Cold Resistance.md",
     "Items/Amulet of the Devout +1.md",
     "Items/Bracers of Defence.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Items/Duskdrinker.md",
+    "World of Helodaria/Strahldale.md",
+    "World of Helodaria/Lucius.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "General Notes and Ideas.md",
     "Items/Aegis of the Onlooker.md",
     "Items/Vorciln Tithing Blade.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-    "World of Helodaria/Tevis Einzbern.md",
     "Statblocks of Session 75.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
@@ -346,7 +360,6 @@
     "World of Helodaria/Lund.md",
     "World of Helodaria/Splitmount.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "Helodarian Firearms.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

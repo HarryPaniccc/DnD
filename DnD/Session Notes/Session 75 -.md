@@ -33,4 +33,3 @@ The castle's rear balconies overlook a massive hole tunneled down into a differe
 
 ## Ethfalian Hallways
 **ENCOUNTER: Elandra, Tevis, and maybe a chimera from behind**
-

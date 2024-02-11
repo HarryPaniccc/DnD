@@ -7,8 +7,8 @@ type: Humanoid (Bloodhunter Profane Soul 13, Fighter 3)
 subtype: Human
 alignment: Lawful Evil 
 ac: 19
-hp: 210
-hit_dice: Hit Dice
+hp: 210 or 140
+hit_dice: 
 speed: 35ft.
 stats: [20, 20, 16, 18, 12, 14]
 saves:
