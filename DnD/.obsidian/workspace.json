@@ -174,9 +174,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "13241cd3681b6590",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ceaseless Arc.canvas",
+                "viewState": {
+                  "x": 250.22270344144096,
+                  "y": -6.67117746886241,
+                  "zoom": -0.40000000000000013
+                }
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -243,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junk.md",
+                "file": "Ceaseless Arc.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Junk.md",
+                "file": "Ceaseless Arc.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junk.md"
+                "file": "Ceaseless Arc.canvas"
               }
             }
           },
@@ -332,12 +347,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d3dfda769a92d616",
+  "active": "13241cd3681b6590",
   "lastOpenFiles": [
+    "Ceaseless Arc.canvas",
+    "Junk.md",
     "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Junk.md",
     "Session Notes/Session 75 -.md",
     "Items/Ring of Cold Resistance.md",
     "Items/Amulet of the Devout +1.md",
@@ -359,7 +375,6 @@
     "World of Helodaria/Thron Richter.md",
     "World of Helodaria/Lund.md",
     "World of Helodaria/Splitmount.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",
