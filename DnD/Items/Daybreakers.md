@@ -20,7 +20,7 @@ The Daybreakers grow in strength in accordance to the rules of the Vestiges of D
 - When you activate your avatar form, blazing wings sprout from your back. While in your form, you gain a flying speed of 60ft.
 ### The Daybreakers (Exalted)
 ---
-*Wonderous Item (Gauntlets), Legendary (Requires Attunement)*
+*Wondrous Item (Gauntlets), Legendary (Requires Attunement)*
 Crafted of brass and mithral, these heavy ornate gauntlets are a symbol of power for those who know their history, the runes marking their edges shimmering with energy. While wearing and attuned to the Daybreakers, the wearer gains the following benefits:
 
 You have resistance to necrotic and radiant damage, and you have darkvision out to 30ft. If you already had darkvision, it is extended by 30ft.

@@ -176,16 +176,16 @@
             }
           },
           {
-            "id": "13241cd3681b6590",
+            "id": "a572392e88fb3f9e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Ceaseless Arc.canvas",
                 "viewState": {
-                  "x": 250.22270344144096,
-                  "y": -6.67117746886241,
-                  "zoom": -0.40000000000000013
+                  "x": 147.22095179233645,
+                  "y": 107.99038161660397,
+                  "zoom": -0.6138579727741132
                 }
               }
             }
@@ -241,8 +241,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -347,10 +346,19 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "13241cd3681b6590",
+  "active": "a572392e88fb3f9e",
   "lastOpenFiles": [
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Deities of Helodaria.md",
     "Ceaseless Arc.canvas",
     "Junk.md",
+    "World of Helodaria/Einzberns.md",
+    "Items/Daybreakers.md",
+    "Helodarian Firearms.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Dakhor.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
@@ -366,15 +374,6 @@
     "Items/Aegis of the Onlooker.md",
     "Items/Vorciln Tithing Blade.md",
     "Statblocks of Session 75.md",
-    "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-    "Statblocks/Vorciln Tithe Inquisitor.md",
-    "Statblocks/Vorciln Purge Inquisitor.md",
-    "Item Pricing.md",
-    "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Thron Richter.md",
-    "World of Helodaria/Lund.md",
-    "World of Helodaria/Splitmount.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",
