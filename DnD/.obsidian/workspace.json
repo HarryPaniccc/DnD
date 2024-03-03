@@ -176,27 +176,24 @@
             }
           },
           {
-            "id": "a572392e88fb3f9e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ceaseless Arc.canvas",
-                "viewState": {
-                  "x": 153.34233621755277,
-                  "y": 33.003422407703994,
-                  "zoom": -0.6138579727741132
-                }
-              }
-            }
-          },
-          {
             "id": "48c3d1d5349cf243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightfall, The Twilight Blade.md",
+                "file": "Helodarian Firearms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d64db4d1d3427be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -270,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nightfall, The Twilight Blade.md",
+                "file": "General Notes and Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nightfall, The Twilight Blade.md",
+                "file": "General Notes and Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nightfall, The Twilight Blade.md"
+                "file": "General Notes and Ideas.md"
               }
             }
           },
@@ -359,16 +356,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "48c3d1d5349cf243",
+  "active": "d64db4d1d3427be5",
   "lastOpenFiles": [
-    "Nightfall, The Twilight Blade.md",
     "Ceaseless Arc.canvas",
+    "Helodarian Firearms.md",
+    "Nightfall, The Twilight Blade.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Deities of Helodaria.md",
     "Junk.md",
     "World of Helodaria/Einzberns.md",
     "Items/Daybreakers.md",
-    "Helodarian Firearms.md",
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Dakhor.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
@@ -387,7 +384,6 @@
     "General Notes and Ideas.md",
     "Items/Aegis of the Onlooker.md",
     "Items/Vorciln Tithing Blade.md",
-    "Statblocks of Session 75.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

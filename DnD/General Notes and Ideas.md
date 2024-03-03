@@ -18,6 +18,10 @@ tags:
 - [ ] Zakuul motivations
 - [ ] Sirkon motivations
 # Scratch Notes
+- Wood elf warriors
+- Spirit type stuff
+- Talking with no one
+- Kitsune fox totem
 # Vorciln Sirkonos
 - [[Lucius]] wants to use the [[Vessel of Avarice]] to break [[Athelstan]] out of his bindings and 
 - Final battle will have the chalice ritual be interruptible

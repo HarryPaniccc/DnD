@@ -1,6 +1,6 @@
 # Nightfall, the Twilight Blade
 
-*Type (type), attunement, rarity*
+*Type (type), attunement, rarity*s
 This item has abilities. The abilities go here. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
 
 ---
