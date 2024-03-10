@@ -19,7 +19,7 @@ Isilme wears a longsword of deep gray and flakes of obsidian with her at all tim
 # Biography
 ---
 ## Before the Campaign
-Isilme was raised in the guards quarters of [[Castle Anavar]] in the city center of [[Dularen]]. She is the bastard child of two families: Her mother is the child of [[House Vanariel]] of the [[Uldronos Council]], whose father once sat on the council. Her father was the lieutenant of the guard of the house and formed a romantic relationship with Isilme's mother. When the pregnancy was discovered by [[Ulrandir Vanariel|Ulrandir]], Isilme's grandfather, Isilme's father disappeared from Dularen and was not seen again.
+Isilme was raised in the guards quarters of [[Castle Anavar]] in the city center of [[Dularen]]. She is the bastard child of two families: Her mother is the child of [[House Vanariel]] of the [[Uldronos Council]], whose father once sat on the council. Her father was the lieutenant of the guard of the house and formed a romantic relationship with Isilme's mother. When the pregnancy was discovered by [[Ulrandir Vanariel|Ulrandir]], Isilme's grandfather, Isilme's father disappeared from Dularen and was not seen again. 
 
 Isilme was raised in the ranks of the guards, her mother was unable to either part with her completely, but she was unable to provide her any love either. [[Minra Vanariel|Minra]], Isilme's mother, learned to eventually ignore her feelings for Isilme, and grew colder as Isilme grew older, but never really managed to let Isilme go.
 ## Campaign One: Vanguard
