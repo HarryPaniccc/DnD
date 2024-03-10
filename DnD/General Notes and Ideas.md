@@ -3,7 +3,7 @@ tags:
   - Core
 ---
 # To do list
-- [ ] Session notes
+- [x] Session notes
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters
