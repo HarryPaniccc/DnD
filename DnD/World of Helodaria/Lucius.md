@@ -2,6 +2,76 @@
 tags:
   - Character
 ---
+# Statblock Design 2
+```statblock
+name: Lucius
+size: Medium
+type: Undead
+subtype: Shapechanger
+alignment: Lawful Evil
+ac: CALCULATE (Add shield maybe)
+hp: CALCULATE
+stats: [18,18,18,17,15,18]
+cr: 20
+saves:
+  - Dexterity: +10
+  - Wisdom: +8
+  - Charisma: +10
+skillsaves:
+  - Arcana: +9
+  - Athletics: +10
+  - Deception: +10
+  - Medicine: +9
+  - Perception: +8
+  - Persuasion: +10
+  - Stealth: +10
+damage_resistances: nectrotic; bludgeoning, piercing and slashing from nonmagical weapons
+damage_immunities: fire (Hellish Attunement)
+languages: Common, Infernal, Sirkonian, Elvish
+traits:
+  - name: Shapechanger
+  - name: Regeneration
+    desc: Heal 20 HP at the start of his turn unless he was damaged by radiant damage since his last turn, or in sunlight or running water.
+  - name: Spider Climb
+  - name: Vampire Weaknesses
+    desc: Running Water + Forbiddence + Sunlight + Stake to the Heart
+  - name : Legendary Resistance (3/Day)
+  - name: Misty Escape
+  - name: Hurl Through Hell (1/day)
+  - name: STAFF THINGY
+
+spells:
+  - Lucius is a spellcaster with spell save DC of PROBABLY 20
+  - At will: Misty Step
+  - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift
+  - "*Lucius casts this spell on himself at the start of combat"
+
+actions:
+  - name: Multiattack
+    desc: Lucius makes three attacks. One slam, one staff strike, and one infernal blast.
+  - name: Slam
+    desc: Melee attack; +11 to hit, 2d6 + 5 bludgeoning damage.
+  - name: Bite
+    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+  - name: Charm
+    desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
+bonus_actions:
+  - name: Helfire Rite
+    desc: Both hands are ignited in a hellfire rite. When a hand is used in an attack while rited, the target suffers an additional 2d8 fire damage, and creatures within 5 ft. of the target of the attack suffer 2d8 + 4 fire damage.
+legendary_actions:
+  - name: Aether Dash
+    desc: Lucius steps into the border ethereal, traversing as though using a blood hunter's Aether Step, and moves up to his speed without provoking opportunity attacks. After he finishes moving, he returns to the material plane.
+  - name: Attack
+    desc: Lucius makes one slam attack.
+  - name: Wrathflight (Costs 2 Actions)
+    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 5 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
+```
+#### Shapechanger
+---
+## Lucius is buffed by the amount of pillars
+
+## Items
+- [[Lucis' Staff]]
 # Abilities
 ## Statblock
 ```statblock

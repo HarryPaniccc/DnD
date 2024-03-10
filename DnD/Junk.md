@@ -26,3 +26,6 @@ While you wear this amulet, you can use your Channel Divinity feature without ex
 
 *Ring, Rare (requires attunement)*
 You have resistance to cold damage while wearing this ring. The ring is set with tourmaline.
+
+
+!https://5e.tools/bestiary.html#vampire_mm
