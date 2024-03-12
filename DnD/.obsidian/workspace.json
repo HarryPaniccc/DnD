@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Junk.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Junk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Lucius.md"
+                "file": "Junk.md"
               }
             }
           },
@@ -342,11 +342,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3605931e330b1fd6",
+  "active": "d3dfda769a92d616",
   "lastOpenFiles": [
+    "World of Helodaria/Lucius.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Kanan Einzbern.md",
-    "World of Helodaria/Lucius.md",
     "Junk.md",
     "Untitled.md",
     "Helodarian Firearms.md",
