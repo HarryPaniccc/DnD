@@ -13,67 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 75 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fea53daacb87337b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Duskdrinker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b17abe01f4c5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Bracers of Defence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d9283e30e22600d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Amulet of the Devout +1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e92271cde34f7fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Ring of Cold Resistance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba3fb5da27ce0b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Vorciln Tithe Inquisitor General.md",
+                "file": "Session Notes/Session 75 - Laying Siege.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,48 +44,12 @@
             }
           },
           {
-            "id": "5b6faa59f7716b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Vorciln Purge Inquisitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3062ac46bd8eabe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "General Notes and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e008da992b6eeef8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Vessel of Avarice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ff2803955ad657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Strahldale.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,12 +68,12 @@
             }
           },
           {
-            "id": "d3dfda769a92d616",
+            "id": "7d7b48c1cb30661b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junk.md",
+                "file": "Lucius' Staff.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +104,25 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 5
+      },
+      {
+        "id": "788def3f3f4a865b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32bfda451666433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junk.md",
+                "file": "Lucius' Staff.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Junk.md",
+                "file": "Lucius' Staff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junk.md"
+                "file": "Lucius' Staff.md"
               }
             }
           },
@@ -342,15 +264,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d3dfda769a92d616",
+  "active": "7d7b48c1cb30661b",
   "lastOpenFiles": [
     "World of Helodaria/Lucius.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "Kanan Einzbern.md",
-    "Junk.md",
-    "Untitled.md",
-    "Helodarian Firearms.md",
+    "Lucius' Staff.md",
     "General Notes and Ideas.md",
+    "World of Helodaria/Strahldale.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Statblocks/Vorciln Purge Inquisitor.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Session Notes/Session 75 - Laying Siege.md",
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Items/Ring of Cold Resistance.md",
+    "Items/Amulet of the Devout +1.md",
+    "Items/Bracers of Defence.md",
+    "Items/Duskdrinker.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Helodarian Firearms.md",
+    "Junk.md",
+    "Kanan Einzbern.md",
+    "Untitled.md",
     "Ceaseless Arc.canvas",
     "Nightfall, The Twilight Blade.md",
     "World of Helodaria/Helodaria.md",
@@ -359,18 +293,6 @@
     "Items/Daybreakers.md",
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Dakhor.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Tevis Einzbern.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Session Notes/Session 75 -.md",
-    "Items/Ring of Cold Resistance.md",
-    "Items/Amulet of the Devout +1.md",
-    "Items/Bracers of Defence.md",
-    "Items/Duskdrinker.md",
-    "World of Helodaria/Strahldale.md",
-    "World of Helodaria/Vessel of Avarice.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

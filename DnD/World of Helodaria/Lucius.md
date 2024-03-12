@@ -2,7 +2,12 @@
 tags:
   - Character
 ---
-# Statblock Design 2
+# Combat
+## Lucius' Default Stat Block
+### Notes
+- Spear/staff and plate armor
+- Slam attack that knocks away and does a small cone of fire
+- 
 ```statblock
 name: Lucius
 size: Medium
@@ -71,7 +76,8 @@ legendary_actions:
 ## Lucius is buffed by the amount of pillars
 
 ## Items
-- [[Lucis' Staff]]
+- [[Lucius' Staff]]
+- Armor of Some Kind
 # Abilities
 ## Statblock
 ```statblock
