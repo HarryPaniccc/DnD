@@ -7,6 +7,8 @@ tags:
 ### Notes
 - Spear/staff and plate armor
 - Slam attack that knocks away and does a small cone of fire
+- Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)
+- Charisma = 18 + 2 from damnation
 - 
 ```statblock
 name: Lucius
@@ -16,19 +18,20 @@ subtype: Shapechanger
 alignment: Lawful Evil
 ac: CALCULATE (Add shield maybe)
 hp: CALCULATE
-stats: [18,18,18,17,15,18]
+speed: 30ft.
+stats: [18,18,18,17,15,20]
 cr: 20
 saves:
   - Dexterity: +10
   - Wisdom: +8
-  - Charisma: +10
+  - Charisma: +11
 skillsaves:
   - Arcana: +9
   - Athletics: +10
-  - Deception: +10
+  - Deception: +11
   - Medicine: +9
   - Perception: +8
-  - Persuasion: +10
+  - Persuasion: +11
   - Stealth: +10
 damage_resistances: nectrotic; bludgeoning, piercing and slashing from nonmagical weapons
 damage_immunities: fire (Hellish Attunement)
@@ -46,18 +49,18 @@ traits:
   - name: STAFF THINGY
 
 spells:
-  - Lucius is a spellcaster with spell save DC of PROBABLY 20
-  - At will: Misty Step
-  - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift
+  - Lucius is a spellcaster with spell save DC 21 and a spell attack bonus of +12
+  - At will: Swarm Step
+  - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift, Wall of Fire
   - "*Lucius casts this spell on himself at the start of combat"
 
 actions:
   - name: Multiattack
-    desc: Lucius makes three attacks. One slam, one staff strike, and one infernal blast.
-  - name: Slam
-    desc: Melee attack; +11 to hit, 2d6 + 5 bludgeoning damage.
+    desc: Lucius makes three attacks. One stike with Damnaton + 1, casts Searing Lash, and one claw attack. He can bite instead of using searing lash.
+  - name: Claw/Strike
+    desc: Melee attack; +11 to hit, 2d6 + 5 slashing/bludgeoning damage.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
 bonus_actions:
@@ -67,13 +70,19 @@ legendary_actions:
   - name: Aether Dash
     desc: Lucius steps into the border ethereal, traversing as though using a blood hunter's Aether Step, and moves up to his speed without provoking opportunity attacks. After he finishes moving, he returns to the material plane.
   - name: Attack
-    desc: Lucius makes one slam attack.
+    desc: Lucius makes one Claw, one Searing Lash, or one Damnation +2 attack.
   - name: Wrathflight (Costs 2 Actions)
-    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 5 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
+    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 4 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
 ```
+#### Actions
+- **Bite**: The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+
 #### Shapechanger
 ---
-## Lucius is buffed by the amount of pillars
+## Lucius is buffed by the amount of pillars remaining
+#### 3 Pillars = 
+#### 2 Pillars = 
+#### 1 Pillar remaining = +3 to AC
 
 ## Items
 - [[Lucius' Staff]]
