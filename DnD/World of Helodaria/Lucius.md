@@ -9,7 +9,7 @@ tags:
 - Slam attack that knocks away and does a small cone of fire
 - Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)
 - Charisma = 18 + 2 from damnation
-- madethischangetestingsomething
+- 
 ```statblock
 name: Lucius
 size: Medium
@@ -60,15 +60,15 @@ actions:
   - name: Claw/Strike
     desc: Melee attack; +11 to hit, 2d6 + 5 slashing/bludgeoning damage.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
+    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. 
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
 bonus_actions:
-  - name: Helfire Rite
-    desc: Both hands are ignited in a hellfire rite. When a hand is used in an attack while rited, the target suffers an additional 2d8 fire damage, and creatures within 5 ft. of the target of the attack suffer 2d8 + 4 fire damage.
+  - name: Name
+    desc: Desc
 legendary_actions:
-  - name: Aether Dash
-    desc: Lucius steps into the border ethereal, traversing as though using a blood hunter's Aether Step, and moves up to his speed without provoking opportunity attacks. After he finishes moving, he returns to the material plane.
+  - name: Move
+    desc: Move up to speed without provoking opportunity attacks.
   - name: Attack
     desc: Lucius makes one Claw, one Searing Lash, or one Damnation +2 attack.
   - name: Wrathflight (Costs 2 Actions)

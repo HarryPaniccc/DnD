@@ -95,69 +95,42 @@
         "currentTab": 6
       },
       {
-        "id": "828710c7ffdd9d83",
-        "type": "split",
+        "id": "788def3f3f4a865b",
+        "type": "tabs",
         "children": [
           {
-            "id": "788def3f3f4a865b",
-            "type": "tabs",
-            "dimension": 56.407766990291265,
-            "children": [
-              {
-                "id": "3605931e330b1fd6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Lucius.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cd6dbbd828e1b5c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "15c577e0f09ba0a1",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+            "id": "3605931e330b1fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "e3ff20979b439f5a",
-            "type": "tabs",
-            "dimension": 43.592233009708735,
-            "children": [
-              {
-                "id": "7d7b48c1cb30661b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Lucius' Staff.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "cd6dbbd828e1b5c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Republic of Ruina.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "15c577e0f09ba0a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
