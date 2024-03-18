@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "d2562d355979b0b3",
+            "id": "e264eb90e6711ca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,42 +95,49 @@
         "currentTab": 6
       },
       {
-        "id": "788def3f3f4a865b",
-        "type": "tabs",
+        "id": "089c4b5d5a1f537a",
+        "type": "split",
         "children": [
           {
-            "id": "3605931e330b1fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lucius.md",
-                "mode": "preview",
-                "source": false
+            "id": "788def3f3f4a865b",
+            "type": "tabs",
+            "dimension": 64.95145631067962,
+            "children": [
+              {
+                "id": "3605931e330b1fd6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Lucius.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "cd6dbbd828e1b5c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
-                "mode": "source",
-                "source": false
+            "id": "0f8e3d20dde5c819",
+            "type": "tabs",
+            "dimension": 35.04854368932039,
+            "children": [
+              {
+                "id": "ffbeb6025029f422",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spear of Damnation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "15c577e0f09ba0a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -274,11 +281,12 @@
   },
   "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
-    "Lucius' Staff.md",
-    "World of Helodaria/Lucius.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Isilme Vanariel.md",
+    "Helodarian Firearms.md",
+    "World of Helodaria/Lucius.md",
+    "Spear of Damnation.md",
     "World of Helodaria/Republic of Ruina.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Ruinan Guard.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Strahldale.md",
@@ -291,7 +299,6 @@
     "Items/Amulet of the Devout +1.md",
     "Items/Bracers of Defence.md",
     "Items/Duskdrinker.md",
-    "Helodarian Firearms.md",
     "Junk.md",
     "Kanan Einzbern.md",
     "Untitled.md",

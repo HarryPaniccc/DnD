@@ -2,14 +2,43 @@
 tags:
   - Character
 ---
-# Combat
-## Lucius' Default Stat Block
-### Notes
-- Spear/staff and plate armor
-- Slam attack that knocks away and does a small cone of fire
-- Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)
-- Charisma = 18 + 2 from damnation
-- 
+# Stats
+>[!Notes]
+>- Spear/staff and plate armor
+>- Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)
+>- Charisma = 18 + 2 from damnation
+>- [[Spear of Damnation]]
+
+*Italics are modifications*
+### Numbers
+- HP: 144 (17d8 + 68) => *264 (maximum 22d8 + 88)*
+- Modified [[Vampire]]
+- Base stats: *Proficiency Bonus +6 CR 20*
+	- Str: 18
+	- Dex: 18
+	- Con: 18
+	- Int: 17
+	- Wis: 15
+	- Cha: 18 => *20 (damnation)*
+- Saves: Dex + Wis + Cha
+- Skills: Perception + Stealth + *Athletics (**expertise**) + Deception + Arcana + Persuasion*
+- Resistances: *-nonmagical weapons* + necrotic
+- To hit: +10 => *+12 (damnation)*
+- AC: 16 => *20 (Plate Armor)*
+	- *Note: MAX AC = 20(plate) + 2 (shield of faith) + 3 (wells) = 25*
+### Spells
+- 1/day each
+- Shadow of Moil, Power Word Pain, Glibness, Plane Shift, Wall of Fire
+### Items
+- [[Spear of Damnation]] (Attunement)
+- *+2 Plate Armor*
+### Notes (Fight)
+- Cultists will have *shield of faith* cast on him: *+2 AC*
+- **Blood well mechanic** during combat
+	- **1 Well**: Additional legendary action and reaction
+	- **2 Wells**: Necrotic Damage Life steal
+	- **3 Wells**: +3 to AC and saves
+
 ```statblock
 name: Lucius
 size: Medium
@@ -60,15 +89,15 @@ actions:
   - name: Claw/Strike
     desc: Melee attack; +11 to hit, 2d6 + 5 slashing/bludgeoning damage.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. 
+    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
 bonus_actions:
-  - name: Name
-    desc: Desc
+  - name: Helfire Rite
+    desc: Both hands are ignited in a hellfire rite. When a hand is used in an attack while rited, the target suffers an additional 2d8 fire damage, and creatures within 5 ft. of the target of the attack suffer 2d8 + 4 fire damage.
 legendary_actions:
   - name: Move
-    desc: Move up to speed without provoking opportunity attacks.
+    desc: Moves up to speed
   - name: Attack
     desc: Lucius makes one Claw, one Searing Lash, or one Damnation +2 attack.
   - name: Wrathflight (Costs 2 Actions)
@@ -80,14 +109,9 @@ legendary_actions:
 #### Shapechanger
 ---
 ## Lucius is buffed by the amount of pillars remaining
-#### 3 Pillars = 
-#### 2 Pillars = 
-#### 1 Pillar remaining = +3 to AC
 
-## Items
-- [[Lucius' Staff]]
-- Armor of Some Kind
-# Abilities
+
+# Old
 ## Statblock
 ```statblock
 name: Lucius
