@@ -3,7 +3,6 @@ tags:
   - Core
 ---
 # To do list
-- [x] Session notes
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters
@@ -13,10 +12,24 @@ tags:
 		- [ ] Silb
 		- [ ] Rylei
 		- [ ] Skye
-		- [ ] Adhara?
+		- [ ] Adhara
 	- [ ] Session notes archive
 - [ ] Zakuul motivations
 - [ ] Sirkon motivations
+- [ ] Stat [[Lucius]]
+- [ ] Eranulaid Regions
+	- [ ] Desseran
+	- [ ] Kyral
+	- [ ] Free shores
+	- [ ] Etc
+- [ ] Zitrumean Kingdoms
+	- [ ] [[Republic of Pyleas]]
+	- [ ] Capital
+	- [ ] [[Isaura]]
+	- [ ] [[Qel-Annura]]
+	- [ ] [[Camroc]]
+- [ ] Zitrumea Map
+- [ ] Fall History
 # Scratch Notes
 - Wood elf warriors
 - Spirit type stuff
