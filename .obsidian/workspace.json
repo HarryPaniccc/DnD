@@ -101,7 +101,7 @@
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 64.95145631067962,
+            "dimension": 59.80582524271845,
             "children": [
               {
                 "id": "3605931e330b1fd6",
@@ -120,7 +120,7 @@
           {
             "id": "0f8e3d20dde5c819",
             "type": "tabs",
-            "dimension": 35.04854368932039,
+            "dimension": 40.19417475728155,
             "children": [
               {
                 "id": "ffbeb6025029f422",
@@ -269,6 +269,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

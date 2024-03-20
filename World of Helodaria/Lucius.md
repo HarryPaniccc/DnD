@@ -22,7 +22,7 @@ tags:
 	- Cha: 18 => *20 (damnation)*
 - Saves: Dex + Wis + Cha
 - Skills: Perception + Stealth + *Athletics (**expertise**) + Deception + Arcana + Persuasion*
-- Resistances: *-nonmagical weapons* + necrotic
+- Resistances: nonmagical weapons + necrotic
 - To hit: +10 => *+12 (damnation)*
 - AC: 16 => *20 (Plate Armor)*
 	- *Note: MAX AC = 20(plate) + 2 (shield of faith) + 3 (wells) = 25*
