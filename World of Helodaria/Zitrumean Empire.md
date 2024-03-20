@@ -1,8 +1,7 @@
 ---
 tags: Lore
 ---
-#TODO Rules over the 4 kingdoms of Zitrumea, including [[Camroc]]
-The Zitrumean Empire is the largest empire in all of [[Helodaria]]. It is headed by [[House Zitrum]], and spans the entirety of the north of the continent of [[Zitrumea]]. It is made up of various states, including [[The Kindgom of Camroc]], The #TODO. The Empire is centered in the metropolis of [[Baylan's Rest]].
+The Zitrumean Empire, also known as Zitrumea, is an empire on the continent of the same name, [[Zitrumea]]. It was founded near the end of [[The Fall]] by [[Baylan Zitrum]] and is ruled by his heirs of [[House Zitrum]], and spans the entirety of the north of the continent of [[Zitrumea]].
 
 >[!Notes]
 >Rules over various regions, not necessarily kingdoms
@@ -13,12 +12,20 @@ The Zitrumean Empire is the largest empire in all of [[Helodaria]]. It is headed
 >- The nomads of the Aegis mountains and the southern deserts (The armoured lands)
 >- Coastal citystate
 >- 
-# The Zitrum Dynasty
-The Zitrumean Empire is headed by the sovereign of [[House Zitrum]]. During the wars of [[The Fall]] on [[Zitrumea]], the champion of [[Tyr]], [[Baylan Zitrum]], united the armies of Zitrumea against the forces of [[Gruumsh]] and his dark allegiance #TODO, fighting against the threat of the East.
 # History
-## 
-
-# Politics
-## Leaders? Courts? Idfk what this should be
-## Laws
+>[!Ideas]
+>- **Fall**
+>	- War with Gruumsh
+>	- Asmodeus
+>	- Vecna
+>	- **splitting of the prime continent**
+>	- Death Knight Goat enemy
+>- **Post Fall**
+>	- War with new threat
+>	- idfk
+# Geography
+# Government
+## The Zitrum Dynasty
+The Zitrumean Empire is headed by the sovereign of [[House Zitrum]]. During the wars of [[The Fall]] on [[Zitrumea]], the champion of [[Tyr]], [[Baylan Zitrum]], united the armies of Zitrumea against the forces of [[Gruumsh]] and his dark allegiance #TODO, fighting against the threat of the East.
 ## Military
+## Religion

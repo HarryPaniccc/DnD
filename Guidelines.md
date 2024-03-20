@@ -14,4 +14,6 @@ tags:
 - Societies are most important
 - General large regions
 - Subheadings for empires containing states
-## [[Society]]
+## [[Societies]]
+- To be added to as things happen
+- Template is just a guide

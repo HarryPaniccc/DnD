@@ -115,12 +115,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14f800cb9eb80df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
-        "id": "16da2652e5e67ab0",
+        "id": "300f42dfc1ba4097",
         "type": "split",
         "dimension": 56.23916811091854,
         "children": [
@@ -151,12 +163,20 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "50038023a22a8ca9",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
             ],
             "currentTab": 1
           },
           {
-            "id": "4272aba5d92452da",
+            "id": "53c3d9a0752c0b71",
             "type": "tabs",
             "children": [
               {
@@ -347,13 +367,17 @@
   },
   "active": "2174c6caf1ae23bb",
   "lastOpenFiles": [
+    "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Zitrumean Empire.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Templates/Deity Template.md",
+    "Untitled.md",
+    "Templates/Societies.md",
     "Guidelines.md",
     "World of Helodaria/Eranulaid.md",
+    "Attachments/Pasted image 20240320125108.png",
     "Templates/Continent.md",
-    "Templates/Society.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "World of Helodaria/Zitrumean Empire.md",
     "General Notes and Ideas.md",
     "World of Helodaria/History of Helodaria.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
@@ -370,9 +394,6 @@
     "World of Helodaria/Vessel of Avarice.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Statblocks/Vorciln Purge Inquisitor.md",
-    "Session Notes/Session 75 - Laying Siege.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Items/Ring of Cold Resistance.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
