@@ -28,6 +28,7 @@ tags:
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
 	- [ ] [[Camroc]]
+	- [ ] [[Baylan's Rest]]
 - [ ] Zitrumea Map
 - [ ] Fall History
 # Scratch Notes
@@ -43,7 +44,7 @@ tags:
 ## Athelstan's Endings
 - Kanan traps him in his body and becomes an echo knight
 - Athelstan is freed (I cant actually let this happen)
-- 
+- Kanan traps him in the chalice
 # Zakuul
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found [[The Helm of the Ceaseless]]
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Republic of Ruina|Ruina]]
