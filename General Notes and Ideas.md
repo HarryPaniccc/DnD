@@ -23,8 +23,9 @@ tags:
 	- [ ] Free shores
 	- [ ] Etc
 - [ ] Zitrumean Kingdoms
+	- [ ] Solari + Doomfist Society
 	- [ ] [[Republic of Pyleas]]
-	- [ ] Capital
+	- [x] Capital
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
 	- [ ] [[Camroc]]
