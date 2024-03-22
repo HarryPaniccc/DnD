@@ -6,7 +6,7 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
-        "dimension": 46.814044213263976,
+        "dimension": 46.81404421326398,
         "children": [
           {
             "id": "d1003b9104f7e078",
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "300f42dfc1ba4097",
@@ -139,7 +139,7 @@
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 55.57692307692308,
+            "dimension": 55.57692307692307,
             "children": [
               {
                 "id": "3605931e330b1fd6",
@@ -166,7 +166,7 @@
                 }
               },
               {
-                "id": "50038023a22a8ca9",
+                "id": "d833595379e745e2",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -174,12 +174,12 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "53c3d9a0752c0b71",
             "type": "tabs",
-            "dimension": 44.42307692307692,
+            "dimension": 44.42307692307693,
             "children": [
               {
                 "id": "93c248d71fc56c3b",
@@ -288,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md"
+                "file": "World of Helodaria/Deities of Helodaria.md"
               }
             }
           },
@@ -370,6 +370,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -379,11 +380,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b45faf6b970b357",
+  "active": "14f800cb9eb80df3",
   "lastOpenFiles": [
+    "Helodarian Firearms.md",
+    "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Zitrumean Empire.md",
     "General Notes and Ideas.md",
-    "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Eranulaid.md",
@@ -401,7 +403,6 @@
     "World of Helodaria/Lucius.md",
     "Vanguard Campaign Journal.md",
     "World of Helodaria/Isilme Vanariel.md",
-    "Helodarian Firearms.md",
     "Items/Spear of Damnation.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Strahldale.md",
