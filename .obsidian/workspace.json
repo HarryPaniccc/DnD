@@ -6,7 +6,7 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
-        "dimension": 46.81404421326398,
+        "dimension": 48.66737739872068,
         "children": [
           {
             "id": "d1003b9104f7e078",
@@ -134,7 +134,7 @@
       {
         "id": "300f42dfc1ba4097",
         "type": "split",
-        "dimension": 53.18595578673602,
+        "dimension": 51.33262260127932,
         "children": [
           {
             "id": "788def3f3f4a865b",
@@ -288,7 +288,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +304,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,9 +325,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md"
-              }
+              "state": {}
             }
           },
           {
@@ -366,7 +362,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,8 +377,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "14f800cb9eb80df3",
+  "active": "d833595379e745e2",
   "lastOpenFiles": [
+    "World of Helodaria/Deities of Helodaria.md",
+    "Ceaseless Arc.canvas",
+    "Items/Dawnmail.md",
+    "Items/Boon of Aerondite.md",
+    "Items/Spear of Damnation.md",
     "Helodarian Firearms.md",
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Zitrumean Empire.md",
@@ -389,7 +391,6 @@
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "Templates/Deity Template.md",
     "Untitled.md",
     "Templates/Societies.md",
@@ -403,13 +404,8 @@
     "World of Helodaria/Lucius.md",
     "Vanguard Campaign Journal.md",
     "World of Helodaria/Isilme Vanariel.md",
-    "Items/Spear of Damnation.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Strahldale.md",
-    "World of Helodaria/Vessel of Avarice.md",
-    "World of Helodaria/Tevis Einzbern.md",
-    "Statblocks/Vorciln Purge Inquisitor.md",
-    "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

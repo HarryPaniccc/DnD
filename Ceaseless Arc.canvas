@@ -1,10 +1,6 @@
 {
 	"nodes":[
 		{"id":"0e010e7acce2fca7","type":"group","x":-650,"y":-539,"width":1609,"height":1041,"color":"1","label":"Faction relationships"},
-		{"id":"96b882451fd9bdb8","type":"text","text":"## General Isaac","x":356,"y":-257,"width":170,"height":86},
-		{"id":"890b3d7d89b08d4d","type":"text","text":"## Ulrandir Vanariel\n- Elven supremicist\n","x":441,"y":117,"width":197,"height":163},
-		{"id":"29ee098c9619b87b","type":"text","text":"# Ruina","x":-331,"y":382,"width":152,"height":74},
-		{"id":"4871bb8b01c5f395","type":"text","text":"## Darius Nubide\n- Desires control","x":-35,"y":-400,"width":175,"height":165},
 		{"id":"eaeebb82231124da","type":"text","text":"## Alfred Gundrei","x":-35,"y":-507,"width":172,"height":85},
 		{"id":"783a59991daf24b3","type":"text","text":"# Helm of the Ceaseless\n- Dream???","x":-255,"y":-176,"width":232,"height":138},
 		{"id":"96dbd78eaf179b28","type":"text","text":"# City of the Malevolence\n- Partially in material plane?","x":-194,"y":59,"width":245,"height":171},
@@ -12,7 +8,11 @@
 		{"id":"df4b4ed344cf28ff","type":"text","text":"## City of the Glass Moon\n- Drow","x":-631,"y":134,"width":210,"height":146},
 		{"id":"549dc165af3a87a8","type":"text","text":"## Painting","x":755,"y":350,"width":181,"height":64},
 		{"id":"cefbc51281a1c7b5","type":"text","text":"## Smudge","x":755,"y":30,"width":169,"height":58},
-		{"id":"e1c1c052ae064fe0","type":"file","file":"General Notes and Ideas.md","x":-1139,"y":-512,"width":400,"height":1422}
+		{"id":"e1c1c052ae064fe0","type":"file","file":"General Notes and Ideas.md","x":-1139,"y":-512,"width":400,"height":1422},
+		{"id":"96b882451fd9bdb8","type":"text","text":"## General Isaac","x":356,"y":-257,"width":170,"height":86},
+		{"id":"890b3d7d89b08d4d","type":"text","text":"## Ulrandir Vanariel\n- Elven supremicist\n","x":441,"y":117,"width":197,"height":163},
+		{"id":"4871bb8b01c5f395","type":"text","text":"## Darius Nubide\n- Desires control","x":-35,"y":-400,"width":175,"height":165},
+		{"id":"29ee098c9619b87b","type":"text","text":"# Ruina","x":-407,"y":414,"width":152,"height":74}
 	],
 	"edges":[
 		{"id":"3f0e97d62c58c201","fromNode":"ce3affeaa01c7651","fromSide":"bottom","toNode":"df4b4ed344cf28ff","toSide":"top","label":"Wants to Destroy"},
