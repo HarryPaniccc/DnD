@@ -16,7 +16,7 @@ One night, during a ritual in which he and his brother's eyes were cut into, Tev
 # Biography
 ---
 ## Before the Campaign
-Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]].
+Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He spent the majority of his early life
 ## Campaign One: Vanguard
 # Character Information
 ---
@@ -26,3 +26,9 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]].
 ### Former Items
 # Relationships
 ---
+- [[Tevis Einzbern]], Kanan's estranged brother and next in line to lead the Einzberns. Turned to the side of the [[Vorciln]]
+- [[Mikael Einzbern]], Kanan's father and mentor.
+- [[Jarren Ward]], Kanan's guardian in the weeks after his escape.
+- [[Isolde Einzbern]], Kanan's mother.
+- [[Lucius]], Kanan's greatest foe and prey. The Vampire is the cause of Kanan's suffering
+- [[Eren Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend.
