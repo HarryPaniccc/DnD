@@ -21,14 +21,27 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He s
 # Character Information
 ---
 ## Quests
+- [ ] Slay Lucius
+- [ ] Save Tevis
+- [ ] Follow the Einzbern estate records
+- [ ] Seal Athelstan Away
+### Accomplished
+
 ## Notable Items
 ### Current Items
+- The [[Daybreakers]], the ancestral relics of the Einzbern's origin.
+- [[Cadaverous Edge]]
+- [[Boots of Haste]]
+- [[Skye's Locket of the Armory]], gifted to him by [[Skye]] as a way of using his diverse weapon collection
+- [[Supple Studded Leather Armor of Warning]]
+- [[Manual of Quickness of Action]], expended
 ### Former Items
 # Relationships
 ---
 - [[Tevis Einzbern]], Kanan's estranged brother and next in line to lead the Einzberns. Turned to the side of the [[Vorciln]]
-- [[Mikael Einzbern]], Kanan's father and mentor.
-- [[Jarren Ward]], Kanan's guardian in the weeks after his escape.
-- [[Isolde Einzbern]], Kanan's mother.
+- [[Mikael Einzbern]], Kanan's father and mentor
+- [[Athelstan]], the blood god that is bound to Kanan's and his family's souls
+- [[Jarren Ward]], Kanan's guardian in the weeks after his escape
+- [[Isolde Einzbern]], Kanan's mother
 - [[Lucius]], Kanan's greatest foe and prey. The Vampire is the cause of Kanan's suffering
-- [[Eren Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend.
+- [[Eren Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend
