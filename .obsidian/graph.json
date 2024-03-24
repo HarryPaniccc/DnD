@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path: Templates",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Core  ",
@@ -39,7 +39,7 @@
       "query": "tag:#PC  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 65450
       }
     },
     {
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12268410345395314,
-  "close": true
+  "scale": 0.2807131894625553,
+  "close": false
 }

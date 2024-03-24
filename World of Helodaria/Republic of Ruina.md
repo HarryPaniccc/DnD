@@ -1,4 +1,4 @@
-Ruina is a young republic on the continent of [[Eranulaid]]. It was founded around 600 PF.
+Ruina is a young republic on the continent of [[Eranulaid]]. It was founded around 200 PF.
 
 A young and prosperous republic, forged with the combined efforts of patrons hailing from across Helodaria, the diversity of the Ruinan Republic is accentuated by the ambitions of the Uldronos Council, its ruling table of leaders from across the material plane. The Republic is situated atop the long forgotten remnants of a war that took place during the beginning of the Fall, its artefacts and history beginning to make themselves known only in recent years.
 
