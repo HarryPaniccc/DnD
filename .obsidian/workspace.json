@@ -9,84 +9,12 @@
         "dimension": 48.66737739872068,
         "children": [
           {
-            "id": "d1003b9104f7e078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 75 - Laying Siege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "299225217201ced6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5798f6cb7567866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Tevis Einzbern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3062ac46bd8eabe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "48c3d1d5349cf243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Helodarian Firearms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e264eb90e6711ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Isilme Vanariel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95dd4b3cde060d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lucius.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,21 +43,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "14f800cb9eb80df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "300f42dfc1ba4097",
@@ -142,18 +58,6 @@
             "dimension": 55.57692307692307,
             "children": [
               {
-                "id": "3605931e330b1fd6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Lucius.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "2174c6caf1ae23bb",
                 "type": "leaf",
                 "state": {
@@ -164,17 +68,8 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "d833595379e745e2",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "53c3d9a0752c0b71",
@@ -205,8 +100,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -259,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -288,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Helodarian Firearms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Helodarian Firearms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Helodarian Firearms.md"
+              }
             }
           },
           {
@@ -357,13 +254,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d833595379e745e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -374,38 +279,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "d833595379e745e2",
   "lastOpenFiles": [
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/Zitrumean Empire.md",
+    "Helodarian Firearms.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Guidelines.md",
+    "World of Helodaria/Lucius.md",
+    "Items/Spear of Damnation.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Session 75 - Laying Siege.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "World of Helodaria/Deities of Helodaria.md",
     "Ceaseless Arc.canvas",
     "Items/Dawnmail.md",
     "Items/Boon of Aerondite.md",
-    "Items/Spear of Damnation.md",
-    "Helodarian Firearms.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Zitrumean Empire.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "World of Helodaria/Eranulaid.md",
     "Templates/Deity Template.md",
     "Untitled.md",
     "Templates/Societies.md",
-    "Guidelines.md",
-    "Attachments/Pasted image 20240320125108.png",
     "Templates/Continent.md",
     "World of Helodaria/History of Helodaria.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/King Sirkon.md",
     "World of Helodaria/Ruinan Guard.md",
-    "World of Helodaria/Lucius.md",
-    "Vanguard Campaign Journal.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-    "World of Helodaria/Strahldale.md",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
     "Attachments/Pasted Image 20240106212953_129.png",

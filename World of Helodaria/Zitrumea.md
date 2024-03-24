@@ -12,4 +12,7 @@ Zitrumea is a [[Helodaria|Helodarian]] continent located to the East of [[Eranul
 ## [[Republic of Pyleas]]
 ## [[Qel-Annura]]
 ## [[Isaura]]
+
+## The [[Armoured Lands]]
+
 # History
