@@ -29,6 +29,8 @@ Isilme was raised in the ranks of the guards, her mother was unable to either pa
 # Character Information
 ---
 ## Quests
+- Become immortal
+- 
 ## Notable Items
 ### Current Items
 ### Former Items

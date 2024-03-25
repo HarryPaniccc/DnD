@@ -6,7 +6,7 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
-        "dimension": 48.66737739872068,
+        "dimension": 49.78354978354979,
         "children": [
           {
             "id": "48c3d1d5349cf243",
@@ -50,12 +50,12 @@
       {
         "id": "300f42dfc1ba4097",
         "type": "split",
-        "dimension": 51.33262260127932,
+        "dimension": 50.21645021645021,
         "children": [
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 74.04403244495944,
+            "dimension": 53.881807647740445,
             "children": [
               {
                 "id": "2174c6caf1ae23bb",
@@ -87,7 +87,7 @@
           {
             "id": "53c3d9a0752c0b71",
             "type": "tabs",
-            "dimension": 25.955967555040555,
+            "dimension": 46.118192352259555,
             "children": [
               {
                 "id": "93c248d71fc56c3b",
@@ -310,20 +310,20 @@
   },
   "active": "7b45faf6b970b357",
   "lastOpenFiles": [
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Zitrumea.md",
+    "Baylan's Rest.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Republic of Ruina.md",
-    "Baylan's Rest.md",
     "World of Helodaria/Ironbase.md",
-    "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Kingdom of Pyleas.md",
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
     "Guidelines.md",
-    "World of Helodaria/Kanan Einzbern.md",
     "General Notes and Ideas.md",
     "Vanguard Campaign Journal.md",
-    "World of Helodaria/Isilme Vanariel.md",
     "Keldmire.md",
     "World of Helodaria/Don Murroc.md",
     "World of Helodaria/Vanguard.md",

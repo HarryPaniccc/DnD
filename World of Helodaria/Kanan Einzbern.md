@@ -21,10 +21,10 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He s
 # Character Information
 ---
 ## Quests
-- [ ] Slay Lucius
-- [ ] Save Tevis
-- [ ] Follow the Einzbern estate records
-- [ ] Seal Athelstan Away
+- Slay Lucius
+- Save Tevis
+- Follow the Einzbern estate records
+- Seal Athelstan Away
 
 ## Notable Items
 ### Current Items
