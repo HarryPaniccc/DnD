@@ -16,7 +16,7 @@ One night, during a ritual in which he and his brother's eyes were cut into, Tev
 # Biography
 ---
 ## Before the Campaign
-Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He spent the majority of his early life
+Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He spent the majority of his early life training and preparing for his Einzbern trials
 ## Campaign One: Vanguard
 # Character Information
 ---
@@ -25,7 +25,6 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He s
 - [ ] Save Tevis
 - [ ] Follow the Einzbern estate records
 - [ ] Seal Athelstan Away
-### Accomplished
 
 ## Notable Items
 ### Current Items

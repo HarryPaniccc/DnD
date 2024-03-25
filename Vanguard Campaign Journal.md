@@ -3,9 +3,10 @@ tags:
   - Core
 ---
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc?
-# Character Quest List
-
-
+# Active Plot Points/Quests
+- Slay [[Lucius]]
+- Retrieve or destroy the [[Vessel of Avarice]]
+- 
 # Arc 4: Sirkonos
 - 813 PF
 ## Sessions and Summaries

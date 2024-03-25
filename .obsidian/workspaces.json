@@ -666,305 +666,6 @@
       "active": "94ef931c6bc1c0f9",
       "mtime": "2024-03-23T21:50:09+02:00"
     },
-    "Zitrumea Worldbuilding": {
-      "main": {
-        "id": "e3ca7fd74647b9f6",
-        "type": "split",
-        "children": [
-          {
-            "id": "745e293b6b6b2d1a",
-            "type": "tabs",
-            "dimension": 48.66737739872068,
-            "children": [
-              {
-                "id": "48c3d1d5349cf243",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Helodarian Firearms.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "43fd1749389436ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7b45faf6b970b357",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Zitrumea.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "300f42dfc1ba4097",
-            "type": "split",
-            "dimension": 51.33262260127932,
-            "children": [
-              {
-                "id": "788def3f3f4a865b",
-                "type": "tabs",
-                "dimension": 55.57692307692307,
-                "children": [
-                  {
-                    "id": "2174c6caf1ae23bb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Zitrumean Empire.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "53c3d9a0752c0b71",
-                "type": "tabs",
-                "dimension": 44.42307692307693,
-                "children": [
-                  {
-                    "id": "93c248d71fc56c3b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Eranulaid.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d4e740ff45ecdaba",
-                    "type": "leaf",
-                    "state": {
-                      "type": "image",
-                      "state": {
-                        "file": "Attachments/Pasted image 20240320125108.png"
-                      }
-                    }
-                  },
-                  {
-                    "id": "e6c276fe369ea62f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Republic of Ruina.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 1
-              }
-            ],
-            "direction": "horizontal"
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "d7ebda78c129d618",
-        "type": "split",
-        "children": [
-          {
-            "id": "8ca0f1d486588d8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b2a6831c271b3d7",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "ee81b9515bf62e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "990cb2f371a0b860",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 258.5
-      },
-      "right": {
-        "id": "ea35a9a317969db7",
-        "type": "split",
-        "children": [
-          {
-            "id": "5ece3774c37e9648",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4cb96e6d4287e8a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Notes and Ideas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b3c79ccde858898a",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Attachments/Pasted image 20240320125108.png",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "e26a69bedfa5e5f1",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Attachments/Pasted image 20240320125108.png",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "dfa8baabc6155b2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "f913bfe3e075c876",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Attachments/Pasted image 20240320125108.png"
-                  }
-                }
-              },
-              {
-                "id": "c21e89a76f4631bf",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d833595379e745e2",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 337.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-5e-statblocks:Open Creature Pane": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "d4e740ff45ecdaba",
-      "mtime": "2024-03-23T22:41:34+02:00"
-    },
     "Updating Character Notes": {
       "main": {
         "id": "e3ca7fd74647b9f6",
@@ -1154,7 +855,307 @@
       },
       "active": "dddfdcfaee05d802",
       "mtime": "2024-03-24T08:39:18+02:00"
+    },
+    "Zitrumea Worldbuilding": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "745e293b6b6b2d1a",
+            "type": "tabs",
+            "dimension": 48.66737739872068,
+            "children": [
+              {
+                "id": "48c3d1d5349cf243",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Helodarian Firearms.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "43fd1749389436ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Republic of Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "7b45faf6b970b357",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumea.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "300f42dfc1ba4097",
+            "type": "split",
+            "dimension": 51.33262260127932,
+            "children": [
+              {
+                "id": "788def3f3f4a865b",
+                "type": "tabs",
+                "dimension": 55.57692307692307,
+                "children": [
+                  {
+                    "id": "2174c6caf1ae23bb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Zitrumean Empire.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "53c3d9a0752c0b71",
+                "type": "tabs",
+                "dimension": 44.42307692307693,
+                "children": [
+                  {
+                    "id": "93c248d71fc56c3b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Eranulaid.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d4e740ff45ecdaba",
+                    "type": "leaf",
+                    "state": {
+                      "type": "image",
+                      "state": {
+                        "file": "Attachments/Pasted image 20240320125108.png"
+                      }
+                    }
+                  },
+                  {
+                    "id": "e6c276fe369ea62f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Republic of Ruina.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ],
+                "currentTab": 1
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 258.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumea.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumea.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumea.md"
+                  }
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d833595379e745e2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 337.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "7b45faf6b970b357",
+      "mtime": "2024-03-24T11:23:55+02:00"
     }
   },
-  "active": "Updating Character Notes"
+  "active": "Zitrumea Worldbuilding"
 }

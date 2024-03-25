@@ -8,7 +8,7 @@ The world of Helodaria is one of magic and ancient conflicts. Of thieving rogues
 
 #TODO Zitrumea's sister continent
 ## [[Zitrumea]]
-The prime continent that goes by the name Zitrumea is a beautiful, diverse realm. It is flanked on its western coast by an archipelago of islands known as the Aegir Archipelago, the capital city of the [[Republic of Pyleas]] on the mainland acting as the main centre of trade for that region, as it is the largest of the area. The remainder of the continent houses the Elven realms of [[Isaura]] and [[Qel-Annura]], the original strongholds of the dwarves #TODO, and the [[Zitrumean Empire]].
+The prime continent that goes by the name Zitrumea is a beautiful, diverse realm. It is flanked on its western coast by an archipelago of islands known as the Aegir Archipelago, the capital city of the [[Kingdom of Pyleas]] on the mainland acting as the main centre of trade for that region, as it is the largest of the area. The remainder of the continent houses the Elven realms of [[Isaura]] and [[Qel-Annura]], the original strongholds of the dwarves #TODO, and the [[Zitrumean Empire]].
 ## [[Eranulaid]]
 The northmost continent containing the [[Republic of Ruina]], the [[Kingdom of Sirkonos]] and the Free cities of [[Desseran]] and [[Kyral]] on the [[Free Shores of Eranulaid]]. #TODO
 ## [[Dakhor]]

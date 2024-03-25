@@ -6,7 +6,7 @@ The deity Tyr is a God of righteousness, law, and warfare in the face of defence
 ## Appearance
 He is depicted as a knight wearing extremely heavy plate armour, face concealed and wielding a halberd. From beneath the partitions in the armour, orange flame licks the surrounding air.
 
-Tyr's gender is fluid in nature, a note to the impartiality of Law and Order. A grand statue in the [[Republic of Pyleas|Pylean]] capital depicts the main appearance of Tyr, as seen by the [[Republic of Pyleas]].  
+Tyr's gender is fluid in nature, a note to the impartiality of Law and Order. A grand statue in the [[Kingdom of Pyleas|Pylean]] capital depicts the main appearance of Tyr, as seen by the [[Kingdom of Pyleas]].  
 # Tenets and teachings of Tyr
 > - Uphold the law, and fight for the better of others, and they will fight for the better of you.
 > - Strength comes from duty and service. To wield arms beside your brothers for the betterment of the world is the greatest duty anyone can perform.

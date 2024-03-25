@@ -24,6 +24,7 @@ The Zitrumean Empire, also known as Zitrumea, is an empire on the continent of t
 >	- War with new threat
 >	- idfk
 # Geography
+
 ### Area
 # Government
 ## The Zitrum Dynasty

@@ -27,8 +27,11 @@ The large stretch of wilderness that curves below and into the foothills of the 
 - [[Steinjotunenwand]] or the Giant's Ward Fortress (Notes for this and Ahnzlad Pass are in Session 64)
 ### [[Maghlas Mountains]]
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
-### 
+### [[Broken Plains]]
 - [[Mount Ethris]] is the mountain surrounded by Diredahl and the rest of the major cities
+- [[Ralia]]
+- [[Brocia]]
+- [[Keldmire]] 
 ### #TODO There is more to do here
 # Society
 ## Politics

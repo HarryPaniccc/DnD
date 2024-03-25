@@ -24,7 +24,7 @@ tags:
 	- [ ] Etc
 - [ ] Zitrumean Kingdoms
 	- [ ] Solari + Doomfist Society
-	- [ ] [[Republic of Pyleas]]
+	- [ ] [[Kingdom of Pyleas]]
 	- [x] Capital
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
@@ -53,7 +53,8 @@ Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceasele
 - He has laired in an ancient fortress that once belonged to the sorcerer king of old Ruina in the mountains south of Splitmount
 - [[Harrix]] becomes a rival of his in the area
 # Ulrandir
-Loyalists. Maybe he wants to ally with the Drow to attack Ruina?
-
+Loyalists. Hates drow
 # Sirkon
 - Slowly charging a ritual, using the souls of Sirkonians
+- Create a new form of life through [[Prince Artorius Sirkon]]
+- 
