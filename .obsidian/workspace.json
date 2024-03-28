@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6584356d6409638",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item Pricing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "300f42dfc1ba4097",
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "Item Pricing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "Item Pricing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md"
+                "file": "Item Pricing.md"
               }
             }
           },
@@ -322,10 +334,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b41a06085117c1db",
+  "active": "c6584356d6409638",
   "lastOpenFiles": [
-    "Pontiss.md",
     "World of Helodaria/Zitrumea.md",
+    "Pontiss.md",
     "Baylan's Rest.md",
     "Templates/Item template.md",
     "Items/Spear of Damnation.md",
