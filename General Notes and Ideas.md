@@ -31,6 +31,7 @@ tags:
 	- [ ] [[Camroc]]
 	- [ ] [[Baylan's Rest]]
 - [ ] Zitrumea Map
+- [ ] Zitrumea Thieves Guild
 - [ ] Fall History
 # Scratch Notes
 - Wood elf warriors

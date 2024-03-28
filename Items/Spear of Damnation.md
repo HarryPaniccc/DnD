@@ -1,5 +1,4 @@
 # Spear of Damnation
-
 *Weapon (Spear), Legendary, Requires Attunement*
 The Spear of Damnation is a weapon crafted of obsidian and black steel. Runes glow along the head of the weapon, and the handle is wrapped in a black leather. Its blade faintly smolders a bloody orange and black.
 
@@ -7,7 +6,6 @@ The Spear of Damnation has a +2 to attack and damage rolls made with the weapon.
 
 While holding the spear, you can cast *Searing Lash* from it. Use Charisma as your spellcasting stat if you cannot already cast spells.
 
----
 > Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
 
 # Planning

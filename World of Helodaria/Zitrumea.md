@@ -17,9 +17,9 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 - [[Baylan's Rest]]
 
-- [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO  
+- [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO . Camroc is within 20 miles of a shoreline
 
-- [[Pontis]], a central metropolis with kinda like the place where Danaeris and the pedo king were chilling
+- [[Pontiss]], a central metropolis with kinda like the place where Danaeris and the pedo king were chilling
 ## [[Qel-Annura]]
 
 ## [[Isaura]]
