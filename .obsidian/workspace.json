@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "300f42dfc1ba4097",
@@ -79,7 +79,7 @@
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 47.37864077669903,
+            "dimension": 54.1747572815534,
             "children": [
               {
                 "id": "2174c6caf1ae23bb",
@@ -131,7 +131,7 @@
           {
             "id": "53c3d9a0752c0b71",
             "type": "tabs",
-            "dimension": 52.62135922330097,
+            "dimension": 45.8252427184466,
             "children": [
               {
                 "id": "93c248d71fc56c3b",
@@ -231,7 +231,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 53.10679611650485,
+        "dimension": 62.33009708737865,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Item Tables.md",
+                "file": "World of Helodaria/Eranulaid.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Item Tables.md",
+                "file": "World of Helodaria/Eranulaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item Tables.md"
+                "file": "World of Helodaria/Eranulaid.md"
               }
             }
           },
@@ -312,7 +312,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 46.89320388349515,
+        "dimension": 37.66990291262136,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -354,13 +354,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b2d08ae268ad6f26",
+  "active": "93c248d71fc56c3b",
   "lastOpenFiles": [
-    "Item Tables.md",
-    "Item Pricing.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/Republic of Ruina.md",
     "Pontiss.md",
-    "World of Helodaria/Zitrumea.md",
     "Baylan's Rest.md",
+    "World of Helodaria/Zitrumea.md",
+    "Item Pricing.md",
+    "Item Tables.md",
     "Templates/Item template.md",
     "Items/Spear of Damnation.md",
     "Session Notes/Session 75 - Laying Siege.md",
@@ -373,16 +375,13 @@
     "General Notes and Ideas.md",
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Republic of Ruina.md",
     "World of Helodaria/Ironbase.md",
     "World of Helodaria/Kingdom of Pyleas.md",
     "World of Helodaria/Eranulaid.md",
-    "Attachments/Pasted image 20240320125108.png",
     "Guidelines.md",
     "Vanguard Campaign Journal.md",
     "Keldmire.md",
     "World of Helodaria/Don Murroc.md",
-    "World of Helodaria/Vanguard.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

@@ -26,5 +26,4 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 ## The [[Armoured Lands]]
 The eastern shoreline 
-
 # History
