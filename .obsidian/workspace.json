@@ -43,30 +43,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c6584356d6409638",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Item Pricing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2d08ae268ad6f26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Item Tables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -79,7 +55,7 @@
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 54.1747572815534,
+            "dimension": 76.2135922330097,
             "children": [
               {
                 "id": "2174c6caf1ae23bb",
@@ -104,34 +80,14 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "76d75280cf59c3cd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pontiss.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a123f9b539425367",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "53c3d9a0752c0b71",
             "type": "tabs",
-            "dimension": 45.8252427184466,
+            "dimension": 23.78640776699029,
             "children": [
               {
                 "id": "93c248d71fc56c3b",
@@ -231,7 +187,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.33009708737865,
+        "dimension": 53.10679611650485,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -251,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Eranulaid.md",
+                "file": "Baylan's Rest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Eranulaid.md",
+                "file": "Baylan's Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Eranulaid.md"
+                "file": "Baylan's Rest.md"
               }
             }
           },
@@ -312,7 +268,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.66990291262136,
+        "dimension": 46.89320388349515,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -354,20 +310,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "93c248d71fc56c3b",
+  "active": "bbaca54ea0e40757",
   "lastOpenFiles": [
+    "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
-    "World of Helodaria/Republic of Ruina.md",
-    "Pontiss.md",
     "Baylan's Rest.md",
     "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Zitrumean Empire.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Pontiss.md",
     "Item Pricing.md",
     "Item Tables.md",
     "Templates/Item template.md",
     "Items/Spear of Damnation.md",
     "Session Notes/Session 75 - Laying Siege.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "Templates/Deity Template.md",
     "Templates/Continent.md",
@@ -377,7 +334,6 @@
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Ironbase.md",
     "World of Helodaria/Kingdom of Pyleas.md",
-    "World of Helodaria/Eranulaid.md",
     "Guidelines.md",
     "Vanguard Campaign Journal.md",
     "Keldmire.md",
