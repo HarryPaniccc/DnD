@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"0e010e7acce2fca7","type":"group","x":-650,"y":-539,"width":1609,"height":1041,"color":"1","label":"Faction relationships"},
+		{"id":"eaeebb82231124da","type":"text","text":"## Alfred Gundrei","x":-35,"y":-507,"width":172,"height":85},
+		{"id":"783a59991daf24b3","type":"text","text":"# Helm of the Ceaseless\n- Dream???","x":-255,"y":-176,"width":266,"height":138},
+		{"id":"96dbd78eaf179b28","type":"text","text":"# City of the Malevolence\n- Partially in material plane?","x":-255,"y":59,"width":306,"height":171},
+		{"id":"ce3affeaa01c7651","type":"text","text":"## Zakuul","x":-608,"y":-422,"width":164,"height":73},
+		{"id":"df4b4ed344cf28ff","type":"text","text":"## City of the Glass Moon\n- Drow","x":-631,"y":134,"width":210,"height":146},
+		{"id":"cefbc51281a1c7b5","type":"text","text":"## Smudge","x":755,"y":30,"width":169,"height":58},
+		{"id":"e1c1c052ae064fe0","type":"file","file":"General Notes and Ideas.md","x":-1139,"y":-512,"width":400,"height":1422},
+		{"id":"96b882451fd9bdb8","type":"text","text":"## General Isaac","x":356,"y":-257,"width":170,"height":86},
+		{"id":"29ee098c9619b87b","type":"text","text":"# Ruina","x":-407,"y":414,"width":152,"height":74},
+		{"id":"549dc165af3a87a8","type":"text","text":"## Painting","x":755,"y":350,"width":181,"height":64},
+		{"id":"890b3d7d89b08d4d","type":"text","text":"## Ulrandir Vanariel\n- Elven supremicist\n","x":441,"y":117,"width":197,"height":163},
+		{"id":"4871bb8b01c5f395","type":"text","text":"## Darius Nubide\n- Desires control","x":-35,"y":-400,"width":175,"height":165}
+	],
+	"edges":[
+		{"id":"3f0e97d62c58c201","fromNode":"ce3affeaa01c7651","fromSide":"bottom","toNode":"df4b4ed344cf28ff","toSide":"top","label":"Wants to Destroy"},
+		{"id":"c21ecec2577daf94","fromNode":"ce3affeaa01c7651","fromSide":"right","toNode":"4871bb8b01c5f395","toSide":"left","toEnd":"none","label":"Teamup?"},
+		{"id":"a31631ea6950aa42","fromNode":"96b882451fd9bdb8","fromSide":"bottom","toNode":"890b3d7d89b08d4d","toSide":"top","fromEnd":"arrow","label":"Wants dead"},
+		{"id":"5e9e75b21aba02b9","fromNode":"ce3affeaa01c7651","fromSide":"bottom","toNode":"783a59991daf24b3","toSide":"left","label":"Found"},
+		{"id":"edd1fb3bfba9cd02","fromNode":"4871bb8b01c5f395","fromSide":"bottom","toNode":"783a59991daf24b3","toSide":"top","label":"Wants"},
+		{"id":"269e357f91e0b880","fromNode":"4871bb8b01c5f395","fromSide":"left","toNode":"eaeebb82231124da","toSide":"left","label":"Wants dead"},
+		{"id":"18a5a1d272c772f5","fromNode":"eaeebb82231124da","fromSide":"right","toNode":"4871bb8b01c5f395","toSide":"right"},
+		{"id":"510caa26fc7ae02a","fromNode":"eaeebb82231124da","fromSide":"right","toNode":"96b882451fd9bdb8","toSide":"top","fromEnd":"arrow","label":"Allies"},
+		{"id":"c94082133edfc6c2","fromNode":"df4b4ed344cf28ff","fromSide":"bottom","toNode":"29ee098c9619b87b","toSide":"left","label":"Invading (for shelter)"},
+		{"id":"381bd3fcaed291e9","fromNode":"96dbd78eaf179b28","fromSide":"top","toNode":"783a59991daf24b3","toSide":"bottom","label":"Contained"},
+		{"id":"64f8c59dc844b80d","fromNode":"ce3affeaa01c7651","fromSide":"bottom","toNode":"96dbd78eaf179b28","toSide":"left","label":"Lairing in"},
+		{"id":"6bbcc29e7340f31b","fromNode":"890b3d7d89b08d4d","fromSide":"left","toNode":"96dbd78eaf179b28","toSide":"right","label":"Searching for"},
+		{"id":"02d73c34b4f3a0c6","fromNode":"96dbd78eaf179b28","fromSide":"bottom","toNode":"29ee098c9619b87b","toSide":"right","label":"Somewhere in"},
+		{"id":"e08a05d0455143ba","fromNode":"890b3d7d89b08d4d","fromSide":"left","toNode":"eaeebb82231124da","toSide":"right","label":"Wants dead"},
+		{"id":"035f0ef385348187","fromNode":"4871bb8b01c5f395","fromSide":"bottom","toNode":"890b3d7d89b08d4d","toSide":"left","fromEnd":"arrow","label":"Allies"},
+		{"id":"6c8f13ee5508f842","fromNode":"29ee098c9619b87b","fromSide":"top","toNode":"df4b4ed344cf28ff","toSide":"right","label":"War"},
+		{"id":"6b64271ddec02838","fromNode":"890b3d7d89b08d4d","fromSide":"bottom","toNode":"df4b4ed344cf28ff","toSide":"bottom","label":"Allies"},
+		{"id":"8bcf0fd36223a2bf","fromNode":"783a59991daf24b3","fromSide":"left","toNode":"ce3affeaa01c7651","toSide":"right","label":"Driving him mad"},
+		{"id":"84d8860bf9c880c8","fromNode":"890b3d7d89b08d4d","fromSide":"bottom","toNode":"549dc165af3a87a8","toSide":"left","label":"Has one"},
+		{"id":"6a53ca45d79aaf75","fromNode":"96b882451fd9bdb8","fromSide":"right","toNode":"549dc165af3a87a8","toSide":"left","label":"Has one"},
+		{"id":"954c1d4138e8a7bc","fromNode":"cefbc51281a1c7b5","fromSide":"bottom","toNode":"549dc165af3a87a8","toSide":"top","label":"Was trapped"},
+		{"id":"a5e112281dca7cb2","fromNode":"549dc165af3a87a8","fromSide":"bottom","toNode":"96dbd78eaf179b28","toSide":"bottom","label":"Doorway into here"}
+	]
+}

@@ -6,127 +6,87 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
-        "dimension": 49.707602339181285,
         "children": [
           {
-            "id": "48c3d1d5349cf243",
+            "id": "d1003b9104f7e078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "Session Notes/Session 76 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43fd1749389436ac",
+            "id": "299225217201ced6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b41a06085117c1db",
+            "id": "e5798f6cb7567866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "World of Helodaria/Tevis Einzbern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95dd4b3cde060d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Lucius.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ef931c6bc1c0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Spear of Damnation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "300f42dfc1ba4097",
-        "type": "split",
-        "dimension": 50.29239766081871,
+        "id": "69013d9b4ba47703",
+        "type": "tabs",
         "children": [
           {
-            "id": "788def3f3f4a865b",
-            "type": "tabs",
-            "dimension": 76.2135922330097,
-            "children": [
-              {
-                "id": "2174c6caf1ae23bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bbaca54ea0e40757",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Baylan's Rest.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "9c290ff8b773eba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 75 - Laying Siege.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "53c3d9a0752c0b71",
-            "type": "tabs",
-            "dimension": 23.78640776699029,
-            "children": [
-              {
-                "id": "93c248d71fc56c3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Eranulaid.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4e740ff45ecdaba",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Attachments/Pasted image 20240320125108.png"
-                  }
-                }
-              },
-              {
-                "id": "e6c276fe369ea62f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +146,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 53.10679611650485,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -207,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baylan's Rest.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baylan's Rest.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baylan's Rest.md"
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md"
               }
             }
           },
@@ -268,7 +226,6 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 46.89320388349515,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -281,21 +238,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d833595379e745e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,11 +259,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bbaca54ea0e40757",
+  "active": "299225217201ced6",
   "lastOpenFiles": [
+    "Session Notes/Session 76 -.md",
+    "Session Notes/Session 75 - Laying Siege.md",
+    "Items/Spear of Damnation.md",
+    "World of Helodaria/Lucius.md",
+    "Baylan's Rest.md",
     "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
-    "Baylan's Rest.md",
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Republic of Ruina.md",
@@ -322,8 +275,6 @@
     "Item Pricing.md",
     "Item Tables.md",
     "Templates/Item template.md",
-    "Items/Spear of Damnation.md",
-    "Session Notes/Session 75 - Laying Siege.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "Templates/Deity Template.md",
@@ -337,7 +288,6 @@
     "Guidelines.md",
     "Vanguard Campaign Journal.md",
     "Keldmire.md",
-    "World of Helodaria/Don Murroc.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

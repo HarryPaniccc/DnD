@@ -1,6 +1,6 @@
 **GENERAL NOTES**
 - Banahras 5th
-- Midst of the battle of Strahldale, the Roc has just been defeated
+- Midst of the [[Battle of Strahldale]], the Roc has just been defeated
 - Raiding the Vorciln defenses
 ## Town Center
 The center of town is the main location of tithing. There are bodies stripped of their clothes and slit at their feet to have the blood be drained out of them into bowls. A raised pedestal with runes carved into it is being used for bloodletting into the vessel.
