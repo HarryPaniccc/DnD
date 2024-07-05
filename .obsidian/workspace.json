@@ -4,6 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "65056e23d3839963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c290ff8b773eba0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 75 - Laying Siege.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
@@ -14,18 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 76 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807527ff98a957c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 74 - The Battle of Strahldale.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,25 +97,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "69013d9b4ba47703",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c290ff8b773eba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 75 - Laying Siege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 76 -.md"
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md"
               }
             }
           },
@@ -282,14 +271,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1003b9104f7e078",
+  "active": "299225217201ced6",
   "lastOpenFiles": [
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-    "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Session Notes/Session 76 -.md",
     "Session Notes/Session 75 - Laying Siege.md",
-    "Items/Spear of Damnation.md",
+    "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Session Notes/Session 74 - The Battle of Strahldale.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Items/Spear of Damnation.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Lucius.md",
     "Baylan's Rest.md",
     "World of Helodaria/Eranulaid.md",
@@ -302,7 +293,6 @@
     "Item Tables.md",
     "Templates/Item template.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "Templates/Deity Template.md",
     "Templates/Continent.md",
     "Helodarian Firearms.md",
@@ -310,7 +300,6 @@
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Ironbase.md",
-    "World of Helodaria/Kingdom of Pyleas.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
