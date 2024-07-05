@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 75 - Laying Siege.md",
+                "file": "Statblocks/Vorciln Tithe Inquisitor General.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+                "file": "Session Notes/Session 76 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+                "file": "Session Notes/Session 76 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md"
+                "file": "Session Notes/Session 76 -.md"
               }
             }
           },
@@ -271,14 +270,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "299225217201ced6",
+  "active": "d1003b9104f7e078",
   "lastOpenFiles": [
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Session Notes/Session 76 -.md",
     "Session Notes/Session 75 - Laying Siege.md",
     "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Items/Spear of Damnation.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Lucius.md",
@@ -299,7 +299,6 @@
     "General Notes and Ideas.md",
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Ironbase.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

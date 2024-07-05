@@ -12,7 +12,7 @@ The battalion under [[Syr Emelia Richstrahd]] is the [[Battalion of the Silver A
 - The armoured Kronesguard that note the approach will need to be reasoned with to gain entrance to the camp: *Christoph* and *Oliver* are their names, and both are rangers
 - Caede and the prince will receive strange stares
   
-- [[Syr Emelia Richstrahd]] can be found sparring with her subordinates. They will be unarmoured and she will be 1v2ing two larger men. Her agility in combat is her advantage, she is actually quite short, but clearly very strong, and outmanoeuvres her opponents. She knocks one down and is then in a short moment of opening is forced into submission with a blade to her neck
+- [[Syr Emelia Richstrahd]] can be found sparring with her subordinates. They will be unarmored and she will be 1v2ing two larger men. Her agility in combat is her advantage, she is actually quite short, but clearly very strong, and outmaneuvers her opponents. She knocks one down and is then in a short moment of opening is forced into submission with a blade to her neck
 
 **What Emelia knows**
 - The Silver Arrow Battalion can be mobilized in two hours. They will be able to the Vanguard where they are needed

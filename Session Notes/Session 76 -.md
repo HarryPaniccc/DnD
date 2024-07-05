@@ -32,4 +32,5 @@ The descent into the pit is overgrown and entangled with massive roots and vines
 vs **Caede + Skye + Rylei + Adhara**
 
 and **Tevis vs Kanan and Isilme**
+## IF STATEMENTS FOR THE ENDING
 ##### Session *Number and Title* Summary

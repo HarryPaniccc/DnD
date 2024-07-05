@@ -51,7 +51,7 @@ traits:
     desc: d8s, DC 18 Manoeuvres
 actions:
   - name: Multiattack
-    desc: 3 attacks or a cantrip and attack
+    desc: 3 attacks or a cantrip and attack (the attack uses a bonus)
   - name: Duskdrinker
     desc: +12 to hit, 5ft., Hit (1d10 + 7) slash + (1d8 + 1d6) necrotic and Tevis is healed for the 1d6 necrotic damage
   - name: Dimension Door (Cape of the Mountebank)
