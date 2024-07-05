@@ -10,8 +10,8 @@
 - Eren wants the chalice
 - Arthur is ~~that~~
 - [[Aerondite]] and [[Siegfried Einzbern]] and the spirits of the other [[Einzberns]]
-## Hallway Defence Position
-Syr Richstrahd and her battalion move in to the hallway to set up an emergency position. With control of the inner halls, as well as with [[Borovik]] on their side, they are able to take advantage of the castle's defences, as well as the unpreparedness of their opponents, to shut off the outsides.
+## Hallway Defense Position
+Syr Richstrahd and her battalion move in to the hallway to set up an emergency position. With control of the inner halls, as well as with [[Borovik]] on their side, they are able to take advantage of the castle's defenses, as well as the unpreparedness of their opponents, to shut off the outsides.
 ### Prince Arthur, and Eren
 Amidst the barking of orders and chaos the vanguard will spot a familiar face and a familiar head of golden hair. Dismounting his golden warhorse and wiping someone else's blood from his rapier, Prince Sirkon approaches you with a stern look on his eyes.
 - **DC 10 Insight** shows that something is different from the boy that they met months ago in an inn
