@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "65056e23d3839963",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "9c290ff8b773eba0",
+            "id": "299225217201ced6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statblocks/Vorciln Tithe Inquisitor General.md",
+                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "745e293b6b6b2d1a",
-        "type": "tabs",
-        "children": [
+          },
+          {
+            "id": "a1a2a358d2aec90c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 76 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "d1003b9104f7e078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
+                "file": "Session Notes/Session 75 - Laying Siege.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "299225217201ced6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,6 +80,18 @@
             }
           },
           {
+            "id": "cb7b05b5457012b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infernal Cuirass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "94ef931c6bc1c0f9",
             "type": "leaf",
             "state": {
@@ -96,8 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff6acde7c5068f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Suc(In)cubus Willbreaker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -270,18 +288,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d1003b9104f7e078",
+  "active": "a1a2a358d2aec90c",
   "lastOpenFiles": [
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Session Notes/Session 76 -.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-    "Session Notes/Session 75 - Laying Siege.md",
-    "World of Helodaria/Tevis Einzbern.md",
+    "Attachments/Session 76 -.pdf",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Session Notes/Session 75 - Laying Siege.md",
+    "Session Notes/Session 76 -.md",
+    "Statblocks/Suc(In)cubus Willbreaker.md",
+    "Attachments/Suc(In)cubus Willbreaker.pdf",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "World of Helodaria/Lucius.md",
+    "Infernal Cuirass.md",
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Items/Spear of Damnation.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "World of Helodaria/Lucius.md",
     "Baylan's Rest.md",
     "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
@@ -296,9 +318,6 @@
     "Templates/Deity Template.md",
     "Templates/Continent.md",
     "Helodarian Firearms.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Kanan Einzbern.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

@@ -23,14 +23,27 @@ The balcony to the rear of the castle overlooks the massive tunnel that had been
 The descent into the pit is overgrown and entangled with massive roots and vines, dark in colour, and at the tips of the vines, appear to enter into the border ethereal. 
 - **A DC 15 arcana check** recognises that these vines are a part of the feywild and are linked here through the ethereal plane
 - Descending the tangled growth of vines requires a **DC 10 athletics check**. No vines are too distant from one another, but the first 35ft or so down the hole has no pathway down, and must be scaled or flown by as the wall is a sheer face of dirt and rock
+- Failing the check causes a character to succeed a DC 12 acrobatics check or suffer 2d6 bludgeoning damage as the slip and fall down
 
-> *As you descend further down. Down. Down into the depths. Helping one another when footing becomes difficult. Treading carefully when slippery moss takes underfoot, the energy around you grows with each passing meter of depth you continue down. One, two, five hundred feet you descend. You pick up the pace. You fall and clamber and scrape your hands and bang your knees and crawl down into the depths of the Ethfalian caverns, until a massive collection of roots below form a pathway that can not be descended down any firther, but can be followed. Ahead, the glow of the crystal lights of the Ethfalian caverns, and the broken wall of a yet-unexplored wing of [[Kenifria]]*
+> *As you descend further down. Down. Down into the depths. Helping one another when footing becomes difficult. Treading carefully when slippery moss takes underfoot, the energy around you grows with each passing meter of depth you continue down. One, two, five hundred feet you descend. You pick up the pace. You fall and clamber and scrape your hands and bang your knees and crawl down into the depths of the Ethfalian caverns, until a massive collection of roots below form a pathway that can not be descended down any further, but can be followed. Ahead, the glow of the crystal lights of the Ethfalian caverns, and the broken wall of a yet-unexplored wing of [[Kenifria]]*
 
 ## Return To Kenifria
+As the pathway continues onwards, the way shows signs of cult activity recently, but the region appears abandoned. 
+- DC 15 Arcana check identifies alchemical instruments, as well arcane inscribing stations used in the ritual process
+- The pathway is direct and straight, taking you through a back courtyard which opens up to reveal the beautiful crystals above, lighting the region
+## Elandra's Lair
+The room was once a worship space, perhaps an altar room dedicated to a knight of some kind. Now, red flames flicker in ensconced torches lining the walls, as well as candles layered over the ground. The area smells of perfume and blood and lavender. As you approach, Elandra's voice echoes throughout the chamber coming from the long shadows cast by the candlelight.
 
-**ENCOUNTER: Elandra**
-vs **Caede + Skye + Rylei + Adhara**
+### **ENCOUNTER: Tevis vs Kanan and Isilme**
 
-and **Tevis vs Kanan and Isilme**
+Tevis: 210 HP, 19 AC and 17 initiative
+
+### **ENCOUNTER: Elandra + Succubus Willbreaker+ Incubus Willbreaker + Chimaera vs Caede + Skye + Rylei + Adhara**
+- Elandra: 18 AC, 204 HP, 8 initiative
+- Succubus Willbreaker: 17 AC, 108 HP, 11 initiative
+- Incubus Willbreaker: 17 AC, 108 HP, 18 initiative
+- Chimera: 15 AC, 168 HP, 16 initiative
+
 ## IF STATEMENTS FOR THE ENDING
 ##### Session *Number and Title* Summary
+

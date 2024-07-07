@@ -1,3 +1,0 @@
-```statblock
-monster: Succubus/Incubus
-```

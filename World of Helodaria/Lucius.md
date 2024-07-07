@@ -31,7 +31,7 @@ tags:
 - Shadow of Moil, Power Word Pain, Glibness, Plane Shift, Wall of Fire
 ### Items
 - [[Spear of Damnation]] (Attunement)
-- *+2 Plate Armor*
+- *+2 Plate Armor* -> [[Infernal Cuirass]] 
 ### Notes (Fight)
 - Cultists will have *shield of faith* cast on him: *+2 AC*
 - **Blood well mechanic** during combat
