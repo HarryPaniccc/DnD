@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "299225217201ced6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1a2a358d2aec90c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1003b9104f7e078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 75 - Laying Siege.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ceaaa9a8ccbcebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+                "file": "Session Notes/Session 76 - Reunited.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,18 +44,6 @@
             }
           },
           {
-            "id": "cb7b05b5457012b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infernal Cuirass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94ef931c6bc1c0f9",
             "type": "leaf",
             "state": {
@@ -104,19 +56,19 @@
             }
           },
           {
-            "id": "ff6acde7c5068f80",
+            "id": "cb7b05b5457012b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statblocks/Suc(In)cubus Willbreaker.md",
+                "file": "Infernal Cuirass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -194,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 76 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 76 -.md"
+                "file": "World of Helodaria/Lucius.md"
               }
             }
           },
@@ -288,21 +241,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a1a2a358d2aec90c",
+  "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
-    "Attachments/Session 76 -.pdf",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
-    "Session Notes/Session 75 - Laying Siege.md",
-    "Session Notes/Session 76 -.md",
-    "Statblocks/Suc(In)cubus Willbreaker.md",
-    "Attachments/Suc(In)cubus Willbreaker.pdf",
-    "World of Helodaria/Tevis Einzbern.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Items/Spear of Damnation.md",
     "World of Helodaria/Lucius.md",
     "Infernal Cuirass.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
+    "Session Notes/Session 76 - Reunited.md",
+    "Statblocks/Suc(In)cubus Willbreaker.md",
+    "Statblocks/Vampire.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Attachments/Session 76 -.pdf",
+    "Session Notes/Session 75 - Laying Siege.md",
+    "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "Items/Spear of Damnation.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "Baylan's Rest.md",
     "World of Helodaria/Eranulaid.md",

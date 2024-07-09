@@ -40,13 +40,13 @@ tags:
 	- **3 Wells**: +3 to AC and saves
 
 ```statblock
-name: Lucius
+name: Lucius, Vampire Lord
 size: Medium
 type: Undead
 subtype: Shapechanger
 alignment: Lawful Evil
-ac: CALCULATE (Add shield maybe)
-hp: CALCULATE
+ac: 20 (Infernal Cuirass, +2 Plate Armor)
+hp: 264 (22d8 + 88)
 speed: 30ft.
 stats: [18,18,18,17,15,20]
 cr: 20
@@ -75,31 +75,38 @@ traits:
   - name : Legendary Resistance (3/Day)
   - name: Misty Escape
   - name: Hurl Through Hell (1/day)
-  - name: STAFF THINGY
+    desc: When Lucius hits a creature with an attack, he can cause that creature to disappear and hurtle through a nightmarish landscape. At the end of Lucius' next turn, the creature reappears in the space it previously occupied, or wherever is nearest, and suffers 10d10 psychic damage.
+  - name: Spear of Damnation +2
+    desc: Lucius wields the Spear of Damnation +2 magical item.
 
 spells:
-  - Lucius is a spellcaster with spell save DC 21 and a spell attack bonus of +12
+  - Lucius is a spellcaster with spell save DC 20 and a spell attack bonus of +12
   - At will: Swarm Step
   - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift, Wall of Fire
   - "*Lucius casts this spell on himself at the start of combat"
 
 actions:
   - name: Multiattack
-    desc: Lucius makes three attacks. One stike with Damnaton + 1, casts Searing Lash, and one claw attack. He can bite instead of using searing lash.
-  - name: Claw/Strike
-    desc: Melee attack; +11 to hit, 2d6 + 5 slashing/bludgeoning damage.
+    desc: Lucius makes one stike with Spear of Damnation +2, casts Searing Lash, and makes one claw attack. He can bite instead of using searing lash.
+  - name: Unarmed Strike
+    desc: Melee attack; +10 to hit, 1d8 + 4 slashing/bludgeoning damage.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
+    desc: +11 to hit, 5ft against a willing/grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
+  - name: Searing Lash
+    desc: Melee Spell Attack. 30 ft. +12 to hit. 4d6 fire damage, and the target cannot regain hitpoints until the start of Lucius' next turn.
 bonus_actions:
-  - name: Helfire Rite
-    desc: Both hands are ignited in a hellfire rite. When a hand is used in an attack while rited, the target suffers an additional 2d8 fire damage, and creatures within 5 ft. of the target of the attack suffer 2d8 + 4 fire damage.
+  - name: Swarm Step
+    desc: Taking the form of smoking bats, Lucius teleports up to 30ft. to a space he can see. Creatures of his choice within 5ft. of him when he casts the spell must succeed on a DEX save or suffer 2d4 piercing damage as the bats ravage the area around him.
+reactions:
+  - name: Pursue Pray
+    desc: When a creature moves out of Lucius' reach Lucius may use his reaction to perfectly follow that creature. Lucius may choose to remain within 5ft. of the creature during their movement, and may choose to stop following at any point during the move, so as to avoid being led into danger. While moving he does not provoke opportunity attacks. If the creature Lucius is pursuing makes it impossible for Lucius to follow, such as by teleporting or by taking flight, Lucius stops moving.
 legendary_actions:
   - name: Move
-    desc: Moves up to speed
+    desc: Moves up to speed without provoking opportunity attacks.
   - name: Attack
-    desc: Lucius makes one Claw, one Searing Lash, or one Damnation +2 attack.
+    desc: Lucius makes one Unarmed Strike, one Searing Lash, or one Spear of Damnation +2 attack.
   - name: Wrathflight (Costs 2 Actions)
     desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 4 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
 ```
