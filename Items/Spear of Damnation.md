@@ -6,7 +6,7 @@ The Spear of Damnation has a +2 to attack and damage rolls made with the weapon.
 
 While holding the spear, you can cast *Searing Lash* from it. Use Charisma as your spellcasting ability score if you cannot already cast spells.
 
-> Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
+> 
 
 # Planning
 Boost Charisma. Deal necrotic damage

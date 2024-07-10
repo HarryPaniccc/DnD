@@ -28,16 +28,20 @@ tags:
 	- *Note: MAX AC = 20(plate) + 2 (shield of faith) + 3 (wells) = 25*
 ### Spells
 - 1/day each
-- Shadow of Moil, Power Word Pain, Glibness, Plane Shift, Wall of Fire
+- [Shadow of Moil](https://5e.tools/spells.html#shadow%20of%20moil_xge), Power Word Pain, Glibness, Plane Shift, Wall of Fire
 ### Items
 - [[Spear of Damnation]] (Attunement)
-- *+2 Plate Armor* -> [[Infernal Cuirass]] 
+- *+2 Plate Armor* -> [[Infernal Cuirass]]
 ### Notes (Fight)
 - Cultists will have *shield of faith* cast on him: *+2 AC*
 - **Blood well mechanic** during combat
 	- **1 Well**: Additional legendary action and reaction
 	- **2 Wells**: Necrotic Damage Life steal
 	- **3 Wells**: +3 to AC and saves
+- **Chalice lair actions**: On initiative count 20. They happen in order like villainous actions.
+	- Choose a well of blood in the lair. The area surrounding it becomes enshrouded in the ice of the layer of [[Cania]]. Any creature in an area within 15ft. from that point gains vulnerability to fire damage while in the area until initiative count 20 of the next round.
+	- Choose a well of blood in the lair. A 10ft. wide 25ft. cylinder at the well's center writhes with the souls of the damned. When a creature first enters that area on a turn they must succeed on a DC 20 Constitution saving throw or suffer 6d10 necrotic damage.
+	- Choose a well of blood in the lair. The blood of the well boils in an 
 
 ```statblock
 name: Lucius, Vampire Lord
@@ -81,17 +85,19 @@ traits:
 
 spells:
   - Lucius is a spellcaster with spell save DC 20 and a spell attack bonus of +12
-  - At will: Swarm Step
+  - At will: Swarm Step, Searing Lash (4d6)
   - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift, Wall of Fire
   - "*Lucius casts this spell on himself at the start of combat"
 
 actions:
   - name: Multiattack
     desc: Lucius makes one stike with Spear of Damnation +2, casts Searing Lash, and makes one claw attack. He can bite instead of using searing lash.
+  - name: Spear of Damnation +2
+    desc: Melee attack; +12 to hit, (1d8 + 6) piercing damage plus (2d8) necrotic damage.
   - name: Unarmed Strike
-    desc: Melee attack; +10 to hit, 1d8 + 4 slashing/bludgeoning damage.
+    desc: Melee attack; +10 to hit, 1d8 + 4 slashing damage.
   - name: Bite
-    desc: +11 to hit, 5ft against a willing/grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (10d6) necrotic damage.
+    desc: +11 to hit, 5ft against a willing/grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (6d6) necrotic damage.
   - name: Charm
     desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see Lucius, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed.
   - name: Searing Lash
@@ -100,7 +106,7 @@ bonus_actions:
   - name: Swarm Step
     desc: Taking the form of smoking bats, Lucius teleports up to 30ft. to a space he can see. Creatures of his choice within 5ft. of him when he casts the spell must succeed on a DEX save or suffer 2d4 piercing damage as the bats ravage the area around him.
 reactions:
-  - name: Pursue Pray
+  - name: Pursue Prey
     desc: When a creature moves out of Lucius' reach Lucius may use his reaction to perfectly follow that creature. Lucius may choose to remain within 5ft. of the creature during their movement, and may choose to stop following at any point during the move, so as to avoid being led into danger. While moving he does not provoke opportunity attacks. If the creature Lucius is pursuing makes it impossible for Lucius to follow, such as by teleporting or by taking flight, Lucius stops moving.
 legendary_actions:
   - name: Move
@@ -110,109 +116,3 @@ legendary_actions:
   - name: Wrathflight (Costs 2 Actions)
     desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 4 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
 ```
-#### Actions
-- **Bite**: The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
-
-#### Shapechanger
----
-## Lucius is buffed by the amount of pillars remaining
-
-
-# Old
-## Statblock
-```statblock
-name: Lucius
-size: Medium
-type: Undead
-subtype: Shapechanger
-alignment: Lawful Evil
-ac: 20
-hp: 286 (22d8 + 110)
-stats: [20,18,20,19,15,18]
-cr: 20
-saves:
-  - Dexterity: +10
-  - Wisdom: +8
-  - Charisma: +10
-skillsaves:
-  - Arcana: +10
-  - Athletics: +11
-  - Deception: +10
-  - Medicine: +10
-  - Perception: +8
-  - Persuasion: +10
-  - Stealth: +10
-damage_resistances: nectrotic; bludgeoning, piercing and slashing from nonmagical weapons
-damage_immunities: fire
-languages: Common, Infernal, Sirkonian, Elvish
-traits:
-  - name: Shapechanger
-    desc: See the vampire statblock
-  - name: Regeneration
-    desc: While > 1 hp, Lucius regains 20 hp at the start of his turn. This trait does not function if he is in sunlight, running water, or if he has taken radiant damage or damage from holy water until his next turn after.
-  - name: Spider Climb
-    desc: Can climb walls/ceilings without any ability check
-  - name: Vampire Weaknesses
-    desc: Harmed by running water. Take 20 acid damage if ends turn in running water. Stake to the heart. See vampire statblock. Sunlight Hypersensitivity. 20 radiant damage if start turn in sunlight.
-  - name : Legendary Resistance (3/Day)
-    desc : yk
-  - name: Misty Escape
-    desc: See vampire statblock
-  - name: Hurl Through Hell (1/day)
-    desc: When Lucius hits a creature with an attack, he can instantly transport the target through the lower planes. The creature disappears and hurtles through a nightmare landscape. At the of Lucius' next turn, the target returns to the space it previously occupied, or the nearest unoccupied space. If the target is not a fiend, it takes 10d10 psychic damage as it reels from its horrific experience.
-spells:
-  - Lucius is a spellcaster with spell save DC of 18
-  - At will: Misty Step
-  - Once per day each: Shadow of Moil*, Power Word Pain, Glibness, Plane Shift
-  - "*Lucius casts this spell on himself at the start of combat"
-actions:
-  - name: Multiattack
-    desc: Lucius makes two slam attacks.
-  - name: Slam
-    desc: Melee attack; +11 to hit, 2d6 + 5 bludgeoning damage.
-  - name: Bite
-    desc: +11 to hit, 5ft against a willing or grappled/incapacitated/restrained creature. (1d6 + 4) piercing plus (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
-  - name: Charm
-    desc: Lucius targets one humanoid he can see within 30 ft. of him. If the target can see the vampire, the target must succeed on a DC 18 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack. Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
-bonus_actions:
-  - name: Helfire Rite
-    desc: Both hands are ignited in a hellfire rite. When a hand is used in an attack while rited, the target suffers an additional 2d8 fire damage, and creatures within 5 ft. of the target of the attack suffer 2d8 + 4 fire damage.
-legendary_actions:
-  - name: Aether Dash
-    desc: Lucius steps into the border ethereal, traversing as though using a blood hunter's Aether Step, and moves up to his speed without provoking opportunity attacks. After he finishes moving, he returns to the material plane.
-  - name: Attack
-    desc: Lucius makes one slam attack.
-  - name: Wrathflight (Costs 2 Actions)
-    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 5 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
-```
-
-## Planning
-Theme: Brawler. Efficient and brutal. He needs to be a force you avoid on the battle field. You have to hold his ass down. AOE fire attacks?
-- Power
-- Domination
-- Adaptable
-- MOBILE
-#### ACTION ORIENTED DESIGN
-#### Actions:
-**Multiattack**: Make two fire-empowered strikes that splash fire damage in an area.
-**Hurl Through Hell**: On hit, hurl the target through a portal into hell (1/day) 10d10 psychic damage
-
-**Slam Attack**: Punch? 1d6 + 5
-#### Bonus Actions:
-**Ignite fists**: Spellblade, procs the aoe fire damage on his fists like a smite.
-
-#### Legendary Actions:
-**Wings**: His cape becomes wings and he wing attacks like a dragon, and he moves somewhere.
-**Aether dash**: Step into border ethereal, move.
-**Attack**: Punches
-
-#### Chalice lair actions
-On initiative count 20. They happen in order like villainous actions.
-- Cast wall of fire surrounding itself. Concentration is held by Lucius
-- Choose a point in the lair. Any creature in an area within 20ft. from that point gains vulnerability to fire damage while in the area.
-- 
-#### Magic Items #TODO 
-- [[Cloak of Terror]]
-#### Spells
-- [Shadow of Moil](https://5e.tools/spells.html#shadow%20of%20moil_xge)
-- 

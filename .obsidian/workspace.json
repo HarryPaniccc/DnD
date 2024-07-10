@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0898ccabe10ec465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 77 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a1a2a358d2aec90c",
             "type": "leaf",
             "state": {
@@ -66,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1e6c08fd9460b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eren Einzbern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,6 +152,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 76.85185185185185,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -208,6 +233,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
+        "dimension": 23.14814814814815,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -225,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,17 +268,22 @@
   },
   "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
-    "Items/Spear of Damnation.md",
-    "World of Helodaria/Lucius.md",
     "Infernal Cuirass.md",
+    "Eren Einzbern.md",
+    "Obsidian Cheat Sheet.md",
+    "Session 77 -.md",
+    "World of Helodaria/Lucius.md",
+    "Session Notes/Session 75 - Laying Siege.md",
     "World of Helodaria/Tevis Einzbern.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Session Notes/Session 76 - Reunited.md",
+    "Cania.md",
+    "Items/Spear of Damnation.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Suc(In)cubus Willbreaker.md",
     "Statblocks/Vampire.md",
     "World of Helodaria/Elandra, Duchess of the Vorciln.md",
     "Attachments/Session 76 -.pdf",
-    "Session Notes/Session 75 - Laying Siege.md",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
@@ -267,11 +297,6 @@
     "Pontiss.md",
     "Item Pricing.md",
     "Item Tables.md",
-    "Templates/Item template.md",
-    "World of Helodaria/Helodaria.md",
-    "Templates/Deity Template.md",
-    "Templates/Continent.md",
-    "Helodarian Firearms.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
