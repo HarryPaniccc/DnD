@@ -209,7 +209,7 @@ This armoury is broken into three chambers, all holding piles of ransacked and d
 - Entrance to inner sanctum area
 - The door is sealed by statues holding it closed, but with reasonable effort can be opened.
 - Crystals grow outward from the seam as though spreading like veins
-#### Sanctum
+#### 22. Sanctum
 Sigfried awaits, watching a still burning flame
 **Reasons for him to attack**
 - Prove yourself

@@ -102,9 +102,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2af34912ee029490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kenifria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session 77 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session 77 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Lucius.md"
+                "file": "Session 77 -.md"
               }
             }
           },
@@ -279,19 +290,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95dd4b3cde060d53",
+  "active": "0898ccabe10ec465",
   "lastOpenFiles": [
+    "Session Notes/Session 76 - Reunited.md",
     "Session 77 -.md",
+    "World of Helodaria/Kenifria.md",
+    "Infernal Cuirass.md",
     "World of Helodaria/Lucius.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "World of Helodaria/Tevis Einzbern.md",
-    "Infernal Cuirass.md",
     "Items/Spear of Damnation.md",
     "Eren Einzbern.md",
     "General Notes and Ideas.md",
     "Obsidian Cheat Sheet.md",
     "Session Notes/Session 75 - Laying Siege.md",
-    "Session Notes/Session 76 - Reunited.md",
     "Cania.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Suc(In)cubus Willbreaker.md",
@@ -309,7 +321,6 @@
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Republic of Ruina.md",
     "Pontiss.md",
-    "Item Pricing.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
