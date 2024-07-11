@@ -60,7 +60,7 @@ saves:
   - Charisma: +11
 skillsaves:
   - Arcana: +9
-  - Athletics: +10
+  - Athletics: +17
   - Deception: +11
   - Medicine: +9
   - Perception: +8

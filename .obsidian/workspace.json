@@ -90,6 +90,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc013710f902f879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Vorciln Tithe Inquisitor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -251,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,17 +281,18 @@
   },
   "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
-    "Infernal Cuirass.md",
-    "Eren Einzbern.md",
-    "Obsidian Cheat Sheet.md",
     "Session 77 -.md",
     "World of Helodaria/Lucius.md",
-    "Session Notes/Session 75 - Laying Siege.md",
+    "Statblocks/Vorciln Tithe Inquisitor.md",
     "World of Helodaria/Tevis Einzbern.md",
+    "Infernal Cuirass.md",
+    "Items/Spear of Damnation.md",
+    "Eren Einzbern.md",
+    "General Notes and Ideas.md",
+    "Obsidian Cheat Sheet.md",
+    "Session Notes/Session 75 - Laying Siege.md",
     "Session Notes/Session 76 - Reunited.md",
     "Cania.md",
-    "Items/Spear of Damnation.md",
-    "General Notes and Ideas.md",
     "Session Notes/Session 73 - The Band of the Silver Arrow.md",
     "Statblocks/Suc(In)cubus Willbreaker.md",
     "Statblocks/Vampire.md",
@@ -296,7 +310,6 @@
     "World of Helodaria/Republic of Ruina.md",
     "Pontiss.md",
     "Item Pricing.md",
-    "Item Tables.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

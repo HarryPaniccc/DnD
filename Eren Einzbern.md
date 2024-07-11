@@ -2,7 +2,7 @@
 name: Eren Einzbern
 size: Medium
 type: Undead
-subtype: Skeleton
+subtype: Skeleton Avatar
 alignment: Lawful Evil
 ac: Armor Class
 hp: Health
@@ -19,7 +19,7 @@ damage_immunities: string
 condition_immunities: string
 senses: string
 languages: string
-cr: 5
+cr: 12
 spells:
   - Is a nth level caster
   - 9th level (1 slot): Spell 1, spell 2

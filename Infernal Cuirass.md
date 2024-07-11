@@ -1,10 +1,7 @@
-# Item Name
-*Type (Subtype), Rarity, Requires Attunement*
-This item does a ton of stuff. Im guessing you want to read what it does but you can't. Nerd.
+# Infernal Cuirass
+*Heavy Armour (Plate), Very Rare, Requires Attunement*
+You gain +2 to AC and resistance to 
 
-> Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
+> Cold to the touch red steel plates surround the wearer, while black chainmail protects the joints of the armour. The visages of tortured souls can be made out in the filigree of the metal.
 
 ---
-Notes
->[!Additional Information]
->If an item has a spell to cast or some other feature that would be nice to have in details, put it here. For example, this template is really nice with the *Typewriter* theme in light mode
