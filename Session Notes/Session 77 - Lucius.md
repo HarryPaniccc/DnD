@@ -8,14 +8,38 @@ The Vanguard in their plight to avenge the family clan of Kanan Einzbern, former
 ## The Rite of Unholy Severance
 The rite of unholy severance is taking place in a great chamber above the Sanctum of the Kenifrian stronghold where Athelstan was first sealed away. The stairway leads upwards from a section of the crypts into the ritual chamber - once a great ceremony room. The walls of the room have crumbled away, and black magic energy flows upwards from the antechamber below.
 
-**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Bone Devil**
+**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Bone Devil + Vampire Spawn x 4 + Cult Fanatic x 3 + Orthon + Necromancerr**
+#### Initiatives
+- Lucius: 22
+- Narzugon: 13
+- Nightmare: 9
+- Bone Devil: 15
+- Spawn: 21
+- Fanatics: 16
+- Aerondite: 20
+- Tevis: 29
+- Eren: 15
+- Arthur: 13
 
 ### Three Rounds
 50 hp
-#### Factors to 
+#### NPC's strategy
+**Lucius**
+- Round 1: Action will be to cast Shadow of Moil on himself if he goes early
+- Afterwards: Multiattack as he sees fit, trying to hit someone with a hurl through hell
+- If he gets hit really hard, odds are by Kanan, he will power word pain them
+**Narzugon**
+- Infernal command then terrifying command
+- When Lucius is low he will use healing touch
+- The nightmare will constantly dash or disengage to allow fly by attacks
+**Aerondite**
+- 
+#### Factors to Consider
 - Fractured Leviathan Axe
 - Arthur
 - The ghost
 
 ## Encounter: The Man with the Golden Gun
+- Poison on the floating blade
+- 
 ##### Session *Number and Title* Summary

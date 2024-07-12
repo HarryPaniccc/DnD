@@ -114,6 +114,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4b72bc26eb193db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prince Artorius Sirkon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -292,14 +304,16 @@
   },
   "active": "0898ccabe10ec465",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
-    "World of Helodaria/Tevis Einzbern.md",
+    "Session Notes/Session 74 - The Battle of Strahldale.md",
     "Session Notes/Session 76 - Reunited.md",
+    "World of Helodaria/Tevis Einzbern.md",
     "Session Notes/Session 77 - Lucius.md",
+    "World of Helodaria/Lucius.md",
+    "Items/Spear of Damnation.md",
+    "Prince Artorius Sirkon.md",
     "World of Helodaria/Kenifria.md",
     "Infernal Cuirass.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
-    "Items/Spear of Damnation.md",
     "Eren Einzbern.md",
     "General Notes and Ideas.md",
     "Obsidian Cheat Sheet.md",
@@ -312,7 +326,6 @@
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Session Notes/Session 74 - The Battle of Strahldale.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "Baylan's Rest.md",
     "World of Helodaria/Eranulaid.md",
@@ -320,7 +333,6 @@
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Republic of Ruina.md",
-    "Pontiss.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
