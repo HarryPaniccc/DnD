@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 77 -.md",
+                "file": "Session Notes/Session 77 - Lucius.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,8 +115,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
+    "width": 299.5,
     "collapsed": true
   },
   "right": {
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session Notes/Session 77 - Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session Notes/Session 77 - Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Lucius.md"
+                "file": "Session Notes/Session 77 - Lucius.md"
               }
             }
           },
@@ -291,14 +290,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95dd4b3cde060d53",
+  "active": "0898ccabe10ec465",
   "lastOpenFiles": [
+    "World of Helodaria/Lucius.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Session Notes/Session 76 - Reunited.md",
-    "Session 77 -.md",
+    "Session Notes/Session 77 - Lucius.md",
     "World of Helodaria/Kenifria.md",
     "Infernal Cuirass.md",
-    "World of Helodaria/Lucius.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "Items/Spear of Damnation.md",
     "Eren Einzbern.md",

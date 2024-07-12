@@ -9,8 +9,9 @@ The Vanguard in their plight to avenge the family clan of Kanan Einzbern, former
 The rite of unholy severance is taking place in a great chamber above the Sanctum of the Kenifrian stronghold where Athelstan was first sealed away. The stairway leads upwards from a section of the crypts into the ritual chamber - once a great ceremony room. The walls of the room have crumbled away, and black magic energy flows upwards from the antechamber below.
 
 **ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Bone Devil**
+
 ### Three Rounds
-100 hp
+50 hp
 #### Factors to 
 - Fractured Leviathan Axe
 - Arthur
