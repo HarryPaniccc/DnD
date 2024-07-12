@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 77 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 77 -.md",
+                "file": "World of Helodaria/Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 77 -.md"
+                "file": "World of Helodaria/Lucius.md"
               }
             }
           },
@@ -290,15 +291,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0898ccabe10ec465",
+  "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
+    "World of Helodaria/Tevis Einzbern.md",
     "Session Notes/Session 76 - Reunited.md",
     "Session 77 -.md",
     "World of Helodaria/Kenifria.md",
     "Infernal Cuirass.md",
     "World of Helodaria/Lucius.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
-    "World of Helodaria/Tevis Einzbern.md",
     "Items/Spear of Damnation.md",
     "Eren Einzbern.md",
     "General Notes and Ideas.md",
