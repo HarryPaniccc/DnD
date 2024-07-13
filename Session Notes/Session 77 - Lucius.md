@@ -8,7 +8,7 @@ The Vanguard in their plight to avenge the family clan of Kanan Einzbern, former
 ## The Rite of Unholy Severance
 The rite of unholy severance is taking place in a great chamber above the Sanctum of the Kenifrian stronghold where Athelstan was first sealed away. The stairway leads upwards from a section of the crypts into the ritual chamber - once a great ceremony room. The walls of the room have crumbled away, and black magic energy flows upwards from the antechamber below.
 
-**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Bone Devil + Vampire Spawn x 4 + Cult Fanatic x 3 + Orthon + Necromancerr**
+**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Vampire Spawn x 4 + Cult Fanatic x 3 + Orthon + Necromancer + (Bone Devil)**
 #### Initiatives
 - Lucius: 22
 - Narzugon: 13
@@ -20,6 +20,7 @@ The rite of unholy severance is taking place in a great chamber above the Sanctu
 - Tevis: 29
 - Eren: 15
 - Arthur: 13
+- Orthon: 6
 
 ### Three Rounds
 50 hp
