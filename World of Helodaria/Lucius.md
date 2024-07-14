@@ -39,9 +39,9 @@ tags:
 	- **2 Wells**: Necrotic Damage Life steal
 	- **3 Wells**: +3 to AC and saves
 - **Chalice lair actions**: On initiative count 20.
-	- Choose a well of blood in the lair. The area surrounding it becomes enshrouded in the frigid air of the layer of [[Cania]]. Any creature in an area within 15ft. from that point gains vulnerability to fire damage while in the area until initiative count 20 of the next round.
-	- Choose a well of blood in the lair. One of the souls is ripped from the churning well of energy and is transformed into a **Shadow** allied with Lucius.
-	- Choose a well of blood in the lair. A 10ft. radius 25ft. cylinder at the well's center writhes with the souls of the damned. When a creature first enters that area on a turn they must succeed on a DC 20 Constitution saving throw or suffer 6d10 necrotic damage.
+	- Choose an altar. The area surrounding it becomes enshrouded in the frigid air of the layer of [[Cania]]. Any creature in an area within 15ft. from that point gains vulnerability to fire damage while in the area until initiative count 20 of the next round.
+	- Choose an altar. One of the souls is ripped from the churning well of energy and is transformed into a **Shadow** allied with Lucius.
+	- Choose an altar. A 10ft. radius 25ft. high cylinder at the well's center writhes with the souls of the damned. When a creature first enters that area on a turn they must succeed on a DC 20 Constitution saving throw or suffer 6d10 necrotic damage.
 
 ```statblock
 name: Lucius, Vampire Lord

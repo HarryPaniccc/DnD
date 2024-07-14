@@ -8,22 +8,26 @@ The Vanguard in their plight to avenge the family clan of Kanan Einzbern, former
 ## The Rite of Unholy Severance
 The rite of unholy severance is taking place in a great chamber above the Sanctum of the Kenifrian stronghold where Athelstan was first sealed away. The stairway leads upwards from a section of the crypts into the ritual chamber - once a great ceremony room. The walls of the room have crumbled away, and black magic energy flows upwards from the antechamber below.
 
-**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Ghoul x 3 + Summoned Shadows + Cult Fanatic x 3 + Orthon + Necromancer + (Bone Devil)** + Spawn Cultists
+**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Ghoul x 3 + Summoned Shadows + Cult Fanatic x 3 + Orthon + Necromancer + (Bone Devil summoned later)** + Returned Spawn Cultists
 #### Initiatives, HP
 - Lucius: 22, 264
 - Narzugon: 13, 165
 - Nightmare: 9, 104
 - Bone Devil: 15, 142
-- Spawn: 21, 
-- Fanatics: 16
-- Aerondite: 20
-- Tevis: 29
-- Eren: 15
-- Arthur: 13
-- Orthon: 6
-- Shadow: 17
+- Spawn: 21, 82
+- Fanatics: 16, 54
+- Aerondite: 20, 200
+- Tevis: 29,
+- Eren: 15, half his max minus already taken damage
+- Arthur: 13, missing 13 HP
+- Orthon: 6, 150
+- Shadow: 17, 16
 ### Three Rounds
-HP of the altars: 41, 36, 39. Their AC is 17, they have medium toughness (22 damage), and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
+Three rounds remain of the ritual. Every round at the top of the round the timer goes down by one. If a cult fanatic is killed, the timer increases by one round. If all are killed then the ritual is paused and Athelstan is unable to return in this combat.
+
+Lucius is also granted increased strength by the altars. 
+
+HP of the altars: 41, 36, 39. Their AC is 17, they have toughness (15 damage), and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
 #### NPC's strategy
 **Lucius**
 - Round 1: Action will be to cast Shadow of Moil on himself if he goes early

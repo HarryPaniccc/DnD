@@ -127,7 +127,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md",
+                "file": "World of Helodaria/Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md",
+                "file": "World of Helodaria/Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md"
+                "file": "World of Helodaria/Lucius.md"
               }
             }
           },
@@ -302,10 +303,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0898ccabe10ec465",
+  "active": "95dd4b3cde060d53",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
     "Session Notes/Session 77 - Lucius.md",
+    "World of Helodaria/Lucius.md",
     "Prince Artorius Sirkon.md",
     "Items/Daybreakers.md",
     "Items/Spear of Damnation.md",
