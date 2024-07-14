@@ -8,19 +8,20 @@ The Vanguard in their plight to avenge the family clan of Kanan Einzbern, former
 ## The Rite of Unholy Severance
 The rite of unholy severance is taking place in a great chamber above the Sanctum of the Kenifrian stronghold where Athelstan was first sealed away. The stairway leads upwards from a section of the crypts into the ritual chamber - once a great ceremony room. The walls of the room have crumbled away, and black magic energy flows upwards from the antechamber below.
 
-**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Vampire Spawn x 4 + Cult Fanatic x 3 + Orthon + Necromancer + (Bone Devil)**
-#### Initiatives
-- Lucius: 22
-- Narzugon: 13
-- Nightmare: 9
-- Bone Devil: 15
-- Spawn: 21
+**ENCOUNTER: Lucius, Vampire Lord + Narzugon (MTF) + Nightmare + Ghoul x 3 + Summoned Shadows + Cult Fanatic x 3 + Orthon + Necromancer + (Bone Devil)** + Spawn Cultists
+#### Initiatives, HP
+- Lucius: 22, 264
+- Narzugon: 13, 165
+- Nightmare: 9, 104
+- Bone Devil: 15, 142
+- Spawn: 21, 
 - Fanatics: 16
 - Aerondite: 20
 - Tevis: 29
 - Eren: 15
 - Arthur: 13
 - Orthon: 6
+- Shadow: 17
 ### Three Rounds
 HP of the altars: 41, 36, 39. Their AC is 17, they have medium toughness (22 damage), and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
 #### NPC's strategy
