@@ -21,9 +21,8 @@ The rite of unholy severance is taking place in a great chamber above the Sanctu
 - Eren: 15
 - Arthur: 13
 - Orthon: 6
-
 ### Three Rounds
-50 hp
+HP of the altars: 41, 36, 39. Their AC is 17, they have medium toughness (22 damage), and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
 #### NPC's strategy
 **Lucius**
 - Round 1: Action will be to cast Shadow of Moil on himself if he goes early

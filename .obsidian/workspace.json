@@ -126,21 +126,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "02bacbca64ba09ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Dawnmail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session Notes/Session 77 - Lucius.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Lucius.md",
+                "file": "Session Notes/Session 77 - Lucius.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Lucius.md"
+                "file": "Session Notes/Session 77 - Lucius.md"
               }
             }
           },
@@ -315,18 +302,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "95dd4b3cde060d53",
+  "active": "0898ccabe10ec465",
   "lastOpenFiles": [
-    "Session Notes/Session 76 - Reunited.md",
+    "Prince Artorius Sirkon.md",
+    "Items/Daybreakers.md",
     "Session Notes/Session 77 - Lucius.md",
+    "Items/Spear of Damnation.md",
+    "World of Helodaria/Lucius.md",
+    "Infernal Cuirass.md",
+    "Session Notes/Session 76 - Reunited.md",
     "Items/Dawnmail.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
     "World of Helodaria/Tevis Einzbern.md",
-    "World of Helodaria/Lucius.md",
-    "Items/Spear of Damnation.md",
-    "Prince Artorius Sirkon.md",
     "World of Helodaria/Kenifria.md",
-    "Infernal Cuirass.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "Eren Einzbern.md",
     "General Notes and Ideas.md",
@@ -345,7 +333,6 @@
     "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
     "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Zitrumean Empire.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
