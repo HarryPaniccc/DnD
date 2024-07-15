@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-# Stats
+	# Stats
 >[!Notes]
 >- Spear/staff and plate armor
 >- Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)
@@ -117,5 +117,5 @@ legendary_actions:
   - name: Attack
     desc: Lucius makes one Unarmed Strike, one Searing Lash, or one Spear of Damnation +2 attack.
   - name: Wrathflight (Costs 2 Actions)
-    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 4 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed after finishing this movement.
+    desc: Lucius summons his bat wings and beats them. Each creature within 10ft. of him must succeed on a DC 19 dexterity saving throw or take 1d6 + 4 bludgeoning damage and be knocked prone. Lucius can then fly up to his movement speed. He loses his flying speed at the start of his next turn.
 ```

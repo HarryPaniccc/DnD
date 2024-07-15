@@ -1,5 +1,5 @@
 **GENERAL NOTES**
-- Banahras 5th around \_\_\_\_ o'clock
+- Banahras 5th around 10:50 o'clock
 - The vanguard are awaiting in a wing of the crypts of Kenifria
 - For the 1 hour buff spells there are 10 minutes remaining
 
@@ -16,18 +16,19 @@ The rite of unholy severance is taking place in a great chamber above the Sanctu
 - Bone Devil: 15, 142
 - Spawn: 21, 82
 - Fanatics: 16, 54
-- Aerondite: 20, 200
+- Aerondite: 20, 200 (round 3)
 - Tevis: 29,
 - Eren: 15, half his max minus already taken damage
 - Arthur: 13, missing 13 HP
-- Orthon: 6, 150
+- Orthon: 16, 150
 - Shadow: 17, 16
+- Necromancer: 
 ### Three Rounds
 Three rounds remain of the ritual. Every round at the top of the round the timer goes down by one. If a cult fanatic is killed, the timer increases by one round. If all are killed then the ritual is paused and Athelstan is unable to return in this combat.
 
 Lucius is also granted increased strength by the altars. 
 
-HP of the altars: 41, 36, 39. Their AC is 17, they have toughness (15 damage), and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
+HP of the altars: 41, 36, 39. Their AC is 17, and are vulnerable to force, piercing, bludgeoning and radiant damage. They are resistant to slashing damage. They are immune to psychic and fire damage.
 #### NPC's strategy
 **Lucius**
 - Round 1: Action will be to cast Shadow of Moil on himself if he goes early
@@ -38,7 +39,6 @@ HP of the altars: 41, 36, 39. Their AC is 17, they have toughness (15 damage), a
 - When Lucius is low he will use healing touch
 - The nightmare will constantly dash or disengage to allow fly by attacks
 **Aerondite**
-- 
 #### Factors to Consider
 - Fractured Leviathan Axe
 - Arthur
@@ -46,5 +46,4 @@ HP of the altars: 41, 36, 39. Their AC is 17, they have toughness (15 damage), a
 
 ## Encounter: The Man with the Golden Gun
 - Poison on the floating blade
-- 
 ##### Session *Number and Title* Summary
