@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d4a85cdf1d380eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 78 - Gunslinger.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f7dc6b5385e30cd5",
             "type": "leaf",
             "state": {
@@ -32,84 +44,12 @@
             }
           },
           {
-            "id": "e5798f6cb7567866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Tevis Einzbern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95dd4b3cde060d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lucius.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94ef931c6bc1c0f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Spear of Damnation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb7b05b5457012b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infernal Cuirass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1e6c08fd9460b67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eren Einzbern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc013710f902f879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Vorciln Tithe Inquisitor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af34912ee029490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kenifria.md",
+                "file": "Items/Infernal Cuirass.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,6 +62,72 @@
               "type": "markdown",
               "state": {
                 "file": "Prince Artorius Sirkon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62f37362d68be6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helodarian Firearms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5493c833fc0864e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e6c08fd9460b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Erin Einzbern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3ba860dcd7e09f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gunslinger Subclass Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b8e8c2329196893",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Junk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3973f638a285dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Bracers of Defence.md",
                 "mode": "source",
                 "source": false
               }
@@ -207,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md",
+                "file": "Session 78 - Gunslinger.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md",
+                "file": "Session 78 - Gunslinger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 77 - Lucius.md"
+                "file": "Session 78 - Gunslinger.md"
               }
             }
           },
@@ -302,37 +308,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f7dc6b5385e30cd5",
+  "active": "d4a85cdf1d380eef",
   "lastOpenFiles": [
-    "World of Helodaria/Lucius.md",
-    "Session Notes/Session 77 - Lucius.md",
+    "Erin Einzbern.md",
+    "Session 78 - Gunslinger.md",
+    "Junk.md",
+    "Items/Bracers of Defence.md",
+    "Helodarian Firearms.md",
+    "Gunslinger Subclass Ideas.md",
+    "Items/Until Dawn.md",
+    "Items/Infernal Cuirass.md",
     "Session Notes/Session 76 - Reunited.md",
+    "Items/Spear of Damnation.md",
+    "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
+    "Session Notes/Session 69 - Some Other Time.md",
+    "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
+    "Session Notes/Session 77 - Lucius.md",
     "Prince Artorius Sirkon.md",
     "World of Helodaria/Tevis Einzbern.md",
-    "Items/Spear of Damnation.md",
+    "Statblocks/Vorciln Tithe Inquisitor.md",
+    "World of Helodaria/Kenifria.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Lucius.md",
     "Items/Daybreakers.md",
-    "Infernal Cuirass.md",
     "Items/Dawnmail.md",
     "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "World of Helodaria/Kenifria.md",
-    "Statblocks/Vorciln Tithe Inquisitor.md",
-    "Eren Einzbern.md",
-    "General Notes and Ideas.md",
     "Obsidian Cheat Sheet.md",
     "Session Notes/Session 75 - Laying Siege.md",
-    "Cania.md",
-    "Session Notes/Session 73 - The Band of the Silver Arrow.md",
-    "Statblocks/Suc(In)cubus Willbreaker.md",
-    "Statblocks/Vampire.md",
-    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "World of Helodaria/Cania.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
-    "Baylan's Rest.md",
-    "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20240320125108.png",
-    "World of Helodaria/Zitrumea.md",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",

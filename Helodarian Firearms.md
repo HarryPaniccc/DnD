@@ -17,18 +17,20 @@ Some firearms are designed with the intent to be quick to reload. The loading pr
 # Normal Firearms
 Simple black powder weapons with slow reloads. 
 
-| Name | Cost | Damage | Weight | Properties |
-| ---- | ---- | ---- | ---- | ---- |
-| Musket | 500 gp | 3d10 Piercing |  | Reload 1 (5 actions), Missfire 1, Range (40/120), Heavy, Two-Handed |
-| Flintlock Pistol | 250 gp | 2d8 Piercing |  | Reload 1 (5 actions), Missfire 1, Range (30/90) |
-| Double Barrel Flintlock Pistol | 300 gp | 2d8 Piercing |  | Reload 2 (5 actions), Missfire 2, Range (30/90) |
-| Pepperbox | 500 gp | 2d8 Piercing |  | Reload 4 (1d4), Missfire 2, Range (40/120) |
-|  |  |  |  |  |
+| Name                           | Cost   | Damage        | Weight | Properties                                                          |
+| ------------------------------ | ------ | ------------- | ------ | ------------------------------------------------------------------- |
+| Musket                         | 500 gp | 3d10 Piercing |        | Reload 1 (5 actions), Missfire 1, Range (40/120), Heavy, Two-Handed |
+| Flintlock Pistol               | 250 gp | 2d8 Piercing  |        | Reload 1 (5 actions), Missfire 1, Range (30/90)                     |
+| Double Barrel Flintlock Pistol | 300 gp | 2d8 Piercing  |        | Reload 2 (5 actions), Missfire 2, Range (30/90)                     |
+| Pepperbox                      | 500 gp | 2d8 Piercing  |        | Reload 4 (1d4), Missfire 2, Range (40/120)                          |
+|                                |        |               |        |                                                                     |
+|                                |        |               |        |                                                                     |
 # Farrondale Firearms
 The Farrondale family has been instrumental in developing proper casings for faster reloads. With only a single chamber and the difficulty being reloading after firing, the Farrondale family developed a kind of paper powder casing with a round in it that makes for very quick reloads, as it has been prepacked. Compared to a normal musket, which takes a long time to reload, Farrondale weapons are extremely valuable.
 
-| Name | Cost | Damage | Weight | Properties |
-| ---- | ---- | ---- | ---- | ---- |
-| Farrondale Marksman Rifle | 1000 gp | 2d10 Piercing |  | Loading, Two handed, Missfire 1, Range (200/600) |
-| Farrondale Bolt Pistol | 700 gp | 2d6 Piercing |  | Reload 1 (One attack),  |
-| Breach Revolver | 2500 gp | 2d8 Piercing |  | Reload 6 (Action, bonus action, or attack, 1d6), Missfire 1, Range (40/120) |
+| Name                      | Cost    | Damage        | Weight       | Properties                                                                         |
+| ------------------------- | ------- | ------------- | ------------ | ---------------------------------------------------------------------------------- |
+| Farrondale Marksman Rifle | 1000 gp | 2d10 Piercing |              | Loading, Two handed, Missfire 1, Range (200/600)                                   |
+| Farrondale Bolt Pistol    | 700 gp  | 2d6 Piercing  |              | Reload 1 (One attack),                                                             |
+| Breach Revolver           | 2500 gp | 2d8 Piercing  |              | Reload 6 (Bonus action, or attack, 1d6), Missfire 1, Range (40/120) (REWORK THISI) |
+| Farrondale Bolt Rifle     | 750 gp  | 3d8 Piercing  | 3 kg (7 lbs) | Loading, Missfire 2, Range (60/180)                                                |

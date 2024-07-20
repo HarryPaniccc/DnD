@@ -43,4 +43,4 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]]. He s
 - [[Jarren Ward]], Kanan's guardian in the weeks after his escape
 - [[Isolde Einzbern]], Kanan's mother
 - [[Lucius]], Kanan's greatest foe and prey. The Vampire is the cause of Kanan's suffering
-- [[Eren Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend
+- [[Erin Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend

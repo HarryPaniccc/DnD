@@ -3,12 +3,6 @@ tags:
   - Core
 ---
 # To do list
-- [ ] Final Vorciln Battle
-	- [ ] Stat Lucius
-	- [ ] Spear of Damnation
-	- [ ] The fight
-	- [ ] Mechanics
-	- [ ] Stat the Einzbern
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters

@@ -6,7 +6,7 @@ The Spear of Damnation has a +2 to attack and damage rolls made with the weapon.
 
 While holding the spear, you can cast *Searing Lash* from it. Use Charisma as your spellcasting ability score if you cannot already cast spells.
 
-> 
+> The blacksmiths of Avernus are never wanting for components to fuel their creativity - often the most potent weapons are forged of the very essence of the enemies they are designed to fell.
 
 # Planning
 Boost Charisma. Deal necrotic damage

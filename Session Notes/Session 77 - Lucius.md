@@ -46,4 +46,4 @@ HP of the altars: 41, 36, 39. Their AC is 17, and are vulnerable to force, pierc
 
 ## Encounter: The Man with the Golden Gun
 - Poison on the floating blade
-##### Session *Number and Title* Summary
+##### Session 77 - Lucius Summary

@@ -1,31 +1,25 @@
-# Duskdrinker
+# Spear of Damnation
+*Weapon (Spear), Legendary, Requires Attunement*
+The Spear of Damnation is a weapon crafted of obsidian and black steel. Runes glow along the head of the weapon, and the handle is wrapped in a black leather. Its blade faintly smolders a bloody orange and black.
 
-*Weapon (Longsword), Very Rare (Requires Attunement)*
-You have a +2 to attack and damage rolls made with this weapon. In addition, Duskdrinker deals an additional 1d6 necrotic damage to creatures hit by it, and if the target of the attack isn't an undead or a construct, you regain an amount of HP equal to the necrotic damage dealt by this effect.
+The Spear of Damnation has a +2 to attack and damage rolls made with the weapon. While holding the spear, your Charisma score increases by 2, as does your maximum for that score, and your spell attack rolls and spell save DC increase by 1. When you hit a creature with the Spear of Damnation, you deal an additional 1d8 necrotic damage to that creature.
+
+While holding the spear, you can cast *Searing Lash* from it. Use Charisma as your spellcasting ability score if you cannot already cast spells.
+
+> The blacksmiths of Avernus are never wanting for components to fuel their creativity - often the most potent weapons are forged of the very essence of the enemies they are designed to fell.
+
+>[!Searing Lash]
+>Melee Spell Attack. 30 ft. 4d6 fire damage as an action, and the target cannot regain hitpoints until the start of your next turn
 
 ---
-> We are his perfect machine. His finale. We are a piece of art and he is the master artist. What more would there be to life, other than to do as we were created for? And of all his blades, I am his sharpest.
+# Infernal Cuirass
+*Heavy Armour (Plate), Very Rare, Requires Attunement*
+You gain +2 to AC, +1 to Constitution saving throws, and can speak, read, and write Infernal. In addition you can use the armour to cast *hellish rebuke* at third level once per day.
 
----
-# Bracers of Defence
-
-*Wonderous Item, Rare (requires attunement)*
-While wearing these bracers, you gain a +2 bonus to your AC if you are wearing no armour and using no shield.
-
----
-# Amulet of the Devout +1
-
-*Wondrous Item, Uncommon (requires attunement by a cleric or paladin)*
-This amulet bears the symbol of a spider inlaid with precious stones or metals. While you wear the holy symbol, you gain a +1 bonus to spell attack rolls and the saving throw DCs of your spells.
-
-While you wear this amulet, you can use your Channel Divinity feature without expending one of the feature's uses. Once this property is used, it can't be used again until the next dawn.
+> Cold to the touch red steel plates surround the wearer, while black chainmail protects the joints of the armour. The visages of tortured souls can be made out in the filigree of the metal, and hellish runes gently exude unholy light on the inside of the plates.
 
 ---
 
-# Ring of Cold Resistance
 
-*Ring, Rare (requires attunement)*
-You have resistance to cold damage while wearing this ring. The ring is set with tourmaline.
-
-
-
+| Farrondale Bolt Rifle | 750 gp | 3d8 Piercing | 3 kg (7 lbs) | Loading, Missfire 2, Range (60/180) |
+| --------------------- | ------ | ------------ | ------------ | ----------------------------------- |
