@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 78 - Gunslinger.md",
+                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,56 +78,26 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "5493c833fc0864e8",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b1e6c08fd9460b67",
+            "id": "131da596613f77a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erin Einzbern.md",
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3ba860dcd7e09f4",
+            "id": "d37ae4e66df1bff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gunslinger Subclass Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b8e8c2329196893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3973f638a285dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Bracers of Defence.md",
+                "file": "World of Helodaria/Keldmire.md",
                 "mode": "source",
                 "source": false
               }
@@ -213,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 78 - Gunslinger.md",
+                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 78 - Gunslinger.md",
+                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 78 - Gunslinger.md"
+                "file": "Session Notes/Session 78 - Whispers and Revelry.md"
               }
             }
           },
@@ -310,12 +280,19 @@
   },
   "active": "d4a85cdf1d380eef",
   "lastOpenFiles": [
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Keldmire.md",
+    "World of Helodaria/Vasspryg.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Prince Artorius Sirkon.md",
+    "Session Notes/Session 78 - Whispers and Revelry.md",
     "Erin Einzbern.md",
-    "Session 78 - Gunslinger.md",
+    "Gunslinger Subclass Ideas.md",
     "Junk.md",
     "Items/Bracers of Defence.md",
     "Helodarian Firearms.md",
-    "Gunslinger Subclass Ideas.md",
     "Items/Until Dawn.md",
     "Items/Infernal Cuirass.md",
     "Session Notes/Session 76 - Reunited.md",
@@ -324,18 +301,11 @@
     "Session Notes/Session 69 - Some Other Time.md",
     "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
     "Session Notes/Session 77 - Lucius.md",
-    "Prince Artorius Sirkon.md",
-    "World of Helodaria/Tevis Einzbern.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "World of Helodaria/Kenifria.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Lucius.md",
     "Items/Daybreakers.md",
-    "Items/Dawnmail.md",
-    "Session Notes/Session 74 - The Battle of Strahldale.md",
-    "Obsidian Cheat Sheet.md",
-    "Session Notes/Session 75 - Laying Siege.md",
-    "World of Helodaria/Cania.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",

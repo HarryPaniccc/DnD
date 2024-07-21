@@ -23,7 +23,6 @@ When Erin's form is destroyed, his spirit will be thrust out of his body until t
 *"I do not want it to end this way. Let me leave with the chalice, and you can have your victory. The Vorciln are no more today. We have won.*
 ### The Einzbern Curse
 
-
 ### Arthur
 *"Two years ago, a great shadow was cast over our homeland. Sirkonos was wounded and its people bled. The very crown you put your faith into to protect you was seduced and forced into the hands of evil, and some of our greatest protectors were hunted down for false crimes. But today light returns to our country. Today the the darkness is dispelled. Today the Einzberns have returned, and today I make you all a promise - an oath. To forge forwards with sword in hand, and to become a prince that this country can rely on. Together we will continue to protect this kingdom, and avenge and make proud all those who have fallen!"*
 
@@ -41,5 +40,4 @@ The moment that Lucius was defeated, King Sirkon sent forth [[Syr Renslayer]] an
 - Three +1 daggers
 - 18 Farrondale rounds
 
-
-##### Session 78 - Gunslinger Summary
+##### Session 78 - Whispers and Revelry Summary 
