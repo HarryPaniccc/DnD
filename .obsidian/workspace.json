@@ -102,8 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a906a9239f57b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 79 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
+                "file": "Session 79 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
+                "file": "Session 79 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 78 - Whispers and Revelry.md"
+                "file": "Session 79 -.md"
               }
             }
           },
@@ -278,8 +291,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d4a85cdf1d380eef",
+  "active": "a906a9239f57b8a8",
   "lastOpenFiles": [
+    "Session 79 -.md",
+    "Session Notes/Session 78 - Whispers and Revelry.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Keldmire.md",
@@ -287,7 +302,6 @@
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Prince Artorius Sirkon.md",
-    "Session Notes/Session 78 - Whispers and Revelry.md",
     "Erin Einzbern.md",
     "Gunslinger Subclass Ideas.md",
     "Junk.md",
@@ -305,7 +319,6 @@
     "World of Helodaria/Kenifria.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Lucius.md",
-    "Items/Daybreakers.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",
