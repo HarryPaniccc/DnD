@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a906a9239f57b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 79 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d4a85cdf1d380eef",
             "type": "leaf",
             "state": {
@@ -102,21 +114,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a906a9239f57b8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 79 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -275,8 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,8 +290,9 @@
   },
   "active": "a906a9239f57b8a8",
   "lastOpenFiles": [
-    "Session 79 -.md",
     "Session Notes/Session 78 - Whispers and Revelry.md",
+    "Session 79 -.md",
+    "General Notes and Ideas.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Keldmire.md",
@@ -317,7 +315,6 @@
     "Session Notes/Session 77 - Lucius.md",
     "Statblocks/Vorciln Tithe Inquisitor.md",
     "World of Helodaria/Kenifria.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Lucius.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
