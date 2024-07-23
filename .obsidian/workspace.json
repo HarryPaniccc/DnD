@@ -6,81 +6,10 @@
       {
         "id": "745e293b6b6b2d1a",
         "type": "tabs",
+        "dimension": 49.707602339181285,
         "children": [
           {
-            "id": "a906a9239f57b8a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 79 -.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a85cdf1d380eef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 78 - Whispers and Revelry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7dc6b5385e30cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 77 - Lucius.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1a2a358d2aec90c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 76 - Reunited.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb7b05b5457012b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Infernal Cuirass.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4b72bc26eb193db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prince Artorius Sirkon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e62f37362d68be6b",
+            "id": "48c3d1d5349cf243",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,7 +21,7 @@
             }
           },
           {
-            "id": "131da596613f77a7",
+            "id": "43fd1749389436ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,19 +33,100 @@
             }
           },
           {
-            "id": "d37ae4e66df1bff5",
+            "id": "b41a06085117c1db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Keldmire.md",
+                "file": "World of Helodaria/Zitrumea.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
+      },
+      {
+        "id": "300f42dfc1ba4097",
+        "type": "split",
+        "dimension": 50.29239766081871,
+        "children": [
+          {
+            "id": "788def3f3f4a865b",
+            "type": "tabs",
+            "dimension": 76.2135922330097,
+            "children": [
+              {
+                "id": "2174c6caf1ae23bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bbaca54ea0e40757",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Baylan's Rest.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "53c3d9a0752c0b71",
+            "type": "tabs",
+            "dimension": 23.78640776699029,
+            "children": [
+              {
+                "id": "93c248d71fc56c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d4e740ff45ecdaba",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Attachments/Pasted image 20240320125108.png"
+                  }
+                }
+              },
+              {
+                "id": "e6c276fe369ea62f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Republic of Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -162,11 +172,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -175,7 +187,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 76.85185185185185,
+        "dimension": 53.10679611650485,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -195,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 79 -.md",
+                "file": "Baylan's Rest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 79 -.md",
+                "file": "Baylan's Rest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 79 -.md"
+                "file": "Baylan's Rest.md"
               }
             }
           },
@@ -256,7 +268,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 23.14814814814815,
+        "dimension": 46.89320388349515,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -269,8 +281,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d833595379e745e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,10 +310,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a906a9239f57b8a8",
+  "active": "bbaca54ea0e40757",
   "lastOpenFiles": [
-    "Session Notes/Session 77 - Lucius.md",
+    "Templates/NPC Template.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "General Notes and Ideas.md",
     "Session Notes/Session 79 -.md",
+    "Session Notes/Session 77 - Lucius.md",
     "Session Notes/Session 78 - Whispers and Revelry.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Jarren Ward.md",
@@ -303,7 +330,6 @@
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Caede.md",
     "Vanguard Campaign Journal.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Keldmire.md",
@@ -312,11 +338,6 @@
     "World of Helodaria/Tevis Einzbern.md",
     "Prince Artorius Sirkon.md",
     "World of Helodaria/Erin Einzbern.md",
-    "Gunslinger Subclass Ideas.md",
-    "Junk.md",
-    "Items/Bracers of Defence.md",
-    "Helodarian Firearms.md",
-    "Items/Until Dawn.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",
