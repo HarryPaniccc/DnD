@@ -10,7 +10,7 @@ The Vanguard have their permanent stronghold in [[Trayfort Keep]] in the Outer-c
 - [[Kanan Einzbern]]
 - [[Isilme Vanariel]]
 - [[Caede]]
-- [[Rylai Sweetsong]]
+- [[Rylei Sweetsong]]
 - [[Adhara]]
 - [[Skye]]
 - [[Silb Heft]]

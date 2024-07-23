@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 79 -.md",
+                "file": "Session Notes/Session 79 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -194,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 79 -.md",
+                "file": "Session Notes/Session 79 -.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 79 -.md",
+                "file": "Session Notes/Session 79 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 79 -.md"
+                "file": "Session Notes/Session 79 -.md"
               }
             }
           },
@@ -290,8 +291,18 @@
   },
   "active": "a906a9239f57b8a8",
   "lastOpenFiles": [
+    "Session Notes/Session 77 - Lucius.md",
+    "Session Notes/Session 79 -.md",
     "Session Notes/Session 78 - Whispers and Revelry.md",
-    "Session 79 -.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Jarren Ward.md",
+    "World of Helodaria/Vanguard.md",
+    "Silb Heft.md",
+    "Skye.md",
+    "World of Helodaria/Rylei Sweetsong.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Caede.md",
+    "Vanguard Campaign Journal.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Eranulaid.md",
@@ -300,22 +311,12 @@
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Prince Artorius Sirkon.md",
-    "Erin Einzbern.md",
+    "World of Helodaria/Erin Einzbern.md",
     "Gunslinger Subclass Ideas.md",
     "Junk.md",
     "Items/Bracers of Defence.md",
     "Helodarian Firearms.md",
     "Items/Until Dawn.md",
-    "Items/Infernal Cuirass.md",
-    "Session Notes/Session 76 - Reunited.md",
-    "Items/Spear of Damnation.md",
-    "Session Notes/Session 71 - Day Breaks (Hit level 14).md",
-    "Session Notes/Session 69 - Some Other Time.md",
-    "Session Notes/Session 70 - Let Sleeping Gods Lie.md",
-    "Session Notes/Session 77 - Lucius.md",
-    "Statblocks/Vorciln Tithe Inquisitor.md",
-    "World of Helodaria/Kenifria.md",
-    "World of Helodaria/Lucius.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",

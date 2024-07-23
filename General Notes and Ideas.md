@@ -39,6 +39,8 @@ tags:
 - Spirit type stuff
 - Talking with no one
 - Kitsune fox totem
+- City of the glass moon
+- 
 # Zakuul
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found [[The Helm of the Ceaseless]]
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Republic of Ruina|Ruina]]
