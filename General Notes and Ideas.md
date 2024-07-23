@@ -30,7 +30,7 @@ tags:
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
 	- [ ] [[Camroc]]
-	- [ ] [[Baylan's Rest]]
+	- [ ] [[Baylan's Rest 1]]
 - [ ] Zitrumea Map
 - [ ] Zitrumea Thieves Guild
 - [ ] Fall History

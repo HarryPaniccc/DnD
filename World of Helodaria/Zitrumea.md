@@ -10,16 +10,16 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 # Geography
 >[!Planning]
->- [[Baylan's Rest]]
+>- [[Baylan's Rest 1]]
 >- The Armoured Lands and their citizens = carved in stone
 >- Mountain range dividing the [[Armoured Lands]] from the West that wraps around the north of the main Zitrumean Lands
 >- Pyleas to the south
 
-- [[Baylan's Rest]]
+- [[Baylan's Rest 1]]
 
 - [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO . Camroc is within 20 miles of a shoreline
 
-- [[Pontiss]], a central metropolis with kinda like the place where Danaeris and the pedo king were chilling
+- [[Pontiss 1]], a central metropolis with kinda like the place where Danaeris and the pedo king were chilling
 ## [[Qel-Annura]]
 
 ## [[Isaura]]

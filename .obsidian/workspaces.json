@@ -959,7 +959,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Baylan's Rest.md",
+                        "file": "Item Pricing + Crafting.md",
                         "mode": "source",
                         "source": false
                       }
@@ -1056,13 +1056,11 @@
                   "state": {}
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 258.5,
-        "collapsed": true
+        "width": 258.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -1091,7 +1089,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Baylan's Rest.md",
+                    "file": "Item Pricing + Crafting.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1108,7 +1106,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Baylan's Rest.md",
+                    "file": "Item Pricing + Crafting.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -1131,7 +1129,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Baylan's Rest.md"
+                    "file": "Item Pricing + Crafting.md"
                   }
                 }
               },
@@ -1195,8 +1193,8 @@
         }
       },
       "active": "bbaca54ea0e40757",
-      "mtime": "2024-03-28T07:41:27+02:00"
+      "mtime": "2024-07-23T22:07:08+02:00"
     }
   },
-  "active": "Zitrumea Worldbuilding"
+  "active": "Updating Character Notes"
 }

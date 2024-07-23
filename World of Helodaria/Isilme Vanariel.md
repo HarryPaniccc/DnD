@@ -30,9 +30,15 @@ Isilme was raised in the ranks of the guards, her mother was unable to either pa
 ---
 ## Quests
 - Become immortal
+- Kill [[Ulrandir Vanariel]]
 - 
 ## Notable Items
 ### Current Items
+- The [[Blade of Despair]]
+- [[Adamantine Plate Armour]]
+- The [[Chisel of the Norns]]
+- A gnomecraft mechanical shield that can be worn as a bracer and equipped and unequipped as a bonus action
+- 
 ### Former Items
 # Relationships
 ---

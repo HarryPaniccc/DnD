@@ -4,129 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "745e293b6b6b2d1a",
+        "id": "7d08cab3e7f12055",
         "type": "tabs",
-        "dimension": 49.707602339181285,
         "children": [
           {
-            "id": "48c3d1d5349cf243",
+            "id": "dddfdcfaee05d802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "World of Helodaria/Kanan Einzbern.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43fd1749389436ac",
+            "id": "99f66287d9cd1890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "file": "World of Helodaria/Isilme Vanariel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b41a06085117c1db",
+            "id": "6b2ca920ecd29776",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "World of Helodaria/Rylei Sweetsong.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "87a0f8e4b9ca4f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Caede.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "105a2c8934a48e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Silb Heft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d9a90024fbfb27",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "300f42dfc1ba4097",
-        "type": "split",
-        "dimension": 50.29239766081871,
-        "children": [
-          {
-            "id": "788def3f3f4a865b",
-            "type": "tabs",
-            "dimension": 76.2135922330097,
-            "children": [
-              {
-                "id": "2174c6caf1ae23bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bbaca54ea0e40757",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Baylan's Rest.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "53c3d9a0752c0b71",
-            "type": "tabs",
-            "dimension": 23.78640776699029,
-            "children": [
-              {
-                "id": "93c248d71fc56c3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Eranulaid.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4e740ff45ecdaba",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Attachments/Pasted image 20240320125108.png"
-                  }
-                }
-              },
-              {
-                "id": "e6c276fe369ea62f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -155,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PF",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,13 +122,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -187,7 +135,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 53.10679611650485,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -202,12 +149,24 @@
             }
           },
           {
+            "id": "51287ed180194588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Vanguard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b3c79ccde858898a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baylan's Rest.md",
+                "file": "World of Helodaria/Caede.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baylan's Rest.md",
+                "file": "World of Helodaria/Caede.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baylan's Rest.md"
+                "file": "World of Helodaria/Caede.md"
               }
             }
           },
@@ -263,39 +222,12 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "92400877833113eb",
-        "type": "tabs",
-        "dimension": 46.89320388349515,
-        "children": [
-          {
-            "id": "bf82f9f28d38c15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guidelines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d833595379e745e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,34 +242,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bbaca54ea0e40757",
+  "active": "87a0f8e4b9ca4f3a",
   "lastOpenFiles": [
+    "World of Helodaria/Rylei Sweetsong.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Vanguard.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Session 79 -.md",
+    "Item Pricing + Crafting.md",
+    "World of Helodaria/Baylan's Rest 1.md",
     "Templates/NPC Template.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Deities of Helodaria.md",
-    "General Notes and Ideas.md",
-    "Session Notes/Session 79 -.md",
     "Session Notes/Session 77 - Lucius.md",
     "Session Notes/Session 78 - Whispers and Revelry.md",
-    "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Jarren Ward.md",
-    "World of Helodaria/Vanguard.md",
     "Silb Heft.md",
-    "Skye.md",
-    "World of Helodaria/Rylei Sweetsong.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Caede.md",
+    "World of Helodaria/Skye.md",
     "Vanguard Campaign Journal.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Keldmire.md",
     "World of Helodaria/Vasspryg.md",
-    "World of Helodaria/Helodaria.md",
     "World of Helodaria/Tevis Einzbern.md",
-    "Prince Artorius Sirkon.md",
-    "World of Helodaria/Erin Einzbern.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",
