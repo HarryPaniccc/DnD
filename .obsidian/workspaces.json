@@ -348,78 +348,6 @@
                 }
               },
               {
-                "id": "d4a85cdf1d380eef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 78 - Whispers and Revelry.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f7dc6b5385e30cd5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 77 - Lucius.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a1a2a358d2aec90c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 76 - Reunited.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cb7b05b5457012b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Items/Infernal Cuirass.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e4b72bc26eb193db",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prince Artorius Sirkon.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e62f37362d68be6b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Helodarian Firearms.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "131da596613f77a7",
                 "type": "leaf",
                 "state": {
@@ -523,7 +451,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "General Notes and Ideas.md",
+                    "file": "Session Notes/Session 79 -.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -540,7 +468,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "General Notes and Ideas.md",
+                    "file": "Session Notes/Session 79 -.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -563,7 +491,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "General Notes and Ideas.md"
+                    "file": "Session Notes/Session 79 -.md"
                   }
                 }
               },
@@ -617,8 +545,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4cb96e6d4287e8a5",
-      "mtime": "2024-07-23T14:45:04+02:00"
+      "active": "a906a9239f57b8a8",
+      "mtime": "2024-07-24T18:15:31+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -654,18 +582,6 @@
                 }
               },
               {
-                "id": "3a21eeff3103a48a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Caede.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "6b2ca920ecd29776",
                 "type": "leaf",
                 "state": {
@@ -683,7 +599,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Skye.md",
+                    "file": "World of Helodaria/Caede.md",
                     "mode": "source",
                     "source": false
                   }
@@ -705,15 +621,12 @@
                 "id": "04d9a90024fbfb27",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Jarren Ward.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -803,7 +716,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Kanan Einzbern.md",
+                    "file": "World of Helodaria/Caede.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -820,7 +733,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "World of Helodaria/Kanan Einzbern.md",
+                    "file": "World of Helodaria/Caede.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -843,7 +756,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Kanan Einzbern.md"
+                    "file": "World of Helodaria/Caede.md"
                   }
                 }
               },
@@ -879,8 +792,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "dddfdcfaee05d802",
-      "mtime": "2024-07-23T13:06:43+02:00"
+      "active": "87a0f8e4b9ca4f3a",
+      "mtime": "2024-07-24T07:57:50+02:00"
     },
     "Zitrumea Worldbuilding": {
       "main": {
@@ -1196,5 +1109,5 @@
       "mtime": "2024-07-23T22:07:08+02:00"
     }
   },
-  "active": "Updating Character Notes"
+  "active": "Original Workspace"
 }

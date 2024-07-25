@@ -42,6 +42,7 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 - [[Skye's Locket of the Armory]], gifted to him by [[Skye]] as a way of using his diverse weapon collection
 - [[Supple Studded Leather Armor of Warning]]
 - [[Manual of Quickness of Action]], expended
+- [[Until Dawn]]
 - [[Duskdrinker]]
 - The [[Vessel of Avarice]]
 - [[Anathema]]

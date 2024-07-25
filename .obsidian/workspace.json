@@ -4,79 +4,176 @@
     "type": "split",
     "children": [
       {
-        "id": "7d08cab3e7f12055",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
+        "dimension": 48.66737739872068,
         "children": [
           {
-            "id": "dddfdcfaee05d802",
+            "id": "3062ac46bd8eabe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Kanan Einzbern.md",
+                "file": "General Notes and Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "99f66287d9cd1890",
+            "id": "48c3d1d5349cf243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Isilme Vanariel.md",
+                "file": "Helodarian Firearms.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6b2ca920ecd29776",
+            "id": "43fd1749389436ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Rylei Sweetsong.md",
+                "file": "World of Helodaria/Republic of Ruina.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "87a0f8e4b9ca4f3a",
+            "id": "7b45faf6b970b357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Caede.md",
+                "file": "World of Helodaria/Zitrumea.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "105a2c8934a48e3f",
+            "id": "83974515802cd5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Silb Heft.md",
+                "file": "Templates/NPC Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04d9a90024fbfb27",
+            "id": "65fa74bb6bf39c44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Gunslinger Subclass.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "300f42dfc1ba4097",
+        "type": "split",
+        "dimension": 51.33262260127932,
+        "children": [
+          {
+            "id": "788def3f3f4a865b",
+            "type": "tabs",
+            "dimension": 42.87369640787949,
+            "children": [
+              {
+                "id": "2174c6caf1ae23bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d833595379e745e2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "523bc146e25839b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Erin Einzbern.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "53c3d9a0752c0b71",
+            "type": "tabs",
+            "dimension": 57.12630359212051,
+            "children": [
+              {
+                "id": "93c248d71fc56c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e6c276fe369ea62f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Republic of Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c0ed8924922db412",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Helodarian Firearms.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -105,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PF",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 244.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -149,24 +246,12 @@
             }
           },
           {
-            "id": "51287ed180194588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Vanguard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b3c79ccde858898a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Caede.md",
+                "file": "Gunslinger Subclass.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Caede.md",
+                "file": "Gunslinger Subclass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Caede.md"
+                "file": "Gunslinger Subclass.md"
               }
             }
           },
@@ -222,12 +307,30 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "92400877833113eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf82f9f28d38c15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,35 +345,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "87a0f8e4b9ca4f3a",
+  "active": "65fa74bb6bf39c44",
   "lastOpenFiles": [
-    "World of Helodaria/Rylei Sweetsong.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Vanguard.md",
-    "General Notes and Ideas.md",
-    "Session Notes/Session 79 -.md",
-    "Item Pricing + Crafting.md",
-    "World of Helodaria/Baylan's Rest 1.md",
-    "Templates/NPC Template.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Session Notes/Session 77 - Lucius.md",
-    "Session Notes/Session 78 - Whispers and Revelry.md",
+    "Helodarian Firearms.md",
+    "Items/Until Dawn.md",
+    "Gunslinger Subclass.md",
+    "World of Helodaria/Erin Einzbern.md",
     "World of Helodaria/Jarren Ward.md",
+    "Attachments/Pasted image 20240724182922.png",
+    "Templates/NPC Template.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Republic of Ruina.md",
     "Silb Heft.md",
-    "World of Helodaria/Skye.md",
-    "Vanguard Campaign Journal.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Keldmire.md",
-    "World of Helodaria/Vasspryg.md",
-    "World of Helodaria/Tevis Einzbern.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Baylan's Rest.md",
+    "World of Helodaria/Pontiss.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "Item Pricing + Crafting.md",
+    "Prince Artorius Sirkon.md",
+    "Items/Boon of Aerondite.md",
+    "World of Helodaria/Pontiss 1.md",
+    "World of Helodaria/Baylan's Rest 1.md",
     "Attachments/Session 76 -.pdf",
+    "Items/Medallion of Intuition.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Rylei Sweetsong.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Eranulaid.md",
+    "Session Notes/Session 79 -.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Keldmire.md",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
     "Attachments/Pasted image 20240320125108.png",
     "Ceaseless Arc.canvas",

@@ -67,4 +67,4 @@ reactions:
 ```
 
 
-![[Gunslinger Subclass Ideas#Gunslinger Trait Ideas]]
+![[Gunslinger Subclass#Gunslinger Trait Ideas]]
