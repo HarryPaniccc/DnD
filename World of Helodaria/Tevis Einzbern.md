@@ -1,5 +1,10 @@
+- Values family and close bonds
+- Annoyed when people don't listen to his warnings
+- Tevis is acquainted with [[Shrute]]
+# Statblock
+---
 Tevis is the [[Einzberns]] heir and the [[Vorciln]] enforcer.
-
+## Enforcer Statblock (No longer)
 ```statblock
 name: Tevis (Enforcer)
 size: Medium

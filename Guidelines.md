@@ -2,6 +2,9 @@
 tags:
   - Core
 ---
+# Sessions
+Try not to linger
+Keep the pace high
 # Templates
 ## [[Deity Template]]
 ## [[Item template]]

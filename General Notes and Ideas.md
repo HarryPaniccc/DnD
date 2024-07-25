@@ -3,7 +3,7 @@ tags:
   - Core
 ---
 # To do list
-- [ ] Add "quick reference" tab at the top of character template (so you can copy + paste into session notes)
+- [x] Add "quick reference" tab at the top of character template (so you can copy + paste into session notes)
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters

@@ -1,6 +1,14 @@
 #TODO 
 A prominent monster hunting family of the [[Kingdom of Sirkonos]]
-# The Founding Einzberns
+# Members
+## Einzbern Hunters
+- [[Kanan Einzbern]]
+- [[Tevis Einzbern]]
+- [[Mikael Einzbern]]
+- [[Tevis Einzbern]]
+## Members of the Einzbern Famiy
+- [[Isolde Einzbern]]
+## The Founding Einzberns
 The group of knights that make up the seven founding members of the Einzberns made their home in a grand temple to [[Lathander]] and fortress during the [[History of Helodaria#The Age of Ascension|Age of Ascension]], [[Kenifria]]. Their binding of [[Athelstan]] required the sacrifice of their afterlife, and the corruption of their bloodlines. They stole holy light and bound it to their descendants - syphoning power to the Urd tree that binds Athelstan, and stealing power from him in turn.
 
 - Syr [[Riemann Maine]]. Bald, tall, axe wearing human. Sirkonian, more gentle, deep voice but jolly and tries to bolster his friends.
