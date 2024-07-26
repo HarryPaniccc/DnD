@@ -9,6 +9,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Find [[Elizabeth Einzbern]]
 - Retrieve Silb's [[Dwarven Plate]]
 - Dusk is gumping it
+- Pay the [[Ashen Legion]] (25th Lathandromahn)
 # Arc 4: Sirkonos
 - 813 PF
 ## Sessions and Summaries

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "29e6f9df748556c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syr Renslayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "131da596613f77a7",
             "type": "leaf",
             "state": {
@@ -54,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "857a9b74f35eb81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Duskdrinker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -107,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -116,7 +141,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 52.14368482039398,
+        "dimension": 52.143684820393986,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -136,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
+                "file": "Items/Duskdrinker.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
+                "file": "Items/Duskdrinker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Einzberns.md"
+                "file": "Items/Duskdrinker.md"
               }
             }
           },
@@ -197,7 +222,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 47.85631517960602,
+        "dimension": 47.856315179606014,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -228,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,20 +269,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1b201ec5cc60cbae",
+  "active": "857a9b74f35eb81a",
   "lastOpenFiles": [
-    "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Einzberns.md",
+    "Syr Renslayer.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "Death Knight.md",
+    "World of Helodaria/Eranulaid.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/King Sirkon.md",
     "Session Notes/Session 79 -.md",
+    "World of Helodaria/Einzberns.md",
     "Vanguard Campaign Journal.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Keldmire.md",
     "Items/Dwarven Plate.md",
     "World of Helodaria/Tevis Einzbern.md",
     "Guidelines.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Keldmire.md",
     "Templates/NPC Template.md",
     "Helodarian Firearms.md",
-    "World of Helodaria/Eranulaid.md",
     "Gunslinger Subclass.md",
     "Items/Until Dawn.md",
     "World of Helodaria/Erin Einzbern.md",
@@ -267,14 +299,8 @@
     "Silb Heft.md",
     "World of Helodaria/Baylan's Rest.md",
     "World of Helodaria/Pontiss.md",
-    "World of Helodaria/Vessel of Avarice.md",
-    "Item Pricing + Crafting.md",
-    "Prince Artorius Sirkon.md",
-    "Items/Boon of Aerondite.md",
-    "World of Helodaria/Pontiss 1.md",
     "Attachments/Session 76 -.pdf",
     "Attachments/Suc(In)cubus Willbreaker.pdf",
-    "Attachments/Pasted image 20240320125108.png",
     "Ceaseless Arc.canvas",
     "Untitled",
     "Attachments/Pasted image 20240121113005.png",
