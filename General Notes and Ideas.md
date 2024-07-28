@@ -4,6 +4,8 @@ tags:
 ---
 # To do list
 - [x] Add "quick reference" tab at the top of character template (so you can copy + paste into session notes)
+- [ ] Magic Item Shops and inventory
+	- [ ] 
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters

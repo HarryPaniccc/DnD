@@ -3,13 +3,15 @@ tags:
   - Core
 ---
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc?
-# Active Plot Points/Quests
+# Active Plot Points/Quests/Things to Remember
 - Restore [[Kanan Einzbern]]s bloodhunter subclass
 - Give Isilme Dhampirism
 - Find [[Elizabeth Einzbern]]
-- Retrieve Silb's [[Dwarven Plate]]
-- Dusk is gumping it
-- Pay the [[Ashen Legion]] (25th Lathandromahn)
+- Find [[Lina Sweetsong]]
+- Retrieve Silb's [[Dwarven Plate]] (Banahras 17th)
+- Pay the [[Ashen Legion]] (Since 25th Lathandromahn)
+- Retrieve the [[Potion of Fire Giant Strength]]s from [[Shrute]] (Banahras 11th)
+- Heal Tevis
 # Arc 4: Sirkonos
 - 813 PF
 ## Sessions and Summaries

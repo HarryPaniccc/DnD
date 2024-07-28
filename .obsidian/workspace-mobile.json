@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "399d832237abd35e",
+    "type": "split",
+    "children": [
+      {
+        "id": "94462c3edd653951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "860b7e8ab517ab98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3779e3a25bb7b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3a30d432c5a8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Diredahl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e233ec749edd63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Keldmire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4ed16b877e25ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item Pricing + Crafting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d9671fb6984ef84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Einzberns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58201d7d30f715fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Einzbern Hold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fddc78be3d8e3da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5972a07c3b419f07",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b78d0c4f84e2c24d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "28e0d8e60f18635f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Dired",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "23c6c6b91379618d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2b71c500b87c5c0d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "4c3e3ffdc677ce29",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "0872ba76e2790ddb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b03f0130e9358a64",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "World of Helodaria/Kingdom of Sirkonos.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "dd6a1361c487d922",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "World of Helodaria/Kingdom of Sirkonos.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "155bbf747cd7406b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "World of Helodaria/Kingdom of Sirkonos.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "fddc78be3d8e3da5",
+  "lastOpenFiles": [
+    "Session 80 -.md",
+    "Wooden Fang.md",
+    "Gilded Resolution.md",
+    "The Wooden Fang.md",
+    "Athelstan.md",
+    "Woden Fang.md",
+    "Mutagen.md",
+    "Woed.md",
+    "Session Notes/Session 79 - Divisions Form.md",
+    "World of Helodaria/Einzbern Hold.md",
+    "World of Helodaria/Keldmire.md",
+    "World of Helodaria/Einzberns.md",
+    "Session Notes/Session 79 -.md",
+    "Junk.pdf",
+    "Helm of Teleportation.md",
+    "Skye's Locket of the Armory.md",
+    "Item Pricing + Crafting.md",
+    "World of Helodaria/Diredahl.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Helodaria.md",
+    "Keldmire.md",
+    "Items/Aegis of the Onlooker.md",
+    "Statblocks/Vorciln Tithe Inquisitor General.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Untitled.md",
+    "World of Helodaria/Lucius.md",
+    "Captain Reva Minsta.md"
+  ]
+}

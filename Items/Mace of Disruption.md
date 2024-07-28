@@ -7,3 +7,14 @@ While you hold this weapon, it sheds bright light in a 20-foot radius and dim li
 
 ---
 > Her name was Aerondite, Flare of the North, Saint of the Dawn, eternal guardian of Kenifria. May she watch this hallowed ground in our stead.
+
+# Mace of the Righteous
+*Weapon (Mace), Rare, Requires Attunement*
+When you hit a fiend or an undead with this magic weapon, that creature takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes frightened of you until the end of your next turn.
+
+While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+
+---
+Notes
+>[!Additional Information]
+>If an item has a spell to cast or some other feature that would be nice to have in details, put it here. For example, this template is really nice with the *Typewriter* theme in light mode

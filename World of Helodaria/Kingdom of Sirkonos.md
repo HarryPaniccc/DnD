@@ -1,4 +1,7 @@
-The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the westmost civilisation on the continent, and has historical roots in a pre-[[The Fall|Fall]] civilisation
+---
+tags:
+---
+The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the west-most civilisation on the continent, and has historical roots in a pre-[[The Fall|Fall]] civilisation
 
 Old woods, teeming with older magics and eldritch curses. Walled towns, owned by paranoid barons, constantly on guard from external threats. A central stone city cowering in the shadow of a dark manor, patrolled by a dreadful legion, subtly enforcing their master's will.
 

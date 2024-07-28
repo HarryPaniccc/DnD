@@ -8,7 +8,7 @@
           {
             "id": "745e293b6b6b2d1a",
             "type": "tabs",
-            "dimension": 48.66737739872068,
+            "dimension": 52.25726654298083,
             "children": [
               {
                 "id": "3062ac46bd8eabe2",
@@ -17,18 +17,6 @@
                   "type": "markdown",
                   "state": {
                     "file": "General Notes and Ideas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "48c3d1d5349cf243",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Helodarian Firearms.md",
                     "mode": "source",
                     "source": false
                   }
@@ -69,89 +57,85 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c79617a258337ca8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Gunslinger Fighter Archetype.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
             "currentTab": 4
           },
           {
-            "id": "300f42dfc1ba4097",
-            "type": "split",
-            "dimension": 51.33262260127932,
+            "id": "788def3f3f4a865b",
+            "type": "tabs",
+            "dimension": 47.74273345701917,
             "children": [
               {
-                "id": "788def3f3f4a865b",
-                "type": "tabs",
-                "dimension": 55.57692307692307,
-                "children": [
-                  {
-                    "id": "3605931e330b1fd6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Lucius.md",
-                        "mode": "preview",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "2174c6caf1ae23bb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Zitrumean Empire.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d833595379e745e2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
+                "id": "2174c6caf1ae23bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "currentTab": 2
+                }
               },
               {
-                "id": "53c3d9a0752c0b71",
-                "type": "tabs",
-                "dimension": 44.42307692307693,
-                "children": [
-                  {
-                    "id": "93c248d71fc56c3b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Eranulaid.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "e6c276fe369ea62f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Republic of Ruina.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
+                "id": "d833595379e745e2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "48c3d1d5349cf243",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Helodarian Firearms.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "currentTab": 1
+                }
+              },
+              {
+                "id": "e6c276fe369ea62f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Republic of Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "93c248d71fc56c3b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -201,7 +185,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 258.5
+        "width": 258.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -229,7 +214,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Templates/NPC Template.md",
+                    "file": "Gunslinger Fighter Archetype.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -246,7 +231,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Templates/NPC Template.md",
+                    "file": "Gunslinger Fighter Archetype.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -269,7 +254,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Templates/NPC Template.md"
+                    "file": "Gunslinger Fighter Archetype.md"
                   }
                 }
               },
@@ -323,8 +308,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "83974515802cd5af",
-      "mtime": "2024-07-23T14:46:52+02:00"
+      "active": "c79617a258337ca8",
+      "mtime": "2024-07-27T08:05:04+02:00"
     },
     "Next Session Planning": {
       "main": {
@@ -341,7 +326,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Session 79 -.md",
+                    "file": "Session Notes/Session 79 - Divisions Form.md",
                     "mode": "source",
                     "source": false
                   }
@@ -370,9 +355,20 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "40102b41aa6cbe2f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Einzberns.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ],
-            "stacked": true
+            ]
           }
         ],
         "direction": "vertical"
@@ -422,7 +418,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 248.5
+        "width": 288.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -431,7 +427,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 76.85185185185185,
+            "dimension": 52.143684820393986,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -451,7 +447,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Session Notes/Session 79 -.md",
+                    "file": "Session Notes/Session 79 - Divisions Form.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -468,7 +464,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Session Notes/Session 79 -.md",
+                    "file": "Session Notes/Session 79 - Divisions Form.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -491,7 +487,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Session 79 -.md"
+                    "file": "Session Notes/Session 79 - Divisions Form.md"
                   }
                 }
               },
@@ -512,7 +508,7 @@
           {
             "id": "92400877833113eb",
             "type": "tabs",
-            "dimension": 23.14814814814815,
+            "dimension": 47.856315179606014,
             "children": [
               {
                 "id": "bf82f9f28d38c15b",
@@ -525,12 +521,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fc6e4fe2893dcbd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 337.5
+        "width": 350.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -546,7 +556,7 @@
         }
       },
       "active": "a906a9239f57b8a8",
-      "mtime": "2024-07-24T18:15:31+02:00"
+      "mtime": "2024-07-28T09:31:33+02:00"
     },
     "Updating Character Notes": {
       "main": {

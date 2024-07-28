@@ -1,0 +1,1 @@
+Half elf bow woman of middle stature. Does things by the book. American accent. Captain of the [[Ashen Legion]]

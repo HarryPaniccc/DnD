@@ -1,0 +1,294 @@
+{
+  "main": {
+    "id": "e3ca7fd74647b9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "745e293b6b6b2d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a906a9239f57b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 79 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "131da596613f77a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d37ae4e66df1bff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Keldmire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b201ec5cc60cbae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Einzberns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7ebda78c129d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca0f1d486588d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b2a6831c271b3d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee81b9515bf62e4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "990cb2f371a0b860",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "ea35a9a317969db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ece3774c37e9648",
+        "type": "tabs",
+        "dimension": 52.143684820393986,
+        "children": [
+          {
+            "id": "4cb96e6d4287e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World of Helodaria/Einzberns.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World of Helodaria/Einzberns.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfa8baabc6155b2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World of Helodaria/Einzberns.md"
+              }
+            }
+          },
+          {
+            "id": "c21e89a76f4631bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92400877833113eb",
+        "type": "tabs",
+        "dimension": 47.856315179606014,
+        "children": [
+          {
+            "id": "bf82f9f28d38c15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "1b201ec5cc60cbae",
+  "lastOpenFiles": [
+    "Session Notes/~syncthing~Session 79 -.md.tmp",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Einzberns.md",
+    "Session Notes/Session 79 -.md",
+    "Vanguard Campaign Journal.md",
+    "Items/Dwarven Plate.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Guidelines.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Keldmire.md",
+    "Templates/NPC Template.md",
+    "Helodarian Firearms.md",
+    "World of Helodaria/Eranulaid.md",
+    "Gunslinger Subclass.md",
+    "Items/Until Dawn.md",
+    "World of Helodaria/Erin Einzbern.md",
+    "World of Helodaria/Jarren Ward.md",
+    "Attachments/Pasted image 20240724182922.png",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "Silb Heft.md",
+    "World of Helodaria/Baylan's Rest.md",
+    "World of Helodaria/Pontiss.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "Item Pricing + Crafting.md",
+    "Prince Artorius Sirkon.md",
+    "Items/Boon of Aerondite.md",
+    "Attachments/Session 76 -.pdf",
+    "Attachments/Suc(In)cubus Willbreaker.pdf",
+    "Attachments/Pasted image 20240320125108.png",
+    "Ceaseless Arc.canvas",
+    "Untitled",
+    "Attachments/Pasted image 20240121113005.png",
+    "Attachments/Pasted Image 20240106212953_129.png",
+    "Attachments/Pasted image 20231217153118.png",
+    "Attachments/Pasted Image 20231212184614_693.png",
+    "Attachments/Pasted image 20231231094810.png",
+    "Attachments",
+    "Attachments/Pasted Image 20231212190832_254.png",
+    "Excalidraw",
+    "Statblocks",
+    "Items",
+    "Session Notes",
+    "Templates",
+    "World of Helodaria"
+  ]
+}
