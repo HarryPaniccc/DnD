@@ -12,6 +12,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Pay the [[Ashen Legion]] (Since 25th Lathandromahn)
 - Retrieve the [[Potion of Fire Giant Strength]]s from [[Shrute]] (Banahras 11th)
 - Heal Tevis
+- Reforge [[Anathema]]
 # Arc 4: Sirkonos
 - 813 PF
 ## Sessions and Summaries

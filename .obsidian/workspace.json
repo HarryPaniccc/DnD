@@ -6,11 +6,12 @@
       {
         "id": "4d8b6ff40d7007ec",
         "type": "split",
-        "dimension": 52.38480194017785,
+        "dimension": 52.303961196443005,
         "children": [
           {
             "id": "745e293b6b6b2d1a",
             "type": "tabs",
+            "dimension": 51.6504854368932,
             "children": [
               {
                 "id": "a906a9239f57b8a8",
@@ -132,12 +133,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 7
+            ]
           },
           {
             "id": "6766ff34b17bd769",
             "type": "tabs",
+            "dimension": 48.349514563106794,
             "children": [
               {
                 "id": "0f82691bfd36791d",
@@ -159,7 +160,7 @@
       {
         "id": "65e1b737a429105a",
         "type": "tabs",
-        "dimension": 47.61519805982215,
+        "dimension": 47.696038803556995,
         "children": [
           {
             "id": "40102b41aa6cbe2f",
@@ -180,6 +181,18 @@
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8071de877582e7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Duskdrinker.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,7 +257,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 55.72815533980583,
+        "dimension": 29.223300970873787,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -264,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gilded Resolution.md",
+                "file": "Item Pricing + Crafting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gilded Resolution.md",
+                "file": "Item Pricing + Crafting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,7 +317,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gilded Resolution.md"
+                "file": "Item Pricing + Crafting.md"
               }
             }
           },
@@ -325,7 +338,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 44.271844660194176,
+        "dimension": 70.7766990291262,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -375,22 +388,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f82691bfd36791d",
+  "active": "40102b41aa6cbe2f",
   "lastOpenFiles": [
-    "Item Pricing + Crafting.md",
-    "Wooden Fang.md",
-    "Items/Bracers of Defence.md",
     "Gilded Resolution.md",
-    "World of Helodaria/Vessel of Avarice.md",
+    "Item Pricing + Crafting.md",
     "Session Notes/Session 79 - Divisions Form.md",
-    "Session 80 -.md",
+    "World of Helodaria/Vessel of Avarice.md",
     "Vanguard Campaign Journal.md",
-    "World of Helodaria/Dularen.md",
+    "Wooden Fang.md",
+    "Gunslinger Fighter Archetype.md",
+    "Helodarian Firearms.md",
+    "Templates/NPC Template.md",
+    "Items/Duskdrinker.md",
     "World of Helodaria/Helodaria.md",
+    "Items/Bracers of Defence.md",
+    "Session 80 -.md",
+    "World of Helodaria/Dularen.md",
     "Mutagen.md",
     "Prince Artorius Sirkon.md",
     "World of Helodaria/Einzbern Hold.md",
@@ -403,13 +419,9 @@
     "Keldmire.md",
     "Junk.md",
     "Junk.pdf",
-    "Helodarian Firearms.md",
     "Helm of Teleportation.md",
-    "Guidelines.md",
-    "Gunslinger Fighter Archetype.md",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas",
-    "World of Helodaria/Keldmire.md",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20240724182922.png",
     "Attachments/Session 76 -.pdf",

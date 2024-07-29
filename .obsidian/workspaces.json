@@ -317,52 +317,194 @@
         "type": "split",
         "children": [
           {
-            "id": "745e293b6b6b2d1a",
-            "type": "tabs",
+            "id": "4d8b6ff40d7007ec",
+            "type": "split",
+            "dimension": 52.38480194017785,
             "children": [
               {
-                "id": "a906a9239f57b8a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 79 - Divisions Form.md",
-                    "mode": "source",
-                    "source": false
+                "id": "745e293b6b6b2d1a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a906a9239f57b8a8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session Notes/Session 79 - Divisions Form.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "a2b388cdb3a50337",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Session 80 -.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "131da596613f77a7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "d37ae4e66df1bff5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Keldmire.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "25743f6ad06d2948",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Mutagen.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "64b65a215e1e49f8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Prince Artorius Sirkon.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "8eacf08502a311df",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Einzbern Hold.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "360614d15873991e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Wooden Fang.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "94eb376031daeb8c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Dularen.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "b9cc07a656f3774f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Vessel of Avarice.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 7
               },
               {
-                "id": "131da596613f77a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
+                "id": "6766ff34b17bd769",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0f82691bfd36791d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Gilded Resolution.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
-              },
-              {
-                "id": "d37ae4e66df1bff5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Keldmire.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "65e1b737a429105a",
+            "type": "tabs",
+            "dimension": 47.61519805982215,
+            "children": [
               {
                 "id": "40102b41aa6cbe2f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Einzberns.md",
+                    "file": "Item Pricing + Crafting.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "38cbbfd3e061c990",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8071de877582e7ac",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Items/Duskdrinker.md",
                     "mode": "source",
                     "source": false
                   }
@@ -427,7 +569,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 52.143684820393986,
+            "dimension": 55.728155339805824,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -447,7 +589,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Session Notes/Session 79 - Divisions Form.md",
+                    "file": "Wooden Fang.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -464,7 +606,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Session Notes/Session 79 - Divisions Form.md",
+                    "file": "Wooden Fang.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -487,7 +629,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Session 79 - Divisions Form.md"
+                    "file": "Wooden Fang.md"
                   }
                 }
               },
@@ -508,7 +650,7 @@
           {
             "id": "92400877833113eb",
             "type": "tabs",
-            "dimension": 47.856315179606014,
+            "dimension": 44.27184466019417,
             "children": [
               {
                 "id": "bf82f9f28d38c15b",
@@ -533,14 +675,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "0b6a92f621642cae",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
             ],
             "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 350.5,
-        "collapsed": true
+        "width": 350.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -551,12 +700,11 @@
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "obsidian-excalidraw-plugin:Create new drawing": false,
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "a906a9239f57b8a8",
-      "mtime": "2024-07-28T09:31:33+02:00"
+      "active": "360614d15873991e",
+      "mtime": "2024-07-28T16:29:15+02:00"
     },
     "Updating Character Notes": {
       "main": {

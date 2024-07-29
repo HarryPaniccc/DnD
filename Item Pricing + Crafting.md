@@ -17,8 +17,9 @@ Item values need to be somewhat more consistent.
 | Rare      | 5th or higher   | 501-5,000 gp    |
 | Very rare | 11th or higher  | 5,001-50,000 gp |
 | Legendary | 17th or higher  | 50,001+ gp      |
+|           |                 |                 |
 ## Values in game
-Calculate based on rarity, amount of uses, half modifier for single-use items, and for utility and power. Different locations have different values
+Calculate based on rarity, amount of uses, half modifier for single-use items, and for utility and power. Different locations have different values.
 
 | Name                               | Rarity    | Value (Gp) | Notes                                                                 |
 | ---------------------------------- | --------- | ---------- | --------------------------------------------------------------------- |
