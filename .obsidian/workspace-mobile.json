@@ -1,133 +1,149 @@
 {
   "main": {
-    "id": "399d832237abd35e",
+    "id": "e3ca7fd74647b9f6",
     "type": "split",
     "children": [
       {
-        "id": "94462c3edd653951",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
+        "dimension": 52.25726654298083,
         "children": [
           {
-            "id": "860b7e8ab517ab98",
+            "id": "3062ac46bd8eabe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Helodaria.md",
+                "file": "General Notes and Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3779e3a25bb7b82",
+            "id": "43fd1749389436ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "World of Helodaria/Republic of Ruina.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac3a30d432c5a8d4",
+            "id": "7b45faf6b970b357",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Diredahl.md",
+                "file": "World of Helodaria/Zitrumea.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5e233ec749edd63a",
+            "id": "83974515802cd5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Keldmire.md",
+                "file": "Templates/NPC Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e4ed16b877e25ab2",
+            "id": "c79617a258337ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Item Pricing + Crafting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d9671fb6984ef84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Einzberns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58201d7d30f715fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Einzbern Hold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fddc78be3d8e3da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf8ad8528b870d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Silb Heft.md",
+                "file": "Gunslinger Fighter Archetype.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8,
-        "stacked": true
+        "currentTab": 4
+      },
+      {
+        "id": "788def3f3f4a865b",
+        "type": "tabs",
+        "dimension": 47.74273345701917,
+        "children": [
+          {
+            "id": "2174c6caf1ae23bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Zitrumean Empire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d833595379e745e2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "48c3d1d5349cf243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helodarian Firearms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6c276fe369ea62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Republic of Ruina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93c248d71fc56c3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Eranulaid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5972a07c3b419f07",
+    "id": "3373a42914ed7b45",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b78d0c4f84e2c24d",
+        "id": "14e3168a4b04f011",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -137,12 +153,12 @@
         }
       },
       {
-        "id": "28e0d8e60f18635f",
+        "id": "98ff5dbd18bf4cf8",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "Dired",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -152,7 +168,7 @@
         }
       },
       {
-        "id": "23c6c6b91379618d",
+        "id": "bfacd0c7a9a64952",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -163,7 +179,7 @@
         }
       },
       {
-        "id": "2b71c500b87c5c0d",
+        "id": "887e9cc85812b905",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -175,7 +191,7 @@
         }
       },
       {
-        "id": "4c3e3ffdc677ce29",
+        "id": "51f9c5b9baddd415",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -183,19 +199,19 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
-    "id": "0872ba76e2790ddb",
+    "id": "ef9b14fc1101a6bd",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b03f0130e9358a64",
+        "id": "2326635a2f663f85",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World of Helodaria/Silb Heft.md",
+            "file": "Helodarian Firearms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,24 +223,24 @@
         }
       },
       {
-        "id": "dd6a1361c487d922",
+        "id": "48b11dea9613a64e",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World of Helodaria/Silb Heft.md",
+            "file": "Helodarian Firearms.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "155bbf747cd7406b",
+        "id": "dddf98a82395de42",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "World of Helodaria/Silb Heft.md"
+            "file": "Helodarian Firearms.md"
           }
         }
       }
@@ -243,13 +259,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bf8ad8528b870d2b",
+  "active": "48c3d1d5349cf243",
   "lastOpenFiles": [
-    "World of Helodaria/Deities of Helodaria.md",
+    "Gunslinger Fighter Archetype.md",
+    "Wooden Fang.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Athelstan.md",
     "Session 80 -.md",
-    "Wooden Fang.md",
     "Gilded Resolution.md",
     "The Wooden Fang.md",
     "Athelstan.md",
@@ -270,7 +286,7 @@
     "Keldmire.md",
     "Items/Aegis of the Onlooker.md",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "Untitled.md",
-    "World of Helodaria/Lucius.md"
+    "World of Helodaria/Deities of Helodaria.md",
+    "Untitled.md"
   ]
 }

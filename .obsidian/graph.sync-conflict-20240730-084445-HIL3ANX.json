@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Core  ",
@@ -48,13 +48,6 @@
         "a": 1,
         "rgb": 5419488
       }
-    },
-    {
-      "query": "tag:#Rules  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
     }
   ],
   "collapse-display": true,
@@ -62,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.42941787941788,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.4495841995842,
+  "collapse-forces": false,
+  "centerStrength": 0.608108108108108,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 132,
-  "scale": 0.08057521315314646,
+  "linkDistance": 250,
+  "scale": 0.11417219159578827,
   "close": true
 }
