@@ -29,12 +29,8 @@
                 "id": "a2b388cdb3a50337",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session 80 -.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -65,24 +61,16 @@
                 "id": "25743f6ad06d2948",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mutagen.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
                 "id": "64b65a215e1e49f8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Prince Artorius Sirkon.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -101,12 +89,8 @@
                 "id": "360614d15873991e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Wooden Fang.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
@@ -197,8 +181,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19d0c72ea9f2f3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899c3caee42d2f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Silb Heft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -277,7 +286,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Item Pricing + Crafting.md",
+                "file": "World of Helodaria/Silb Heft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,7 +303,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Item Pricing + Crafting.md",
+                "file": "World of Helodaria/Silb Heft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +326,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item Pricing + Crafting.md"
+                "file": "World of Helodaria/Silb Heft.md"
               }
             }
           },
@@ -391,18 +400,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "40102b41aa6cbe2f",
+  "active": "899c3caee42d2f52",
   "lastOpenFiles": [
-    "Gilded Resolution.md",
+    "Vanguard Campaign Journal.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Items/Duskdrinker.md",
     "Item Pricing + Crafting.md",
+    "Gilded Resolution.md",
     "Session Notes/Session 79 - Divisions Form.md",
     "World of Helodaria/Vessel of Avarice.md",
-    "Vanguard Campaign Journal.md",
     "Wooden Fang.md",
     "Gunslinger Fighter Archetype.md",
     "Helodarian Firearms.md",
     "Templates/NPC Template.md",
-    "Items/Duskdrinker.md",
     "World of Helodaria/Helodaria.md",
     "Items/Bracers of Defence.md",
     "Session 80 -.md",
@@ -419,7 +429,6 @@
     "Keldmire.md",
     "Junk.md",
     "Junk.pdf",
-    "Helm of Teleportation.md",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas",
     "Attachments/Pasted image 20240320125108.png",

@@ -1,4 +1,4 @@
-The Einzbern Hold is the base of the [[Einzberns]] in [[World of Helodaria/Keldmire|Keldmire]]. It was destroyed in the year 810 PF, preceding the enslavement of the Einzberns by [[Lucius]] and the [[Vorciln]].
+The Einzbern Hold is the base of the [[Einzberns]] in [[Keldmire|Keldmire]]. It was destroyed in the year 810 PF, preceding the enslavement of the Einzberns by [[Lucius]] and the [[Vorciln]].
 
 # Manor
 ---
@@ -9,7 +9,7 @@ There is a massive repository of knowledge underneath the manor proper where, fo
 ## Alchemy Room
 Think the alchemy room where they dissected the Lichen in the Witcher
 ## Transformation Room
-Contains the profane, amorphous abomination swimming in the green soup. The creature once moved autonomously, without will but with energy. It now floats, deceased.
+Contains the profane, amorphous abomination swimming in the green soup. The creature once moved autonomously, without will but with energy. It now floats motionless, deceased.
 
 ---
 # Old notes

@@ -1,0 +1,6 @@
+The Sovereign's Cruelty is a four-masted vessel, constructed roughly 100-200 years before the end of [[The Fall]], and acts as the single most influential piece of naval power since the birth of the first Krakens. Home to some of the greatest knights and crusaders of the [[Zitrumean Empire]], it acts as the bleeding edge of naval power in the world almost a thousand years after its first construction.
+
+With its unfathomable firepower of 114 side cannons (subject to change as I design it properly) and 16 fore and aft cannons, the vessel is almost 100m in length and rumored to have veins of adamantine thread in its skeleton. It has never been defeated in navy combat without ambush and extreme outnumbering, and is the pride of the Zitrumean Navy. It houses hundreds of armed soldiers and knights of the empire, and boasts a complement of over one thousand crewmen.
+(Subject to editing)
+Knowledge about this ship in [[Helodaria]] is like knowing about nuclear weapons in the real world, so everyone kinda understands what it is
+The Emperor's only regret about its construction is that it cannot fly

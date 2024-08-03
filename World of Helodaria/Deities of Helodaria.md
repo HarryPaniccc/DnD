@@ -11,10 +11,10 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Bahamut]], Platinum Dragon (LG)
 - [[Ilmater]], The Calloused Hands (NG)
 - [[Feylan]], Verdant Mother (N)
-- [[Centuria]], Holder of the Azure (LN)
+- [[Centuria]], Holder of the Azure (CG)
 - [[Moradin]], The All Hammer (LG)
 - [[Sehanine]], The Moon Heart (NG)
-- [[Umberlee]], The Storm Weaver(CG)
+- [[Umberlee]], The Storm Weaver(CN)
 - [[The Raven Queen]] (N)
 - [[Corellon]], First Speaker (NG)
 - [[Lathander]], the Lord of Dawn (LG)
@@ -40,19 +40,19 @@ Archdevils, or the Lords of the Nine Hells, are powerful infernal fiends. They a
 ## Celestials
 - [[Aerondite]], Saint of the Dawn
 ### Details
-|  Name | Deity of  | Symbol  | Domains  |
-|---|---|---|---|
-|Tyr, Wielder of Justice|Balance, Justice, Law, Civilisation|A Scale held up by a double sided halberd|War, Light, Order|
-|Bahumat, Platinum Dragon|Righteousness, Good, Lawful Stupid|The Visage of A Dragon|Light, Life|
-|Ilmater, The Calloused Hands|Self Sacrifice, Improvement, Endurance, Strength|Right hand gripping a knife at the blade|Light|
-|Feylan, the Verdant Mistress|Fertility, Nature and Animals|A butterfly with wings of clear water surrounded by a circle of wheat|Nature, Life|
-|Centuria, Holder of the Azure|Stars, Shared Knowledge, Freedom|A mask with solar flair shaped hair flowing out from under it|Twilight, Knowledge|
-|Moradin, Allhammer|Community, Creation, Dwarves|A Hammer and Anvil|Forge|
-|Sehanine, the Moon Heart|Elven goddess of the moon, compassion, and expression|A crescent moon|Twilight, Trickery|
-|Umberlee, Stormweaver|Goddess of the sea and storms|An eye surrounded by a maelstrom|Tempest, Nature|
-|Raven Queen, Matron of Death|Goddess of Life and Natural Death|Raven related images, usually a ravens head in profile facing left|Death, Grave|
-|Corellon, Maker of the First Peoples|Elves and arcane magic|Star|Light, Arcane|
-|Lathander, the Lord of Radiance|The Sun, Dawn and Renewal|A sun rising over a valley or field|Light, Life|
+| Name                                 | Deity of                                              | Symbol                                                                | Domains             |
+| ------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------------- | ------------------- |
+| Tyr, Wielder of Justice              | Balance, Justice, Law, Civilisation                   | A Scale held up by a double sided halberd                             | War, Light, Order   |
+| Bahumat, Platinum Dragon             | Righteousness, Good, Lawful Stupid                    | The Visage of A Dragon                                                | Light, Life         |
+| Ilmater, The Calloused Hands         | Self Sacrifice, Improvement, Endurance, Strength      | Right hand gripping a knife at the blade                              | Light               |
+| Feylan, the Verdant Mistress         | Fertility, Nature and Animals                         | A butterfly with wings of clear water surrounded by a circle of wheat | Nature, Life        |
+| Centuria, Holder of the Azure        | Stars, Shared Knowledge, Freedom                      | A mask with solar flair shaped hair flowing out from under it         | Twilight, Knowledge |
+| Moradin, Allhammer                   | Community, Creation, Dwarves                          | A Hammer and Anvil                                                    | Forge               |
+| Sehanine, the Moon Heart             | Elven goddess of the moon, compassion, and expression | A crescent moon                                                       | Twilight, Trickery  |
+| Umberlee, Stormweaver                | Goddess of the sea and storms                         | An eye surrounded by a maelstrom                                      | Tempest, Nature     |
+| Raven Queen, Matron of Death         | Goddess of Life and Natural Death                     | Raven related images, usually a ravens head in profile facing left    | Death, Grave        |
+| Corellon, Maker of the First Peoples | Elves and arcane magic                                | Star                                                                  | Light, Arcane       |
+| Lathander, the Lord of Radiance      | The Sun, Dawn and Renewal                             | A sun rising over a valley or field                                   | Light, Life         |
 
 ### Details
 |Name|Deity of|Symbol|Domains|

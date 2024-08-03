@@ -3,9 +3,9 @@ tags:
   - Core
 ---
 # To do list
-- [x] Add "quick reference" tab at the top of character template (so you can copy + paste into session notes)
 - [ ] Magic Item Shops and inventory
-	- [ ] 
+	- [ ] Thri-Kreen shop run in [[Brocia]]
+- [ ] Shady magic shop in Brocia
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters
@@ -32,7 +32,7 @@ tags:
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
 	- [ ] [[Camroc]]
-	- [ ] [[Baylan's Rest 1]]
+	- [ ] [[Baylan's Rest]]
 - [ ] Zitrumea Map
 - [ ] Zitrumea Thieves Guild
 - [ ] Fall History
@@ -43,7 +43,7 @@ tags:
 - Talking with no one
 - Kitsune fox totem
 - City of the glass moon
-- 
+- Check the soulbound party from [[Flee, Mortals!.pdf]]
 # Zakuul
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found [[The Helm of the Ceaseless]]
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Republic of Ruina|Ruina]]
@@ -56,3 +56,9 @@ Loyalists. Hates drow
 - Slowly charging a ritual, using the souls of Sirkonians
 - Create a new form of life through [[Prince Artorius Sirkon]]
 - No fucking idea actually
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5

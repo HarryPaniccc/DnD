@@ -102,9 +102,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf8ad8528b870d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Silb Heft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7,
+        "currentTab": 8,
         "stacked": true
       }
     ],
@@ -183,7 +195,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World of Helodaria/Kingdom of Sirkonos.md",
+            "file": "World of Helodaria/Silb Heft.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,7 +212,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World of Helodaria/Kingdom of Sirkonos.md",
+            "file": "World of Helodaria/Silb Heft.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -212,7 +224,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World of Helodaria/Kingdom of Sirkonos.md"
+            "file": "World of Helodaria/Silb Heft.md"
           }
         }
       }
@@ -221,7 +233,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -232,8 +243,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fddc78be3d8e3da5",
+  "active": "bf8ad8528b870d2b",
   "lastOpenFiles": [
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Athelstan.md",
     "Session 80 -.md",
     "Wooden Fang.md",
@@ -253,12 +266,10 @@
     "Skye's Locket of the Armory.md",
     "Item Pricing + Crafting.md",
     "World of Helodaria/Diredahl.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Helodaria.md",
     "Keldmire.md",
     "Items/Aegis of the Onlooker.md",
     "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "Untitled.md",
     "World of Helodaria/Lucius.md"
   ]

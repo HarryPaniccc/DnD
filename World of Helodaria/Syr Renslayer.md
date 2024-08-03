@@ -1,3 +1,7 @@
+---
+tags:
+  - Character
+---
 Syr Renslayer is a Death Knight who has been [[King Sirkon]]'s general for as long as he has sat on the throne. Over history, Renslayer has been ruling a fort in the [[Nightshade Peaks]] East of the [[Kingdom of Sirkonos]], but as Sirkon's plan has come to fruition he has needed his closest advisor close at hand.
 
 Renslayer is stern, does not have time for inferiors, whom he deems everyone other than his master and those who need to be flattered should diplomacy be necessary. *Adam Smasher*

@@ -1,3 +1,7 @@
+---
+tags:
+  - Rules
+---
 # Brainstorming
 ---
 3 "calibres" of gunslinger that defines how guns fit into the fighting style
@@ -14,8 +18,6 @@ Mobile, roll to reload, most likely to wield a pepperbox or revolver early on
 **Inspirational Outlaws**
 - Cayde-6
 - Cole Cassidy
-
-On 2 handed firearm hit, draw and fire one handed as a bonus
 #### Marksman
 Guns and hitting things. Mandolorian?
 Reload costs are halved
@@ -88,7 +90,7 @@ You can use this Gambit after the initial attack role has been made, but before 
 ### Pressure
 When you gain this Gambit you no longer have disadvantage on attacks made with firearms against creatures within 5ft. of you. In addition, when you miss a creature with a melee attack, you may draw, attack the creature with, and stow a one-handed firearm (no action required). You don't add your ability modifier to this attack's damage. If you are holding one weapon in each hand, or are wielding a weapon and a shield, you drop one of these weapons as part of this Gambit.
 ### Deadshot
-
+Something cowboy related
 ### Ricochet
 When you make an attack with a firearm and miss, the bullet miraculously ricochets of a nearby surface or armour. You can reroll the attack against a different creature within 30 feet of the original target.
 

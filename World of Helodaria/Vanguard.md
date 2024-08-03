@@ -12,7 +12,7 @@ The Vanguard have their permanent stronghold in [[Trayfort Keep]] in the Outer-c
 - [[Caede]]
 - [[Rylei Sweetsong]]
 - [[Adhara]]
-- [[Skye]]
+- [[Skye (Dusk)]]
 - [[Silb Heft]]
 - [[Olaf Rein]]
 ## Former Members

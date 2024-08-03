@@ -6,4 +6,5 @@ The Wooden Fang is a magical item shop in [[Diredahl]] run by [[Woed]] the Blue 
 - A [[Frost Brand]] Greatsword - 11 500 Gp
 - [[Bracers of Defence]] - 1250 Gp (2 in stock)
 - [[Ring of Psychic Resistance]] - 4500 Gp
-- [[Scrying Eye]] - 
+- [[Scrying Eye]] - 3300 Gp
+- [[Handy Haversack]] - 550 Gp

@@ -1,0 +1,3 @@
+The [[Court of Verdicts]] is a large stone pillared structure, made with sections of dark, strong oak and stone. The building is tall and wedge shaped, supported by pillars on the outside. The frontal wall leans into the structure. The interior is open and decorative, with many rooms and corridors leading off from the main chamber. There is a large guard presence here. The bulk of the political and lawful deeds of work are conducted from this building. There are large stone balconies near the top and a parliament house around a large table at the apex of the building.
+
+The court is the official meeting place within the Silver Strewn Quarter in [[Dularen]], and the main meeting location for the [[Uldronos Council]].

@@ -3,7 +3,10 @@ The [[Gilded Resolution]] is a magic shop owned and run by Human Enchanter [[Bel
 - [[Elemental Gem]]s (Earth, Yellow Diamond and Water, Emerald) - 300 Gp each
 - [[Boots of Haste]] - 1500 Gp
 - [[Hat of Disguise]] - 200 Gp
-- Ioun Stone of Leadership - 7850 Gp
+- [[Ioun Stone of Leadership]] - 7850 Gp
 - [[Potion of Frost Giant Strength]] - 1300 Gp
 - Potions of Healing - 50 (5), 150 (1d6), 500 (2) Gp
 - [[Hearthstone]] - 3750 Gp
+- [[Bag of Holding]] - 400 Gp
+- [[Bracers of Defence]] - 1300 Gp
+- 

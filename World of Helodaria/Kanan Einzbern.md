@@ -39,7 +39,7 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 - The [[Daybreakers]], the ancestral relics of the Einzbern's origin.
 - [[Cadaverous Edge]]
 - [[Boots of Haste]]
-- [[Skye's Locket of the Armory]], gifted to him by [[Skye]] as a way of using his diverse weapon collection
+- [[Skye's Locket of the Armory]], gifted to him by [[Skye (Dusk)]] as a way of using his diverse weapon collection
 - [[Supple Studded Leather Armor of Warning]]
 - [[Manual of Quickness of Action]], expended
 - [[Until Dawn]]

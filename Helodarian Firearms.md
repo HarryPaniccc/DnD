@@ -6,7 +6,9 @@ Firearms in this world work off a different ruleset compared to Exandria and the
 # Properties
 ## Missfire
 A missfire score determines a firearms reliability on the battlefield. If the D20 roll on an attack made with a firearm rolls equal to or below the weapon's missfire score, the weapon jams. A DC 10 tinkers tools check as an action can unjam the firearm, but upon failing, the weapon will need to be repaired at a workbench over a short rest. Often the more complex the design of a firearm is, the higher the missfire score becomes.
-## Reload
+>[!Idea]
+>Maybe the missfire score grows on a turn, but outlaw has a way to circumnavigate this
+## Reload (Maybe rename to Ammunition)
 The reload property of a firearm represents how many rounds a firearm can fire before needing to be reloaded. A weapon must be reloaded after firing a number of shots equal to its reload score.
 
 The reload property of most firearms has a loading time of 30 seconds (5 actions). Some weapons have a cost in their reload property, defining the amount of actions required to be "paid" load a single round into the weapon. Reloading requires the use of ignition paper, black powder (or an alternative powder), the bullet, and a plunger or plunging mechanism. Some weapons use pre-loaded packets of powder which drastically can reduce their reload score.

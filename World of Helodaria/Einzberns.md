@@ -1,5 +1,5 @@
 #TODO 
-A prominent monster hunting family of the [[Kingdom of Sirkonos]]. They live in [[World of Helodaria/Keldmire|Keldmire]] in the [[Einzbern Hold]]
+A prominent monster hunting family of the [[Kingdom of Sirkonos]]. They live in [[Keldmire|Keldmire]] in the [[Einzbern Hold]]
 # Members
 ---
 ## Einzbern Hunters

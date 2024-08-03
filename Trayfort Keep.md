@@ -1,0 +1,1 @@
+Trayfort Keep is the home of the [[Vanguard]] located in the [[Republic of Ruina]], in the Outer-City Fields of [[Dularen]].
