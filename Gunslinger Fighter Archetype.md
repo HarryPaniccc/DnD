@@ -2,7 +2,7 @@
 tags:
   - Rules
 ---
-# Brainstorming
+"M# Brainstorming
 ---
 3 "calibres" of gunslinger that defines how guns fit into the fighting style
 - **Outlaw** for [[Jarren Ward]]
@@ -101,5 +101,5 @@ Upon hitting a creature with an attack from a firearm you may draw a one-handed 
 Does fire damage
 ### Concussive Powder
 Thunder + stun or something
-### Acid Powder
+### Corrosive Powder
 ### Blinding Powder

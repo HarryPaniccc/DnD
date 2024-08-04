@@ -2,7 +2,7 @@
 tags:
   - Rules
 ---
-Firearms in this world work off a different ruleset compared to Exandria and the DMG. **Proficiency** with firearms works as a weapon type, as firearms are neither simple nor martial. A character without proficiency in firearms always rolls a 1 on the reload dice.
+Firearms in this world work off a different ruleset compared to Exandria and the DMG. **Proficiency** with firearms works as a weapon type, as firearms are neither simple nor martial. A character without proficiency in firearms always roles a 1 on the reload dice.
 # Properties
 ## Missfire
 A missfire score determines a firearms reliability on the battlefield. If the D20 roll on an attack made with a firearm rolls equal to or below the weapon's missfire score, the weapon jams. A DC 10 tinkers tools check as an action can unjam the firearm, but upon failing, the weapon will need to be repaired at a workbench over a short rest. Often the more complex the design of a firearm is, the higher the missfire score becomes.
