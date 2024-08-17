@@ -5,7 +5,7 @@ tags:
 # To do list
 - [ ] Magic Item Shops and inventory
 	- [ ] Thri-Kreen shop run in [[Brocia]]
-- [ ] Shady magic shop in Brocia
+- [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people
 - [ ] Bring all notes over
 	- [ ] Dularen
 	- [ ] Characters
@@ -53,12 +53,9 @@ Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceasele
 # Ulrandir
 Loyalists. Hates drow
 # Sirkon
-- Slowly charging a ritual, using the souls of Sirkonians
 - Create a new form of life through [[Prince Artorius Sirkon]]
 - No fucking idea actually
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
+# Arc Planning
+## Wishlist
+- Demon boat fight
+- Renslayer death knight army in a frozen fortress in the nightshade peaks

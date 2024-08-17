@@ -4,16 +4,18 @@ A young and prosperous republic, forged with the combined efforts of patrons hai
 
 The Republic’s access to a rich landscape of excellent natural resources and varied environments have made obvious that it has a strong foothold as a major centrepiece of the modern world order, even though there are rising tensions on whether or not the Uldronos Council should continue to operate as it always has within its own government.
 # History
+---
 ### Pre-settlement and Settlement (Circa 0 P.F.)
 The shores of the Allhaven port were first settled near the end of the Fall, but for a long time the settlement was little more than just a port from which the spoils of the Platinum Highroad were shipped, supplying platinum to a large portion of Zitrumea.
 
 After the fall, investments of the surviving noble houses began to funnel into the beginnings of the republic, and for around 200 years, the platinum trade flourished under the control of foreign guilds. After a while, the locals, who at this point had developed family roots in the area, began to realize the value of the nation that was growing, and wanted to establish Ruina as its own governed nation. So, the citizens of the then New-Ruinan Republic elected families that would each represent a portion of the race to which they belonged, so to ensure fair word for all. This marked the formation of the hereditary Uldronos Council, who still govern the Republic over 600 years later.
 ### Founding of [[Uldronos Council]]
 
-For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members were elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.  
+For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members were elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.
 
 Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]].
 # Geography
+---
 The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the [[Shard Foothills]]. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
 ### [[Mungandr Lake]]
 - [[Ironbase]]: A small settlement of farmers built around an old fortress left to the elements and the ages.
@@ -38,7 +40,8 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 - [[Ironspine Pass]]: A road that leads up the cresting peaks from a bit into the [[Dularen Forest]]. Somewhere along the pass there exists a tomb of paladins dedicated to [[Lathander]].
 
 #TODO 
-# Society
+# Society and Factions
+---
 ## Politics
 ### The [[Uldronos Council]]
 The Uldronos Council is a hereditary council, ruled by houses that were elected around 200 P.F. The Council does not hand out duties to specific houses, but some houses have naturally swayed towards fulfilling a role in governing the Republic.
@@ -49,6 +52,11 @@ The [[High Paladin of Tyr]] has the primary say in the law making of Ruina and e
 ## Religion
 The Republic of Ruina has many major gods that they worship, with other deities being worshipped alongside. The main deity worshipped is Tyr, and the [[High Paladin of Tyr]] oversees the [[Lawbearers]], and acts as the High Temple of Pantheon’s Voice on the Uldronos Council. There are gods that are not recognised as legal in Ruina, and then there are gods that are heretical to worship.
 #TODO add lawbearers to tyrs document
+## Other Factions
+### The [[Imperial Arcanists]]
+The Imperial Arcanists were formed some 300 years after the founding of the [[Uldronos Council]]. They
+### The [[Devil's Hand]]
+
 
 
 ---

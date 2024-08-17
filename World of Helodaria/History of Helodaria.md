@@ -6,18 +6,23 @@ Before times (aboleth empire) > early deities and primal relics and formation of
 
 #TODO Read all this shit
 
-# The Ages
 Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age.
-## The Eternity of Before
-Once, before history was even a concept and memory was not defined, the planes were young and the first entities were still finding their permanent forms. The multiverse was a primal soup of energy and chaos, a vast ocean. This was the world that was ruled by the aboleths. They forged their empire, and ruled over the beginnings of life with an iron fist, over an eternal abyss of waters and emptiness and chaos.
+# The Eternity of Before
+---
+Once, before history was even a concept and memory was not defined, the planes were young and the first entities were still finding their permanent forms. The multiverse was a primal amalgamation of chaos, a vast ocean of elemental energy. This was the world that was ruled by the aboleths. They forged their empire, and ruled over the beginnings of life with an iron fist, over an eternal abyss of waters and emptiness and chaos.
 
-When the [[Deities of Helodaria]] rose up, the aboleths were driven to defeat, and their hold of the planes was lost. They were imprisoned before the cementing of the mortal races, and their hunger for revenge has never subsided.
-## The Unknowable Age
-The Gods, forms of power and ambition that saw the toiling chaos of the realms as inspiration and potential for beauty and expression, found themselves within the interplanar space that was yet to be Helodaria. This is the beginning of history, and the true start to the world of Helodaria. 
+When the [[Deities of Helodaria]] arrived in the material plane, the aboleths were driven to defeat by the divine power that had entered the realm, and their hold of the planes was lost. They were imprisoned before the cementing of the mortal races, and their hunger for revenge has never subsided.
+# The Unknowable Age
+---
+The Gods, forms of power and ambition that saw the toiling chaos of the realms as inspiration and potential for beauty and expression, found themselves within the interplanar space that was yet to be Helodaria. This is the beginning of history, and the true start to the world of Helodaria. The first age, the first day, had arrived. 
 
-Primordial elemental chaos was all there was where the Material now is. The four prime elemental planes had begun their convergence, in a great display of pure chaos and entropy. The Gods saw this as beauty, as potential, and began to enforce their own wills upon the unformed multiverse, halting the elemental convergence, and creating the [[Material Plane]] where the four [[Elemental Planes]] had started to intersect, sectioning the Materium away from the elemental chaos.
+Primordial elemental chaos was all there was where the Material now is. The four prime elemental planes had begun their convergence, in a great display of pure chaos and entropy. The Gods saw this as beauty, as potential, and began to enforce their own wills upon the unformed multiverse, halting the elemental convergence, and creating the [[Material Plane]] where the four [[Elemental Planes]] had started to intersect, sectioning the Materium away from the elemental chaos, and enforcing a great order over the multiverse.
+## The Dawn War
+As the gods enforced their wills over Helodaria, the primordial elements responded with its own will. Great titans, [[Primordials]], manifesting as fundamental concepts of the universe rose up and resisted the wills of the gods. The titans waged war on the creations of the gods, and the gods waged war on the titans.
 
-The Gods rose mountains and split ways for rivers. They moved the moons where they needed to be to allow for the tides and lit the sun for all to feel its warmth. The gods of evil and chaos discovered the [[Nine Hells]] and birthed the [[Abyss]] from their dreams. With their innovation the races were born, the Dwarves forged by [[Moradin]], the Elves were birthed and sung into existence by [[Corellon]] as things of beauty and the first annuls of history sprouted. Nations, culture and life thrived, and so, as did death, war and discord.   
+
+> To Edit
+>The Gods rose mountains and split ways for rivers. They moved the moons where they needed to be to allow for the tides and lit the sun for all to feel its warmth. The gods of evil and chaos discovered the [[Nine Hells]] and birthed the [[Abyss]] from their dreams. With their innovation the races were born, the Dwarves forged by [[Moradin]], the Elves were birthed and sung into existence by [[Corellon]] as things of beauty and the first annuls of history sprouted. Nations, culture and life thrived, and so, as did death, war and discord.   
 
 Magic, divine and arcane, was a gift from the gods in the form of lessons. Temples were constructed, wars were waged and, eventually, empires were formed, and the worlds and planes truly settled once again. Some would use these powers to enact the age of ascension. Others would see their newfound gifts as evidence that they were the new Gods of the world, and would attempt to rule over mortals like tyrants.  
 ## The Age of Ascension

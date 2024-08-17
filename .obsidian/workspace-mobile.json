@@ -21,6 +21,30 @@
             }
           },
           {
+            "id": "542aeee08f787edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Eranulaid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f788ffa954433259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desseran.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "43fd1749389436ac",
             "type": "leaf",
             "state": {
@@ -43,33 +67,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "83974515802cd5af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/NPC Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c79617a258337ca8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gunslinger Fighter Archetype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "788def3f3f4a865b",
@@ -89,26 +89,6 @@
             }
           },
           {
-            "id": "d833595379e745e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "48c3d1d5349cf243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Helodarian Firearms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6c276fe369ea62f",
             "type": "leaf",
             "state": {
@@ -121,29 +101,41 @@
             }
           },
           {
-            "id": "93c248d71fc56c3b",
+            "id": "ced14cbd2144f68c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Eranulaid.md",
+                "file": "World of Helodaria/Uldronos Council.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8112ac40d1561d9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gwendolyn RENAME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "3373a42914ed7b45",
+    "id": "d8a015dc37c8430d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "14e3168a4b04f011",
+        "id": "7235bd817e19fc74",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -153,7 +145,7 @@
         }
       },
       {
-        "id": "98ff5dbd18bf4cf8",
+        "id": "76a1294d240eac34",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -168,7 +160,7 @@
         }
       },
       {
-        "id": "bfacd0c7a9a64952",
+        "id": "7896c88f0e8167d1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -179,7 +171,7 @@
         }
       },
       {
-        "id": "887e9cc85812b905",
+        "id": "812ef74f786240e2",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -191,7 +183,7 @@
         }
       },
       {
-        "id": "51f9c5b9baddd415",
+        "id": "e1f0c9cdde8619c9",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -202,16 +194,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ef9b14fc1101a6bd",
+    "id": "270e12e5645c546e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2326635a2f663f85",
+        "id": "76307cc081cb2e0a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Helodarian Firearms.md",
+            "file": "Desseran.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,24 +215,24 @@
         }
       },
       {
-        "id": "48b11dea9613a64e",
+        "id": "d2e26fd074c2f84a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Helodarian Firearms.md",
+            "file": "Desseran.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "dddf98a82395de42",
+        "id": "aefac4c7853ea1ed",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Helodarian Firearms.md"
+            "file": "Desseran.md"
           }
         }
       }
@@ -259,9 +251,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "48c3d1d5349cf243",
+  "active": "f788ffa954433259",
   "lastOpenFiles": [
+    "World of Helodaria/Helodaria.md",
+    "Whispers of Orlane.md",
     "Gunslinger Fighter Archetype.md",
+    "Templates/NPC Template.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Zitrumean Empire.md",
+    "Helodarian Firearms.md",
     "Wooden Fang.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
     "World of Helodaria/Athelstan.md",
@@ -278,15 +279,6 @@
     "World of Helodaria/Einzberns.md",
     "Session Notes/Session 79 -.md",
     "Junk.pdf",
-    "Helm of Teleportation.md",
-    "Skye's Locket of the Armory.md",
-    "Item Pricing + Crafting.md",
-    "World of Helodaria/Diredahl.md",
-    "World of Helodaria/Helodaria.md",
-    "Keldmire.md",
-    "Items/Aegis of the Onlooker.md",
-    "Statblocks/Vorciln Tithe Inquisitor General.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Untitled.md"
+    "Helm of Teleportation.md"
   ]
 }

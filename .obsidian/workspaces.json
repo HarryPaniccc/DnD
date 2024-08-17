@@ -23,6 +23,30 @@
                 }
               },
               {
+                "id": "542aeee08f787edf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f788ffa954433259",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Desseran.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "43fd1749389436ac",
                 "type": "leaf",
                 "state": {
@@ -45,21 +69,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "83974515802cd5af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/NPC Template.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "788def3f3f4a865b",
@@ -91,18 +103,6 @@
                 }
               },
               {
-                "id": "93c248d71fc56c3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Eranulaid.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "ced14cbd2144f68c",
                 "type": "leaf",
                 "state": {
@@ -127,7 +127,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -206,7 +206,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Gwendolyn RENAME.md",
+                    "file": "Desseran.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Gwendolyn RENAME.md",
+                    "file": "Desseran.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -246,7 +246,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Gwendolyn RENAME.md"
+                    "file": "Desseran.md"
                   }
                 }
               },
@@ -299,8 +299,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8112ac40d1561d9a",
-      "mtime": "2024-08-01T06:30:40+02:00"
+      "active": "f788ffa954433259",
+      "mtime": "2024-08-10T15:52:28+02:00"
     },
     "Next Session Planning": {
       "main": {
@@ -957,7 +957,7 @@
               {
                 "id": "788def3f3f4a865b",
                 "type": "tabs",
-                "dimension": 52.02780996523755,
+                "dimension": 45.43689320388349,
                 "children": [
                   {
                     "id": "2174c6caf1ae23bb",
@@ -982,13 +982,26 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "23d3bb0c20d073fc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "World of Helodaria/Deities of Helodaria.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "53c3d9a0752c0b71",
                 "type": "tabs",
-                "dimension": 47.972190034762455,
+                "dimension": 54.5631067961165,
                 "children": [
                   {
                     "id": "93c248d71fc56c3b",
@@ -999,16 +1012,6 @@
                         "file": "World of Helodaria/Eranulaid.md",
                         "mode": "source",
                         "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d4e740ff45ecdaba",
-                    "type": "leaf",
-                    "state": {
-                      "type": "image",
-                      "state": {
-                        "file": "Attachments/Pasted image 20240320125108.png"
                       }
                     }
                   },
@@ -1024,7 +1027,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -1077,8 +1081,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 258.5,
-        "collapsed": true
+        "width": 258.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -1107,7 +1110,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "file": "World of Helodaria/Zitrumea.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1124,7 +1127,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "file": "World of Helodaria/Zitrumea.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -1147,7 +1150,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md"
+                    "file": "World of Helodaria/Zitrumea.md"
                   }
                 }
               },
@@ -1209,8 +1212,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2174c6caf1ae23bb",
-      "mtime": "2024-08-01T09:26:10+02:00"
+      "active": "b41a06085117c1db",
+      "mtime": "2024-08-08T13:51:19+02:00"
     },
     "Magic Item Shop Stuff": {
       "main": {
@@ -1606,7 +1609,7 @@
           {
             "id": "745e293b6b6b2d1a",
             "type": "tabs",
-            "dimension": 52.25726654298083,
+            "dimension": 51.385927505330486,
             "children": [
               {
                 "id": "3062ac46bd8eabe2",
@@ -1674,7 +1677,7 @@
           {
             "id": "788def3f3f4a865b",
             "type": "tabs",
-            "dimension": 47.74273345701917,
+            "dimension": 48.61407249466951,
             "children": [
               {
                 "id": "2174c6caf1ae23bb",
@@ -1783,8 +1786,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 258.5,
-        "collapsed": true
+        "width": 258.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -1812,7 +1814,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Gunslinger Fighter Archetype.md",
+                    "file": "Helodarian Firearms.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1829,7 +1831,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Gunslinger Fighter Archetype.md",
+                    "file": "Helodarian Firearms.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -1852,7 +1854,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Gunslinger Fighter Archetype.md"
+                    "file": "Helodarian Firearms.md"
                   }
                 }
               },
@@ -1905,8 +1907,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "c79617a258337ca8",
-      "mtime": "2024-07-30T14:12:25+02:00"
+      "active": "48c3d1d5349cf243",
+      "mtime": "2024-08-05T10:13:42+02:00"
     },
     "Sirkonos Updates": {
       "main": {
@@ -1954,6 +1956,18 @@
                 }
               },
               {
+                "id": "367e8834698f4f0d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Azim Krasis.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "cada5b4d0930a7b8",
                 "type": "leaf",
                 "state": {
@@ -1988,53 +2002,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "1fa8f875b41a8da0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Gunslinger Fighter Archetype.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "02f960a69299d842",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Empire of Thay.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e91c254dbde9ae30",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "b2900d07ed497172",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Item Pricing + Crafting.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 6
           }
         ],
         "direction": "vertical"
@@ -2084,7 +2054,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 258.5
+        "width": 258.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2113,7 +2084,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Item Pricing + Crafting.md",
+                    "file": "World of Helodaria/Diredahl.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -2136,7 +2107,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Item Pricing + Crafting.md"
+                    "file": "World of Helodaria/Diredahl.md"
                   }
                 }
               },
@@ -2158,7 +2129,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Item Pricing + Crafting.md",
+                    "file": "World of Helodaria/Diredahl.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2192,8 +2163,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 337.5,
-        "collapsed": true
+        "width": 337.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2207,8 +2177,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b2900d07ed497172",
-      "mtime": "2024-07-30T18:57:17+02:00"
+      "active": "97dcac6cc9dc404d",
+      "mtime": "2024-08-05T14:33:02+02:00"
     },
     "Next Arc Planning": {
       "main": {
@@ -2218,7 +2188,6 @@
           {
             "id": "745e293b6b6b2d1a",
             "type": "tabs",
-            "dimension": 41.247974068071315,
             "children": [
               {
                 "id": "3062ac46bd8eabe2",
@@ -2303,15 +2272,7 @@
                     "source": false
                   }
                 }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "385ad0d370b68358",
-            "type": "tabs",
-            "dimension": 58.752025931928685,
-            "children": [
+              },
               {
                 "id": "6bf299758003154c",
                 "type": "leaf",
@@ -2320,9 +2281,9 @@
                   "state": {
                     "file": "Ceaseless Arc Planning.canvas",
                     "viewState": {
-                      "x": 198.8593835535247,
-                      "y": 310.0379313241999,
-                      "zoom": -1.5810138869636856
+                      "x": -24.372229368188243,
+                      "y": 249.23015093192896,
+                      "zoom": -1.7807296856448853
                     }
                   }
                 }
@@ -2338,9 +2299,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "f957a59758db662d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -2390,7 +2363,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 258.5
+        "width": 258.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2514,8 +2488,232 @@
         }
       },
       "active": "75fba6f841599326",
-      "mtime": "2024-08-01T05:47:37+02:00"
+      "mtime": "2024-08-06T16:25:53+02:00"
+    },
+    "Updating History of the Fall and Gods and other Deities": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "3cabe27c65230cb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "895e0c8fd76d2dd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Deities of Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "69654954b1c9a950",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Asmodeus.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "60157c3a715ad720",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ba6af2ef208afd3d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/History of Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 258.5
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 337.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "60157c3a715ad720",
+      "mtime": "2024-08-14T19:46:35+02:00"
     }
   },
-  "active": "Gunslinger Tech"
+  "active": "Updating History of the Fall and Gods and other Deities"
 }

@@ -1,0 +1,1 @@
+The Cathedral of the Bahamut is a massive temple located in the Trioculary of [[Vasspryg]]'s Ivory District dedicated to [[Bahamut]] the dragon god of good.

@@ -17,6 +17,6 @@ Keep the pace high
 - Societies are most important
 - General large regions
 - Subheadings for empires containing states
-## [[Societies]]
+## [[Country Template]]
 - To be added to as things happen
 - Template is just a guide

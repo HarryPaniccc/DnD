@@ -5,6 +5,6 @@ tags: Settlement
 
 # History
 
-# Notable Characters
+# Notable Factions and Characters
 
 # Locations

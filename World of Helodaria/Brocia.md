@@ -11,5 +11,6 @@ Brocia is situated north of the forest of ==INSERT==.
 # History
 
 # Notable Characters
-
+- [[Azim Krasis]], Thri-Kreen peddler of various magical artefacts and contraband. Sounds like Variks if Variks was sly and played by Matt Mercer. He runs the [[Underfoot Tollhouse]], a magic item shop that deals in various darker items.
 # Locations
+- The [[Underfoot Tollhouse]] is a hidden away shop at the base of a building next to a bridge that crosses the primary canal. [[Azim Krasis]] runs the shop as an exotic spice shop, but to those who know Azim he peddles lots of contraband for many people West of [[Desseran]]

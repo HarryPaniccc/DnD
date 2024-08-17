@@ -2,7 +2,7 @@
 tags:
   - Rules
 ---
-"M# Brainstorming
+# Brainstorming
 ---
 3 "calibres" of gunslinger that defines how guns fit into the fighting style
 - **Outlaw** for [[Jarren Ward]]
@@ -79,6 +79,8 @@ The reloading speed of firearms are reduced for you.
 ### Level 18
 ---
 #### Calibre Feature
+### Outlaw
+
 
 
 # Gambits
