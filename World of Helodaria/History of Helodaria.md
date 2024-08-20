@@ -1,7 +1,7 @@
 ---
 tags: Lore
 ---
-### Shitty summary
+### Shitty summarys
 Before times (aboleth empire) > early deities and primal relics and formation of the planes > early civilisation in a changing multiverse > book of souls calamity > the unknowable age > gods are born > the planes settle > races are reforged > age of celestials > gods are killed/sealed away/victorious > young gods are born from the mythical natures present (Raven Queen/Centuria/Vecna attempts ascension) > current era
 
 #TODO Read all this shit
