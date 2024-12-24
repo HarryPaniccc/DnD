@@ -2,9 +2,11 @@
 tags:
   - Character
 ---
-Syr Renslayer is a Death Knight who has been [[King Sirkon]]'s general for as long as he has sat on the throne. Over history, Renslayer has been ruling a fort in the [[Nightshade Peaks]] East of the [[Kingdom of Sirkonos]], but as Sirkon's plan has come to fruition he has needed his closest advisor close at hand.
+Syr Renslayer is a Death Knight and the Sion of the Demon Lord [[Orcus]], and he has been [[King Sirkon]]'s general for as long as he has sat on the Sirkonian throne. Over history, Renslayer has been ruling a fort in the [[Nightshade Peaks]], east of the [[Kingdom of Sirkonos]], but as Sirkon's plan has come to fruition he has needed his closest advisor close at hand.
 
-Renslayer is stern, does not have time for inferiors, whom he deems everyone other than his master and those who need to be flattered should diplomacy be necessary. *Adam Smasher*
+Renslayer is stern, does not have time for inferiors, and brutally efficient. *Adam Smasher*
+
+He is affected by a permanent *Nystul's Magic Aura*, making him seem humanoid. Renslayer famously ride [[Chiaross]], a dragon that appears to be an adult brass dragon, but is in truth a red affected by *Seeming* and *Nystul's Magic Aura*.
 # History
 Once the leader of the Armies of the [[Empire of Thay]] and protector of [[Desseran]], Renslayer marched against the [[Kingdom of Sirkonos]] during [[The Fall]]. He was turned by [[King Sirkon]] alongside many
 # Statblock
@@ -79,3 +81,5 @@ Reference is the [Death Knight](https://5e.tools/bestiary.html#death%20knight_mm
 	- Int: +5
 	- Wis: +13
 	- Cha: +14
+- **Items**:
+	- He is the Sion of [[Orcus]] so he gets the wand

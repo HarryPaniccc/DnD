@@ -19,7 +19,7 @@
   "anuppuccin-theme-settings@@anp-disable-newtab-align": false,
   "anuppuccin-theme-settings@@anp-bg-fix": false,
   "anuppuccin-theme-settings@@anp-hide-borders": false,
-  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
   "sanctum@@color-accent-rgb-d": "243, 189, 79",
   "sanctum@@active-line-accent": "var(--background-hover)",
   "sanctum@@aside-border": false,

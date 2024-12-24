@@ -17,6 +17,8 @@ Isilme is a late twenties half elf of light skin and long flowing deep black hai
 Isilme wears a longsword of deep gray and flakes of obsidian with her at all times, known as the [[Blade of Despair]]. In battle Isilme wears dark heavy plate armor with sharp adamantine modifications and a standard that acts almost as a battle dress. Her helmet conceals her entire face and her black braided hair can be seen trailing out of the back of it.
 
 Isilme's eyes were blue before [[Smudge]] joined her. After the night that [[Castle Anavar]] fell, they turned purple. Otherwise, her hair and feature bare a very strong resemblance to [[Ulrandir Vanariel]].
+
+After undergoing an [[Einzberns|Einzbern]] transformation process in which she became a [[Dhampir]], Isilme's eyes turned bright red and her hair shone a beautiful silver white. Her fingernails extended into claws and her canines sharpened into Vampire fangs.
 ## Personality
 # Biography
 ---
@@ -24,8 +26,8 @@ Isilme's eyes were blue before [[Smudge]] joined her. After the night that [[Cas
 Isilme was raised in the guards quarters of [[Castle Anavar]] in the city center of [[Dularen]]. She is the bastard child of two families: Her mother is the child of [[House Vanariel]] of the [[Uldronos Council]], whose father once sat on the council. Her father was the lieutenant of the guard of the house and formed a romantic relationship with Isilme's mother. When the pregnancy was discovered by [[Ulrandir Vanariel|Ulrandir]], Isilme's grandfather, Isilme's father disappeared from Dularen and was not seen again. 
 
 Isilme was raised in the ranks of the guards, her mother was unable to either part with her completely, but she was unable to provide her any love either. [[Minra Vanariel|Minra]], Isilme's mother, learned to eventually ignore her feelings for Isilme, and grew colder as Isilme grew older, but never really managed to let Isilme go. Minra later remarried a high elf baron in an arranged marriage, created by Ulrandir, and had another child.
-
-## Campaign One: Vanguard
+## Sirkonos
+She joined the [[Vanguard]]
 # Character Information
 ---
 ## Quests

@@ -4,129 +4,160 @@
     "type": "split",
     "children": [
       {
-        "id": "745e293b6b6b2d1a",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 51.385927505330486,
         "children": [
           {
-            "id": "3062ac46bd8eabe2",
+            "id": "a906a9239f57b8a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "Session Notes/Session 80 - A Flame Rekindled.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43fd1749389436ac",
+            "id": "f64f353f242a0a93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
+                "file": "Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b45faf6b970b357",
+            "id": "52b2c28764d16899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "Session Notes/Session 81 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83974515802cd5af",
+            "id": "131da596613f77a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPC Template.md",
+                "file": "World of Helodaria/Diredahl.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c79617a258337ca8",
+            "id": "d37ae4e66df1bff5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gunslinger Fighter Archetype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "788def3f3f4a865b",
-        "type": "tabs",
-        "dimension": 48.61407249466951,
-        "children": [
-          {
-            "id": "2174c6caf1ae23bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Zitrumean Empire.md",
+                "file": "World of Helodaria/Keldmire.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d833595379e745e2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "48c3d1d5349cf243",
+            "id": "8eacf08502a311df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Helodarian Firearms.md",
+                "file": "World of Helodaria/Einzbern Hold.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6c276fe369ea62f",
+            "id": "94eb376031daeb8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Republic of Ruina.md",
+                "file": "World of Helodaria/Dularen.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "93c248d71fc56c3b",
+            "id": "8f58b48c76b7c1d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Eranulaid.md",
+                "file": "World of Helodaria/Grave Nest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2593a9e0ca5ff5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Syr Renslayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c46a7c4c48ec041c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f423fa5f7b41eb62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battalion of the Silver Arrow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5122359d5a8a6a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Grave Nest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec9a6a72656602b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Dularen.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,15 +170,112 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "933eeb5077ecb311",
+    "id": "bc75c9838123f3d0",
     "type": "mobile-drawer",
-    "children": [],
+    "children": [
+      {
+        "id": "354f0c172c5617e3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "48f5b8ad6a9695c3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb7320dd5d7cfa96",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9b54bf18d550c848",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "70df2e8ff3bd35d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
     "currentTab": 0
   },
   "right": {
-    "id": "2eee48ee9896a64b",
+    "id": "f3e39c093264a20d",
     "type": "mobile-drawer",
-    "children": [],
+    "children": [
+      {
+        "id": "7d63aa4127ae3512",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Session Notes/Session 81 -.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bd0022aed630b3d1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Session Notes/Session 81 -.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "12a3ccadcc0eee24",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Session Notes/Session 81 -.md"
+          }
+        }
+      }
+    ],
     "currentTab": 0
   },
   "left-ribbon": {
@@ -162,34 +290,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "48c3d1d5349cf243",
+  "active": "52b2c28764d16899",
   "lastOpenFiles": [
-    "Desseran.md",
-    "World of Helodaria/Helodaria.md",
-    "Whispers of Orlane.md",
-    "Gunslinger Fighter Archetype.md",
-    "Templates/NPC Template.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Republic of Ruina.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Zitrumean Empire.md",
-    "Helodarian Firearms.md",
-    "Wooden Fang.md",
-    "World of Helodaria/Kingdom of Sirkonos.md",
-    "World of Helodaria/Athelstan.md",
-    "Session 80 -.md",
-    "Gilded Resolution.md",
-    "The Wooden Fang.md",
-    "Athelstan.md",
-    "Woden Fang.md",
-    "Mutagen.md",
-    "Woed.md",
+    "World of Helodaria/Dularen.md",
+    "Vanguard Campaign Journal.md",
+    "Items/Hearthstone.md",
+    "World of Helodaria/Grave Nest.md",
+    "Dun Murroc.md",
+    "Battalion of the Silver Arrow.md",
+    "World of Helodaria/Sabien.md",
+    "Session Notes/Session 80 - A Flame Rekindled.md",
     "Session Notes/Session 79 - Divisions Form.md",
-    "World of Helodaria/Einzbern Hold.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Item Pricing + Crafting.md",
+    "World of Helodaria/Wooden Fang.md",
+    "Frost Brand.md",
+    "World of Helodaria/Gilded Resolution.md",
+    "Items/Scrying Eye.md",
+    "Byron Honeystone.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "World of Helodaria/Helodaria.md",
+    "Session Notes/Session 81 -.md",
+    "World of Helodaria/Diredahl.md",
     "World of Helodaria/Keldmire.md",
-    "World of Helodaria/Einzberns.md",
-    "Session Notes/Session 79 -.md",
+    "World of Helodaria/Kingdom of Sirkonos.md",
+    "World of Helodaria/Syr Renslayer.md",
+    "Items/Anathema.md",
+    "World of Helodaria/Einzbern Hold.md",
+    "Dick Pemberton.md",
     "Junk.pdf"
   ]
 }

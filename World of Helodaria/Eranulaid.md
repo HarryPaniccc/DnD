@@ -8,8 +8,8 @@ Eranulaid is the northmost continent of [[Helodaria]]. The east of the continent
 ## The [[Republic of Ruina]]
 ## The [[Kingdom of Sirkonos]]
 ## [[Ralengrad]]
-## The [[Free Shores of Eranulaid]]
-- [[Desseran]]
+## [[Desseran]]
+## Other
 - [[Kyral]]
 # Geography
 >[!To do]
@@ -24,6 +24,10 @@ Eranulaid is the northmost continent of [[Helodaria]]. The east of the continent
 - [[Basilisk Island]]
 
 # History
+Eranulaid once had many civilisations across it that had good relations to the gods and powerful magic users. At some point in its history Avatars of [[Ilmater]], [[Bahamut]], [[The Raven Queen]], and [[Lathander]] held some kind of power over an ancient empire.
+
+The oldest cities on Eranulaid are [[Desseran]], [[Diredahl]], what was once [[Maithor]]
+
 ## The [[Empire of Thay]]
-## The Sundering
+## The Sundering of Thay
 ## [[The Fall]]

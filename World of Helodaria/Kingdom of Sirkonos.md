@@ -42,9 +42,9 @@ The large stretch of wilderness that curves below and into the foothills of the 
 ### The Crown
 The Sirkonian royal line is represented by deep purples and blues, rules from castle [[Leerehalt]], and bares the symbol of two dragons facing apart from one another with their mouths open. The royal lineage has their founding in the fall, where [[King Sirkon]] the first defended the ancient city of [[Diredahl]] from the hordes of [[Malar]] from the position of [[Don Murroc]], the Great Spire of the West.
 ## Military
+[[Kronesguard]] and its armies
 ## Religion
-
-
+[[Ilmater]] and [[Lathander]] are worshipped a lot
 
 ---
 #TODO 

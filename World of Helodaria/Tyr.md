@@ -2,7 +2,7 @@
 tags:
   - Lore
 ---
-The deity Tyr is a God of justice, law, and warfare in the face of defence of civilisation and justice. They are worshipped by those who wish for stability and strength of the civilisation around them, as well as by judges and lawmen. Tyr is a symbol of truth and righteous strength. They are the sworn enemy of [[Gruumsh]], as Gruumsh embodies lawless barbarism.
+The deity Tyr is a God of justice, law, and warfare in the face of defence of civilisation. They are worshipped by those who wish for stability and strength of the civilisation around them, as well as by judges and lawmen. Tyr is a symbol of truth and righteous strength. They are the sworn enemy of [[Gruumsh]], as Gruumsh embodies lawless barbarism.
 # Details
 ---
 Tyr's followers devote themselves to the cause of justice, to the righting of wrongs and the deliverance of vengeance. Those who favor Tyr tend to be stiff-necked about matters of theology and laws, seeing things in terms of black and white. Tyr's credo of lawfulness and honesty is a demanding one, and their priests remind the faithful not to hold in contempt others who can't live by it—it wouldn't be an honorable calling if everyone could muster the strength of will to follow it.

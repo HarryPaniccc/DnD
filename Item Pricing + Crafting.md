@@ -20,7 +20,7 @@ Item values need to be somewhat more consistent.
 - 50 Gp per **WORK WEEK** (5 days) in Xanathar's, which is nonsense I think. Crafting cost is half selling cost, so if a sword sells for 200 Gp, it takes 2 days to craft
 - Xanathar's has a magic item ingredients table: Item rarity connected to component CR
 	- Therefore a behir pearl can make a RARE item as it is CR 11
-- Theres also a brewing potion of healing section in Xanathar's
+- There's also a brewing potion of healing section in Xanathar's
 
 | Rarity    | Character Level | Value           |
 | --------- | --------------- | --------------- |

@@ -1,4 +1,3 @@
-**GENERAL NOTES**
 - 813 PF, Banahras
 - General happenings
 - Etc

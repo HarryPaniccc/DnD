@@ -1,4 +1,5 @@
 The deity dragon Bahamut is the God of good and metallic dragons. It is theorised that there are silver dragons in existence who bear direct lineage to the dragon god. He is the sworn enemy of his sister [[Tiamat]], as they have been at each other's throats since the beginning of history.
+> Bring down wrath on evil
 # Details
 ---
 ## Titles

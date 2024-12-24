@@ -5,31 +5,47 @@ The deities of [[Helodaria]] are extremely powerful entities, worshipped by larg
 
 Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed away or banished from the [[Material Plane]] imposed upon themselves an exile, in which their true forms were not able to return to the Materium for the safety of the celestial order. The gods now reside in their homes, and prisons, in the outer planes, and other locations in the [[Multiverse]].
 # The [[Founding Gods]]
-The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are simply replaceable to them, usually.
+---
+The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are usually replaceable to them.
 ## The [[Creation Gods]]
-- [[Tyr]], The Great Balancer (LG)
-- [[Bahamut]], The Platinum Dragon (LG)
-- [[Ilmater]], The Calloused Hands (NG)
-- [[Feylan]], Verdant Mother (N)
-- [[Centuria]], Holder of the Azure (CG)
-- [[Moradin]], The All Hammer (LG)
-- [[Sehanine]], The Moon Heart (NG)
-- [[Umberlee]], The Storm Weaver(CN)
-- [[The Raven Queen]] (N)
-- [[Corellon]], First Speaker (NG)
-- [[Lathander]], the Lord of Dawn (LG)
+| Name                                  | Portfolio                          | Symbol                                      | Domains                       |
+| ------------------------------------- | ---------------------------------- | ------------------------------------------- | ----------------------------- |
+| **[[Bahamut]]**, The Platinum Dragon  | Good and Righteousness             | Dragon's Head in Profile                    | War                           |
+| **[[Centuria]]**, Holder of the Azure | Freedom, Luck and Stories          | A mask with solar flares for hair           | Knowledge, Light Twilight     |
+| **[[Corellon]]**, The First Singer    | Magic, Art and Elves               | Crescent moon facing upwards holding a star | Arcana, Knowledge             |
+| **[[Feylan]]**, The Verdant Mother    | Nature, Animals and the Wilderness |                                             | Life, Nature, Tempest         |
+| **[[Ilmater]]**, The Calloused Hands  | Endurance, Hardship, and Sacrifice | Hands bound in red twine                    | Life,                         |
+| **[[Lathander]]**,  The Lord of Dawn  | The Sun, Healing, Beginnings       | The sun, sometimes rising over a field      | Life, Light                   |
+| **[[Moradin]]**, The All Hammer       | Craft, Creation, Work and Dwarves  | An anvil and hammer                         | Knowledge, Forge              |
+| **[[Sehanine]]**, The Moonsong        | The Moon, Dreams and Travel        |                                             | Knowledge, Trickery, Twilight |
+| **[[The Raven Queen]]**               | Death and Fate                     |                                             | Death, Grave                  |
+| **[[Tyr]]**, The Lawbearer            | Justice, Law and Civilisation      | A double sided halberd holding a scale      | Order, War                    |
+| [[Umberlee]], The Stormweaver         | The Sea and Storms                 |                                             | Tempest, Nature               |
+- [[Bahamut]], The Platinum Dragon - God of Good and Justice. (LG)
+- [[Centuria]], Holder of the Azure - Goddess of Freedom, Luck and Stories. (CG)
+- [[Corellon]], The First Singer - God of Magic, Art and the Elves. (NG)
+- [[Feylan]], Verdant Mother - Goddess of Nature, Animals and the Wilderness. (N)
+- [[Ilmater]], The Calloused Hands - God of Strength, Hardship, and Sacrifice. (LG)
+- [[Lathander]], the Lord of Dawn - God of the Sun, Healing and Beginnings. (LG)
+- [[Moradin]], The All Hammer - God of Craft, Creation and Work. (LG)
+- [[Sehanine]], The Moon Heart - Goddess of the Moon and Dreams. (NG)
+- [[The Raven Queen]] - Goddess of Death and Fate. (LN)
+- [[Tyr]], The Lawbearer - God of Law and Civilisation (LN)
+- [[Umberlee]], The Storm Weaver (CN)
 ## The [[Destroyer Gods]]
-- [[Asmodeus]], Lord of the Ninth (LE)
-- [[Tiamat]], the Five Hungers (CE)
-- [[Vecna]], Hoarder of Secrets (NE)
-- [[Gruumsh]], the Slayer (CE)
-- [[Lolth]], the Spider Queen (NE)
-- [[Tharizdun]], Void Eternal (No Alignment)
-- [[Malar]], Lord of Slaughter (CE)
-- [[Das Moge]], Betrayal's Muse (No Alignment) (might be deleted, dont interact with this guy)
+- [[Asmodeus]], The Lord of the Damned - God of Tyranny, Power and Lies. (LE)
+- [[Gruumsh]], The Ruiner - God of Hordes, War and Ruin. (CE)
+- [[Lolth]], the Spider Queen - Goddess of Manipulation, Betrayal and Torture. (NE)
+- [[Malar]], Lord of Slaughter - God of Bloodlust, Cruelty and Slaughter. (CE)
+- [[Tharizdun]], Void Eternal - God of Madness and the Depths. (CE)
+- [[Tiamat]], the Five Hungers - God of Greed, Destruction and Dragonkind. (CE)
+
+- [[Das Moge]], Betrayal's Muse (No Alignment)
 # Other Gods
-- [[Ioun]], the Mistress of Sight (NG)
-- [[Boldrei]], the Hearth Maker
+---
+- [[Vecna]], Hoarder of Secrets (NE)
+- [[Ioun]], the Mistress of Sight - Goddess of Knowledge, Prophecy and Skill. (NG)
+- [[Boldrei]], the Hearth Maker - Goddess of Community and Kindness. (LG)
 - [[Mystra]], the Lady of the Weave
 ## Gods to add?
 - Cyrric, prince of the dark sun
@@ -38,25 +54,12 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 ## Archdevils
 Archdevils, or the Lords of the Nine Hells, are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
 ## Demon Lords
-
+- [[Orcus]], the Blood Lord
+- 
 ## Archfey
 - [[Athelstan]], the Bloodfey
 ## Celestials
 - [[Aerondite]], Saint of the Dawn
-### Details
-| Name                                 | Deity of                                              | Symbol                                                                | Domains             |
-| ------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------------- | ------------------- |
-| Tyr, Wielder of Justice              | Balance, Justice, Law, Civilisation                   | A Scale held up by a double sided halberd                             | War, Light, Order   |
-| Bahumat, The Platinum Dragon         | Righteousness, Good, Lawful Stupid                    | The Visage of A Dragon, a Dragon's Talon                              | Light, Life         |
-| Ilmater, The Calloused Hands         | Self Sacrifice, Improvement, Endurance, Strength      | Right hand gripping a knife at the blade                              | Light               |
-| Feylan, the Verdant Mistress         | Fertility, Nature and Animals                         | A butterfly with wings of clear water surrounded by a circle of wheat | Nature, Life        |
-| Centuria, Holder of the Azure        | Stars, Shared Knowledge, Freedom                      | A mask with solar flair shaped hair flowing out from under it         | Twilight, Knowledge |
-| Moradin, Allhammer                   | Community, Creation, Dwarves                          | A Hammer and Anvil                                                    | Forge               |
-| Sehanine, the Moon Heart             | Elven goddess of the moon, compassion, and expression | A crescent moon                                                       | Twilight, Trickery  |
-| Umberlee, Stormweaver                | Goddess of the sea and storms                         | An eye surrounded by a maelstrom                                      | Tempest, Nature     |
-| Raven Queen, Matron of Death         | Goddess of Fate, Life and Natural Death               | Raven related images, usually a ravens head in profile facing left    | Death, Grave        |
-| Corellon, Maker of the First Peoples | Elves and arcane magic                                | Star                                                                  | Light, Arcane       |
-| Lathander, the Lord of Radiance      | The Sun, Dawn and Renewal                             | A sun rising over a valley or field                                   | Light, Life         |
 ### Details
 | Name                       | Deity of                                    | Symbol                                                                               | Domains          |
 | -------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |

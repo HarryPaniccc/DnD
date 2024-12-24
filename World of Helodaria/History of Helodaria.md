@@ -1,7 +1,7 @@
 ---
 tags: Lore
 ---
-### Shitty summarys
+### Shitty summary
 Before times (aboleth empire) > early deities and primal relics and formation of the planes > early civilisation in a changing multiverse > book of souls calamity > the unknowable age > gods are born > the planes settle > races are reforged > age of celestials > gods are killed/sealed away/victorious > young gods are born from the mythical natures present (Raven Queen/Centuria/Vecna attempts ascension) > current era
 
 #TODO Read all this shit
@@ -17,15 +17,15 @@ When the [[Deities of Helodaria]] arrived in the material plane, the aboleths we
 The Gods, forms of power and ambition that saw the toiling chaos of the realms as inspiration and potential for beauty and expression, found themselves within the interplanar space that was yet to be Helodaria. This is the beginning of history, and the true start to the world of Helodaria. The first age, the first day, had arrived. 
 
 Primordial elemental chaos was all there was where the Material now is. The four prime elemental planes had begun their convergence, in a great display of pure chaos and entropy. The Gods saw this as beauty, as potential, and began to enforce their own wills upon the unformed multiverse, halting the elemental convergence, and creating the [[Material Plane]] where the four [[Elemental Planes]] had started to intersect, sectioning the Materium away from the elemental chaos, and enforcing a great order over the multiverse.
-## The Dawn War
-As the gods enforced their wills over Helodaria, the primordial elements responded with its own will. Great titans, [[Primordials]], manifesting as fundamental concepts of the universe rose up and resisted the wills of the gods. The titans waged war on the creations of the gods, and the gods waged war on the titans.
 
+For a time the Gods' creations flourished. They wove and forged and sang the first peoples into existence, and those people looked up at their creators and worshipped them. The magic and name of the Weave of magic was born, and it was felt and woven and tangled by the peoples of Helodaria to master their surroundings, in conjunction with the divine gifts of their creators.
+## [[The Dawn War]]
+During this age before ages, the great elemental [[Primordials]] made themselves known to be the enemies of the gods and their creations. As the realms were under creation, the Primordials of fundamental concepts grew wrathful, and unleashed terrible destruction on the young peoples of Helodaria: Shattering their forms, setting forth unknowable cosmic powers, and calling upon the chaos of the [[Abyss]] to feed upon the children of the Gods. 
 
-> To Edit
->The Gods rose mountains and split ways for rivers. They moved the moons where they needed to be to allow for the tides and lit the sun for all to feel its warmth. The gods of evil and chaos discovered the [[Nine Hells]] and birthed the [[Abyss]] from their dreams. With their innovation the races were born, the Dwarves forged by [[Moradin]], the Elves were birthed and sung into existence by [[Corellon]] as things of beauty and the first annuls of history sprouted. Nations, culture and life thrived, and so, as did death, war and discord.   
-
-Magic, divine and arcane, was a gift from the gods in the form of lessons. Temples were constructed, wars were waged and, eventually, empires were formed, and the worlds and planes truly settled once again. Some would use these powers to enact the age of ascension. Others would see their newfound gifts as evidence that they were the new Gods of the world, and would attempt to rule over mortals like tyrants.  
+The Gods waged great war on the elemental titans, whose very power had gained a collective of worshipping of various beings from across the planes. In this time, true evil found its way into the hearts of mortals for the first time. The violent ambition that the Gods could fall to ruin. That the creators could be undone. [[The Dawn War]] saw death and destruction shatter the multiverse. The conflict of the Primordials and the Gods shook the very cosmos, and even after it was won, the destruction that it had wrought could be felt across the planes.
 ## The Age of Ascension
+Magic, divine and arcane, was a gift from the gods in the form of lessons. Temples were constructed, wars were waged and, eventually, empires were formed, and the worlds and planes truly settled once again. Some would use these powers to enact the age of ascension. Others would see their newfound gifts as evidence that they were the new Gods of the world, and would attempt to rule over mortals like tyrants.
+
 With the races having founded their homesteads and grasped their magics, empires grew and fell. Dwarves forged great underground fortresses, filled with treasure, monetary and arcane. Elves came into their magical attunement and wove great cities from the landscape itself, and humanity founded empires that grew and conquered. Kingdoms were forged throughout the world with materials terrestrial and foreign to the plane, and the material plane grew to the height of its power.
 
 The Gods sanctified their power and worship through feats and creations, aiding in the construction of grand monuments and giving guidance to those who headed their first, greatest temples. Technology and magic was becoming more powerful, to the point where weapons were made that let those without the spark of the arcane in their blood challenge even the most powerful sorcerers.

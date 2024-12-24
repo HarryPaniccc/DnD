@@ -2,6 +2,8 @@
 tags:
   - Lore
 ---
+*The Raven Queen's true name is Nerava(?)*
+
 The Raven Queen is one of the deities in the pantheon of the [[Founding Gods]]. She is the God of death and Fate, her domain encompasses those whose lives are ending or have come to an end, and she is the patron to those who would seek to destroy undead creatures. 
 # Details
 ---
@@ -36,7 +38,7 @@ Her symbol is a raven's head in profile.
 ### Eranulaid
 The [[Grave Nest]] in [[Dularen]] of the [[Republic of Ruina]] is one of the largest
 ## Orders and Factions
-### Order
+### [[Deathwatch]]
 
 ## Known Worshippers
 - [[Caede]]

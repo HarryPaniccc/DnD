@@ -1,0 +1,361 @@
+{
+  "main": {
+    "id": "e3ca7fd74647b9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad403f483996d6ec",
+        "type": "tabs",
+        "dimension": 44.77491961414791,
+        "children": [
+          {
+            "id": "a906a9239f57b8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 79 - Divisions Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "064a039e290a8917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 80 - Separate Ways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "496c6a4641eaf04b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "745e293b6b6b2d1a",
+        "type": "tabs",
+        "dimension": 55.22508038585209,
+        "children": [
+          {
+            "id": "131da596613f77a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eacf08502a311df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Einzbern Hold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84838bb556769568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Anathema.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9cc07a656f3774f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Vessel of Avarice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4458039178e58d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Ilmater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7ebda78c129d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca0f1d486588d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b2a6831c271b3d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee81b9515bf62e4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "990cb2f371a0b860",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "ea35a9a317969db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ece3774c37e9648",
+        "type": "tabs",
+        "dimension": 29.223300970873787,
+        "children": [
+          {
+            "id": "4cb96e6d4287e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World of Helodaria/Vessel of Avarice.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World of Helodaria/Vessel of Avarice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfa8baabc6155b2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World of Helodaria/Vessel of Avarice.md"
+              }
+            }
+          },
+          {
+            "id": "c21e89a76f4631bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "92400877833113eb",
+        "type": "tabs",
+        "dimension": 70.7766990291262,
+        "children": [
+          {
+            "id": "bf82f9f28d38c15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guidelines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "b9cc07a656f3774f",
+  "lastOpenFiles": [
+    "World of Helodaria/Ilmater.md",
+    "World of Helodaria/Vessel of Avarice.md",
+    "Session Notes/Session 80 - Separate Ways.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/~syncthing~Deities of Helodaria.md.tmp",
+    "World of Helodaria/Tyr.md",
+    "World of Helodaria/History of Helodaria.md",
+    "World of Helodaria/Bahamut.md",
+    "World of Helodaria/The Raven Queen.md",
+    "World of Helodaria/Helodaria.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Eranulaid.md",
+    "Items/Anathema.md",
+    "World of Helodaria/Asmodeus.md",
+    "Gunslinger Fighter Archetype.md",
+    "Helodarian Firearms.md",
+    "World of Helodaria/Aramis Terelon.md",
+    "World of Helodaria/Ashen Legion.md",
+    "World of Helodaria/Battle of Splitmount.md",
+    "World of Helodaria/Ashen Peaks.md",
+    "Items/Supple Brigandine of the Sentinel.md",
+    "World of Helodaria/Sehanine.md",
+    "World of Helodaria/Cathedral of the Bahumat.md",
+    "Templates/Deity Template.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/Vasspryg.md",
+    "Vanguard Campaign Journal.md",
+    "Ceaseless Arc Planning.canvas",
+    "Attachments/Pasted image 20240805150416.png",
+    "Books and Other PDFs/Flee, Mortals!.pdf",
+    "Junk.pdf",
+    "Ceaseless Arc.canvas",
+    "Attachments/Pasted image 20240724182922.png",
+    "Attachments/Session 76 -.pdf",
+    "Attachments/Suc(In)cubus Willbreaker.pdf",
+    "Untitled",
+    "Attachments/Pasted image 20240121113005.png",
+    "Attachments/Pasted Image 20240106212953_129.png",
+    "Attachments/Pasted image 20231217153118.png",
+    "Attachments/Pasted Image 20231212184614_693.png",
+    "Attachments/Pasted image 20231231094810.png",
+    "Attachments",
+    "Attachments/Pasted Image 20231212190832_254.png",
+    "Excalidraw",
+    "Statblocks",
+    "Items"
+  ]
+}

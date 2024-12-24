@@ -28,8 +28,8 @@ When Erin's form is destroyed, his spirit will be thrust out of his body until t
 
 - Arthur trusts neither Tevis or Jarren truly after the betrayal. He only truly trusts Kanan the most due to his lineage, his commitment to the Sirkonians, and his unwavering determination and focus.
 ### The Knights of the Rose
-The moment that Lucius was defeated, King Sirkon sent forth [[Syr Renslayer]] and his knights of the rose to support the battalion of the silver arrow in Strahldale. The Order rode in on wyvern and griffon back. The riders carried two troops each. Renslayer rode in on the Adult Red Dragon Falschritter - he is affected by permanent **Nystul's Magic Aura** and a **Seeming** spell (Sirkon's DC is 25 as of casting the spell).
-- Renslayer is affected by a permanent **Nystul's Magic Aura**, the mask makes him appear as living
+The moment that Lucius was defeated, King Sirkon sent forth [[Syr Renslayer]] and his knights of the rose to support the battalion of the silver arrow in Strahldale. The Order rode in on wyvern and griffon back. The riders carried two troops each. Renslayer rode in on the Adult Red Dragon [[Chiaross]] - he is affected by permanent **Nystul's Magic Aura** and a **Seeming** spell (Sirkon's DC is 25 as of casting the spell).
+- Renslayer is affected by a permanent *Nystul's Magic Aura*, the mask makes him appear as living
 ### Loot
 **Lucius' Equipment**
 - [[Spear of Damnation]]
