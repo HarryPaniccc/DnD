@@ -4,6 +4,7 @@ tags:
 ---
 # To do list
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people
+- [ ] NPCs of importance to the vanguard
 - [ ] Caede's Necromantia contents
 - [ ] Magic Item Shops and inventory
 	- [ ] Thri-Kreen shop run in [[Brocia]]
@@ -79,4 +80,5 @@ Sirkon once wielded the [[Heart of the Abyss]], using it to command the forces o
 - [[Zakuul]]
 	- Retrieve what lies within the [[City of the Glass Moon]]
 - [[Ulrandir Vanariel]]
-- 
+- [[General Isaac]]
+- [[Dagon]]

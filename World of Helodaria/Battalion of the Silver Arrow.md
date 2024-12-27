@@ -1,5 +1,6 @@
 ---
 tags:
+  - Lore
 ---
 - [[Kronesguard]]
 ---
@@ -13,3 +14,4 @@ The Battalion of the Silver Arrow is an army within the [[Kronesguard]] of the [
 # Notable Members
 - [[Syr Emelia Richstrahd]]
 - [[Captain Garnir]]
+- [[Ranger Oliver]]

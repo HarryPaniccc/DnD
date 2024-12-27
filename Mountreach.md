@@ -3,7 +3,7 @@ tags:
   - Settlement
 ---
 # Description
-The prime dwarven settlement in Ruina, Mountreach is a massive stronghold that has been built into a mountain 
+The prime dwarven settlement in the [[Republic of Ruina]], Mountreach is a massive stronghold that has been built into a mountain.
 # History
 
 # Notable Factions and Characters
@@ -16,47 +16,21 @@ The defenders of Mountreach are called the Pauldron Guard. They consist of heavi
 # Locations
 The Arches, The Crest, Grindstone Sanctum, Inner Walls and The Darkbarrows are the main sections to Mountreach.  
 ## The Arches
-The Arches encompass the entrance area as well as surrounding corridors in the mountain.
+The Arches encompass the entrance area as well as surrounding corridors in the mountain. A twisting network of external passageways and roads that surround the city itself, they are generally on a higher level than the rest of the city.
 ### Locations
 
 ## The Crest
-The Crest is the large central city area. 
+The Crest is the large central city area. The majority of the city is located within the crest. It is a multi-levelled multi street maze of a cityscape that has all kinds of dwarven life. Stone structures and various bridges and raised areas, various large crystals keep the place illuminated in a warm, gentle, sun-like glow.
 ### Locations
 - **Brittlewear Blacksmith** is owned by Ganir Brittlewear, Bald with thick red beard and a small nose, Sounds like Zavala with Swedish/scottish
 - **Hagmire Tavern** Run by [[Amber Hagmire]], a Sirkonian heritage dwarf with amber eyes and a deeper skin tone. Sounds like Pike/Ashley Johnston
 - **Stonebed Inn** is a large inn with an interior of warm woods and a second floor accommodation. Run by
 - **Torbed Horn** Contested with Hearty Rind. [[Jorn Torbren]] is the owner. It is a stone built Pub with intricate pipes built connected to various barrels in the basement.
 - **Hearty Rind** Contested with Torbed Horn. [[Wilhelm Heartgrinder]] is the owner. It is a Wooden built pub kinda like in Eichenwalde
+- The [[Mountreach Heart-Kiln]]
 ## Grindstone Sanctum and the Inner Walls
-Grindstone Sanctum makes up the large fortress that overlooks the city and the inner walls refer to the old structure to the east that leads deeper in the mountain that is a military defence position.
+Grindstone Sanctum makes up the large fortress that overlooks the city and the inner walls refer to the old structure to the east that leads deeper in the mountain that is a military defence position. Large sort of fortress to the north of the entrance. All stone and surrounded by heavily armoured dwarves
 ## The Darkbarrows
 The Darkbarrows are the deeper ruins above which the city is built, the surviving remnants from [[The Fall]]. 
 ### Locations
 - [[Jarren Ward]]'s stash is located some distance into the Darkbarrows of Mountreach
-  
-
-The Arches
-
-A twisting of external passageways and roads that surround the city itself, they are generally on a higher level than the rest of the city.
-
-  
-
-The Crest
-
-The majority of the city is located within the crest. It is a multi levelled multi street maze of a cityscape that has all kinds of dwarven life. Stone structures and various bridges and raised areas, various large crystals keep the place illuminated in a warm sun-like glow.
-
-  
-
-HEART-KILN is in the middle of the crest
-
-  
-
-Grindstone Sanctum
-
-Large sort of fortress to the north of the entrance. All stone and surrounded by heavily armoured dwarves
-
-  
-
-Inner Walls
-
-The direction to take if you need to go to Jarren’s stash or deeper into the ancient ruins.

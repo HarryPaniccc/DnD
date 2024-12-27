@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "-path:Attachments -path:Statblocks -path:Excalidraw -path:templa",
-  "showTags": false,
+  "search": "-path:Excalidraw -path:Statblocks -path:Templates  ",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:Items  ",
+      "query": "path:Items",
       "color": {
         "a": 1,
         "rgb": 11752160
@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#Lore",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
     }
   ],
   "collapse-display": true,
@@ -68,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 132,
   "scale": 0.20165450871731927,
-  "close": true
+  "close": false
 }

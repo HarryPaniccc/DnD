@@ -4,7 +4,7 @@
 
 ### List of Loose Ends
 - Pay the [[Ashen Legion]]
-- [[Lord Drakkus]] is living in [[Trayfort Keep]]
+- [[Count Drakus]] is living in [[Trayfort Keep]]
 - [[Elizabeth Einzbern]]
 ### Tevis and his brother
 [[Tevis Einzbern]] wants Kanan to have his identity, to relate to people, to be kind, to be at peace, to be heal from the wounds of the time before.
@@ -20,7 +20,7 @@ The [[Ashen Legion]] has had soldiers positioned at [[Trayfort Keep]]. There are
 - [[Captain Reva Minsta]] is in charge of the other four
 	- Half elf bow woman of middle stature. Does things by the book. American accent
 
-[[Lord Drakkus]] has been staying in the Dripping Barrel inn in Dularen. He has left word with Captain Reva that that is where he can be found.
+[[Count Drakus]] has been staying in the Dripping Barrel inn in Dularen. He has left word with Captain Reva that that is where he can be found.
 
 **Lord [[Alfred Gundrei]]** will be informed of their arrival after a few hours
 ### Isilme's Dhampir Ritual

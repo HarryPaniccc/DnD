@@ -18,3 +18,11 @@ The Vanguard have their permanent stronghold in [[Trayfort Keep]] in the Outer-c
 ## Former Members
 - [[Balthazar Cassander]]
 - [[Dorax]]
+# Allies/NPCs list
+## General
+- [[Alfred Gundrei]]
+- [[Prince Artorius Sirkon]]
+## Silb
+- [[Brindor Shieldwall]]
+## Kanan
+- [[Tevis Einzbern]]

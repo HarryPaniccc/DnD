@@ -16,6 +16,7 @@ The Outer-City fields is the name of the region south of the city. The richest o
 - [[Alfred Gundrei]]
 - [[Lorgar Thell]]
 - [[Veylan Glovir]]
+- [[Brindor Shieldwall]]
 # Locations
 ## Outer-City Fields
 ### Locations
@@ -90,5 +91,4 @@ NPCs
     
 - Hesmas is a minotaur that offers his strength to Gilligan as a live force of defence. He has a Pylean Accent, and doesn't leave the bar much because of the stereotypes of his race
     
-- Brindor Shieldwall Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent
-    
+- [[Brindor Shieldwall]] Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent

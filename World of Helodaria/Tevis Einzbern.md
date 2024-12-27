@@ -1,3 +1,8 @@
+---
+tags:
+  - Character
+---
+
 - Values family and close bonds
 - Annoyed when people don't listen to his warnings
 - Tevis is acquainted with [[Shrute]]
