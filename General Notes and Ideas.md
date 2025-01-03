@@ -3,6 +3,7 @@ tags:
   - Core
 ---
 # To do list
+- [ ] **ANATHEMA**
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people
 - [ ] NPCs of importance to the vanguard
 - [ ] Caede's Necromantia contents
@@ -15,7 +16,7 @@ tags:
 	- [ ] Desseran Regional Map
 	- [ ] Sirkonos
 - [ ] Bring all notes over
-	- [ ] Dularen
+	- [x] Dularen
 	- [ ] Characters
 		- [ ] Isilme
 		- [ ] Kanan
@@ -25,7 +26,6 @@ tags:
 		- [ ] Skye
 		- [ ] Adhara
 	- [ ] Session notes archive
-
 - [ ] Eranulaid Regions
 	- [ ] Desseran
 	- [ ] Kyral
@@ -53,7 +53,7 @@ tags:
 - Talking with no one
 - Kitsune fox totem
 - City of the glass moon
-- Check the soulbound party from [[Flee, Mortals!.pdf]]
+- Check the soul bound party from Flee, Mortals!.pdf
 # [[Zakuul]]
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Republic of Ruina|Ruina]]
@@ -68,7 +68,6 @@ Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceasele
 - [[Heart of the Abyss]] grew a labyrinthine dungeon around it where it was laid to rest.
 ## Arc Summary
 Sirkon once wielded the [[Heart of the Abyss]], using it to command the forces of demonic power into a unity. Should 
-
 - Zakuul needs to retrieve something in the city of the glass moon
 - Ulrandir is doing something idk
 - Renslayer acts as the Sion of [[Orcus]] commanding his forces in the Nightshade Peaks
@@ -76,7 +75,7 @@ Sirkon once wielded the [[Heart of the Abyss]], using it to command the forces o
 - [[King Sirkon]] - Desires the [[Heart of the Abyss]] and for [[Prince Artorius Sirkon]] to claim an eternal throne
 	- 
 - [[Syr Renslayer]] - Sion of [[Orcus]]
-	- Exterminate some threat north of [[Desseran]]
+	- Exterminate some threat to him north of [[Desseran]]
 - [[Zakuul]]
 	- Retrieve what lies within the [[City of the Glass Moon]]
 - [[Ulrandir Vanariel]]

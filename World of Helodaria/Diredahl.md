@@ -34,8 +34,8 @@ Small bridges and streams and wells populate the area and the sound of running w
 - **Fountainhead Plaza**. It is said that after the liberation of [[Dun Murroc]], the great fountain in this location flowed red with the blood of the demons that had been slayed by the first of the [[Kronesguard]], and the [[Battalion of the Red Fountain]] took its namesake from that symbol, the first of their captains dying their once white cloaks in the blood of the fountain.
 
 ## The Sun District
-The highest part of the city, one of the stories of how the Sun District got its name was about how the first generals of the [[Kronesguard]] would walk to the apex of the hill overlooking Diredahl and feel the rays of the first dawn that the city had felt for years after the liberation of [[Dun Murroc]]. This history of this legend is tied to the [[Kronesguard]] legion that is tasked with the defence of Diredahl, the [[Battalion of the Red Fountain]].
-- 
+The highest part of the city, one of the stories of how the Sun District got its name was about how the first generals of the [[Kronesguard]] would walk to the apex of the hill overlooking Diredahl and feel the rays of the first dawn that the city had felt for years after the liberation of [[Dun Murroc]]. This history of this legend is tied to the [[Kronesguard]] legion that is tasked with the defense of Diredahl, the [[Battalion of the Red Fountain]].
+- The **Twilight Manor** is a large, aristocratic inn with a large bath pool at the bottom featuring almost natural looking streams of hot water. The rooms are large suites with a separate sitting area.
 ## The Moon District
 
 ## The Labyrinth Below

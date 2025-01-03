@@ -17,9 +17,13 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Reforge [[Anathema]]
 - Await [[King Sirkon]]'s summons
 - Repair the [[Leviathan Axe]]
+## Things to know for downtime
+- SS Pair 1: Kanan-Artorias
+- SS Pair 2: Caede-Dusk
+- TP Helm: Caede
 # Arc 4: Sirkonos
 - 813 PF
-# Arc 5: Interlude
+# Arc 5: Downtime
 # Arc 6: King at the End of the World
 - 
 ## Sessions and Summaries

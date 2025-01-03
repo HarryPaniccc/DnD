@@ -1,5 +1,5 @@
 Anathema was the blade of [[Siegfried Einzbern]]. Once an adamantine weapon of exceptional quality, with history of forging in a great forge of [[Steinwalde]]. The weapon was once known as "Protector", but upon Siegfried's betrayal of the [[Kenifria|Kenifrian]] knights, the weapon began to erode away, and would be granted the name "Anathema". 
-# Anathema
+# Anathema - this has to change and soon
 *Weapon (Longsword), very rare (requires attunement)*
 Anathema is a cold iron and adamantine longsword, with wolf heads on the ends of the crossguard and pommel. Along the inside of the fuller of the blade, written in Dwarven Script, are the Celestial words "*finis coronat opus*".
 

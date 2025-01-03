@@ -10,9 +10,11 @@ Home of the Einzberns. The city is largely paved and well structured, a mish-mas
 
 - [[Heinrich Fibblethumb]]. Owner and runner of the Zwei Hunde. Gnome of long white hair usually in a bun, and a gentle beard. Caring and sometimes stern Sirkonian accent.
 - [[Shrute]]. Owner of Shrute’s Alchemy. Large slightly yellow-green firbolg. Deep and slow of tone, and is respected by many of the community
-- [[Markus Serezo]] - deceased. Think physicality of doomfist. Voice of a deeper J'zargo. He is an oni in disguise. He is currently acting as sheriff to Keldmire, keeping the profits of the town for himself and his goons. He always has a pair of Hollow Guardians with him. The form he wears gives the suspicion of an orc in its lineage, maybe two or three generations removed.
+- [[Markus Serezo]] (deceased). Think physicality of doomfist. Voice of a deeper J'zargo. He is an oni in disguise. He is currently acting as sheriff to Keldmire, keeping the profits of the town for himself and his goons. He always has a pair of Hollow Guardians with him. The form he wears gives the suspicion of an orc in its lineage, maybe two or three generations removed.
 - [[Rowan]]. Sheriff's Captain of the guard that protects Keldmire.
 - [[Doldrum son of Doldrum]] is a dwarf of deep orange hair who runs **Doldrum Carpentry**. Sounds like the "bless you" dwarf from that one meme.
+- [[Baron Owen Luthrand]]. Human aristocrat and father of [[Viscount Gale Luthrand]] and [[Baroness Leah Luthrand]]. Long but well kept black hair.
+- [[Baroness Leah Luthrand]]. Human aristocrat of deep brown almost black hair. Rather timid sister of [[Viscount Gale Luthrand]]
 # Locations
 - **The Marketplace**. Bustling as ever, the low-lying marketplace is half-covered in a roof of leaves from the oak trees that are found around it. At the centre of the city, this is where most people would have passed through when going through the town, so there are many inns and taverns laced throughout it.
 - **Die Zwei Hunde**. Low lying tavern run by [[Heinirich Fibblethumb]]. It has a bar and some upstairs rooms, as well as a secret underground hiding place hidden behind a large barrel by means of a complicated contraption in the walls.
