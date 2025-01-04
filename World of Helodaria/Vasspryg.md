@@ -47,6 +47,7 @@ The *Portsman’s district* is a smaller district where most industrial work is 
 - The **[[Ixalan Complex]]**. A tall skyscraper like building made of grey, marble like stone which is decorated by windows and sigils which act as a myriad of defences. There are many offset spires that fork out as you look further up. The exterior is surrounded by an artificial square pond with water that can be walked on. The complex acts as a base for the [[Imperial Arcanists]] , a guild who work under the empire and oversee the magical aspects of Ruina.
 - The **town hall.** A large, old building made up of stone and dark wood. This building houses the guard and is a base for all of the guard captains and the guard steward. The design is reminiscent of the other guard halls but much larger.
 - The [[Cathedral of the Bahumat]] looks like the Pantheon in France but with chairs for sermon. The walls are decorated with tapestries of the gods and with the history of the lawbearers. Outside there are always 2 lawbearers stationed at the entrance and there are more along the balconies
+- **Gravis Estate** is the home of [[Enthale Gravis]].
 ## Market District
 - The **Clock Tower** is a structure 20ft x 20ft about 10 meters high with one of the few clocks in Ruina, and a bell tower. It is kept working by time keeper [[Eluhou]]
 - The **Waking Giant** inn is owned by [[Fork]]. It is a comfortable inn that is essentially the enhanced sleeping giant from Skyrim

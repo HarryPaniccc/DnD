@@ -36,7 +36,9 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 - [[Ralengrad]]: Also the name of the city that surrounds the base of Ashfort.
 ### The [[Amberloch]]
 #TODO 
+- [[Mountreach]]: A mountain-city of the old Ruinan empire. Home to the largest population of dwarves in the republic.
 ### The [[Cresting Peaks]]
+- [[Hommlet]]: A small mining village in the foothills of the cresting peaks.
 - [[Ironspine Pass]]: A road that leads up the cresting peaks from a bit into the [[Dularen Forest]]. Somewhere along the pass there exists a tomb of paladins dedicated to [[Lathander]].
 
 #TODO 

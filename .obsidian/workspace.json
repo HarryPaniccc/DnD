@@ -22,63 +22,63 @@
             }
           },
           {
-            "id": "82f9e1f5fd314a5a",
+            "id": "2a80ab291799e745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "file": "Session Notes/Session 83 - The Trial of Silb Heft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kingdom of Sirkonos"
+              "title": "Session 83 - The Trial of Silb Heft"
             }
           },
           {
-            "id": "84838bb556769568",
+            "id": "00ed53529599c501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Anathema.md",
+                "file": "Hommlet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anathema"
+              "title": "Hommlet"
             }
           },
           {
-            "id": "0ab9e66bd4bc3e62",
+            "id": "f5372abe3334933e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Uldronos Council"
             }
           },
           {
-            "id": "22e020efed4695ed",
+            "id": "16142ee284ce6491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Keldmire.md",
+                "file": "Thordan Stormshield.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keldmire"
+              "title": "Thordan Stormshield"
             }
           },
           {
-            "id": "24e1d7f27f299fcb",
+            "id": "d2419aca918703c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,21 +92,59 @@
             }
           },
           {
-            "id": "1c999e819cbad4a2",
+            "id": "a6c18621a99e1594",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nightshade Peaks.md",
+                "file": "World of Helodaria/Mountreach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nightshade Peaks"
+              "title": "Mountreach"
+            }
+          },
+          {
+            "id": "38dab7541765daae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kingdom of Sirkonos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kingdom of Sirkonos"
+            }
+          },
+          {
+            "id": "7e0d143cc43ef20f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Republic of Ruina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Republic of Ruina"
+            }
+          },
+          {
+            "id": "510f446cbfb3f152",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nightshade Peaks.md",
+                "file": "Session Notes/Session 83 - The Trial of Silb Heft.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +241,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nightshade Peaks"
+              "title": "Backlinks for Session 83 - The Trial of Silb Heft"
             }
           },
           {
@@ -239,10 +277,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nightshade Peaks.md"
+                "file": "Session Notes/Session 83 - The Trial of Silb Heft.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nightshade Peaks"
+              "title": "Outline of Session 83 - The Trial of Silb Heft"
             }
           },
           {
@@ -323,34 +361,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "1c999e819cbad4a2",
+  "active": "2a80ab291799e745",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Nightshade Peaks.md",
-    "Excalidraw/Drawing 2023-12-09 15.09.37.excalidraw.md",
     "General Notes and Ideas.md",
-    "World of Helodaria/Dularen.md",
+    "Session Notes/Session 83 - The Trial of Silb Heft.md",
+    "World of Helodaria/Republic of Ruina.md",
+    "World of Helodaria/Mountreach.md",
+    "Thordan Stormshield.md",
     "World of Helodaria/Uldronos Council.md",
-    "World of Helodaria/Alfred Gundrei.md",
-    "World of Helodaria/Castle Gundrei.md",
-    "World of Helodaria/Byron Honeystone.md",
-    "Belon Hafton.md",
-    "Items/Anathema.md",
+    "Session Notes/Session 82 - Meeting King Sirkon.md",
+    "Session Notes/Session 81 - Blessings of the Deathwatch.md",
+    "Hommlet.md",
+    "World of Helodaria/Dularen.md",
     "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Keldmire.md",
-    "Baroness Leah Luthrand.md",
-    "World of Helodaria/Viscount Gale Luthrand.md",
-    "Session Notes/Downtime Master Sheet Post Session 82.md",
-    "World of Helodaria/Baron Owen Luthrand.md",
     "World of Helodaria/Kingdom of Sirkonos.md",
-    "Items/Belt of Dwarvenkind.md",
-    "World of Helodaria/Mikael Einzbern.md",
-    "World of Helodaria/Battalion of the Red Fountain.md",
-    "Vanguard Campaign Journal.md",
-    "World of Helodaria/Einzbern Hold.md",
-    "World of Helodaria/Leerehalt.md",
-    "World of Helodaria/Kronesguard.md",
+    "Hadvar Stormshield the Second.md",
+    "Session Notes/Downtime Master Sheet Post Session 82.md",
+    "Ralia.md",
+    "World of Helodaria/Keldmire.md",
+    "World of Helodaria/Hand of Sirkonos.md",
+    "World of Helodaria/Einzberns.md",
+    "Stormshield Clan.md",
+    "World of Helodaria/Darius Nubide.md",
+    "Persephone Adamos.md",
+    "World of Helodaria/Darius.md",
+    "Enthale Gravis.md",
+    "World of Helodaria/Vasspryg.md",
+    "World of Helodaria/Nightshade Peaks.md",
+    "Excalidraw/Drawing 2023-12-09 15.09.37.excalidraw.md",
     "Session Notes/~syncthing~Session 82 - Meeting King Sirkon.md.tmp",
     "Attachments/Pasted image 20240320125108.png",
     "World of Helodaria/~syncthing~History of Helodaria.md.tmp",

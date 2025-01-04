@@ -4,7 +4,13 @@ tags:
 ---
 # To do list
 - [ ] **ANATHEMA**
-- [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people
+- [ ] **Adamos Estate is in Dularen**
+- [ ] Rage potion
+- [ ] Have Darius assassinate the Stormshield clan
+- [ ] Kidnap someone
+- [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
+	- [ ] Thayan wizard woman with the vampires and stuff
+	- [ ] [[General Isaac]]
 - [ ] NPCs of importance to the vanguard
 - [ ] Caede's Necromantia contents
 - [ ] Magic Item Shops and inventory

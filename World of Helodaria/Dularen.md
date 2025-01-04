@@ -14,7 +14,6 @@ The Outer-City fields is the name of the region south of the city. The richest o
 
 # Notable Characters
 - [[Alfred Gundrei]]
-- [[Lorgar Thell]]
 - [[Veylan Glovir]]
 - [[Brindor Shieldwall]] Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent
 - [[Lorgar Thell]] is the High Walker Half-Elven Cleric of the raven queen. He wears simple black priestly robes with tight sleeves and a deep hood. He has cold brown and deepening grey hair. He is often tending to the Grave Nests more valuable mausoleum in the central temple. He sounds like Bill Nighy.

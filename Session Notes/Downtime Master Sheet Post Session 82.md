@@ -1,3 +1,16 @@
+# Things to Remember
+---
+### Gold at the start of downtime
+I'm not going to track each gold piece but its a good idea to get an idea of funds right now.
+
+| **Character** | **Gold**          |
+| ------------- | ----------------- |
+| Kanan         |                   |
+| Caede         | 18Pp 1500Gp 113Sp |
+| Rylai         |                   |
+| Silb          |                   |
+| Isilme        | 203Gp             |
+| Dusk          | 101Pp 26Sp        |
 # Downtime Planning
 ---
 ## Random ideas that don't fit anywhere
@@ -15,6 +28,7 @@
 ### Caede
 - [ ] Assist Silb with his trial
 - [ ] Do Deathwatch stuff
+- [ ] Normal DND stuff, dungeon delving
 ### Rylei
 - [ ] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
@@ -23,7 +37,13 @@
 - [ ] Trial for the Dwarven Plate
 ### Isilme
 - [ ] Maybe find [[Ulrandir Vanariel]] in his cell?
+### Dusk
+- [ ] Practice blade singing
+	- [ ] Level 2
+	- [ ] Level 6
+	- [ ] Level 10
+	- [ ] Level 14
 ## Sidequest Ideas
 1. **Silb + Caede + Isilme go to ravaged village with goblins**
 2. **Kanan + Caede Travel the long road to Steinwalde**
-3. 
+3. **Caede wants to go dungeon delving**

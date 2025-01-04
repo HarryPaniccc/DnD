@@ -33,7 +33,7 @@ The large stretch of wilderness that curves below and into the foothills of the 
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
 ### [[Broken Plains]]
 - [[Mount Ethris]] is the mountain surrounded by Diredahl and the rest of the major cities
-- [[Ralia]]
+- [[Ralia]] is a town maybe akin to the Berserk 1997 opening town
 - [[Brocia]]
 - [[Keldmire]]. A beautiful walled city of paved roads, surrounded by orchids and farms
 ### #TODO There is more to do here

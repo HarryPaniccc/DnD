@@ -7,7 +7,7 @@ The prime dwarven settlement in the [[Republic of Ruina]], Mountreach is a massi
 # History
 
 # Notable Factions and Characters
-- [[Mjothi]] is the forge keeper of the Heart Kiln. He is older, stronger and bald with  white hair and a strong beard. Sounds like deep voice Syrius
+- [[Mjothi]] is the forge keeper of the Heart Kiln. He is older, stronger and bald with white hair and a strong beard. Sounds like deep voice Syrius
 - [[Enrig]] is a priest of [[Moradin]] that speaks in the communal hall in the Heart Kiln. He is shorter of hair with dark orange hair
 - [[Wilhelm Heartgrinder]] is the bartender and owner of the Hearty Rind. He is a sirkonian dwarf and is young reinhardt from overwatch.
 ## The Pauldron Guard
