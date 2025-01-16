@@ -12,7 +12,7 @@
 If Skye decides to focus in on this darkness #TODO 
 
 ### [[Dularen]]
-The vanguard are looking to teleport into the Hall of Verdicts. Ruina should be around 2 to 3 hours ahead of the [[Kingdom of Sirkonos]]. 
+The vanguard are looking to teleport into the Hall of Verdicts. Ruina should be around 2 to 3 hours ahead of the [[Sirkonos]]. 
 
 - The teleportation room in the Hall of Verdicts will have a young gentleman greet the [[Vanguard]] and immediately panic at seeing the body of [[Silb Heft|Silb]]
 - At this time of day the halls are relatively full of lawmakers and judiciaries and the like

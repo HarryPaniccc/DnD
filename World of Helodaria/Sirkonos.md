@@ -2,7 +2,7 @@
 tags:
   - Lore
 ---
-The Kingdom of Sirkonos is an ancient Kingdom on the continent of [[Eranulaid]]. It is the west-most civilisation on the continent, and has historical roots in a pre-[[The Fall|Fall]] civilisation
+**The Kingdom of Sirkonos** is an ancient Kingdom on the continent of [[Eranulaid]]. It is the west-most civilisation on the continent, and has historical roots in a pre-[[The Fall|Fall]] civilisation
 
 Old woods, teeming with older magics and eldritch curses. Walled towns, owned by paranoid barons, constantly on guard from external threats. A central stone city cowering in the shadow of a dark manor, patrolled by a dreadful legion, subtly enforcing their master's will.
 
@@ -39,6 +39,7 @@ The large stretch of wilderness that curves below and into the foothills of the 
 ### #TODO There is more to do here
 # Society and Factions
 ## Politics
+Sirkonos is a monarchy.
 ### The Crown
 The Sirkonian royal line is represented by deep purples and blues, rules from castle [[Leerehalt]], and bares the symbol of two dragons facing apart from one another with their mouths open. The royal lineage has their founding in the fall, where [[King Sirkon]] the first defended the ancient city of [[Diredahl]] from the hordes of [[Malar]] from the position of [[Don Murroc]], the Great Spire of the West.
 ## Military

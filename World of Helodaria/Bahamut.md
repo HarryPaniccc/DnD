@@ -25,7 +25,7 @@ Commonly the symbol associated with the Bahamut is a silver or platinum dragon's
 ### [[Eranulaid]]
 The home of the [[Platinum Talon]] in [[Desseran]] is said to be one of the first places the great dragon was worshipped
 
-The [[Cathedral of the Bahumat]] in [[Vasspryg]] is the primary location of worship of the deity within the [[Republic of Ruina]].
+The [[Cathedral of the Bahumat]] in [[Vasspryg]] is the primary location of worship of the deity within the [[Ruina]].
 ## Orders and Factions
 ### The [[Platinum Talon]]
 The Platinum Talon is an order of clerics, paladins and soldiers that follow the teachings of the Bahamut within [[Desseran]]. Their influence is felt across [[Helodaria]], but their home is in the Bahamut's first temple in Desseran.

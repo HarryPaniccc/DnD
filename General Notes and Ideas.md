@@ -6,6 +6,7 @@ tags:
 - [ ] **ANATHEMA**
 - [ ] **Adamos Estate is in Dularen**
 - [ ] Rage potion
+- [ ] Name the mountains that Vasspryg is on
 - [ ] Have Darius assassinate the Stormshield clan
 - [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
@@ -40,7 +41,7 @@ tags:
 	- [ ] [[Nightshade Peaks]]
 - [ ] Zitrumean Kingdoms
 	- [ ] Solari + Doomfist Society in Armoured lands
-	- [ ] [[Kingdom of Pyleas]]
+	- [ ] [[Pyleas]]
 	- [x] Capital
 	- [ ] [[Isaura]]
 	- [ ] [[Qel-Annura]]
@@ -62,7 +63,7 @@ tags:
 - Check the soul bound party from Flee, Mortals!.pdf
 # [[Zakuul]]
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found
-- [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Republic of Ruina|Ruina]]
+- [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Ruina|Ruina]]
 - The Helm is causing him to attack other locations
 - He has laired in an ancient fortress that once belonged to the sorcerer king of old Ruina in the mountains south of Splitmount
 - [[Harrix]] becomes a rival of his in the area

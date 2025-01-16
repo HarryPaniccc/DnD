@@ -2,9 +2,9 @@
 tags:
   - PC
 ---
-- [[Fenrir]] Friend from [[Camroc]]
 # Intro
 ---
+Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to a wealthy noble family, and a founding member of the [[Vanguard]].
 # Description
 ---
 ## Appearance
@@ -21,3 +21,6 @@ tags:
 ### Former Items
 # Relationships
 ---
+- [[Lina Sweetsong]], her supposed sister
+- [[Lin Sweetsong]]
+- [[Nathaniel Sweetsong]]

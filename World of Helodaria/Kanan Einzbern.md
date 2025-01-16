@@ -4,11 +4,11 @@ tags:
 ---
 # Intro
 ---
-Kanan Einzbern is a human blood hunter-monk born of the [[Kingdom of Sirkonos]] and a member of the [[Vanguard]]. He is one of the few remaining [[Einzberns]].
+Kanan Einzbern is a [[Human]] blood hunter-monk born of the [[Sirkonos]] and a member of the [[Vanguard]]. He is one of the few remaining [[Einzberns]].
 
 Kanan was born in the [[Einzbern Hold]] in [[Keldmire]]. He was raised in the ways of monster hunting by his clan, trained by his father [[Mikael Einzbern]] alongside his brother [[Tevis Einzbern]]. His life would be turned upside down when his home and family were attacked by a vampire-lead cult who would keep him captive for two years.
 
-One night, during a ritual in which he and his brother's eyes were cut into, Tevis would, with the help of the remaining clan who were made to watch the torture, create an opening for Kanan to flee the ordeal. By an incredible stroke of luck, Kanan would run into the legendary vampire hunter [[Jarren Ward]] wandering the halls of the cult's castle. With Jarren's help, he and Kanan would escape the cult. After Jarren's death by a necrotic wound sustained in the escape, Kanan would assume Jarren's identity and go into hiding in the [[Republic of Ruina]].
+One night, during a ritual in which he and his brother's eyes were cut into, Tevis would, with the help of the remaining clan who were made to watch the torture, create an opening for Kanan to flee the ordeal. By an incredible stroke of luck, Kanan would run into the legendary vampire hunter [[Jarren Ward]] wandering the halls of the cult's castle. With Jarren's help, he and Kanan would escape the cult. After Jarren's death by a necrotic wound sustained in the escape, Kanan would assume Jarren's identity and go into hiding in the [[Ruina]].
 # Description
 ---
 ## Appearance
@@ -37,7 +37,7 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 ### Current Items
 - [[Cadaverous Edge]]
 - [[Boots of Haste]]
-- [[Skye's Locket of the Armory]], gifted to him by [[Skye (Dusk)]] as a way of using his diverse weapon collection
+- [[Skye's Locket of the Armory]], gifted to him by [[Dusk]] as a way of using his diverse weapon collection
 - [[Supple Brigandine of the Sentinel]]
 - [[Manual of Quickness of Action]], expended
 - [[Until Dawn]]

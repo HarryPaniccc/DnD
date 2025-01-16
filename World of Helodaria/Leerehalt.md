@@ -2,7 +2,7 @@
 tags:
   - Settlement
 ---
-Leerehalt is the large Castle-Town in the north of the [[Kingdom of Sirkonos]], on the southern edge of the [[Miletohr Wilds]]. It is the seat of the Sirkonian throne and the base of the [[Kronesguard]]'s [[Order of the Rose]]
+Leerehalt is the large Castle-Town in the north of the [[Sirkonos]], on the southern edge of the [[Miletohr Wilds]]. It is the seat of the Sirkonian throne and the base of the [[Kronesguard]]'s [[Order of the Rose]]
 # Description
 
 # History

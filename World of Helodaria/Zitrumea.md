@@ -5,7 +5,7 @@ Zitrumea is a [[Helodaria|Helodarian]] continent located to the East of [[Eranul
 # Society
 ### [[Zitrumean Empire]]
 Much of the continent of Zitrumea is a part of the Empire, under the Zitrum Dynasty. The empire unites many city states and peoples across the continent.
-### [[Kingdom of Pyleas]]
+### [[Pyleas]]
 The united islands, coasts and mountainous forests of Pyleas form a beautiful, diverse kingdom of art and passion. Pyleas is seen as a partial republic, as each city state is given sovereignty of its own laws, but they all answer to the Pylean King.
 
 # Geography
@@ -19,7 +19,7 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 - [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO . Camroc is within 20 miles of a shoreline
 
-- [[Pontiss 1]], a central metropolis with kinda like the place where Danaeris and the pedo king were chilling
+- [[Pontiss]], a central/eastern metropolis with kinda like the place where Danaeris and her weird brother king were chilling
 ## [[Qel-Annura]]
 
 ## [[Isaura]]

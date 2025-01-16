@@ -2,9 +2,11 @@
 tags:
   - PC
 ---
+- [[Fenrir]] Friend from [[Camroc]]
+- Once known as [[Skye]]
 # Intro
 ---
-Rylei Sweetsong is a halfling bard-sorcerer born of the [[Republic of Ruina]] to a wealthy noble family, and a founding member of the [[Vanguard]].
+Dusk is a [[Changeling]] Wizard and member of the [[Vanguard]].
 # Description
 ---
 ## Appearance
@@ -21,6 +23,3 @@ Rylei Sweetsong is a halfling bard-sorcerer born of the [[Republic of Ruina]] to
 ### Former Items
 # Relationships
 ---
-- [[Lina Sweetsong]], her supposed sister
-- [[Lin Sweetsong]]
-- [[Nathaniel Sweetsong]]

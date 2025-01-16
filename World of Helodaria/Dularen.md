@@ -3,7 +3,7 @@ tags:
   - Settlement
 ---
 # Description
-The centre of the [[Republic of Ruina]], geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the [[Ashen Legion]] holds a fortress for training, the [[Pantheons]] hold an entire districts for worship, and the [[Imperial Arcanists]] have a large records library within the centre of the city. Every trading guild works hard to keep their hold within Dularen.
+The centre of the [[Ruina]], geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the [[Ashen Legion]] holds a fortress for training, the [[Pantheons]] hold an entire districts for worship, and the [[Imperial Arcanists]] have a large records library within the centre of the city. Every trading guild works hard to keep their hold within Dularen.
 
 The city is not only a centre for the wealthy but also a utopia for thieves. All kinds of shady businesses are run by the various gangs. On every street, a bar, every district a brothel, Dularen seeks to offer services for anyone and everyone. Even the [[Devil's Hand]] has a den hidden in the Warrens.
 ### Districts
@@ -28,7 +28,8 @@ The Outer-City fields is the name of the region south of the city. The richest o
 # Locations
 ## Outer-City Fields
 ### Locations
-- [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right.
+- [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. It is within an hour's ride from the city.
+- [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (3 hour normal travel). 
 ## Silver-Strewn Quarter
 The Silver-Sewn Quarter is a walled-off, central part of the City, and it is where the prominent nobles and richer houses live, other than those who choose to live outside in the Outer-City fields. The District is well guarded and gated off, with a garrison of guards dedicated entirely to the watching of its walls.
 

@@ -3,7 +3,7 @@ tags:
   - Settlement
 ---
 # Description
-The Capital City of Sirkonos, Diredahl is a giant, low lying, multi textural city that has survived for a time longer than the current age. As old as Leerehalt Keep itself, Diredahl is said to have been founded almost 1500 years ago by some scholars, but it's true age is not known. The city is older than the [[Kingdom of Sirkonos]] itself.
+The Capital City of Sirkonos, Diredahl is a giant, low lying, multi textural city that has survived for a time longer than the current age. As old as Leerehalt Keep itself, Diredahl is said to have been founded almost 1500 years ago by some scholars, but it's true age is not known. The city is older than the [[Sirkonos]] itself.
 
 The city proper is surrounded by a wall that reaches as high as 60 feet, hung well with royal banners and watched by [[Kronesguard]]. The city is layered, stretching higher in altitude the further West it stretches, as though it sprawled up a mountainous hillscape to soak in the rising sun from the East. Dead in the centre, surrounded by a fortress of hard stone base and walls and iron, jutting out from the landscape like a dagger piercing a body, is [[Dun Murroc]], the great Spire of the West. An ancient tower and defensive bastion, it is the birthplace of the Sirkonian Royal lineage. 
 # History

@@ -8,10 +8,11 @@ The world of Helodaria is one of magic and ancient conflicts. Of thieving rogues
 
 #TODO Zitrumea's sister continent
 ## [[Zitrumea]]
-The prime continent that goes by the name Zitrumea is a beautiful, diverse realm. It is flanked on its western coast by an archipelago of islands known as the [[Aegir Archipelago]], the capital city of the [[Kingdom of Pyleas]] on the mainland acting as the main centre of trade for that region, as it is the largest of the area. The remainder of the continent houses the Elven realms of [[Isaura]] and [[Qel-Annura]], the original strongholds of the dwarves #TODO, and the [[Zitrumean Empire]].
+The prime continent that goes by the name Zitrumea is a beautiful, diverse realm. It is flanked on its western coast by an archipelago of islands known as the [[Aegir Archipelago]], the capital city of the [[Pyleas]] on the mainland acting as the main centre of trade for that region, as it is the largest of the area. The remainder of the continent houses the Elven realms of [[Isaura]] and [[Qel-Annura]], the original strongholds of the dwarves #TODO, and the [[Zitrumean Empire]].
 ## [[Eranulaid]]
-The northmost continent containing the [[Republic of Ruina]], the [[Kingdom of Sirkonos]] and the Free cities of [[Desseran]] and [[Kyral]] on the [[Free Shores of Eranulaid]]. #TODO
+The northmost continent containing the republic of [[Ruina]], the kingdom of [[Sirkonos]] and the Free cities of [[Desseran]] and [[Kyral]] on the [[Free Shores of Eranulaid]]. #TODO
 ## [[Dakhor]]
+## [[Sundance Isles]]
 
 # The Helodarian Calendar
 The Helodarian Calendar is one that is derived from a North-Zitrumean Elvish Calendar, depicting the year in 13 months, with a total of 380 days. In the northern hemisphere, Spring starts early Seedfall, Summer starts early Martyr Dawn, Autumn starts late Fvel’dranus, and Winter starts mid Dul’ussahn. In the southern hemisphere, each is shifted six and a half months.
@@ -43,4 +44,4 @@ Both celebrate the birth and teachings of [[Centuria]], Holder of the Azure.
 
 **The Day of First Scribe** is a day dedicated to telling stories and sharing knowledge, one where history is recounted in epic plays and ballads for all the world to revel in. It celebrates when Centuria first began to sew the stars into their constellation shapes.
 ### Winter’s Valley Festival
-A midwinter festival celebrated in the [[Republic of Ruina]] on the longest night of winter, starting as soon as the sun can no longer be seen and ending at sunrise. It is a night of great feasts, games and camaraderie among all citizens of the empire. Large fires are lit and the more valuable food reserves are consumed.
+A midwinter festival celebrated in the [[Ruina]] on the longest night of winter, starting as soon as the sun can no longer be seen and ending at sunrise. It is a night of great feasts, games and camaraderie among all citizens of the empire. Large fires are lit and the more valuable food reserves are consumed.

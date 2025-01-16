@@ -1,3 +1,7 @@
+---
+tags:
+  - Lore
+---
 Ruina is a young republic on the continent of [[Eranulaid]]. It was founded around 200 PF.
 
 A young and prosperous republic, forged with the combined efforts of patrons hailing from across Helodaria, the diversity of the Ruinan Republic is accentuated by the ambitions of the [[Uldronos Council]], its ruling table of leaders from across the material plane. The Republic is situated atop the long forgotten remnants of a war that took place during the beginning of the Fall, its artefacts and history beginning to make themselves known only in recent years.
@@ -27,6 +31,7 @@ The center of the Republic, the Dularen Plains is a region of great prosperity f
 - [[Malibrook]]. A somewhat medium sized town of vessel construction. Built due to the volcanically enforced wood providing a valuable construction material.
 - [[Dularen]]. An incredibly large working class city of opportunity, whether above board or not. The city is largely at the centre of control of the republic, and every major faction has a hold here.  
 - The [[Wyrm Hole]] was, in ancient times, a nest for a large collection of dragons. In modern times, it used to house a powerful adult dragon that was slain by the Ashen Legion. Now the Wyrm Hole is a mining city of perpetual work, exporting everything from iron to copper to even some mithril.
+- The [[Eithval River]] splits the plains in two.
 ### The [[Oakrot Woods]]
 The Oakrot is a huge swamp off the shores of the [[Amberloch]]. The area is known for natural life cycling and an expedient cycle of life and death, the animals and plants thriving off of rot.
 ### The [[Cinder Valley]]
@@ -37,8 +42,9 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 ### The [[Amberloch]]
 #TODO 
 - [[Mountreach]]: A mountain-city of the old Ruinan empire. Home to the largest population of dwarves in the republic.
+- [[Tirrium River]]: is the large northern tributary of the Amberloch that flows from the [[Cresting Peaks]].
 ### The [[Cresting Peaks]]
-- [[Hommlet]]: A small mining village in the foothills of the cresting peaks.
+- [[Hommlet]]: A small mining village in the foothills of the cresting peaks based along the [[Tirrium River]].
 - [[Ironspine Pass]]: A road that leads up the cresting peaks from a bit into the [[Dularen Forest]]. Somewhere along the pass there exists a tomb of paladins dedicated to [[Lathander]].
 
 #TODO 
@@ -286,184 +292,8 @@ Other:
 
 The major forest south of midvale
 
-## Eithval River
-
-The river that leads from Malibrook to the Amberloch
-
-## Midvale
-
-As what many believe to be the center of the center of the Empire, Midvale has developed with a little bit of everything from its neighbouring towns. A snazzy village of culture and hospitality, the somewhat small Midvale has open streets and many storage barns for trading guilds looking to have even distribution for their wares. Unfortunately this has attracted bandits to a few of the roads, but the guard’s presence is felt heavily here in order to relieve the strain.
-
-  
-
-The town is designed on the Cinderloch river with the intersection of the two central roads as a general guide to its shape. Surrounded by a greatly diverse biosystem, with forests and fields and mountains. The roads are dirt and often muddy.
-
-  
-
-The quality of life here has never been bad, as the merchants traveling from Dularen and the artisans and traders traveling from Vasspryg have always brought with them a bit of wealth and an inflation of the economy in Midvale. 
-
-  
-
-Midvale is, however, in no way dependent on her neighbours. The primary source of food for Midvale is the Cinderloch River, its richness in fish and diversity make for easy fishing, as its volcano-fed ecosystem thrives year-round. The river comes from the mountains west of Ashfort, and is thus enriched with minerals. The most common fish found is tuna, but larger, more dangerous species have been known to roam the waters. 
-
-  
-
-Boar frequents this large area, and if often hunted by the townspeople. Not too many live in the village, as most who visit Midvale are just stopping a day or two for rest. 
-
-  
-
-Traders often pass through the village, so lots of goods are available year round.
-
-  
-  
-
-Buildings
-
-  
-
-- Cassander theatre. One of the few theatres in the empire, due to how many travelers and artisans travel through here, the theatre on mainstreet is often a welcome method of relaxing after a long trip. The interior consists of a ticket selling room and the theatre, along with a few backstage rooms. 4 balconies decorate the inside. Owned by Leopoled Cassander. Under the stage, behind a false wall is the secret base once used as a smuggler’s den, headed by the Cassander Brothers and Greel Sloth. Nowadays it's just a meeting place.
-    
-- The Blooming Oak inn. The entrance to this inn goes down a flight of stairs, revealing a comfortable, medium sized dark-oak tavern basement, with a tree at the center and a bar in the middle. A balcony that is on the ground floor surrounds this area, where there are 12 rooms connected to it. The place is owned by the half elf Leah Gashin. There is a 4 man bathhouse (2sp)
-    
-- Docks. Many work at the docks and fish for a living. A variety of vessels have harboured here, carrying valuables or passengers throughout the empire. Fishing boats are the primary type found here, with a range of catch. The docks are built around a large boulder, with many wooden buildings and storage barns for fish and trade wares. Most of the tradesmen would pass through this somewhat large part of the Town. Not too many buildings.
-    
-- Cassander Carpenters. Owned by Balthazar Cassander’s father, Nathanial Cassander. A warm building that smells of wood, and houses 3 bedrooms, a kitchen and living quarters above.
-    
-- The bathhouse, operated by a human man
-    
-- Bakery. Owned by Grast the dwarf.
-    
-
-- The Priors Chalice. A small, warm tavern, sought out for its variety of ale, both in flavour and in strength. Warm boar is often sat over a central hearth which keeps the room warm for the winters. Owned by ex ashen legion Human Mikael Fullmire. Patrons include: Half orc Xander, human Fodal, tiefling Mina, Jacc the Bugbear
-    
-
-- The Guardsman’s Judicial Hall. In place of the guards barracks, the Judicial hall acts as a holding facility for smaller arrests, and as a courtroom for the trials held in the town. The Guard Steward is Dwarf man Breunor Fallton
-    
-- Central well. A large water well at the center of the village, used for watering horses and oxen after a long road. Directly connected to a network of underground river caverns.
-    
-- Shrine to Ilmater, god of endurance. The shrine depicts a tired man in binds of red smiling, showing the strength and endurance within all mortals. Watched by Brother Irious
-    
-- Jarl’s Longhouse. Where the Jarl of midvale and his guard steward often do daily work such as reports and dealing with town matters. Guard Steward Raphael and Jarl Holfdir.
-    
-- Roadside Bookshop. A 2 storeyed bookstore with a variety of books from across the empire. Run by a 30-odd year old man with yellow hair and brown eyes.
-    
-- Tailor. Dark haired halfling man with southern accent
-    
-- Dockside blacksmith, human man with american accent, sounds like Rizzo
-    
-- Market. The market is home to traders passing in through midvale en route to another part of the Dularen Plains. Types of shops that can be found are:
-    
-
-- Bone Jewelry maker (dwarf woman, Matthew Mercer girl voice)
-    
-- Tapestry maker (Human man, treasure planet kid)
-    
-- Fruit vendor
-    
-- Sweets vendor
-    
-- Fine shoe cobbler (older brass dragonborn gentleman)
-    
-- Ashen Legion recruitment station (run by legionnaire Chaeyong, see description in factions. She is often speaking with Mikael Fullmire about his legion days. She is accompanied by 2 legion guards and a war domain cleric Lexian (lex luthor from BvS))
-    
-
--   
-    
-
-  
-  
-
-NPCs
-
-- Leopoled Cassander. The handsome uncle of Balthazar Cassander, he built Balthazar’s love of acting. He has a well cut grey beard, strong features and broad shoulders. He carries himself like Skulduggery and is actually an accomplished rogue. His deception and ability to persuade others is legendary. He sounds like Tom Cruise in the Minority Report.
-    
-- Nathanial Cassander. The older of the Cassander brothers, father to Balthazar Cassander. He spent his life as a carpenter by trade, and by night he used to be the primary thief to a guild of thieves and smugglers. He is retired now. His partner was Greel Sloth. He sounds and looks like Harrison Ford.
-    
-- Jennifer Cassander is Balthazar’s Binnet
-    
-- Leah Gashin. Half elven woman. She is the same age as Balthazar, but her elvish heritage means she aged much slower. Fair, she leans on looking, with beautiful green eyes, and dark red hair. Her slim build has caused her a bit of annoyance in life, but also been a method of solving trouble. She sees Balthazar as a big brother (F). She sounds like Dokkaebi for HTTYD
-    
-- Grast. Hard but caring dwarven man with dark red hair and a patchy beard. Sounds like Willem Dafoe but over exaggerated.
-    
-- Mikael Fullmire. Looks and acts like Mr Aizawa. Long black hair, tired face and dark clothes.He once was a member of the ashen legion, but now spends his time looking after the Prior’s Chalice.
-    
-- Breunor Fallton. Dwarf guard captain. A very hands on captain, he often patrols the streets of  Midvale.
-    
-- Brother Irious. A young priest by all accounts, the human looks after the shrine to Ilmater, giving guidance to travelers and tending to the sick in times of need.
-    
-- Xander. Half orc boat worker. He is on a trip down from Malibrook as one of the workers on one of three recently completed vessels headed for Allhaven to join in the trading industry. His crew are spending a few days resting in Midvale, as no one can get any sleep in Malibrook. Sounds like “Zunder, I work the boats”
-    
-- Fodal. Human fisherman. He works a small boat and is out every morning practicing his trade. He has strong working hands and forearms, but the rest of him is mostly average.
-    
-- Mina. Red tiefling with short white hair. A worker at the docks, Mina has worked ropes for a lot of her life, and gotten into a few scraps too.
-    
-- Jacctekor. Bugbear bodyguard. Jacc for short. Raised in Dularen and joined and left the guard, he sought to see the empire, so he signed up as a bodyguard and works with the Platinum Scale trading company. His fur is a dark brown with black highlights. Very jas ou. Friendly to travelers. He sounds like Grog with the jaw thing.
-    
-- Guard Steward Raphael. A young steward, Raphael is a human who works hard to keep his town safe and advise his Jarl. Untrained in magic. Sounds and looks like Arthur from king Arthur.
-    
-- Jarl Holfdier Edfier. A burly man by many accounts, he works to strengthen trade routes through his area.
-    
-- Jarry is bakers kid
-    
-- Swim, tail less croc lizardfolk who was betrayed by his tribe.
-    
-- Obed Stain, small blacksmith at docks
-    
-
-  
-  
-
-Flooded Caverns
-
-Under Midvale exists a small network of caves formed from the river leading south. These caverns can be easily accessed by the well in the middle of the town.
-
-  
-
-The caverns are often filled with knee-high water, but throughout the phases of the tides the water will rise and lower. The walls are sleek stone and algae covered.
-
-  
-
-The caverns lead quite far south to a small tribe of crocodile-like lizardfolk. The tribe is accessible from caves in the forest south of Midvale. These lizardfolk are generally peaceful, but have come into conflict with Ragnus and his agenda.
-
-## Malibrook
-
-A working town, malibrook uses the high quality, volcanically enriched wood to manufacture barrels, carts and boats, as well as exporting timber to the super wealthy who want to build high quality housing for themselves. The citizens are mostly middle or lower class workers.
-
-  
-
-A water elevator in an artificial dam exists as the town’s central feature. The dam can be closed and filled to raise a boat higher so that timber doesn’t need to be lifted around the entire town.
-
-  
-
-A few old ruins around the village are used as bastions for the Ashen Legion. They want to be able to control the barrier to their territory, and they provide some needed protection to Malibrook.
-
-  
-  
-
-Buildings
-
-- Manufacturing Dam. A large dam used to construct ships within the village. Workers here are busy finishing a boat. Large pillars of wood reinforced by iron keep a watertight seal on the water area. A pulley system operates as a crane for hoisting up large poles and masts
-    
-- The Calloused Hand hall. One of the any mead halls around the town, the Calloused Hand is warm and jolly. Here basic foods and mead are served for affordable prices, and everyone is welcome. Owned and operated by Tolla, a middle aged woman
-    
-- Malibrook Outposts. There is an old fortress in Mailbrook, ruined by ages past. The outpost was restored by the ashen legion, and acts as a base south of the Black Plume Mountains, a strong position for gaining information and defending against possible invades from the south. The single towered structure is home to around 20 soldiers and armaments. It is near the center of town. The acting colonel is Stefan Yandrick, and General Yawguul is visiting in a recruitment effort with a small group of soldiers.
-    
-- Sd
-    
-
-  
-
-NPCs
-
-- Tolla. Human woman. Works hard to keep her slice of the world working.
-    
-- Colonel Stefan Yandrick. A knight of Ash, he leads the battalion of legion soldiers in Malibrook, acting in aid to the guard, sometimes bullying them into submission. He is hard, a soldier, and wields a practical war pick and medieval plate armour. Brown eyes and short blonde hair, he sounds like Syrius with an Irish accent and a deeper voice.
-    
-
 
 ## Muldranus
-
-  
 
 ## Allhaven
 

@@ -6,7 +6,7 @@ tags:
 ---
 Isilme Vanariel is a half-elf echo knight fighter and a member of the [[Vanguard]].
 
-Isilme was born in [[Dularen]], the bastard child to a noble elf family [[House Vanariel]] who sat on the [[Uldronos Council]] of the [[Republic of Ruina]]. Unloved by her elf mother's family, particularly by her grandfather, Isilme was raised in the ranks of the house's personal guard. She lived a hard life, not in poverty and surrounded by a hard but strong community, she learnt to play the warrior guard that the house needed.
+Isilme was born in [[Dularen]], the bastard child to a noble elf family [[House Vanariel]] who sat on the [[Uldronos Council]] of the [[Ruina]]. Unloved by her elf mother's family, particularly by her grandfather, Isilme was raised in the ranks of the house's personal guard. She lived a hard life, not in poverty and surrounded by a hard but strong community, she learnt to play the warrior guard that the house needed.
 
 One night while acting on her guard shift, the home of [[House Vanariel]] was raided by the guards of Dularen and [[Lawbearers]] under the charge of conspiring with dark magics for personal gain. In the dungeons of the manor, Isilme freed a shadow entity trapped within a painting that became known to her as [[Smudge]], and the two of them set out into the world, finally free of both of their ties.
 # Description

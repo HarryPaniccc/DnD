@@ -36,7 +36,7 @@ The Raven Queen despises undeath. Because of this, she is a fierce enemy of Orcu
 Her symbol is a raven's head in profile.
 ## Places of Worship
 ### Eranulaid
-The [[Grave Nest]] in [[Dularen]] of the [[Republic of Ruina]] is one of the largest
+The [[Grave Nest]] in [[Dularen]] of the [[Ruina]] is one of the largest
 ## Orders and Factions
 ### [[Deathwatch]]
 

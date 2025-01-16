@@ -10,7 +10,7 @@ Tyr's followers devote themselves to the cause of justice, to the righting of wr
 - The Great Balancer
 - Wielder of Justice
 ## Appearance
-They depicted as a knight wearing extremely heavy plate armour, face concealed and wielding a halberd. From beneath the partitions in the armour, orange flame licks the surrounding air. Tyr's gender is fluid in nature, a note to the impartiality of Law and Order. A grand statue in the [[Kingdom of Pyleas|Pylean]] capital depicts the main appearance of Tyr, as seen by the [[Kingdom of Pyleas]], as a feminine form whose face is covered by a hood.
+They depicted as a knight wearing extremely heavy plate armour, face concealed and wielding a halberd. From beneath the partitions in the armour, orange flame licks the surrounding air. Tyr's gender is fluid in nature, a note to the impartiality of Law and Order. A grand statue in the [[Pyleas|Pylean]] capital depicts the main appearance of Tyr, as seen by the [[Pyleas]], as a feminine form whose face is covered by a hood.
 ## Relationships to Other Deities
 ### God
 # Tenets and Teachings
@@ -32,4 +32,4 @@ Stuff
 ### Order
 
 ## Known Worshippers
-Tyr is the primary deity of the [[Republic of Ruina]], and the high Paladin of Tyr in Ruina is one of the most powerful individuals in the Republic. The government and many of Ruina’s laws are written based on the Tenets of Tyr. The armour of the [[Lawbearers]] is made in his visage.
+Tyr is the primary deity of the [[Ruina]], and the high Paladin of Tyr in Ruina is one of the most powerful individuals in the Republic. The government and many of Ruina’s laws are written based on the Tenets of Tyr. The armour of the [[Lawbearers]] is made in his visage.

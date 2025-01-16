@@ -3,7 +3,7 @@ tags:
   - Settlement
 ---
 # Description
-The prime dwarven settlement in the [[Republic of Ruina]], Mountreach is a massive stronghold that has been built into a mountain.
+The prime dwarven settlement in the [[Ruina]], Mountreach is a massive stronghold that has been built into a mountain.
 # History
 
 # Notable Factions and Characters

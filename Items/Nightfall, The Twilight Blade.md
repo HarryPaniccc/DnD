@@ -9,7 +9,6 @@ This item has abilities. The abilities go here. Now to fill out the space. Now t
 
 > **Note**: This format will change a lot, but right now I think that this template with the **Atom** theme looks good in print
 
-
 # Planning
 - +3 to attack and damage rolls. When you draw you must make a Wisdom save or take 4d8 necrotic damage.
 - **Butcher of Light**: When you a creature them you inflict a wound until the end of your next turn (DC 17 Con save). Any slashing damage the creature takes while they are wounded increases by 2d6. *and melee weapon attacks score a critical hit on the creature on a D20 roll of 19 or higher.* When a creature that had a wound dies *Nightfall* gains a charge. These charges are all lost when *Nightfall* is sheathed, and you can have no more than 8 at a time.
@@ -33,4 +32,3 @@ This item has abilities. The abilities go here. Now to fill out the space. Now t
 
 >[!Conflict]
 >Not eaten enough
-

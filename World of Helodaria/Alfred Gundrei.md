@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-Lord Alfred Gundrei is the human lord and sovereign of [[Dularen]] and a member of the [[Uldronos Council]] of the [[Republic of Ruina]].
+Lord Alfred Gundrei is the human lord and sovereign of [[Dularen]] and a member of the [[Uldronos Council]] of the [[Ruina]].
 # Description
 The man is in his mid 30’s, with long, well kept black hair and a clean shaven face. His brown eyes command royalty and power. Assumed as one of the most powerful on the Council, he wears royal blue with white and black decorations. His actions in the council are to the interests of the Republic, even if it means harm to other sovereign powers or to the lower classes of his own republic.
 
