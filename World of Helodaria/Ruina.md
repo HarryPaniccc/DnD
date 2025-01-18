@@ -10,21 +10,26 @@ The Republic’s access to a rich landscape of excellent natural resources and v
 # History
 ---
 ### Pre-settlement and Settlement (Circa 0 P.F.)
-The shores of the Allhaven port were first settled near the end of the Fall, but for a long time the settlement was little more than just a port from which the spoils of the Platinum Highroad were shipped, supplying platinum to a large portion of Zitrumea.
+The shores of the [[Allhaven]] port were first settled near the end of the Fall, but for a long time the settlement was little more than just a port from which the spoils of the [[Platinum Highroad]] were shipped, supplying platinum to a large portion of [[Zitrumea]].
 
 After the fall, investments of the surviving noble houses began to funnel into the beginnings of the republic, and for around 200 years, the platinum trade flourished under the control of foreign guilds. After a while, the locals, who at this point had developed family roots in the area, began to realize the value of the nation that was growing, and wanted to establish Ruina as its own governed nation. So, the citizens of the then New-Ruinan Republic elected families that would each represent a portion of the race to which they belonged, so to ensure fair word for all. This marked the formation of the hereditary Uldronos Council, who still govern the Republic over 600 years later.
-### Founding of [[Uldronos Council]]
 
+### Founding of [[Uldronos Council]]
 For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members were elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.
 
 Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]].
+
 # Geography
 ---
 The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the [[Shard Foothills]]. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
+
 ### [[Mungandr Lake]]
+A massive lake that marks the western border of Ruina.
+
 - [[Ironbase]]: A small settlement of farmers built around an old fortress left to the elements and the ages.
 ### The [[Dularen Plains]] and [[Platinum Highroad]]
 The center of the Republic, the Dularen Plains is a region of great prosperity for the Republic's people.
+
 - [[Splitmount]]: At the entrance to the valley, the farming town provides a large portion of the empire with farm produce. 
 - [[Vasspryg]]: A medium sized city surrounded by a strong fortress. There is a small export of valuable minerals from the mines in the mountain.
 - [[Midvale]]. A town built due to the crossing of the [[Platinum Highroad]] and the [[Eithval River]] 
@@ -32,24 +37,34 @@ The center of the Republic, the Dularen Plains is a region of great prosperity f
 - [[Dularen]]. An incredibly large working class city of opportunity, whether above board or not. The city is largely at the centre of control of the republic, and every major faction has a hold here.  
 - The [[Wyrm Hole]] was, in ancient times, a nest for a large collection of dragons. In modern times, it used to house a powerful adult dragon that was slain by the Ashen Legion. Now the Wyrm Hole is a mining city of perpetual work, exporting everything from iron to copper to even some mithril.
 - The [[Eithval River]] splits the plains in two.
+
 ### The [[Oakrot Woods]]
 The Oakrot is a huge swamp off the shores of the [[Amberloch]]. The area is known for natural life cycling and an expedient cycle of life and death, the animals and plants thriving off of rot.
+
 ### The [[Cinder Valley]]
 The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignty of [[Ralengrad]].
+
 - [[Bridgehold]]: A small community on the southern side of the [[Bridge of Giants]].
 - [[Ashfort]]: A massive castle city atop a cliff face, and home to the [[Ashen Legion]].
 - [[Ralengrad]]: Also the name of the city that surrounds the base of Ashfort.
+
 ### The [[Amberloch]]
 #TODO 
+
 - [[Mountreach]]: A mountain-city of the old Ruinan empire. Home to the largest population of dwarves in the republic.
 - [[Tirrium River]]: is the large northern tributary of the Amberloch that flows from the [[Cresting Peaks]].
+
 ### The [[Cresting Peaks]]
+
 - [[Hommlet]]: A small mining village in the foothills of the cresting peaks based along the [[Tirrium River]].
 - [[Ironspine Pass]]: A road that leads up the cresting peaks from a bit into the [[Dularen Forest]]. Somewhere along the pass there exists a tomb of paladins dedicated to [[Lathander]].
 
 #TODO 
 # Society and Factions
 ---
+## Culture
+Groups of settlers from around the world and almost broke into war.
+
 ## Politics
 ### The [[Uldronos Council]]
 The Uldronos Council is a hereditary council, ruled by houses that were elected around 200 P.F. The Council does not hand out duties to specific houses, but some houses have naturally swayed towards fulfilling a role in governing the Republic.
@@ -57,7 +72,7 @@ The Uldronos Council is a hereditary council, ruled by houses that were elected 
 ### The [[Ruinan Guard]]
 The [[High Paladin of Tyr]] has the primary say in the law making of Ruina and ensuring that the laws are fairly upheld. The militant group of guards uphold the laws in the official Republic cities and towns, each overseen by a Guard Steward assigned to a specific settlement. They are recognisable by their uniforms: well kept leather and scale-male, a steel helmet, and a halberd, as well as their own personal cloaks are allowed to combat the cold Ruinan winters.
 ### The [[Boreal Conclave]]
-## Religion
+## [[Religion]]
 The Republic of Ruina has many major gods that they worship, with other deities being worshipped alongside. The main deity worshipped is Tyr, and the [[High Paladin of Tyr]] oversees the [[Lawbearers]], and acts as the High Temple of Pantheon’s Voice on the Uldronos Council. There are gods that are not recognised as legal in Ruina, and then there are gods that are heretical to worship.
 #TODO add lawbearers to tyrs document
 ## Other Factions
@@ -70,14 +85,6 @@ The Imperial Arcanists were formed some 300 years after the founding of the [[Ul
 ---
 # OLD STUFF BELOW HERE (Infinity text)
 
-## Giants
-
-- Used to be quite abundant
-- Very few left roaming ruina
-- Fire giants still exist, but frost giants are very rare, and storm giants have all but retreated into their solitude, until one might rise from their confinement and find a new purpose
-- Hill and stones are still as common as they would be
-- Lesser giants like ogres and oni are still normal
-- Main Giant characters are Lothric the Undying (a storm giant) and Laufey the Just (a frost giant)
 # Drugs:
 
 - Detachment stems: dissociative drug. 1 stem is 50Gp. Con save of 13 for half. A full stem is a save of 19. Half a stem you care a bunch less. 1 stem you are kvothe with the drug thing. 1 stem lasts 4 hours.
@@ -90,8 +97,6 @@ The Imperial Arcanists were formed some 300 years after the founding of the [[Ul
 - Valouce Ale. A heavy drink that burns on the way down and brings out the meekest of hearts.
 - Silver Dragon hellwater. The purple liquid is like swallowing liquid nitrogen, with a peppermint like flavour and a salty aftertaste.
 
-
-#TODO From here down
 ## Order of the Lotus
 
 Based in the small mountain village of Sheruta, the Lotus Stewardship is a small group of monks who take in and train many in the way of spirituality.  
@@ -108,10 +113,6 @@ They often are called to defend the world against dark threats.
 
 # World:
 
-The Underdark
-
-- Kyando, drow capital. A grand city with large webbed curtains woven throughout it. Drow society at its greatest with houses and such.
-
 Add
 - The holy city of Muldranus
 
@@ -121,15 +122,10 @@ Add
 
 A low lying mining town, the real name of the Wyrm Hole is Togdal, but since the town descended in shelves around the entrance to the hole. The Town itself spreads for a distance north around the Hole itself, which in itself is around 5km in diameter. The once dragon infested nest is surrounded on the southern end by a botallion of aged and destroyed Ashen legion armaments, now home to the riff raff of the city. 
 
-  
-
 The working class city is less friendly to outsiders. 
-
-  
 
 Once being den for an adult red dragon, who had kept his exploits below ground for many years, the drake decided for whatever reason to go above ground and raid the surrounding settlements. His presence was known before, however the powers that be decided that he hadn’t presented a true threat to the empire that was worth the bodies to deal with. After his resurgence, a large collection of mercenaries and bounty hunters, along with a small guild of shields for hire were paid a handsome amount to work alongside the guard and display the empire’s militant skill. What followed was the forming of the Ashen Legion, so named due to the men who were unable to be defeated by the fires of a terrible dragon. 
 
-  
 
 The guards of the city are outfitted with light crossbows as opposed to the swords and shields of the usual guard. They deal with a somewhat large amount of illegal activity in this lower-middle class settlement. They try to keep a watchful eye out for anything that could damage the empire.
 
@@ -414,13 +410,12 @@ NPCs
 
 # Out Of Ruina
 
-## The Living Vault of Uladar
+## The [[Living Vault of Uladar]]
 
-Constructed during the ages of the fall by a selection of mages from the societies of old Ruina, the Living Vault of Uladar is a multipurpose demiplane that serves as a grand campus of magical study and invention, a dungeon for those who are unwelcome, and a prison made to hold abominations that the mages who created the vault could simply no put down.
-
+Constructed during the ages of the fall by a selection of mages from the societies of old Ruina, the Living Vault of [[Uladar]] is a multipurpose demiplane that serves as a grand campus of magical study and invention, a dungeon for those who are unwelcome, and a prison made to hold abominations that the mages who created the vault could simply no put down.
   
 
-The Uladar Lattice
+The [[Uladar Lattice]]
 
 The main method of accessing the various entrances to the vault is the Uladar Lattice, a cube of complex interlocking sections with various modes and configurations. Many configurations are not associated with a destination, however if a correct sequence is inputted and 8 levels worth of spells are cast into the cube, then a small doorway of magical energy will appear that leads to the section inputted.
 
@@ -439,9 +434,3 @@ A polluted and corrupted corner of the Feywild, the Blood Drain is home to many 
 The ground here is charred and scarred by pools of blood. In contrast to the rest of the Feywild, the eternal Twilight is replaced by a permanent red-sunned eclipse. The streams of arcane energy are instead rivers of curses, the water a murky blood and tasting of sulphur. The landscape is barren, a mix of dusty hills and mountains segregated by forests of dying trees filled with nightmares and monstrosities.
 
 The inhabitants include shadow dragons, werewolves that have no control over their murderous instincts, vampire thralls that cannot become true vampires and drow who worship Athelstan.
-
-## Alternate Timeline
-
-???
-
-**

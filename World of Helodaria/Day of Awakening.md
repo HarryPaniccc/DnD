@@ -1,0 +1,1 @@
+The **Day of Awakening** is a holiday dedicated to the birth of [[Centuria]], but the young God's true birthday is unknown. The day is celebrated with games and sports, revelling in the freedom of Centuria’s heart. 

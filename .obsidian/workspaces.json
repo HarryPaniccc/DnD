@@ -25,31 +25,17 @@
                 }
               },
               {
-                "id": "064a039e290a8917",
+                "id": "bfcde9d18431abdd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Malibrook.md",
+                    "file": "World of Helodaria/Zitrumea.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Malibrook"
-                }
-              },
-              {
-                "id": "2ce60902e5f3c0f7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Necromantia.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Necromantia"
+                  "title": "Zitrumea"
                 }
               }
             ],
@@ -60,6 +46,20 @@
             "type": "tabs",
             "dimension": 55.58375634517766,
             "children": [
+              {
+                "id": "45dc8701379e3b61",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Eranulaid"
+                }
+              },
               {
                 "id": "4458039178e58d53",
                 "type": "leaf",
@@ -72,20 +72,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Anathema"
-                }
-              },
-              {
-                "id": "7c518fbcd7862173",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Religion.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Religion"
                 }
               },
               {
@@ -102,8 +88,7 @@
                   "title": "Deities of Helodaria"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -237,7 +222,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md"
+                    "file": "World of Helodaria/Ruina.md"
                   },
                   "icon": "lucide-list",
                   "title": "Outline of Bloodthirster Helm or Helm of the Ceaseless"
@@ -321,8 +306,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2350fd22d44a0785",
-      "mtime": "2025-01-16T11:58:37+02:00"
+      "active": "bfcde9d18431abdd",
+      "mtime": "2025-01-17T23:03:24+02:00"
     },
     "Next Session Planning": {
       "main": {
@@ -2870,20 +2855,6 @@
                 }
               },
               {
-                "id": "82f9e1f5fd314a5a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kingdom of Sirkonos"
-                }
-              },
-              {
                 "id": "84838bb556769568",
                 "type": "leaf",
                 "state": {
@@ -2954,20 +2925,6 @@
                 }
               },
               {
-                "id": "a95779f270684159",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
-                }
-              },
-              {
                 "id": "6f129d0862fd1852",
                 "type": "leaf",
                 "state": {
@@ -2980,8 +2937,23 @@
                   "icon": "lucide-file",
                   "title": "Desseran"
                 }
+              },
+              {
+                "id": "f2f91b9129bfd868",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Sirkonos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sirkonos"
+                }
               }
-            ]
+            ],
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -3201,8 +3173,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2025-01-16T11:32:33+02:00"
+      "active": "f2f91b9129bfd868",
+      "mtime": "2025-01-17T21:26:28+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3219,12 +3191,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Downtime Master Sheet Post Session 82.md",
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Downtime Master Sheet Post Session 82"
+                  "title": "Vanguard Arc 6 - Downtime"
                 }
               },
               {
@@ -3233,7 +3205,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Session 83 - The Trial of Silb Heft.md",
+                    "file": "Session Notes/Vanguard/Session 83 - The Trial of Silb Heft.md",
                     "mode": "source",
                     "source": false
                   },
@@ -3261,7 +3233,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Thordan Stormshield.md",
+                    "file": "World of Helodaria/Thordan Stormshield.md",
                     "mode": "source",
                     "source": false
                   },
@@ -3275,12 +3247,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Dularen.md",
+                    "file": "Dripping Barrel Inn.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Dularen"
+                  "title": "Dripping Barrel Inn"
                 }
               },
               {
@@ -3295,90 +3267,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Mountreach"
-                }
-              },
-              {
-                "id": "38dab7541765daae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kingdom of Sirkonos"
-                }
-              },
-              {
-                "id": "7e0d143cc43ef20f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Republic of Ruina"
-                }
-              },
-              {
-                "id": "2533c4f5285b6995",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Hommlet.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Hommlet"
-                }
-              },
-              {
-                "id": "06e91b9f1db921bc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Baylan Marek.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Baylan Marek"
-                }
-              },
-              {
-                "id": "84b21e4406bf540b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Ironbase.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ironbase"
-                }
-              },
-              {
-                "id": "3cbaf6c818875ed8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Trayfort Keep.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Trayfort Keep"
                 }
               }
             ]
@@ -3437,7 +3325,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5
+        "width": 277.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3561,7 +3449,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Vanguard Campaign Journal.md",
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                     "mode": "source",
                     "source": false
                   },
@@ -3584,7 +3472,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 445.5
+        "width": 445.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3599,7 +3488,7 @@
         }
       },
       "active": "08389105e0321ab7",
-      "mtime": "2025-01-12T18:45:02+02:00"
+      "mtime": "2025-01-17T08:54:05+02:00"
     },
     "Dusk Downtime": {
       "main": {
@@ -3872,6 +3761,300 @@
       },
       "active": "08389105e0321ab7",
       "mtime": "2025-01-15T23:57:23+02:00"
+    },
+    "Caede Downtime": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad403f483996d6ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08389105e0321ab7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 6 - Downtime"
+                }
+              },
+              {
+                "id": "2d8b02946de1be74",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "f0e35ac027ecc93c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4859a2c24bd1b882",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Trayfort Keep.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Trayfort Keep"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "dimension": 49.1421568627451,
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "World of Helodaria/Uldronos Council.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Uldronos Council"
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "World of Helodaria/Uldronos Council.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Uldronos Council"
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ]
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "dimension": 50.857843137254896,
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
+                }
+              },
+              {
+                "id": "fc6e4fe2893dcbd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "7564bc8b83f56f6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Helodaria"
+                }
+              },
+              {
+                "id": "0b6a92f621642cae",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 385.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "2d8b02946de1be74",
+      "mtime": "2025-01-16T15:00:55+02:00"
     }
   },
   "active": "Kanan Downtime"

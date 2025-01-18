@@ -18,6 +18,7 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - Connections and **friends and allies** - [[Viscount Gale Luthrand]] for example and Tevis' connections
 - Use the retainers thing
 - **SWIM FROM MIDVALE PLEDGES ALLEGIANCE TO THE VANGUARD WITH LIZARDFOLK**
+- Tournament hosted by the Vanguard to find those willing to fight for them
 
 
 # [[Kanan Einzbern|Kanan]]
@@ -41,11 +42,16 @@ In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan 
 
 
 ### Witcher Work
+Something certainly happens in [[Ralia]].
+
 ### Commander of the [[Battalion of the Silver Arrow|Silver Arrow]]
 
 
 # [[Caede]]
 ---
+### Defences and Staff of [[Trayfort Keep]]
+The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
+
 ### Herald of the [[Deathwatch]]
 ### Dungeon Delving
 
@@ -59,8 +65,10 @@ In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan 
 
 # [[Silb Heft|Silb]]
 ---
-- [ ] Trial for the Dwarven Plate
 
+### Lord Stormshield's Trial
+
+- [[Session 83 - The Trial of Silb Heft]]
 
 # [[Isilme Vanariel|Isilme]]
 ---

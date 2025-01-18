@@ -18,6 +18,6 @@ I think for races now, maybe just use singular like [[Human]], [[Changeling]] an
 - Societies are most important
 - General large regions
 - Subheadings for empires containing states
-## [[Country Template]]
+## [[Nation Template]]
 - To be added to as things happen
 - Template is just a guide

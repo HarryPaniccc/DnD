@@ -2,7 +2,7 @@
 tags:
 ---
 #TODO 
-The Einzberns were a prominent monster hunting family of the [[Sirkonos]]. They lived in [[Keldmire|Keldmire]] in the [[Einzbern Hold]]. They were partially responsible for the creation of [[Mutagen|mutagens]]. Around 810 Post-[[The Fall|Fall]]
+The Einzberns were a prominent monster hunting family of the [[Sirkonos]] and a member of the [[Nobility of Sirkonos]]. They lived in [[Keldmire|Keldmire]] in the [[Einzbern Hold]]. They were partially responsible for the creation of [[Mutagen|mutagens]]. Around 810 Post-[[The Fall|Fall]]
 # Members
 ---
 ## Einzbern Hunters

@@ -34,13 +34,12 @@ Boar frequents this large area, and if often hunted by the townspeople. Not too 
 - [[Jarry]] is bakers kid
 - [[Swim]], tail less croc lizardfolk who was betrayed by his tribe.
 - [[Obed Stain]], small blacksmith at docks
-   
 
 # Locations
-## Main Road
+### Main Road
   
-- [[Cassander Theatre]] - A large theatre on the central road that leads through the village.
-- [[Blooming Oak Inn]]. The entrance to this inn goes down a flight of stairs, revealing a comfortable, medium sized dark-oak tavern basement, with a tree at the center and a bar in the middle. A balcony that is on the ground floor surrounds this area, where there are 12 rooms connected to it. The place is owned by the half elf [[Leah Gashin]]. There is a 4 man bathhouse for (2sp)
+- Cassander Theatre - A large theatre on the central road that leads through the village.
+- **Blooming Oak Inn**. The entrance to this inn goes down a flight of stairs, revealing a comfortable, medium sized dark-oak tavern basement, with a tree at the center and a bar in the middle. A balcony that is on the ground floor surrounds this area, where there are 12 rooms connected to it. The place is owned by the half elf [[Leah Gashin]]. There is a 4 man bathhouse for (2sp)
 - **The bathhouse**, operated by a human man
 - **Bakery**. Owned by [[Grast]] the dwarf.
 - **The Guardsman’s Judicial Hall**. In place of the guards barracks, the Judicial hall acts as a holding facility for smaller arrests, and as a courtroom for the trials held in the town. The Guard Steward is Dwarf man [[Breunor Fallton]]

@@ -1,0 +1,1 @@
+**The Day of First Scribe** is a day dedicated to telling stories and sharing knowledge, one where history is recounted in epic plays and ballads for all the world to revel in. It celebrates when [[Centuria]] first began to sew the stars into their constellation shapes.

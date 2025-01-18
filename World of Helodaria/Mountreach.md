@@ -19,18 +19,24 @@ The Arches, The Crest, Grindstone Sanctum, Inner Walls and The Darkbarrows are t
 The Arches encompass the entrance area as well as surrounding corridors in the mountain. A twisting network of external passageways and roads that surround the city itself, they are generally on a higher level than the rest of the city.
 ### Locations
 
+- [[Axe Head Citadel]] - Home of the [[Stormshield Clan]]
+
 ## The Crest
 The Crest is the large central city area. The majority of the city is located within the crest. It is a multi-levelled multi street maze of a cityscape that has all kinds of dwarven life. Stone structures and various bridges and raised areas, various large crystals keep the place illuminated in a warm, gentle, sun-like glow.
 ### Locations
+
 - **Brittlewear Blacksmith** is owned by Ganir Brittlewear, Bald with thick red beard and a small nose, Sounds like Zavala with Swedish/scottish
 - **Hagmire Tavern** Run by [[Amber Hagmire]], a Sirkonian heritage dwarf with amber eyes and a deeper skin tone. Sounds like Pike/Ashley Johnston
 - **Stonebed Inn** is a large inn with an interior of warm woods and a second floor accommodation. Run by
 - **Torbed Horn** Contested with Hearty Rind. [[Jorn Torbren]] is the owner. It is a stone built Pub with intricate pipes built connected to various barrels in the basement.
 - **Hearty Rind** Contested with Torbed Horn. [[Wilhelm Heartgrinder]] is the owner. It is a Wooden built pub kinda like in Eichenwalde
 - The [[Mountreach Heart-Kiln]]
+
 ## Grindstone Sanctum and the Inner Walls
 Grindstone Sanctum makes up the large fortress that overlooks the city and the inner walls refer to the old structure to the east that leads deeper in the mountain that is a military defence position. Large sort of fortress to the north of the entrance. All stone and surrounded by heavily armoured dwarves
+
 ## The Darkbarrows
-The Darkbarrows are the deeper ruins above which the city is built, the surviving remnants from [[The Fall]]. 
+The Darkbarrows are the deeper ruins above which the city is built, the surviving remnants from [[The Fall]].
+
 ### Locations
 - [[Jarren Ward]]'s stash is located some distance into the Darkbarrows of Mountreach

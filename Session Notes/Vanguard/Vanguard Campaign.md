@@ -14,7 +14,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th) - quest for the ransacked village
-- Pay the [[Ashen Legion]] (Since 25th Lathandromahn)
+- Pay the [[Ashen Legion]] (Since 25th Lathandromahn), 200Pp already paid, lets just say repaid already
 - Retrieve the [[Potion of Fire Giant Strength]]s from [[Shrute]] (Banahras 11th)
 - Heal Tevis
 - Reforge [[Anathema]]
@@ -24,7 +24,8 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 
 ## Sessions
 - [[Vanguard Arc 6 - Downtime]]
-- [[Session 84 - Pilgrimage to Steinwalde]] - Kanan solo
+- [[Session 85 - Tournament of Trayfort Hold]]
+- [[Session 84 - Pilgrimage to Steinwalde]] - Kanan + Caede duo
 - [[Session 83 - The Trial of Silb Heft]] - Silb solo
 - [[Session 82 - Meeting King Sirkon]]
 - [[Session 81 - Blessings of the Deathwatch]]
@@ -52,5 +53,6 @@ In the year of 813 Post-Fall the [[Vanguard]] travelled to the [[Sirkonos]] to h
 In the year 812 Post Fall the [[Vanguard]] faced off against the [[Halo of Chains]], led by [[Caede]]'s brother, [[Galund]], in a race to prevent him from finding the souls of the lost [[Valkuur]] and reclaim enough power to reshape the [[Religion|religions]] of the world so that the [[Deities of Helodaria|Gods]] no longer had any control over the [[Material Plane]].
 
 # Arc 3: Tenets of Corruption
+Following a trail of clues which led them to the [[Oakrot Woods]], the [[Vanguard]] pursued a warlock known by the name of [[Garen]] to [[Dularen]], entering the metropolis for the first time. What would follow was a web of conspiracy, leading to the freeing of [[Alfred Gundrei]] from the demonic influence of the Glabrezu demon [[Thezuurol]], and their receiving of [[Trayfort Keep]].
 # Arc 2: Knights of the Malevolence
 # Arc 1: A Brave New World
