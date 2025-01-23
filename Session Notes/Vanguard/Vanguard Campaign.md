@@ -20,10 +20,14 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Reforge [[Anathema]]
 - Await [[King Sirkon]]'s summons
 - Repair the [[Leviathan Axe]]
+# Arc 7: King at the End of the World
+- [[Merrshaulk]] temple? like [This](https://forgottenrealms.fandom.com/wiki/Merrshaulk)
+- 
 # Arc 6: Downtime
 
 ## Sessions
 - [[Vanguard Arc 6 - Downtime]]
+- 
 - [[Session 85 - Tournament of Trayfort Hold]]
 - [[Session 84 - Pilgrimage to Steinwalde]] - Kanan + Caede duo
 - [[Session 83 - The Trial of Silb Heft]] - Silb solo

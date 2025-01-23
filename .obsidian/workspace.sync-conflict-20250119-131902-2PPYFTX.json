@@ -4,151 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "c9b2a78a1b2e87e9",
         "type": "tabs",
         "children": [
           {
-            "id": "08389105e0321ab7",
+            "id": "b6105ae45d326a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+                "file": "Gunslinger Fighter Archetype.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - Downtime"
-            }
-          },
-          {
-            "id": "db081dcd172446fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 84 - Pilgrimage to Steinwalde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 84 - Pilgrimage to Steinwalde"
-            }
-          },
-          {
-            "id": "bf50885db961f07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Einzberns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einzberns"
-            }
-          },
-          {
-            "id": "84838bb556769568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Anathema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anathema"
-            }
-          },
-          {
-            "id": "0ab9e66bd4bc3e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Steinwalde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Steinwalde"
-            }
-          },
-          {
-            "id": "f1c9f02a19a2f78e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Nightfall, The Twilight Blade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nightfall, The Twilight Blade"
-            }
-          },
-          {
-            "id": "a0fe3f4a9a02485b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Brocia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brocia"
-            }
-          },
-          {
-            "id": "46a5391bc6842385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carlina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carlina"
-            }
-          },
-          {
-            "id": "17fc29b59aa42cb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "054f3a2998a1485a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign"
+              "title": "Gunslinger Fighter Archetype"
             }
           }
-        ],
-        "currentTab": 8
+        ]
+      },
+      {
+        "id": "43f7ffb9802d8419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fd74beaf4b8ac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Helodarian Firearms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodarian Firearms"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -213,7 +107,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -235,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Baron Owen Luthrand.md",
+                "file": "Gunslinger Fighter Archetype.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Baron Owen Luthrand"
+              "title": "Backlinks for Gunslinger Fighter Archetype"
             }
           },
           {
@@ -254,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81 -.md",
+                "file": "Gunslinger Fighter Archetype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "title": "Outgoing links from Gunslinger Fighter Archetype"
             }
           },
           {
@@ -281,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Sirkonos.md"
+                "file": "Gunslinger Fighter Archetype.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sirkonos"
+              "title": "Outline of Gunslinger Fighter Archetype"
             }
           },
           {
@@ -307,7 +200,6 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -322,33 +214,12 @@
               "icon": "lucide-file",
               "title": "Guidelines"
             }
-          },
-          {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
+    "width": 337.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -363,39 +234,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "17fc29b59aa42cb8",
+  "active": "b6105ae45d326a28",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Campaign.md",
-    "World of Helodaria/Sirkonos.md",
-    "World of Helodaria/Keldmire.md",
-    "Primordials.md",
-    "Items/Leviathan Axe.md",
-    "Items/Nightfall, The Twilight Blade.md",
-    "vanguard campia.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
-    "Session Notes/Vanguard/Session 84 - Pilgrimage to Steinwalde.md",
-    "Untitled.md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Zitrumea.md",
-    "Gunslinger Fighter Archetype.md",
-    "Attachments/Pasted image 20250121125026.png",
-    "Helodarian Firearms.md",
-    "World of Helodaria/Einzberns.md",
-    "Carlina.md",
-    "World of Helodaria/Brocia.md",
-    "World of Helodaria/Viscount Gale Luthrand.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Baron Owen Luthrand.md",
-    "Items/Anathema.md",
-    "Templates/Session Notes Template.md",
+    "Items/~syncthing~Nightfall, The Twilight Blade.md.tmp",
     "~syncthing~Helodarian Firearms.md.tmp",
     "~syncthing~Gunslinger Fighter Archetype.md.tmp",
-    "Session Notes/Vanguard/~syncthing~Vanguard Arc 6 - Downtime.md.tmp",
-    "Items/~syncthing~Nightfall, The Twilight Blade.md.tmp",
+    "Helodarian Firearms.md",
+    "Gunslinger Fighter Archetype.md",
+    "World of Helodaria/Viscount Gale Luthrand.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+    "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Helodaria.md",
     "World of Helodaria/Malibrook.md",
     "World of Helodaria/Necromantia.md",
+    "Items/Anathema.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Steinwalde.md",
+    "World of Helodaria/Ruina.md",
+    "Templates/Nation Template.md",
+    "World of Helodaria/Day of First Scribe.md",
+    "World of Helodaria/Fengate.md",
+    "Untitled.md",
+    "Templates/NPC Template.md",
+    "Templates/Continent.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Holidays.md",
+    "World of Helodaria/Day of Awakening.md",
+    "Dawn Solstice.md",
     "Attachments/Pasted image 20250116182652.png",
     "Session Notes/Vanguard",
     "World of Helodaria/~syncthing~Wooden Fang.md.tmp",
@@ -404,6 +272,8 @@
     "World of Helodaria/~syncthing~History of Helodaria.md.tmp",
     "~syncthing~General Notes and Ideas.md.tmp",
     "World of Helodaria/~syncthing~Eranulaid.md.tmp",
+    "~syncthing~Vanguard Campaign Journal.md.tmp",
+    "World of Helodaria/~syncthing~Zakuul.md.tmp",
     "Ceaseless Arc Planning.canvas",
     "Attachments/Pasted image 20240805150416.png",
     "Ceaseless Arc.canvas",
@@ -412,6 +282,7 @@
     "Attachments/Pasted Image 20240106212953_129.png",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted Image 20231212184614_693.png",
-    "Attachments/Pasted image 20231231094810.png"
+    "Attachments/Pasted image 20231231094810.png",
+    "Attachments/Pasted Image 20231212190832_254.png"
   ]
 }

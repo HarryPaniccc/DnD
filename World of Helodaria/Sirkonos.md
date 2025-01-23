@@ -23,12 +23,26 @@ The kingdom is situated west of the [[Nightshade Peaks]]. The [[Maghlas Mountain
 - [[Port Eidenspear]]: The largest port town in the Kingdom, Eidenspear connects the people of Sirkonos to the rest of the world through trade, despite being somewhat isolated from other trade routes within the Kingdom
 - **Villages** to be added
 
+### [[Broken Plains]]
+
+- [[Mount Ethris]] is the mountain surrounded by Diredahl and the rest of the major cities.
+- [[Ralia]] is a town maybe akin to the Berserk 1997 opening town.
+- [[Brocia]] is a canal town and the trade hub of Sirkonos, with adventurers coming in and out of the wastes starting there.
+- [[Keldmire]]. A beautiful walled city of paved roads, surrounded by orchids and farms.
+- [[Diredahl]]
+- [[Carlina]]. A small village 15 miles East out of [[Keldmire]].
+- [[Fengate]] sits east of [[Banespear Mountain]].
+- [[Chestkrik]] is a small town that sits some 40 miles up the North-West road of [[Keldmire]].
+
 ### [[Eastern Wastes]]
 The large scar that stretches across the east third of the Kingdom and the greatest scar left on Eranulaid's land from the wars of [[The Fall]].
 
 - [[Banespear Mountain]] is a vast, cursed peak that stands against the horizon like a split in a painting's canvass
-- [[Fengate]] sits east of [[Banespear Mountain]]
 - [[Kohldwall]] is a town that acts as a bastion within the Wastes. People usually use it as a point of refuge and trade from towns that are off its main path
+
+### [[Maghlas Mountains]]
+
+- [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range. Steinwalde is a nation not part of Sirkonos, but close by.
 
 ### [[Miletohr Wilds]]
 The large stretch of wilderness that curves below and into the foothills of the [[Maghlas Mountains]], the Miletohr wilds are a sometimes magical and often accursed wood.
@@ -39,17 +53,6 @@ The large stretch of wilderness that curves below and into the foothills of the 
 - The [[Ethfalian Caverns]]: A large, mineral-rich network of caves that lead to the underdark and to [[Kenifria]]
 - [[Ahnzlad Pass]] is a path that leads north of [[Brocia]]
 - [[Steinjotunenwand]] or the Giant's Ward Fortress (Notes for this and Ahnzlad Pass are in Session 64)
-
-### [[Maghlas Mountains]]
-
-- [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range
-
-### [[Broken Plains]]
-
-- [[Mount Ethris]] is the mountain surrounded by Diredahl and the rest of the major cities
-- [[Ralia]] is a town maybe akin to the Berserk 1997 opening town
-- [[Brocia]]
-- [[Keldmire]]. A beautiful walled city of paved roads, surrounded by orchids and farms
 
 ### #TODO There is more to do here
 

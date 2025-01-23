@@ -31,6 +31,8 @@ Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from t
 
 Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip.
 
+- Overload the chalice and maybe go to the hells?
+
 
 ### Count Einzbern
 Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**.

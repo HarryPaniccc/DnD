@@ -3,7 +3,7 @@ tags:
   - Settlement
 ---
 # Description
-Home of the Einzberns. The city is largely paved and well structured, a mish-mash of side alleys and central roads. Large arteries of pathways connect the main open areas with each other, while the smaller byways intersect almost all locations in the city just as well. The city works off of wine and farm trade. There are many trees throughout the area, and a couple markets.
+Home of the Einzberns. The city is largely paved and well structured, a mish-mash of side alleys and central roads. Large arteries of pathways connect the main open areas with each other, while the smaller byways intersect almost all locations in the city just as well. The city works off of wine and farm trade. There are many trees throughout the area, and a couple markets. The city itself is a high walled city surrounded by lush farmland.
 # History
 
 # Notable Characters
