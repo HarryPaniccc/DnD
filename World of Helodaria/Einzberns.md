@@ -10,8 +10,10 @@ The Einzberns were a prominent monster hunting family of the [[Sirkonos]] and a 
 - [[Tevis Einzbern]]
 - [[Mikael Einzbern]]
 - [[Tevis Einzbern]]
+
 ## Members of the Einzbern Family
 - [[Isolde Einzbern]]
+
 ## The Founding Einzberns
 The group of knights that make up the seven founding members of the Einzberns made their home in a grand temple to [[Lathander]] and fortress during the [[History of Helodaria#The Age of Ascension|Age of Ascension]], [[Kenifria]]. Their binding of [[Athelstan]] required the sacrifice of their afterlife, and the corruption of their bloodlines. They stole holy light and bound it to their descendants - syphoning power to the Urd tree that binds Athelstan, and stealing power from him in turn.
 
@@ -22,6 +24,7 @@ The group of knights that make up the seven founding members of the Einzberns ma
 - Syr [[Tristan Renwillow]]. Golden locks and a light build wearing an ornate breastplate and a blade at his side. Happy but also serious when the time calls for it.
 - Syr [[Jerrit Marlow]]. Dwarf of maul-wielding stature. He has extremely long black hair and a very well adorned beard. He has a tired air about how he speaks.
 - Syr [[Siegfried Einzbern]]. Short, tamed hair. Middle age. Longsword at his back and armoured pauldrons atop hard leather fittings and chainmail and metal. His right pauldron is adorned with a wolf’s head insignia. He often also uses a maul in combat.
+
 
 # Schools and Training
 ---

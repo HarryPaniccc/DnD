@@ -1,0 +1,4 @@
+The **Abandoned Clock Tower** of [[Carlina]] village in [[Sirkonos]] is the subject of superstition. It is assumed that the fire that took the clock keeper and his family was not an accident, and that the keeper found his wife in bed with another man, and burned the three of them and their infant child to death in his fury.
+
+- The clock tower burned up in the winter circa 750 PF, so the superstition has had time to stew.
+- By the year 814 PF the tower had become the nest of a Manticore mating pair who hears the wails of the child who has matured in the afterlife. It uses this to lure people outside for his hunting desires

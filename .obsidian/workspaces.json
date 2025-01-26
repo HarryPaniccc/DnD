@@ -2872,12 +2872,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 84 - Pilgrimage to Steinwalde.md",
+                    "file": "Session Notes/Vanguard/Session 83 - Pilgrimage to Steinwalde.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 84 - Pilgrimage to Steinwalde"
+                  "title": "Session 83 - Pilgrimage to Steinwalde"
                 }
               },
               {
@@ -2965,17 +2965,34 @@
                 }
               },
               {
+                "id": "bf98287f6b70c5df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Abandoned Clock Tower.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Abandoned Clock Tower"
+                }
+              },
+              {
                 "id": "17fc29b59aa42cb8",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Sirkonos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sirkonos"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -3063,7 +3080,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Baron Owen Luthrand.md",
+                    "file": "Abandoned Clock Tower.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -3073,7 +3090,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Baron Owen Luthrand"
+                  "title": "Backlinks for Abandoned Clock Tower"
                 }
               },
               {
@@ -3109,10 +3126,10 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session 84 - Pilgrimage to Steinwalde.md"
+                    "file": "Abandoned Clock Tower.md"
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Session 84 - Pilgrimage to Steinwalde"
+                  "title": "Outline of Abandoned Clock Tower"
                 }
               },
               {
@@ -3129,8 +3146,7 @@
                   "title": "All properties"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           },
           {
             "id": "92400877833113eb",
@@ -3152,16 +3168,6 @@
                 }
               },
               {
-                "id": "fc6e4fe2893dcbd8",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
-              {
                 "id": "0b6a92f621642cae",
                 "type": "leaf",
                 "state": {
@@ -3171,12 +3177,12 @@
                   "title": "Graph view"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 390.5
+        "width": 333.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3190,8 +3196,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "db081dcd172446fc",
-      "mtime": "2025-01-20T11:49:41+02:00"
+      "active": "08389105e0321ab7",
+      "mtime": "2025-01-25T22:11:25+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3808,21 +3814,28 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "file": "World of Helodaria/Dularen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
+                  "title": "Dularen"
                 }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "f0e35ac027ecc93c",
-            "type": "tabs",
-            "children": [
+              },
+              {
+                "id": "89ee3c7201e32f00",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Skoldr Wittlewood.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Skoldr Wittlewood"
+                }
+              },
               {
                 "id": "4859a2c24bd1b882",
                 "type": "leaf",
@@ -3837,7 +3850,8 @@
                   "title": "Trayfort Keep"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -4070,8 +4084,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "2d8b02946de1be74",
-      "mtime": "2025-01-16T15:00:55+02:00"
+      "active": "4859a2c24bd1b882",
+      "mtime": "2025-01-25T23:15:37+02:00"
     }
   },
   "active": "Kanan Downtime"

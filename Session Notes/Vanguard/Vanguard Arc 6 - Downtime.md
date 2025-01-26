@@ -1,3 +1,7 @@
+---
+tags:
+  - Core
+---
 # Things to Remember
 ### Gold at the start of downtime
 I'm not going to track each gold piece but its a good idea to get an idea of funds right now.
@@ -25,8 +29,10 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 ---
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
-
 ### Pilgrimage to [[Steinwalde]]
+
+- [[Session 83 - Pilgrimage to Steinwalde]]
+
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]].
 
 Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip.
@@ -64,13 +70,17 @@ The Vanguard have been gone from their home for some time, and during that time 
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
 
+>[!Note]
+>Use a **layleech** from flee mortals
+
+
 
 # [[Silb Heft|Silb]]
 ---
 
 ### Lord Stormshield's Trial
 
-- [[Session 83 - The Trial of Silb Heft]]
+- [[Session 84 - The Trial of Silb Heft]]
 
 # [[Isilme Vanariel|Isilme]]
 ---

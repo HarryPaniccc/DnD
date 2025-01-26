@@ -2,6 +2,9 @@
 tags:
   - Lore
 ---
+# History
+---
+[[Uldrinea]] was the [[Isaura|Isauran]] elf that united the founding houses of [[Ruina]] preventing a war. She is either the mother or grandmother of [[Ulrandir Vanariel]].
 # Members
 ---
 ## Current Members
@@ -30,25 +33,11 @@ tags:
 
 Upon the founding of the Empire, the government was in need of Rulers. The young empire was in need of rulers, and the noble houses who came from other lands due to opportunity, and who ruled over their own militia were the obvious choices to lead the people of the newly formed Ruina.
 
-  
-
-For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members was elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.
-
-  
+For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members was elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.  
 
 Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non hereditary seats include the Arch Mage of the Imperial Arcanists and the High Paladin of Tyr.
 
-  
-
 Certain seats of the council are given duties that their families naturally evolved to have a hold over. While officially, all members hold the same power, those who are good at their jobs usually see to it as the unofficial authority of the matter.
-
-  
-
-The members on the Uldronos Council are:
-
-    
--   
-    
 
 ## Families of Ruina
 
@@ -270,13 +259,7 @@ On her right arm, she is decorated with four of the eight Magi Talismans: the ch
     
 - Ixalan, the great founder. One of the grandmages of past, he built the Ixalan complex when he came into possession of the flame of reality. The complex housed his friend Harix the silver dragon and the flame. Harix would be tasked with protecting the flame until death.
     
-- Arbiter Aramis Terelon. A High Elf man of just below collar bone length blond hair with darker ends and beautiful green eyes. He wears dark aquamarine and black robes with light pauldron shoulder pads and silver inlay. He is firm in tone and intelligent.
-    
-
-  
-
--   
-    
+- Arbiter Aramis Terelon. A High Elf man of just below collar bone length blond hair with darker ends and beautiful green eyes. He wears dark aquamarine and black robes with light pauldron shoulder pads and silver inlay. He is firm in tone and intelligent
 
 ## The Order of Concept
 
@@ -333,7 +316,6 @@ A small group of mercenaries from the southern baronies that have come for the b
 ## Dragons of Eranulaid
 
 - Zakuul, the Chained One, Ageing adult blue dragon. Zakuul was imprisoned as a very young dragon, Zakuul was sold to Drow as a slave, where he was used as brute labour, experimented on, harvested for his natural magical power and passed around from duergar to drow and back, enslaved for over 400 years. He is quick to temper, and his only goal is to free himself and grow in power to wreak vengeance upon his captors. He is a powerful ageing blue dragon. Zakuul was born above ground and lived near the Seidr Plateau for around 20 years before he was captured. He is the blue dragon that the unnamed mercs captured in their oneshot.
-    
 - Roshuldra, the Ivy Horror, Adult Green Dragon, is located in a forest in the Seidr Plateau known as the Mistwood. She made her lair near a source of shadowfell energy which she studied to improve her necromancy magic. Her lair sits behind a waterfall.
     
 
@@ -341,7 +323,7 @@ A small group of mercenaries from the southern baronies that have come for the b
 
 The Valkuur were a collection of Planetaar that were devoted to a pantheon of lesser deities and led by the Lord of the Hanged early in the Age of Ascension. These Lesser Deities were agents of the Greater Pantheon in Eranulaid. They were sent as warriors during the great Magi War that sundered the continent. The Valkuur were as follows:
 
-- Caede Ingen Navn 
+- Caede Ingen Navn
     
 - Galund
     
@@ -374,22 +356,17 @@ They have a [safehouse](https://docs.google.com/document/d/13w5_6RgL7_Y474Wnyhim
 ### Goals
 
 - Dismantle the modern system of faith
-    
 - Expose the gods for the hypocritical, lying beings they are
-    
 - Show that the gods don’t care for any beings other than themselves
-    
 
 ## Followers of Thezuurol (unnamed group)
 
 A powerful Glabrezu demon has found its way into the prime material plane and has amassed a hold over a small, strategically membered cult, primary goal of growing through political power, as well as draining those around it of any kind of strength.
-
   
 
 Actively .
 
 - Thezuurol is a vicious glabrezu demon that was summoned to the material plane by the [Halo of Chains](https://docs.google.com/document/d/1rH96ykh0O_k31cQYo7ODkRSDxPKFuzsTjmPG9BHoNhA/edit#bookmark=id.yvyfkeue3agn) in exchange for information on the whereabouts of the Tomb of Lathander in Ironspine Pass (Session 26-28ish). The leader of the group, it often takes up the form of Tara (ta-ruh) using its polymorph ability, acting as really the only political and intelligent influence for the group. Tara is a coy, manipulative dark haired woman who wears loose silks of black and red. Although Tara is a useful tool to get close to those with the power that Thezuurol wishes to manipulate, she is often only used to secure the initial hold of control, Thezuurol then controlling from afar. Tara sounds like vex.
-    
 - Garen is a half orc half tiefling who had little to no purpose in life until Thezuurol. Then, after they were summoned, Thezuurol saw an opportunity to manipulate a powerful frontal lackey who could be used to do their dirty work. Garen is a powerful, brutish warlock who often uses mask of many faces to hide his abyssal nature in the form of a simple, average build half-orc. In reality, his true visage is that of an eight-foot tall tannaruk beast of a man who wields fiendish warlock magic and devastating natural strength in combat. Ultimately, however, he is a disposable asset to Thezuurol. He has a somewhat british accent with a deeper voice.
     
 
@@ -403,27 +380,17 @@ The 5 generals of the malevolence's army, not to be confused with the three gene
 
 There are 5 of them:
 
-  
-
 - Thouresh the Black Union
-    
 - Karthor the White Duchesse
-    
 - Ragnus the Green Corruption
-    
 - Tiwrath the Blue Lord
-    
 - Sagnis the Red Devastator
-    
-
-  
 
 ## The Trading Guilds
 
 The platinum scale, a guild that operates across the whole of the platinum high road
 
 - Jacctekor. Bugbear bodyguard. Jacc for short. Raised in Dularen and joined and left the guard, he sought to see the empire, so he signed up as a bodyguard and works with the Platinum Scale trading company. His fur is a dark brown with black highlights. Very jas ou. Friendly to travelers. He sounds like Grog with the jaw thing
-    
 - Percy. Human tradesman. Literally just percy from Vox Mach
     
 
@@ -439,7 +406,6 @@ Once a creed of paladins during the Age of Ascension, the Einzberns are now a fa
 
 During the Age of Ascension, the Einzberns were a sect of paladins of lathander that were known by a different name lost to time. During this age, a powerful necromancer by the name of Athelstan fell to vampirism and, in his new undead form, driven by a lust for understanding, grew his knowledge and eventually grew a large following of people looking to grow their understanding of blood magic.
 
-  
 
 The Paladins of Lathander eventually grew to understand the danger of this cult,
 
@@ -453,33 +419,21 @@ The Paladins of Lathander eventually grew to understand the danger of this cult,
 ### Other Characters
 
 - Sigmund, before Mikael, looks like Mikael
-    
 - Leon, before Sigmund
-    
 - Henry, before Leon
-    
 - Caleb, before Henry
-    
 - Kanan, before Caleb
-    
 - Johan, before Kanan
-    
 - Caleb, before Johan
-    
 
 ## The Vampires of clan Vorciln
 
 The vampires of clan Vorciln worship Athelstan the Blood Fey. They are unlike other vampires, using more traditional magics and sorceries than the powers of darkness. They don’t use hemomancy, just blood themed spells. Savathuun granted them this form of vampirism and was then banished to the blood drain. 
 
-  
-
 They exist as a large influence in Sirkonos. They are powerful beings with large control. They are feared by nobles and peasants alike. If they want something it is often foolish to deny them. They are not unreasonable, and will not kill at random, but they are incredibly dangerous.
-
-  
 
 Their ranks of soldiers are 3 fold. Their aptitude for necromancy allows them to command a large force of undead, engineered for specific tasks. Tanks, soldiers, beasts. Any shape or form needed is available to them. The horrors under their control are as varied as they are powerful. Their thralls are notable, often only specific individuals are enthralled due to their danger or power. Their most dangerous and primary force are the Knights of Vorciln. A group of paladins who pledged themselves to destroying the clan, they were defeated and rendered half undead by the clan, and are now entirely under their control. No one knows exactly how many of them there are, and if they are killed, they usually do not stay down for long. 
 
-  
 
 The final of these forces were the Einsberns, not enthralled and not undead, merely enslaved due to the nature of their abilities and bloodline. The night that Kanan and his brother attempted escape, small sects of Einsberns were formed and subsequently hunted down by the knights of Vorclin, lead by their new enforcer, Kanan's brother Tevis Einsbern, whose curse was deepened by further rituals.
 
@@ -495,7 +449,7 @@ The vamps live in a great fortress that can go in and out of the Shadowfell at a
 
 Vampires and other main characters
 
-- Athelstan, the blood fey. Sealed away during the Ascension, Athelstan is a fey of incredible dark magic, possessing the Vampyric Curse. The Einzbern paladin creed of old took a seal that would persist within their bloodline, ensuring so long as their descendants survived, Athelstan could never return. Now, a ritual has caused Kanan and Tevis Einzbern to be a sort of channel of his power in the material plane. Sounds like Artagan from critical role. He was sealed using the power of the Vessel of Avarice, a powerful, dark artefact in the shape of a chalice that has the ability to syphon power into a ritual through sacrifice.  
+- Athelstan, the blood fey. Sealed away during the Ascension, Athelstan is a fey of incredible dark magic, possessing the Vampiric Curse. The Einzbern paladin creed of old took a seal that would persist within their bloodline, ensuring so long as their descendants survived, Athelstan could never return. Now, a ritual has caused Kanan and Tevis Einzbern to be a sort of channel of his power in the material plane. Sounds like Artagan from critical role. He was sealed using the power of the Vessel of Avarice, a powerful, dark artefact in the shape of a chalice that has the ability to syphon power into a ritual through sacrifice.  
       
     He wields the vampiric curse, but due to his magic, he is not harmed by the sun, merely weakened by it. He was not able to be defeated, so the Einzberns decided to forge a prison in the place where he can be held forever, where the sun never fully sets.
     
@@ -509,8 +463,6 @@ Vampires and other main characters
   
 During his life, he was confronted by the Einzberns who were more warriors than blood hunters at that point. He defeated the three who came for him and experimented on one, seeing within the blood a path to immense power. He struck a deal, improvement in return for life and to learn from them, as the Einzberns had information he did not. After getting too close to Athelstan, they turned on him. In the ensuing battle, he slew almost a dozen Einzberns before leaving.
 
-  
-
 In the time since, he became a duke of the nine hells, bettering himself, growing, alongside his ambition. Inevitably his interest led him to reinvestigate Athelstan, and his new goal became controlling the blood fey as his pawn. After 200 years in the hells, and a few decades of growing his power to attack the Einzberns, he marched on the manor, and set in motion the events of the Sirkonos chapter.
 
 - Tevis Einzbern. Blood Hunter Profane Soul (at least 3rd level eldritch blast). Being the reason for the failure of the ritual that gave Kanan his powers, he has had further rites conducted on him by the vampires, making him believe he is someone else, and increasing his ability to draw power from Athelstan. He has acted as the prime enforcer in hunting down the remainder of the Einzberns.
@@ -520,7 +472,4 @@ In the time since, he became a duke of the nine hells, bettering himself, growin
 
 The founding nobility of house Sirkon is one intentionally shrouded in ambiguity. King Sirkon, now nearing his 11th century of age, has taken great measures to ensure that his true nature is left unknown. He has fathered a single son in all his thousand years of ruling, the mother of which is unknown to anyone but him. He subtly pursues his own dark goals in his great castle in the centre of the Kingdom, watched over by his royal guard. 
 
-- King Sirkon. 1500 years old. Lich. He has lived his life pretending to be his own heir, keeping up the illusion that the royal line of Sirikonos has been continued naturally. Using his powerful arcane magic he GOALS????
-    
-
-**
+- King Sirkon. 1500+ years old. Lich. He has lived his life pretending to be his own heir, keeping up the illusion that the royal line of Sirikonos has been continued naturally.

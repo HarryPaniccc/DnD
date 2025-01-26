@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 84 - Pilgrimage to Steinwalde.md",
+                "file": "Session Notes/Vanguard/Session 83 - Pilgrimage to Steinwalde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 84 - Pilgrimage to Steinwalde"
+              "title": "Session 83 - Pilgrimage to Steinwalde"
             }
           },
           {
@@ -120,6 +120,20 @@
             }
           },
           {
+            "id": "bf98287f6b70c5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abandoned Clock Tower.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abandoned Clock Tower"
+            }
+          },
+          {
             "id": "17fc29b59aa42cb8",
             "type": "leaf",
             "state": {
@@ -132,23 +146,9 @@
               "icon": "lucide-file",
               "title": "Sirkonos"
             }
-          },
-          {
-            "id": "054f3a2998a1485a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Baron Owen Luthrand.md",
+                "file": "Abandoned Clock Tower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +246,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Baron Owen Luthrand"
+              "title": "Backlinks for Abandoned Clock Tower"
             }
           },
           {
@@ -281,10 +282,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Sirkonos.md"
+                "file": "Abandoned Clock Tower.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sirkonos"
+              "title": "Outline of Abandoned Clock Tower"
             }
           },
           {
@@ -301,8 +302,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -324,16 +324,6 @@
             }
           },
           {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "0b6a92f621642cae",
             "type": "leaf",
             "state": {
@@ -343,12 +333,11 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5,
+    "width": 333.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -365,37 +354,37 @@
   },
   "active": "17fc29b59aa42cb8",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Campaign.md",
+    "World of Helodaria/Steinwalde.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Skoldr Wittlewood.md",
+    "World of Helodaria/Dularen.md",
     "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Einzberns.md",
+    "Session Notes/Vanguard/Session 83 - Pilgrimage to Steinwalde.md",
+    "World of Helodaria/Brocia.md",
+    "Statblocks/Manticore Statblock.md",
+    "Session Notes/Vanguard/Vanguard Campaign.md",
+    "Session Notes/Vanguard/Session 84 - The Trial of Silb Heft.md",
+    "Carlina.md",
+    "Abandoned Clock Tower.md",
+    "Manticore.md",
     "World of Helodaria/Keldmire.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Uldronos Council.md",
+    "World of Helodaria/Ulrandir Vanariel.md",
+    "Rudolph van Richten.md",
+    "Guidelines.md",
+    "World of Helodaria/Fengate.md",
     "Primordials.md",
     "Items/Leviathan Axe.md",
     "Items/Nightfall, The Twilight Blade.md",
-    "vanguard campia.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
-    "Session Notes/Vanguard/Session 84 - Pilgrimage to Steinwalde.md",
-    "Untitled.md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Zitrumea.md",
-    "Gunslinger Fighter Archetype.md",
     "Attachments/Pasted image 20250121125026.png",
-    "Helodarian Firearms.md",
-    "World of Helodaria/Einzberns.md",
-    "Carlina.md",
-    "World of Helodaria/Brocia.md",
-    "World of Helodaria/Viscount Gale Luthrand.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Baron Owen Luthrand.md",
-    "Items/Anathema.md",
-    "Templates/Session Notes Template.md",
     "~syncthing~Helodarian Firearms.md.tmp",
     "~syncthing~Gunslinger Fighter Archetype.md.tmp",
     "Session Notes/Vanguard/~syncthing~Vanguard Arc 6 - Downtime.md.tmp",
     "Items/~syncthing~Nightfall, The Twilight Blade.md.tmp",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Helodaria.md",
-    "World of Helodaria/Malibrook.md",
-    "World of Helodaria/Necromantia.md",
     "Attachments/Pasted image 20250116182652.png",
     "Session Notes/Vanguard",
     "World of Helodaria/~syncthing~Wooden Fang.md.tmp",

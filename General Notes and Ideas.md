@@ -3,6 +3,22 @@ tags:
   - Core
 ---
 # To do list
+### Miniatures
+- [ ] Rylai
+- [ ] Dusk
+- [ ] Portcullis
+- [ ] Goblins
+- [ ] Stone Arches
+- [ ] Ladder(s)
+- [ ] Zombies
+- [ ] Skeletons
+- [ ] Barrels + Boxes
+- [ ] New tables
+- [ ] Stalagmites
+- [ ] Generic Rogue (2 stabbies)
+- [ ] Bowman/crossbowman
+- [ ] Chests
+### Normal Stuff
 - [ ] **ANATHEMA**
 - [ ] **Adamos Estate is in Dularen**
 - [ ] Rage potion
@@ -61,6 +77,7 @@ tags:
 - Kitsune fox totem
 - City of the glass moon
 - Check the soul bound party from Flee, Mortals!.pdf
+- Westenra (Woman lead of Dracula) is a cool name for a Sirkonian Town
 # [[Zakuul]]
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Ruina|Ruina]]

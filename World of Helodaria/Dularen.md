@@ -25,6 +25,8 @@ The Outer-City fields is the name of the region south of the city. The richest o
 - [[Dick Pemberton]] is a short black haired halfling man who runs the Laughing Deck. A slimy, greedy bastard who will do little to earn what he gets and everything to keep it.
 - [[Gilligan Eiselcrest]] is an illegal necromancer human man who owns the Dead Beat bar and fighting ring. He is a prominent buyer from [[The Devil's Hand]] as he need corpses and materials for his games.
 - [[Hesmas]] is a minotaur that offers his strength to Gilligan as a live force of defense. He has a Pylean Accent, and doesn't leave the bar much because of the stereotypes of his race
+- [[Ivar Wittlewood]] is a human past his prime with greying hair often tied into a braid. He owns  the **Parting Log**, and is the father of [[Skoldr Wittlewood]].
+- [[Skoldr Wittlewood]] is a human in his late 20s with dark hair often cut short. He has strong hands and arms, and is quite burly. He is the carpenter of [[Trayfort Keep]].
 # Locations
 ## Outer-City Fields
 ### Locations
@@ -53,6 +55,7 @@ The Blooming Run takes up the most amount of space of the districts. It houses t
 - [[Gilded Resolution]]
 - **Smithy** owned by Human smith [[Gilda]]. Nothing magical or spectacular, the cross-shaped building is at the centre of a crossroads, where its four forge rooms are working throughout the day to provide much of the district with metalwork.
 - **The Vorpal Keep** is located on the southern end of the northern Warrens. It is a roughly 60m diameter fortress which houses the barracks and command keep for the Ashen legion in the area. Notably
+- **The Parting Log** is a wood working shop and windmill owned by [[Ivar Wittlewood]]. The shop is able to do many different carpentry works, as well as specific pieces. There are a good number of apprentices working every day.
 - **Halo of Chains Rendezvous Town House**. A plot of land legally owned by **Elena Marcurio**, a pseudonym for [[Syndra]], using a large amount of hereditary wealth to purchase the property. It overlooks much of the Silver Strewn quarter as well as the adulation district while still being a great ways out of the way. It is built near a market of sorts and can house roughly 15 people comfortably.
 
 Outside of the Peddle is a simple, well kept cityscape with many places to dine, drink and live out your life.
