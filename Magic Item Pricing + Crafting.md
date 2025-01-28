@@ -53,4 +53,5 @@ Calculate based on rarity, amount of uses, half modifier for single-use items, a
 | [[Bag of Holding]]                 | Uncommon    | 400        |                                                                       |
 | [[Handy Haversack]]                | Rare        | 550        |                                                                       |
 | [[Ioun Stone of Leadership]]       | Cant recall | 7850       |                                                                       |
+| [[Potion of Rage]]                 | Very Rare   | 3100       | Can make with ground up horn of red dragon or smth                    |
 

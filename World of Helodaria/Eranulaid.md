@@ -12,7 +12,7 @@ tags: Lore
 - [[Iceflare Sea]]
 - [[Nightshade Peaks]]
 - [[Anaroth the Sun Mountains]]
-- [[Osara]] 
+- [[Osara the Isle of Teeth]] 
 - [[Basilisk Island]]
 
 ### Map

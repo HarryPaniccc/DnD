@@ -34,6 +34,10 @@ The kingdom is situated west of the [[Nightshade Peaks]]. The [[Maghlas Mountain
 - [[Fengate]] sits east of [[Banespear Mountain]].
 - [[Chestkrik]] is a small town that sits some 40 miles up the North-West road of [[Keldmire]].
 
+### [[Unnamed Forest South of Brocia]]
+
+- Idfk
+
 ### [[Eastern Wastes]]
 The large scar that stretches across the east third of the Kingdom and the greatest scar left on Eranulaid's land from the wars of [[The Fall]].
 

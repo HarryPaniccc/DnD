@@ -31,14 +31,12 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 
 ### Pilgrimage to [[Steinwalde]]
 
-- [[Session 83 - Pilgrimage to Steinwalde]]
+- [[Session 83 - Through the Sirkonian Countryside]]
+- [[Session 84 - Travel to Steinwalde]]
 
-Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]].
-
-Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip.
+Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 
 - Overload the chalice and maybe go to the hells?
-
 
 ### Count Einzbern
 Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**.

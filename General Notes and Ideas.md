@@ -6,6 +6,7 @@ tags:
 ### Miniatures
 - [ ] Rylai
 - [ ] Dusk
+- [ ] Kanan
 - [ ] Portcullis
 - [ ] Goblins
 - [ ] Stone Arches
@@ -15,15 +16,16 @@ tags:
 - [ ] Barrels + Boxes
 - [ ] New tables
 - [ ] Stalagmites
-- [ ] Generic Rogue (2 stabbies)
+- [x] Generic Rogue (2 stabbies)
+- [ ] Guards for [[Session 83 - Through the Sirkonian Countryside]]'s Manticore fight
 - [ ] Bowman/crossbowman
 - [ ] Chests
 ### Normal Stuff
 - [ ] **ANATHEMA**
+- [ ] Brocia locations and stuff
 - [ ] **Adamos Estate is in Dularen**
 - [ ] Rage potion
 - [ ] Name the mountains that Vasspryg is on
-- [ ] Have Darius assassinate the Stormshield clan
 - [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
 	- [ ] Thayan wizard woman with the vampires and stuff
@@ -67,6 +69,7 @@ tags:
 - [ ] Zitrumea Thieves Guild
 - [ ] Fall History
 - [ ] Innkeepers guild on Zitrumea
+ - [x] Have Darius assassinate the Stormshield clan
 - [x] Zakuul motivations
 - [x] Sirkon motivations
 # Scratch Notes

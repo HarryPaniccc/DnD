@@ -33,14 +33,12 @@ actions:
   - name: Claw
     desc: +5 to hit, (1d6 + 3) slashing damage
   - name: Tailspike
-    desc: Ranged weapon attack +5 to hit 100/200 ft. (1d4 + 3) piercing damage plus 1d6 poison damage and the target must succeed a DC 13 Constitution saving throw or be poisoned until the end of their next turn.
+    desc: Ranged weapon attack +5 to hit 100/200 ft. (1d4 + 3) piercing damage plus (1d6) poison damage and the target must succeed a DC 13 Constitution saving throw or be poisoned until the end of their next turn.
 
 bonus_actions:
   - name: Trumpeting Howl (1/Day)
     desc: Each enemy within 120 feet who can hear the manticore must succeed on a DC 13 Wisdom saving throw or be frightened of the manticore for 1 minute (save ends at end of turn). If the initial saving throw fails by 5 or more, a creature is also dazed while frightened in this way.
 ```
-
-
 
 # Female Manticore
 
@@ -49,9 +47,9 @@ name: Manticore (Female)
 size: Large
 type: Monstrosity (Skirmisher)
 alignment: Chaotic Evil
-ac: 13
-hp: 76
-hit_dice: 9d10 + 27
+ac: 15
+hp: 130
+hit_dice: 15d10 + 45
 speed: 30ft., fly 50ft.
 stats: [18,16,16,10,12,7]
 skillsaves:
@@ -60,7 +58,7 @@ skillsaves:
 damage_resistances: Piercing, Slashing
 senses: darkvision 60ft., passive Perception 13
 languages: Common, mimcry trait
-cr: 3
+cr: 6
 traits:
   - name: Agile Predator.
     desc: When the manticore hits a creature with an attack on the manticore's turn, the manticore doesn't provoke opportunity attacks from that creature for the rest of that turn.
@@ -71,15 +69,16 @@ actions:
   - name: Multiattack
     desc: The manticore makes one bite and one claw attacks. It can replace one of these attacks with a poisoned sting attack.
   - name: Bite
-    desc: +6 to hit, (1d8 + 4) piercing damage or (2d8 + 4) piercing damage if the target is frightened.
+    desc: +7 to hit, (1d8 + 4) piercing damage or (2d8 + 4) piercing damage if the target is frightened.
   - name: Claw
-    desc: +6 to hit, (1d10 + 4) slashing damage, and the manticore can move the target up to 5 feet horizontally.
+    desc: +7 to hit, (1d10 + 4) slashing damage, and the manticore can move the target up to 5 feet horizontally.
   - name: Poisoned Sting
-    desc: Reach 10ft., +6 to hit, (1d6 + 4) piercing damage and the target must make a DC 13 Constitution saving throw. On a failure they suffer 2d10 poison damage and are poisoned for 1 minute, save ends at end of turn, and while they are poisoned in this way they are dazed. On success, the target takes half as much damage and isnt dazed.
+    desc: Reach 10ft., +6 to hit, (1d6 + 4) piercing damage and the target must make a DC 14 Constitution saving throw. On a failure they suffer 2d10 poison damage and are poisoned for 1 minute, save ends at end of turn, and while they are poisoned in this way they are dazed. On success, the target takes half as much damage and isnt dazed.
 bonus_actions:
   - name: Trumpeting Howl (1/Day)
-    desc: Each enemy within 120 feet who can hear the manticore must succeed on a DC 13 Wisdom saving throw or be frightened of the manticore for 1 minute (save ends at end of turn). If the initial saving throw fails by 5 or more, a creature is also dazed while frightened in this way.
+    desc: Each enemy within 120 feet who can hear the manticore must succeed on a DC 14 Wisdom saving throw or be frightened of the manticore for 1 minute (save ends at end of turn). If the initial saving throw fails by 5 or more, a creature is also dazed while frightened in this way.
 ```
+
 
 
 

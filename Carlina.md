@@ -19,6 +19,6 @@ The village center is not very far from the main gate. A central square with a d
 
 - The [[Schwarzen Adler Inn]] (or the black eagle) - A large inn with a ground floor of sitting tables to the left, a bar curling to the right in the center and under-balcony beer kegs in the back of the room. To the left and the right are stairs leading to the upper balcony with three sitting booths, another small bar, and access to the rooms. The bar is owned and run by [[Friedrich van Scholer]]
 - **Stables** are around the village, but one right at the front gate is available to tend to traveler's horses.
-- [[Abandoned Clock Tower]] sits half burned down in the main center of the village.
+- [[Abandoned Clock Tower]] sits half burned down in the main center of the village. A rather massive, somewhat gothic structure of mostly stone and charred wood.
 - **Windmill and bakery** on a hill in the village where the wind from the mountain blows strongest.
 - There is a small marketplace that sprouted up along the road that runs to the right of the main square

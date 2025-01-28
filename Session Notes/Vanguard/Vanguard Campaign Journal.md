@@ -30,7 +30,8 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - 
 - [[Session 85 - Tournament of Trayfort Hold]]
 - [[Session 84 - The Trial of Silb Heft]] - Silb solo
-- [[Session 83 - Pilgrimage to Steinwalde]] - Kanan + Caede duo
+- [[Session 84 - Travel to Steinwalde]] - Kanan + Caede solo
+- [[Session 83 - Through the Sirkonian Countryside]] - Kanan duo
 - [[Session 82 - Meeting King Sirkon]]
 - [[Session 81 - Blessings of the Deathwatch]]
 # Arc 5: Sirkonos

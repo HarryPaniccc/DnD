@@ -1,0 +1,3 @@
+The Schwarzen Adler (Black Eagle) is a large inn with a ground floor of sitting tables to the left, a bar curling to the right in the center and under-balcony beer kegs in the back of the room. To the left and the right are stairs leading to the upper balcony with three sitting booths, another small bar, and access to the rooms. The bar is owned and run by [[Friedrich van Scholer]].
+
+It is 8sp to stay the night.
