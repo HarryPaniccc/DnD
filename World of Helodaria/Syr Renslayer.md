@@ -8,7 +8,7 @@ Renslayer is stern, does not have time for inferiors, and brutally efficient. *A
 
 He is affected by a permanent *Nystul's Magic Aura*, making him seem humanoid and alive. Renslayer famously ride [[Chiaross]], a dragon that appears to be an adult brass dragon, but is in truth a red affected by *Seeming* and *Nystul's Magic Aura*.
 # History
-Once the leader of the Armies of the [[Empire of Thay]] and protector of [[Desseran]], Renslayer marched against the [[Sirkonos]] during [[The Fall]]. He was turned by [[King Sirkon]] alongside many. Later he was chosen by Orcus, maybe Orcus then Sirkon? Makes sense. Marched on the [[Nightshade Peaks]] and then later wanted to expand into Sirkonos.
+Once the leader of the Armies of the [[Thay]] and protector of [[Desseran]], Renslayer marched against the [[Sirkonos]] during [[The Fall]]. He was turned by [[King Sirkon]] alongside many. Later he was chosen by Orcus, maybe Orcus then Sirkon? Makes sense. Marched on the [[Nightshade Peaks]] and then later wanted to expand into Sirkonos.
 # Statblock
 
 ```statblock

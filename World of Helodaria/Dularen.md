@@ -10,11 +10,14 @@ The city is not only a centre for the wealthy but also a utopia for thieves. All
 The large city has to be divided into districts, otherwise there would be no order or getting around the place. The districts are as follows: the Warrens, upper and lower, the Silver-Sewn Quarter, the Outer-City fields, the Adulation District and the Blooming Run (or the Bloom for short).
 
 The Outer-City fields is the name of the region south of the city. The richest of families and clans live in this farmland area, dotted with villas and fortresses and many of the more rich farms, such as grapevines and crops used in the liquor industry, as well as smaller food farms tended to by servants in order to keep the nobles independently fed. It is somewhat more dangerous to live outside of the city limits, however, and those who are unable to privately fund a defensive garrison usually are in danger of being robbed by highwaymen.
+
 # History
 
 # Notable Characters
+
 - [[Alfred Gundrei]]
 - [[Veylan Glovir]]
+- [[Persephone Adamos]] is a beautiful [[Pyleas|Pylean]] woman and member of the [[Uldronos Council]]
 - [[Brindor Shieldwall]] Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent
 - [[Lorgar Thell]] is the High Walker Half-Elven Cleric of the raven queen. He wears simple black priestly robes with tight sleeves and a deep hood. He has cold brown and deepening grey hair. He is often tending to the Grave Nests more valuable mausoleum in the central temple. He sounds like Bill Nighy.
 - [[Veylan Glovir]] female human cleric of the Raven Queen. She has short, dark black hair and dark green eyes. She is one of the clerics that serves in the Grave Nest
@@ -30,6 +33,7 @@ The Outer-City fields is the name of the region south of the city. The richest o
 # Locations
 ## Outer-City Fields
 ### Locations
+
 - [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. It is within an hour's ride from the city.
 - [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (3 hour normal travel). 
 ## Silver-Strewn Quarter
@@ -37,9 +41,11 @@ The Silver-Sewn Quarter is a walled-off, central part of the City, and it is whe
 
 Notable interior features include well-kept gardens, rich houses and, interestingly, copper lines sewn into the well crafted streets, along which magically propelled trams glide silently through the district.
 ### Locations
-- [[Castle Anavar]], home to [[House Vanariel]] 
+
+- [[Castle Anavar]], home to [[House Vanariel]]
 - The [[Court of Verdicts]], a large stone pillared structure, made with sections of dark, strong oak and stone, acting as the primary meeting place for the [[Uldronos Council]].
 - The Imperial Annals (I am going to regret this name), is a stark structure of marbled stone and various pillars. It contains an incredible collection of knowledge, and operates as both a library and a meeting place for the Imperial Arcanists.
+- [[Adamos Estate]] is a large property with rich gardens and home to the [[Adamos Family]]. Now, [[Persephone Adamos]] is the sole owner and her entourage of advisors stay with her too. The central keep has far more windows than other structures of the district, and large mosaics adorn many of the outer and inner walls. 
 ## Adulation District
 The Adulation District is the district devoted solely to worship of the Gods, their temples taking up a large portion of the space in this district. There are temples devoted to [[Tyr]], the [[Bahamut]], [[Corellon]] and [[Moradin]], but the largest structures in the area are the greater of the temples: The [[Grave Nest]], the [[Dularen Heart-Kiln]], and the [[Spire of Radiance]]. Being an area of great holy value, there are [[Lawbearers]] that patrol the streets, vigilantly ensuring that the peace of worship is undisturbed.
 ### Locations

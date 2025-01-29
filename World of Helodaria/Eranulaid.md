@@ -32,6 +32,6 @@ Eranulaid once had many civilisations across it that had good relations to the g
 
 The oldest cities on Eranulaid are [[Desseran]], [[Diredahl]], what was once [[Maithor]]
 
-## The [[Empire of Thay]]
+## The [[Thay]]
 ## The Sundering of Thay
 ## [[The Fall]]

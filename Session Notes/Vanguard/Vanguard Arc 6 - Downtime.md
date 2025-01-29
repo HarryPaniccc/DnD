@@ -17,13 +17,25 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 # Random ideas that don't fit anywhere
 
 - Vin-like rogue girl
-- The Sirkonos Thri-Kreen shop
 - People coming to the vanguard
 - Connections and **friends and allies** - [[Viscount Gale Luthrand]] for example and Tevis' connections
 - Use the retainers thing
 - **SWIM FROM MIDVALE PLEDGES ALLEGIANCE TO THE VANGUARD WITH LIZARDFOLK**
 - Tournament hosted by the Vanguard to find those willing to fight for them
 
+# Units per Character
+---
+The PC's are going to be accumulating allies throughout this period.
+### Communal
+- Whatever is added to [[Trayfort Keep]]
+### Caede
+- [[Count Drakus]] acts as an **Ambassador** for Caede
+- 
+### Kanan
+- **Thayan Scribe** as a steward
+- **Changeling Spy** for his work in the [[Sirkonos|Sirkonian]] courts
+### Rylai
+- Maybe a tailor? idfk
 
 # [[Kanan Einzbern|Kanan]]
 ---
@@ -31,8 +43,8 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 
 ### Pilgrimage to [[Steinwalde]]
 
-- [[Session 83 - Through the Sirkonian Countryside]]
 - [[Session 84 - Travel to Steinwalde]]
+- [[Session 83 - Through the Sirkonian Countryside]]
 
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 
@@ -67,6 +79,18 @@ The Vanguard have been gone from their home for some time, and during that time 
 - [ ] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
+
+### [[Ley Lines]] and the [[Elemental Plane of Air]]
+Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
+
+- Her research will lead her to 
+- [[Sylphmade Scarf]] (flying scarf thing like Serpico's cloak)
+- 
+
+### [[Darius Nubide]]
+
+### [[Lina Sweetsong]]
+
 
 >[!Note]
 >Use a **layleech** from flee mortals

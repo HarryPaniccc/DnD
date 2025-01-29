@@ -23,8 +23,9 @@ tags:
 ### Normal Stuff
 - [ ] **ANATHEMA**
 - [ ] Brocia locations and stuff
-- [ ] **Adamos Estate is in Dularen**
+- [ ] [[Imperial Arcanists]] and their arbiters.
 - [ ] Rage potion
+- [ ] [[Eranulaid History]]
 - [ ] Name the mountains that Vasspryg is on
 - [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**

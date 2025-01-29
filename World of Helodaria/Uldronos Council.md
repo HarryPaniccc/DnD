@@ -4,7 +4,7 @@ tags:
 ---
 # History
 ---
-[[Uldrinea]] was the [[Isaura|Isauran]] elf that united the founding houses of [[Ruina]] preventing a war. She is either the mother or grandmother of [[Ulrandir Vanariel]].
+[[Uldrinea]] was the [[Isaura|Isauran]] elf that united the founding houses of [[Ruina]] preventing a war. She is either the mother or grandmother of [[Ulrandir Vanariel]]. She perished in his birth I think makes sense.
 # Members
 ---
 ## Current Members
@@ -42,18 +42,11 @@ Certain seats of the council are given duties that their families naturally evol
 ## Families of Ruina
 
 - The Gravis family is known for their estate of wine found in splitmount. Lord Enthale currently sits in an uldronos council seat.
-    
 - [The Ironstones](https://docs.google.com/document/d/13w5_6RgL7_Y474WnyhimVfk5VPi0UiRvcO4kg4IrFAk/edit#bookmark=id.h3wl60g57m3i) are a rich dwarf family with ownership of the mithril mine and Ironstone Cellars, along with the refinery responsible for casting the mithril. They are situated in the Wyrm hole.
-    
 - The Brimheart family is a human bloodline that has been around since the founding of Ruina, originally hailing from central Eranulaid. Only in the latest 2 generations have they gained an extraordinary amount of affluence and power outside of the Ruinan council. Their family court is situated overlooking the [Amberloch](https://docs.google.com/document/d/13w5_6RgL7_Y474WnyhimVfk5VPi0UiRvcO4kg4IrFAk/edit#bookmark=id.3xhsubxurv3t), and it is here that the last of their true bloodline and his wife plot to grow their family's power. Currently they are involved with Devils, using a mutual deal to gain power.
-    
-
 - Sylas Brimheart is Ulysses’ father. Deceased.
-    
 - Earl Ulysses Brimheart is the last son of the Brimheart lineage. A well groomed man with a sharp goatee and fine, almost militaristic clothes. He has dark brown eyes, and his hair is long and kept back.
-    
 - General Nalamor, Pit Fiend. A renowned and respected general of the Nine Hells, Nalamor has taken it upon himself to deal with Ulysses Brimheart, as the noble’s tenacity and cunning has proven that it requires direct influence. Nalamor is cruel and cunning.
-    
 
   
 

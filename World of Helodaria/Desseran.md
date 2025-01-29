@@ -3,13 +3,13 @@ tags:
   - Settlement
 ---
 >[!Landing Notes]
->- [[Empire of Thay]]
+>- [[Thay]]
 >- [[The Fall]]
 >- Original stuff linking to the Thayan wizards
 >- The Sundering and Seduction
 # Description
 ---
-The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Empire of Thay]]. The city
+The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay]]. The city
 ## Politics
 ### The council who runs the city, made up of leaders of various factions
 - Leader of the [[Thayan Orthodoxy]]
@@ -34,5 +34,9 @@ The city has a rich history of religious conflict and various worships, many bei
 ### The [[Platinum Talon]]
 The order of the [[Platinum Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
 
-## Etc
+## The [[Red Wizards of Thay]] 
+
+0800 005 559
++27 102 49 0098
+
 # Locations

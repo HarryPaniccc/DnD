@@ -15,3 +15,6 @@ The world of Helodaria is one of magic and ancient conflicts. Of thieving rogues
 - [[Eranulaid]] is the northmost continent and the ancestral home of [[Human]] civilisation. Once host to a great empire spanning every coast, now shattered into a multitude of various realms.
 - [[Dakhor]] To the south
 - [[Sundance Isles]]
+
+
+#TODO Helodaria exists on the [[Material Plane]] of the [[Planes of Existence]]

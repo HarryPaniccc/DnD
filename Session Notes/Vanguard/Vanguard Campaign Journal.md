@@ -10,18 +10,14 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - Await a message from [[Darius Nubide]]
 - Restore the [[Einzbern Hold]]
-- [[Prince Artorius Sirkon]] has [[Kanan Einzbern]] sending stone pair
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th) - quest for the ransacked village
-- Pay the [[Ashen Legion]] (Since 25th Lathandromahn), 200Pp already paid, lets just say repaid already
-- Retrieve the [[Potion of Fire Giant Strength]]s from [[Shrute]] (Banahras 11th)
 - Heal Tevis
 - Reforge [[Anathema]]
-- Await [[King Sirkon]]'s summons
 - Repair the [[Leviathan Axe]]
 # Arc 7: King at the End of the World
-- [[Merrshaulk]] temple? like [This](https://forgottenrealms.fandom.com/wiki/Merrshaulk)
+- [[Vanguard Arc 7 - Unnamed]]
 - 
 # Arc 6: Downtime
 
