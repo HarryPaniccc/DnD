@@ -119,7 +119,8 @@
               "title": "Desseran"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -253,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "World of Helodaria/Desseran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Notes and Ideas"
+              "title": "Outline of Desseran"
             }
           },
           {
@@ -327,8 +328,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3062ac46bd8eabe2",
+  "active": "af038168cc18132a",
   "lastOpenFiles": [
+    "General Notes and Ideas.md",
     "Vanguard Arc 7 - Unnamed.md",
     "Eranulaid History.md",
     "World of Helodaria/Thay.md",
@@ -336,7 +338,6 @@
     "Uladar.md",
     "World of Helodaria/King Sirkon.md",
     "World of Helodaria/Desseran.md",
-    "General Notes and Ideas.md",
     "Orcs.md",
     "Elves.md",
     "World of Helodaria/Eranulaid.md",

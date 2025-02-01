@@ -36,7 +36,4 @@ The order of the [[Platinum Talon]] is often believed to have originated from De
 
 ## The [[Red Wizards of Thay]] 
 
-0800 005 559
-+27 102 49 0098
-
 # Locations
