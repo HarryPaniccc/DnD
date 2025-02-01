@@ -8,7 +8,7 @@ tags: Lore
 
 
 
-Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age.
+Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age. The most important events are catalogued here, but often settlements or regions require their own histories.
 # The Eternity of Before
 ---
 Once, before history was even a concept and memory was not defined, the planes were young and the first entities were still finding their permanent forms. The multiverse was a primal amalgamation of chaos, a vast ocean of elemental energy. This was the world that was ruled by the aboleths. They forged their empire, and ruled over the beginnings of life with an iron fist, over an eternal abyss of waters and emptiness and chaos.

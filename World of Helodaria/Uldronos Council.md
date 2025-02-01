@@ -16,7 +16,7 @@ tags:
 - [[Enthale Gravis]] - lawmaster. Old note in his thing. Scribe sort.
 - [[Eegio Pemberton]]. Think scientist from underdog.
 - [[Harrix]]
-- [[Gwendolyn RENAME]]
+- [[Gwendolyn Yuri]]
 - [[Holdren the Unfelled]]
 ## Former Members
 - [[Ulrandir Vanariel]]
@@ -134,18 +134,13 @@ They often are called to defend the world against dark threats.
 
 ### Characters:
 
-                                   Students
+Students
 
 - Sophia human monk. Think connie from SU. +-15 years old. Quite petite, gets quite annoying, sort of over talkative. Wears light blue robe with maroon highlights, a tight wrapping around her waist and nearly tight fighting pants, with wrapped shoes. She spends her time learning about how to focus her keen mind through physicality and her spirit, and has learned of using her ki in magic through the way of the lotus.
-    
 - Serana (Tiefling cleric/monk. Very serious and quite edgy. Black tiefling with yellow eyes and a tattoo along the entire left side of her body. She wears a black version of season 4 korra's clothes and light fur boots. She wields an odd divine power, she is learning to focus her innate divinity through spirituality. Very physical stature)
-    
 - Roku (half orc kensei. He sought out the monks in order to find peace with who he is (unwilling human mother) he focusses his strength in using a nodachi, and wears samurai like robes. He is calm minded and happy. Voice is Genji)
-    
 - Albus Thresh (human way of the open hand. He is inflicted with the curse of lycanthropy as a werewolf. He trains his physical body and spiritual self to one day be able to control himself when the curse grows too strong. Voice: Tom cruise, looks like that card)
-    
 - Akira (Human orochi. Way of the kensei. Voice: “I am Akira. He has short brown hair and light skin. He wears orochi armour without the helmet, but rather with a mask around his face. He uses a katana)
-    
 
 Masters
 
@@ -165,15 +160,10 @@ Masters
 ### Teachers:
 
 - Professor Kvothe 
-    
-- Professor Eoulin
-    
-- Professor Iliana, head of necromancy
-    
 
-  
-  
-  
+- Professor Eoulin
+
+- Professor Iliana, head of necromancy
 
 ## The Devil’s Hand
 
@@ -209,85 +199,29 @@ Worship Bahumat, Tyr and Lathander as their primary trio of gods within the Empi
 
 With the empire of Ruina being so magically inclined, the government would need some intermediary to interact with the magical world so the Arcanists were formed. The largely imperial group is dedicated to all super magical occurrences in Ruina, and with researching and safeguarding magic for the Empire, along with developing magics that can be used by the Empire. The create magical items, oversee the teaching of magic by the scholarship and by others, safeguard powerful artifacts and tomes, and keep a watch on any unique individuals. The also play a small part in the guard force, as their Sentinels are a sort of magical guard, but are more scarce and are usually restricted to larger cities. They are a sort of magical policing force, operating where the guard would likely be too brutish, where a scalpel is needed, not a hammer.
 
-  
-
 They have collected many artifacts over the years, and have forged alliances with mythical beasts. The most notable of these are the Flame of Reality and the Magi Talismans. The flame is being protected on the top levels of the Ixalan Complex and the Talismans are guarded by 2 individuals, half of them are with the grandmage of the Arcanists, and the other half are in the possession of the Ancient Silver Dragon Harix, who lives at the top of the complex.
 
-  
 
 Generally, everyone involved with the Arcanists wields the following: 
 
 - cloak of protection, around their hip
-    
 - Winged boots
-    
 - Uniform robes
-    
-
-  
 
 ### The Sentinels
 
 Are the “military” of the arcanists. A small group of wizards devout to the empire, but too valuable to be wasted in the ranks of the guard. They are a sect of skilled enforcers loyal primarily to Lord Newbide, but also in part to Gwendolyn Yuri. All are trained in unarmed combat and the use of magic. Some are sorcerers, others practised wizards and all are given the freedom to distribute their training hours in whatever ratio that they see fit.
 
-  
-
 They wear coats
 
 - Lina Sweetsong. Rylei Sweetsongs estranged sister. She has deep brown eyes and short brown hair. The halfling woman is a skilled bladesinger, and completely and implicitly loyal to Darius Newbide.
-    
-
 ### Key Players
-
-- Grandmaster Gwendelyn “Lyn” Yuri. Red haired younger version of Suyin beifong. She acts wiser than she looks, around 38 years old, and commands immense magical power. She is widely regarded as possibly the most powerful magic user in all of Ruina. She came into her position as arch mage of the arcanists in the year 803 PF at the age of 29, the youngest of all arch mages before her by at least a decade.
-    
-
-  
 
 On her right arm, she is decorated with four of the eight Magi Talismans: the charms of Evocation, Conjuration, Abjuration and Enchantment, giving her the given boosts associated with those items. As well as the Talismans, the other magical items she bears are: a boosted charm of protection (operates as a +2 ring of protection, worn on her hip), a Robe of Archmagi (used sparingly as a belt), and Winged Boots.
 
 - High Arbiter Gideon Quandary.
-    
 - Master Harix, the Adult Silver Dragon. Born around 300 years prior, he acted as one of the primary guides to Founder Ixalan when he founded the arcanists.
-    
 - Ixalan, the great founder. One of the grandmages of past, he built the Ixalan complex when he came into possession of the flame of reality. The complex housed his friend Harix the silver dragon and the flame. Harix would be tasked with protecting the flame until death.
-    
-- Arbiter Aramis Terelon. A High Elf man of just below collar bone length blond hair with darker ends and beautiful green eyes. He wears dark aquamarine and black robes with light pauldron shoulder pads and silver inlay. He is firm in tone and intelligent
-
-## The Order of Concept
-
-Members:
-
-- Holdren the unfelled
-    
-- Loukav the Arcbringer
-    
-- Grandmaster Lyn
-    
-- One of the high priests
-    
-- Jarren Ward.
-    
-
-- Born in Dularen with his twin brother Idris
-    
-- Spent his time as a street kid with honour breaking the law but helping the weaker
-    
-- Eventually joined a tomb-raider group with his brother
-    
-- He went to left Ruina once in his life, going to Sirkonos and then to the continent of Zitrumea as part of a favour to one of the noble families from Sirkonos before returning to Ruina and doing a little work as a sort of Eldritch Detective alongside the Arbiters of the Empire
-    
-- He became famous for dealing with a blooming vampire infestation in the Dwarven fortress-city of Mountreach
-    
-- Following that he became a monster hunter, helping a group known as the order of concept, an adventuring party while still working with the Arbiters sporadically
-    
-- He then returned to Sirkonos roughly 19 years after, never to return
-    
-
--   
-    
-
-  
 
 ## Barony Mercenaries
 
@@ -405,10 +339,7 @@ The Paladins of Lathander eventually grew to understand the danger of this cult,
 ### Key Players
 
 - Mikael.
-    
 - Tevis. Born in 788PF
-    
-
 ### Other Characters
 
 - Sigmund, before Mikael, looks like Mikael

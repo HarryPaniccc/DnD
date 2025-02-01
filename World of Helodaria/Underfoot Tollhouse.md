@@ -22,3 +22,5 @@ The upper shop of the [[Underfoot Tollhouse]] trades in spices and herbs and pow
 - Winterwolf pups
 - Drow poison
 - Some kind of unholy relic
+- A [[Scrying Eye]]
+- 

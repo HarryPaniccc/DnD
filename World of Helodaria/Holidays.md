@@ -16,7 +16,7 @@ Holidays that are celebrated across [[Helodaria]] that aren't localized to any s
 ### [[Ruina|Ruinan]] Holidays
 
 - [[Winter’s Valley Festival]] - A midwinter festival celebrated in [[Ruina]] on the longest night of winter, starting as soon as the sun can no longer be seen and ending at sunrise.
-### [[Elf|Elven]] Holidays
+### [[Elves|Elven]] Holidays
 
 - [[Tharanuhel Festival]] - An elvish festival that celebrates expression and is the holy day of the [[Sehanine]], the Moon Heart. #TODO add to Sehanine's block
 

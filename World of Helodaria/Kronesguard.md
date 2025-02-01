@@ -7,6 +7,7 @@ The Kronesguard are the official military of the [[Sirkonos]]. At the top of the
 # Details
 ---
 ## Battalions
+
 - [[Battalion of the Silver Arrow]]
 - [[Order of the Rose]]
 - [[Battalion of the White Cavalry]]

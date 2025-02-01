@@ -36,6 +36,90 @@
         }
       ],
       "title": "Tabs for data import"
+    },
+    {
+      "type": "graph",
+      "ctime": 1738305980735,
+      "title": "Graph with tags",
+      "options": {
+        "collapse-filter": true,
+        "search": "-path:Statblocks -path:Templates  ",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": true,
+        "collapse-color-groups": true,
+        "colorGroups": [
+          {
+            "query": "tag:#Core  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "tag:#Settlement  ",
+            "color": {
+              "a": 1,
+              "rgb": 15120476
+            }
+          },
+          {
+            "query": "path:\"Session Notes\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "path:Items",
+            "color": {
+              "a": 1,
+              "rgb": 11752160
+            }
+          },
+          {
+            "query": "tag:#PC  ",
+            "color": {
+              "a": 1,
+              "rgb": 65450
+            }
+          },
+          {
+            "query": "tag:#Character  ",
+            "color": {
+              "a": 1,
+              "rgb": 6012509
+            }
+          },
+          {
+            "query": "tag:#Rules  ",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "tag:#Lore",
+            "color": {
+              "a": 1,
+              "rgb": 65505
+            }
+          }
+        ],
+        "collapse-display": true,
+        "showArrow": false,
+        "textFadeMultiplier": 0,
+        "nodeSizeMultiplier": 1.22291666666667,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0.4495841995842,
+        "repelStrength": 10.4209101915818,
+        "linkStrength": 1,
+        "linkDistance": 132,
+        "scale": 0.1982762976584814,
+        "close": true
+      }
     }
   ]
 }

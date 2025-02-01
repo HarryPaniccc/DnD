@@ -13,7 +13,6 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - [[Isilme Vanariel]] - 203Gp
 - [[Dusk]] - 101Pp 26Sp
 
-
 # Random ideas that don't fit anywhere
 
 - Vin-like rogue girl
@@ -81,10 +80,14 @@ The Vanguard have been gone from their home for some time, and during that time 
 - [ ] Find [[Lina Sweetsong]]
 
 ### [[Ley Lines]] and the [[Elemental Plane of Air]]
+
+- [[Session 85 - Search for the Ley Line]]
+
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
-- Her research will lead her to 
+- Her research will lead her to understanding Magic and the connection of [[Ley Lines]] and the [[Elemental Plane of Air]]
 - [[Sylphmade Scarf]] (flying scarf thing like Serpico's cloak)
+- [[Akadi]] the [[Primordials|Primordial]] of air
 - 
 
 ### [[Darius Nubide]]
@@ -107,7 +110,6 @@ Rylai desires some kind of way to expel her sorcerous magic, rejecting who she w
 # [[Isilme Vanariel|Isilme]]
 ---
 ### [[Minra Vanariel]]
-
 
 ### [[Ulrandir Vanariel]]
 

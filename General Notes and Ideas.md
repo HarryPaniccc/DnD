@@ -82,6 +82,10 @@ tags:
 - City of the glass moon
 - Check the soul bound party from Flee, Mortals!.pdf
 - Westenra (Woman lead of Dracula) is a cool name for a Sirkonian Town
+
+# Rylai
+---
+Clone stuff - how does that make sense (Joshi talk)
 # [[Zakuul]]
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Ruina|Ruina]]

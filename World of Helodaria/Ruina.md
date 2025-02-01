@@ -77,9 +77,8 @@ The Republic of Ruina has many major gods that they worship, with other deities 
 #TODO add lawbearers to tyrs document
 ## Other Factions
 ### The [[Imperial Arcanists]]
-The Imperial Arcanists were formed some 300 years after the founding of the [[Uldronos Council]]. They
+The Imperial Arcanists were formed some 300 years after the founding of the [[Uldronos Council]]. As a faction they are interested in the growth of magical understanding, and their [[Arbiters]] are responsible for regulating and ordering Ruina. Their archmagi have seats on the [[Uldronos Council]].
 ### The [[Devil's Hand]]
-
 
 
 ---

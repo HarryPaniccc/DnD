@@ -309,404 +309,6 @@
       "active": "bfcde9d18431abdd",
       "mtime": "2025-01-17T23:03:24+02:00"
     },
-    "Next Session Planning": {
-      "main": {
-        "id": "e3ca7fd74647b9f6",
-        "type": "split",
-        "children": [
-          {
-            "id": "ad403f483996d6ec",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "08389105e0321ab7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 83 - or whatever idk how Im going to do this.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 83 - or whatever idk how Im going to do this"
-                }
-              },
-              {
-                "id": "1ee7a9cc7f4b5cc4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Diredahl.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Diredahl"
-                }
-              },
-              {
-                "id": "e98ad8df91efaa31",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Battalion of the Red Fountain.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Battalion of the Red Fountain"
-                }
-              },
-              {
-                "id": "7eeb1325fc2f596c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Viscount Gale Luthrand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Viscount Gale Luthrand"
-                }
-              },
-              {
-                "id": "a264cd40682ec625",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kronesguard.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kronesguard"
-                }
-              },
-              {
-                "id": "eed52d1477f757cc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Leerehalt.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Leerehalt"
-                }
-              },
-              {
-                "id": "496c6a4641eaf04b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Helodaria"
-                }
-              },
-              {
-                "id": "131da596613f77a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kingdom of Sirkonos"
-                }
-              },
-              {
-                "id": "d37ae4e66df1bff5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Keldmire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Keldmire"
-                }
-              },
-              {
-                "id": "8eacf08502a311df",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Einzbern Hold.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Einzbern Hold"
-                }
-              },
-              {
-                "id": "94eb376031daeb8c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Dularen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dularen"
-                }
-              },
-              {
-                "id": "84838bb556769568",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Items/Anathema.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anathema"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "d7ebda78c129d618",
-        "type": "split",
-        "children": [
-          {
-            "id": "8ca0f1d486588d8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b2a6831c271b3d7",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "ee81b9515bf62e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "990cb2f371a0b860",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 291.5
-      },
-      "right": {
-        "id": "ea35a9a317969db7",
-        "type": "split",
-        "children": [
-          {
-            "id": "5ece3774c37e9648",
-            "type": "tabs",
-            "dimension": 48.65196078431372,
-            "children": [
-              {
-                "id": "4cb96e6d4287e8a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Notes and Ideas.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "General Notes and Ideas"
-                }
-              },
-              {
-                "id": "b3c79ccde858898a",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Vanguard Campaign Journal.md",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Session 81 -"
-                }
-              },
-              {
-                "id": "e26a69bedfa5e5f1",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Session Notes/Session 81 -.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from Session 81 -"
-                }
-              },
-              {
-                "id": "dfa8baabc6155b2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "f913bfe3e075c876",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "General Notes and Ideas.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Session 81 -"
-                }
-              },
-              {
-                "id": "c21e89a76f4631bf",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              }
-            ]
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "dimension": 51.34803921568627,
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Guidelines"
-                }
-              },
-              {
-                "id": "fc6e4fe2893dcbd8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
-                }
-              },
-              {
-                "id": "0b6a92f621642cae",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 313.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-5e-statblocks:Open Creature Pane": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "1ee7a9cc7f4b5cc4",
-      "mtime": "2025-01-03T11:35:50+02:00"
-    },
     "Updating Character Notes": {
       "main": {
         "id": "e3ca7fd74647b9f6",
@@ -1317,32 +919,8 @@
               {
                 "id": "745e293b6b6b2d1a",
                 "type": "tabs",
-                "dimension": 69.2233009708738,
+                "dimension": 55.96153846153846,
                 "children": [
-                  {
-                    "id": "131da596613f77a7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "d37ae4e66df1bff5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Keldmire.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
                   {
                     "id": "94eb376031daeb8c",
                     "type": "leaf",
@@ -1352,7 +930,9 @@
                         "file": "World of Helodaria/Gilded Resolution.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Gilded Resolution"
                     }
                   },
                   {
@@ -1364,16 +944,18 @@
                         "file": "World of Helodaria/Wooden Fang.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Wooden Fang"
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 1
               },
               {
                 "id": "6766ff34b17bd769",
                 "type": "tabs",
-                "dimension": 30.776699029126213,
+                "dimension": 44.03846153846154,
                 "children": [
                   {
                     "id": "84838bb556769568",
@@ -1381,10 +963,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Items/Anathema.md",
+                        "file": "Magic Item Pricing + Crafting.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Magic Item Pricing + Crafting"
                     }
                   }
                 ]
@@ -1403,34 +987,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Item Pricing + Crafting.md",
+                    "file": "World of Helodaria/Underfoot Tollhouse.md",
                     "mode": "source",
                     "source": false
-                  }
-                }
-              },
-              {
-                "id": "38cbbfd3e061c990",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b9cc07a656f3774f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Vessel of Avarice.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Underfoot Tollhouse"
                 }
               }
             ]
@@ -1452,8 +1014,11 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
-                  }
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               },
               {
@@ -1468,7 +1033,9 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
                 }
               },
               {
@@ -1476,7 +1043,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ],
@@ -1505,7 +1074,9 @@
                     "file": "General Notes and Ideas.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
                 }
               },
               {
@@ -1514,7 +1085,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Wooden Fang.md",
+                    "file": "World of Helodaria/Underfoot Tollhouse.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1522,7 +1093,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Underfoot Tollhouse"
                 }
               },
               {
@@ -1531,10 +1104,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "World of Helodaria/Wooden Fang.md",
+                    "file": "World of Helodaria/Underfoot Tollhouse.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Underfoot Tollhouse"
                 }
               },
               {
@@ -1544,8 +1119,12 @@
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
                 }
               },
               {
@@ -1554,8 +1133,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Wooden Fang.md"
-                  }
+                    "file": "World of Helodaria/Underfoot Tollhouse.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Underfoot Tollhouse"
                 }
               },
               {
@@ -1567,7 +1151,9 @@
                     "sortOrder": "frequency",
                     "showSearch": false,
                     "searchQuery": ""
-                  }
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -1586,19 +1172,19 @@
                     "file": "Guidelines.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
                 }
               },
               {
                 "id": "fc6e4fe2893dcbd8",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               },
               {
@@ -1606,7 +1192,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
@@ -1629,8 +1217,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "3f34e163cf06361f",
-      "mtime": "2024-09-07T15:12:18+02:00"
+      "active": "40102b41aa6cbe2f",
+      "mtime": "2025-02-01T11:37:00+02:00"
     },
     "Gunslinger Tech": {
       "main": {
@@ -1871,276 +1459,6 @@
       "active": "b6105ae45d326a28",
       "mtime": "2025-01-21T13:13:43+02:00"
     },
-    "Sirkonos Updates": {
-      "main": {
-        "id": "e3ca7fd74647b9f6",
-        "type": "split",
-        "children": [
-          {
-            "id": "745e293b6b6b2d1a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "43fd1749389436ac",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "83974515802cd5af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4cc5850f8596e5e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Brocia.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "367e8834698f4f0d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Azim Krasis.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cada5b4d0930a7b8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Keldmire.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "93c248d71fc56c3b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Eranulaid.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "97dcac6cc9dc404d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Diredahl.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 6
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "d7ebda78c129d618",
-        "type": "split",
-        "children": [
-          {
-            "id": "8ca0f1d486588d8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b2a6831c271b3d7",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "ee81b9515bf62e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "990cb2f371a0b860",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 258.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "ea35a9a317969db7",
-        "type": "split",
-        "children": [
-          {
-            "id": "5ece3774c37e9648",
-            "type": "tabs",
-            "dimension": 64.93055555555556,
-            "children": [
-              {
-                "id": "4cb96e6d4287e8a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Notes and Ideas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e26a69bedfa5e5f1",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "dfa8baabc6155b2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "f913bfe3e075c876",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md"
-                  }
-                }
-              },
-              {
-                "id": "c21e89a76f4631bf",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  }
-                }
-              },
-              {
-                "id": "c23ef36c245d35da",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "World of Helodaria/Republic of Ruina.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "dimension": 35.06944444444444,
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 337.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "obsidian-5e-statblocks:Open Creature Pane": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "97dcac6cc9dc404d",
-      "mtime": "2024-08-05T14:33:02+02:00"
-    },
     "Next Arc Planning": {
       "main": {
         "id": "e3ca7fd74647b9f6",
@@ -2207,20 +1525,6 @@
                 }
               },
               {
-                "id": "bd329ec0552a895e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Red Wizards of Thay.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Red Wizards of Thay"
-                }
-              },
-              {
                 "id": "2891cd88d5407067",
                 "type": "leaf",
                 "state": {
@@ -2247,9 +1551,23 @@
                   "icon": "lucide-file",
                   "title": "Zakuul"
                 }
+              },
+              {
+                "id": "fdeaa2a156954d8c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Uladar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Uladar"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -2315,7 +1633,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 50.78299776286354,
+            "dimension": 56.15384615384615,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -2383,10 +1701,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Thay.md"
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Thay"
+                  "title": "Outline of Eranulaid"
                 }
               },
               {
@@ -2403,12 +1724,13 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
             "type": "tabs",
-            "dimension": 49.21700223713646,
+            "dimension": 43.84615384615385,
             "children": [
               {
                 "id": "bf82f9f28d38c15b",
@@ -2453,8 +1775,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "d1770a0f84c0e9b7",
-      "mtime": "2025-01-29T18:14:36+02:00"
+      "active": "7b45faf6b970b357",
+      "mtime": "2025-02-01T12:34:10+02:00"
     },
     "Updating Deity and World": {
       "main": {
@@ -4046,6 +3368,20 @@
             "type": "tabs",
             "children": [
               {
+                "id": "d6aace93b6a38761",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
                 "id": "08389105e0321ab7",
                 "type": "leaf",
                 "state": {
@@ -4057,6 +3393,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Vanguard Arc 6 - Downtime"
+                }
+              },
+              {
+                "id": "236e0a5530437658",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session 85 - Search for the Ley Line.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 85 - Search for the Ley Line"
                 }
               },
               {
@@ -4085,6 +3435,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Trayfort Keep"
+                }
+              },
+              {
+                "id": "db872d32c0c46464",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ruina"
                 }
               }
             ]
@@ -4139,7 +3503,8 @@
                   "title": "Bookmarks"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -4153,7 +3518,6 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 49.1421568627451,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -4221,10 +3585,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md"
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Arc 6 - Downtime"
+                  "title": "Outline of Vanguard Campaign Journal"
                 }
               },
               {
@@ -4241,72 +3608,11 @@
                   "title": "All properties"
                 }
               }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "dimension": 50.857843137254896,
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Guidelines"
-                }
-              },
-              {
-                "id": "fc6e4fe2893dcbd8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
-                }
-              },
-              {
-                "id": "7564bc8b83f56f6a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Helodaria"
-                }
-              },
-              {
-                "id": "0b6a92f621642cae",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 385.5
+        "width": 289.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4320,8 +3626,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2025-01-29T16:55:35+02:00"
+      "active": "d6aace93b6a38761",
+      "mtime": "2025-02-01T11:09:58+02:00"
     }
   },
   "active": "Next Arc Planning"

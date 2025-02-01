@@ -44,7 +44,7 @@ Notable interior features include well-kept gardens, rich houses and, interestin
 
 - [[Castle Anavar]], home to [[House Vanariel]]
 - The [[Court of Verdicts]], a large stone pillared structure, made with sections of dark, strong oak and stone, acting as the primary meeting place for the [[Uldronos Council]].
-- The Imperial Annals (I am going to regret this name), is a stark structure of marbled stone and various pillars. It contains an incredible collection of knowledge, and operates as both a library and a meeting place for the Imperial Arcanists.
+- The [[Imperial Annals]] (I am going to regret this name) is a stark structure of marbled stone and various pillars. It contains an incredible collection of knowledge, and operates as both a library and a meeting place for the [[Imperial Arcanists]].
 - [[Adamos Estate]] is a large property with rich gardens and home to the [[Adamos Family]]. Now, [[Persephone Adamos]] is the sole owner and her entourage of advisors stay with her too. The central keep has far more windows than other structures of the district, and large mosaics adorn many of the outer and inner walls. 
 ## Adulation District
 The Adulation District is the district devoted solely to worship of the Gods, their temples taking up a large portion of the space in this district. There are temples devoted to [[Tyr]], the [[Bahamut]], [[Corellon]] and [[Moradin]], but the largest structures in the area are the greater of the temples: The [[Grave Nest]], the [[Dularen Heart-Kiln]], and the [[Spire of Radiance]]. Being an area of great holy value, there are [[Lawbearers]] that patrol the streets, vigilantly ensuring that the peace of worship is undisturbed.

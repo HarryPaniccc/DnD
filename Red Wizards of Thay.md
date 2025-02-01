@@ -5,6 +5,12 @@ The **Red Wizards of Thay** were the magocratic rulers of [[Thay]] before the em
 >https://www.dndbeyond.com/posts/1484-who-are-the-red-wizards-of-thay-and-how-can-you
 
 As Thayan Wizards grow in the ranks they gain bigger and bigger facial tattoos.
+
+# Description
+# History
+# Locations
 # Members
+
 - Arch Zulkir of the order
+- Mennek Ariz https://forgottenrealms.fandom.com/wiki/Mennek_Ariz
 - 
