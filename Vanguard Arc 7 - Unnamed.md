@@ -6,12 +6,18 @@ There are a lot of things that need to be cleared up before I can specify exactl
 ---
 The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in flames. War is brewing in every corner. The dark corners of the world are responding to the coming of a messiah that has long been foretold.
 
+- Sirkon needs what's in the city of the glass moon
+- 
+
 ### Desired Plot Points Brainstorming
 
 - The Red Wizard woman who has the vampire spawn has some kind of goal
 - The [[Nightshade Peaks]] and a fortress there go to war with [[Desseran]] and [[Sirkonos]], [[Sion of Orcus]] in rulership
 - [[General Isaac]] goes mad after assassinations take his wife and child
 - [[Alfred Gundrei]] is elected king of [[Ruina]]
+- Caede dreams of the strength of [[Orcus]] growing in the [[Nightshade Peaks]]
+- Fight with an [[Eldar]] in the underdark with a crazy powerful ring or something. Proper Syndra from LOL sorceress type shit
+
 
 >[!Important]
 >- Escalation needs to occur throughout each section.
@@ -40,14 +46,15 @@ The [[Duergar]] under the control of [[Zakuul]] are waging war with the [[Drow]]
 
 ### [[General Isaac]] Assassin Plot and Painting Revelation
 
+
 ### Arcane Sickness Plot and [[Zakuul]] Reveal
 
 ### Proxy War
 
 
-
-
 ## Act 2 - War in [[Desseran]]
+
+
 
 ## Act 3 - [[Heart of the Abyss]]
 
@@ -65,3 +72,12 @@ I need to list each character in a bullet point and also their motivations. Ill 
 - [ ] [[Tharizdun]]
 - [ ] 
 ## Motivation
+
+
+# Encounters
+---
+I just wanted to list encounters I want to have here
+
+- Sanctum of the God Emperor
+- [[Demogorgon]]
+- 

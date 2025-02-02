@@ -79,7 +79,11 @@ The Republic of Ruina has many major gods that they worship, with other deities 
 ### The [[Imperial Arcanists]]
 The Imperial Arcanists were formed some 300 years after the founding of the [[Uldronos Council]]. As a faction they are interested in the growth of magical understanding, and their [[Arbiters]] are responsible for regulating and ordering Ruina. Their archmagi have seats on the [[Uldronos Council]].
 ### The [[Devil's Hand]]
+### [[Guilds of Ruina]]
+Ruina is well connected along its roadways - particularly the [[Platinum Highroad]]. Many trading guilds from around the world and local have a stake in the country.
 
+- The [[Platinum Scale]] is a merchant's guild, the oldest in Ruina.
+- The [[Windcarrier Guild]] is a mercantile guild with a small presence in [[Midvale]] and around the ports of Ruina. It deals mainly with oceanic trading.
 
 ---
 # OLD STUFF BELOW HERE (Infinity text)

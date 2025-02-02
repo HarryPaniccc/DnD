@@ -78,6 +78,9 @@ The Vanguard have been gone from their home for some time, and during that time 
 - [ ] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
+- [ ] Places for her to perform - [[Uldronos Council]] member parties and such
+	- [ ] Mercantile Guilds parties
+	- [ ] Baron's parties
 
 ### [[Ley Lines]] and the [[Elemental Plane of Air]]
 

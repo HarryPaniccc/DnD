@@ -79,8 +79,6 @@ tags:
 - Spirit type stuff
 - Talking with no one
 - Kitsune fox totem
-- City of the glass moon
-- Check the soul bound party from Flee, Mortals!.pdf
 - Westenra (Woman lead of Dracula) is a cool name for a Sirkonian Town
 
 # Rylai

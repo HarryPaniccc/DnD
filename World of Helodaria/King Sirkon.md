@@ -11,5 +11,7 @@ The history of King Sirkon is tied heavily to the history of [[Desseran]], [[Tha
 During this time [[Desseran]] was under [[Thay|Thayan]] control. #TODO
 
 Afterwards he would grow to corrupt the leadership of [[Thay]] to his control, promising the gift of eternal life to those who pledged themselves to his service.
+### Objectives
 
+- Turn Artorius into the next great Demon King using the Heart of the Abyss so that he can rule
 # Statblock

@@ -28,7 +28,7 @@ Boar frequents this large area, and if often hunted by the townspeople. Not too 
 - [[Xander]]. Half orc boat worker. He is on a trip down from Malibrook as one of the workers on one of three recently completed vessels headed for Allhaven to join in the trading industry. His crew are spending a few days resting in Midvale, as no one can get any sleep in Malibrook. Sounds like “Zunder, I work the boats”
 - [[Fodal]]. Human fisherman. He works a small boat and is out every morning practicing his trade. He has strong working hands and forearms, but the rest of him is mostly average.
 - [[Mina]]. Red tiefling with short white hair. A worker at the docks, Mina has worked ropes for a lot of her life, and gotten into a few scraps too.
-- [[Jacctekor]]. Bugbear bodyguard. Jacc for short. Raised in Dularen and joined and left the guard, he sought to see the empire, so he signed up as a bodyguard and works with the Platinum Scale trading company. His fur is a dark brown with black highlights. Very jas ou. Friendly to travelers. He sounds like Grog with the jaw thing.
+- [[Jacctekor]]. Bugbear bodyguard. Jacc for short. Raised in Dularen and joined and left the guard, he sought to see the empire, so he signed up as a bodyguard and works with the [[Platinum Scale]] trading company. His fur is a dark brown with black highlights. Very jas ou. Friendly to travelers. He sounds like Grog with the jaw thing.
 - [[Guard Steward Raphael]]. A young steward, Raphael is a human who works hard to keep his town safe and advise his Jarl. Untrained in magic. Sounds and looks like Arthur from king Arthur.
 - [[Jarl Holfdier Edfier]]. A burly man by many accounts, he works to strengthen trade routes through his area.
 - [[Jarry]] is bakers kid

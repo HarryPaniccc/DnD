@@ -1,0 +1,1 @@
+The **Windcarrier Guild** is a mercantile of [[Ruina]] that runs exports and imports along oceanic trading routes. Because of its large fleet it has a presence in [[Midvale]].

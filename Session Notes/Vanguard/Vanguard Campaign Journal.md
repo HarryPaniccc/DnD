@@ -16,13 +16,14 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Heal Tevis
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
+
 # Arc 7: King at the End of the World
 - [[Vanguard Arc 7 - Unnamed]]
-- 
-# Arc 6: Downtime
+
+
+# [[Vanguard Arc 6 - Downtime|Arc 6: Downtime]]
 
 ## Sessions
-- [[Vanguard Arc 6 - Downtime]]
 - 
 - [[Session 85 - Tournament of Trayfort Hold]]
 - [[Session 85 - Search for the Ley Line]] - Rylai solo
@@ -32,6 +33,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - [[Session 83 - Through the Sirkonian Countryside]] - Kanan solo
 - [[Session 82 - Meeting King Sirkon]]
 - [[Session 81 - Blessings of the Deathwatch]]
+
 # Arc 5: Sirkonos
 In the year of 813 Post-Fall the [[Vanguard]] travelled to the [[Sirkonos]] to hunt down and destroy the [[Vorciln]] vampires, led by [[Lucius]]. In the process, they discovered that the [[Einzberns]] were linked to a powerful deity-like being known as [[Athelstan]].
 ## Sessions

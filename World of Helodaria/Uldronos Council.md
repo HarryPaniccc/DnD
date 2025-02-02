@@ -312,18 +312,7 @@ There are 5 of them:
 - Ragnus the Green Corruption
 - Tiwrath the Blue Lord
 - Sagnis the Red Devastator
-
-## The Trading Guilds
-
-The platinum scale, a guild that operates across the whole of the platinum high road
-
-- Jacctekor. Bugbear bodyguard. Jacc for short. Raised in Dularen and joined and left the guard, he sought to see the empire, so he signed up as a bodyguard and works with the Platinum Scale trading company. His fur is a dark brown with black highlights. Very jas ou. Friendly to travelers. He sounds like Grog with the jaw thing
-- Percy. Human tradesman. Literally just percy from Vox Mach
-    
-
   
-
-Sirkonos Factions
 
 ## The Einzbern family
 
