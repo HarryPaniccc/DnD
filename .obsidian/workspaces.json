@@ -1511,6 +1511,20 @@
                 }
               },
               {
+                "id": "3c227d43f7194aa0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Desseran Apostolate.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Desseran Apostolate"
+                }
+              },
+              {
                 "id": "d1770a0f84c0e9b7",
                 "type": "leaf",
                 "state": {
@@ -1579,9 +1593,23 @@
                   "icon": "lucide-file",
                   "title": "Desseran"
                 }
+              },
+              {
+                "id": "9dd1aa2fe7064fe4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Fetishes of the Resurgence.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Fetishes of the Resurgence"
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 9
           }
         ],
         "direction": "vertical"
@@ -1716,13 +1744,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Thay.md",
+                    "file": "Fetishes of the Resurgence.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Thay"
+                  "title": "Outline of Fetishes of the Resurgence"
                 }
               },
               {
@@ -1790,8 +1818,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "d1770a0f84c0e9b7",
-      "mtime": "2025-02-02T09:53:38+02:00"
+      "active": "9dd1aa2fe7064fe4",
+      "mtime": "2025-02-10T10:02:30+02:00"
     },
     "Updating Deity and World": {
       "main": {
@@ -2169,20 +2197,6 @@
                 }
               },
               {
-                "id": "84838bb556769568",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Items/Anathema.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Anathema"
-                }
-              },
-              {
                 "id": "0ab9e66bd4bc3e62",
                 "type": "leaf",
                 "state": {
@@ -2253,6 +2267,41 @@
                 }
               }
             ]
+          },
+          {
+            "id": "ab3355de63250024",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b570b995d66a4f2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Item Pricing + Crafting.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magic Item Pricing + Crafting"
+                }
+              },
+              {
+                "id": "84838bb556769568",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Items/Anathema.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Anathema"
+                }
+              }
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -2271,7 +2320,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2385,9 +2435,14 @@
                 "type": "leaf",
                 "state": {
                   "type": "outline",
-                  "state": {},
+                  "state": {
+                    "file": "Items/Anathema.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of Anathema"
                 }
               },
               {
@@ -2404,7 +2459,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
@@ -2426,7 +2482,7 @@
                 }
               },
               {
-                "id": "0b6a92f621642cae",
+                "id": "c68b5dcf4c07320d",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -2454,8 +2510,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2025-01-28T10:15:06+02:00"
+      "active": "84838bb556769568",
+      "mtime": "2025-02-09T08:58:29+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -2486,12 +2542,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 83 - The Trial of Silb Heft.md",
+                    "file": "Session Notes/Vanguard/Session 84 - The Trial of Silb Heft.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 83 - The Trial of Silb Heft"
+                  "title": "Session 84 - The Trial of Silb Heft"
                 }
               },
               {
@@ -2550,7 +2606,8 @@
                   "title": "Mountreach"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -2569,7 +2626,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -2606,7 +2664,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 277.5
+        "width": 277.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2768,8 +2827,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2025-01-17T08:54:05+02:00"
+      "active": "2a80ab291799e745",
+      "mtime": "2025-02-04T09:08:29+02:00"
     },
     "Dusk Downtime": {
       "main": {
@@ -3081,20 +3140,6 @@
                 }
               },
               {
-                "id": "89ee3c7201e32f00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Skoldr Wittlewood.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Skoldr Wittlewood"
-                }
-              },
-              {
                 "id": "4859a2c24bd1b882",
                 "type": "leaf",
                 "state": {
@@ -3109,35 +3154,20 @@
                 }
               },
               {
-                "id": "64920fc846a34451",
+                "id": "85104b17518aa359",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Adamos Estate.md",
+                    "file": "Ulfric Straven.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Adamos Estate"
-                }
-              },
-              {
-                "id": "cbf4cb4aa977ebc9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Arbiter Elend Mindfire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Arbiter Elend Mindfire"
+                  "title": "Ulfric Straven"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -3156,7 +3186,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -3168,7 +3199,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "castle",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -3189,11 +3220,12 @@
                   "title": "Bookmarks"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
+        "width": 280.50418853759766,
         "collapsed": true
       },
       "right": {
@@ -3271,10 +3303,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md"
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Campaign Journal"
+                  "title": "Outline of Vanguard Arc 6 - Downtime"
                 }
               },
               {
@@ -3355,8 +3390,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 385.5,
-        "collapsed": true
+        "width": 332.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3370,8 +3404,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "89ee3c7201e32f00",
-      "mtime": "2025-01-29T14:55:31+02:00"
+      "active": "08389105e0321ab7",
+      "mtime": "2025-02-11T15:22:05+02:00"
     },
     "Rylai Downtime": {
       "main": {
@@ -3382,20 +3416,6 @@
             "id": "ad403f483996d6ec",
             "type": "tabs",
             "children": [
-              {
-                "id": "d6aace93b6a38761",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
-                }
-              },
               {
                 "id": "08389105e0321ab7",
                 "type": "leaf",
@@ -3408,20 +3428,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Vanguard Arc 6 - Downtime"
-                }
-              },
-              {
-                "id": "236e0a5530437658",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session 85 - Search for the Ley Line.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 85 - Search for the Ley Line"
                 }
               },
               {
@@ -3453,20 +3459,21 @@
                 }
               },
               {
-                "id": "db872d32c0c46464",
+                "id": "85104b17518aa359",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Ruina.md",
+                    "file": "Ulfric Straven.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ruina"
+                  "title": "Ulfric Straven"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -3485,7 +3492,8 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -3518,13 +3526,11 @@
                   "title": "Bookmarks"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 280.50418853759766
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3533,6 +3539,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
+            "dimension": 49.1421568627451,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -3600,13 +3607,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "file": "World of Helodaria/Lucius.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Campaign Journal"
+                  "title": "Outline of Lucius"
                 }
               },
               {
@@ -3623,11 +3630,73 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "dimension": 50.857843137254896,
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
+                }
+              },
+              {
+                "id": "fc6e4fe2893dcbd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "7564bc8b83f56f6a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Helodaria"
+                }
+              },
+              {
+                "id": "0b6a92f621642cae",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal",
-        "width": 289.5
+        "width": 332.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3641,8 +3710,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "d6aace93b6a38761",
-      "mtime": "2025-02-01T11:09:58+02:00"
+      "active": "85104b17518aa359",
+      "mtime": "2025-02-09T08:22:59+02:00"
     }
   },
   "active": "Rylai Downtime"

@@ -7,7 +7,7 @@ tags:
 - Home of the first humans
 - Desseran grows and people sale to [[Zitrumea]]
 - Intermingling of races from [[Zitrumea]]
-- [[Desseran Apostolate]] is formed and the avatars of [[Bahamut]], [[The Raven Queen]] and [[Ilmater]]? Rule the west of [[Eranulaid]]. As an antagonistic force, [[Tiamat]] worship grows in modern [[Ruina]], [[Malar]] begins to etch warfare into the hearts of the beasts of the [[Maghlas Mountains]].
+- [[Desseran Apostolate]] is formed and the avatars of [[Bahamut]], [[The Raven Queen]] and [[Lathander]]? Rule the west of [[Eranulaid]]. As an antagonistic force, [[Tiamat]] worship grows in modern [[Ruina]], [[Malar]] begins to etch warfare into the hearts of the beasts of the [[Maghlas Mountains]].
 - God kings aided in saving them from the horrors of the [[Dawn War]] and began to rule that way.
 - The [[Red Wizards of Thay]] are formed and corrupted with whispers of rebellion against their god-emperors by [[Dagon]], the [[Primordials|Primordial]] of evil, once thought banished after the [[Dawn War]] (https://www.youtube.com/watch?v=zha4miIbPFg&t=419s) for history of Thay and inspiration.
 - The wizards summoned a great number of demons and demonic forces to face against their god-kings so that they may have a society where wizards ruled. A demon lord was imprisoned by the god avatars and freed by the Thayans and used to lead the rebellion. [[Eltab]]

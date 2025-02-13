@@ -1,0 +1,1 @@
+Gives like heat vision but also makes you more blind to the rest of your surroundings.

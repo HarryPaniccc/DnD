@@ -30,6 +30,7 @@ The Outer-City fields is the name of the region south of the city. The richest o
 - [[Hesmas]] is a minotaur that offers his strength to Gilligan as a live force of defense. He has a Pylean Accent, and doesn't leave the bar much because of the stereotypes of his race
 - [[Ivar Wittlewood]] is a human past his prime with greying hair often tied into a braid. He owns  the **Parting Log**, and is the father of [[Skoldr Wittlewood]].
 - [[Skoldr Wittlewood]] is a human in his late 20s with dark hair often cut short. He has strong hands and arms, and is quite burly. He is the carpenter of [[Trayfort Keep]].
+- [[Eduleth Hallowleaf]] is a half elf soldier and a captain of the [[Ashen Legion]] contingent in Dularen.
 # Locations
 ## Outer-City Fields
 ### Locations

@@ -27,6 +27,7 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 The PC's are going to be accumulating allies throughout this period.
 ### Communal
 - Whatever is added to [[Trayfort Keep]]
+- They should get a sage?
 ### Caede
 - [[Count Drakus]] acts as an **Ambassador** for Caede
 - 
@@ -48,6 +49,14 @@ The PC's are going to be accumulating allies throughout this period.
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 
 - Overload the chalice and maybe go to the hells?
+#### Gear Ideas
+One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing + Crafting]] document too.
+
+- [[+2 Green Dragon Scale Leather Armor]]
+- [[Infernal Compass]]
+- [[Potion of Vampiric Sense]]
+- [[Repeating Crossbow]]
+- 
 
 ### Count Einzbern
 Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**.
@@ -55,14 +64,13 @@ Kanan will also need to be introduced to the courts of the [[Nobility of Sirkono
 - Spy [[Doppelganger|Doppelganger]]
 - [[Thayan Orthodoxy]] Steward
 
-In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]
-
+In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]].
 
 ### Witcher Work
 Something certainly happens in [[Ralia]].
 
 ### Commander of the [[Battalion of the Silver Arrow|Silver Arrow]]
-
+[[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]].
 
 # [[Caede]]
 ---
@@ -71,6 +79,7 @@ The Vanguard have been gone from their home for some time, and during that time 
 
 ### Herald of the [[Deathwatch]]
 ### Dungeon Delving
+Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]
 
 
 # [[Rylai Sweetsong|Rylai]]
@@ -91,7 +100,8 @@ Rylai desires some kind of way to expel her sorcerous magic, rejecting who she w
 - Her research will lead her to understanding Magic and the connection of [[Ley Lines]] and the [[Elemental Plane of Air]]
 - [[Sylphmade Scarf]] (flying scarf thing like Serpico's cloak)
 - [[Akadi]] the [[Primordials|Primordial]] of air
-- 
+
+
 
 ### [[Darius Nubide]]
 

@@ -2,6 +2,7 @@
 tags:
   - Settlement
 ---
+
 >[!Landing Notes]
 >- [[Thay]]
 >- [[The Fall]]

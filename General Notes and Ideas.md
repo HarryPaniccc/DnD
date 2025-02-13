@@ -22,6 +22,7 @@ tags:
 - [ ] Chests
 ### Normal Stuff
 - [ ] **ANATHEMA**
+- [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
 - [ ] Rage potion

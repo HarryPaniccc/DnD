@@ -1,0 +1,1 @@
+Cambion horn charm that gives a divine sense like ability, but for fey, fiends and undead. Thrice per day.

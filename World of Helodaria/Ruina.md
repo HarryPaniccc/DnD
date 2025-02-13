@@ -82,9 +82,6 @@ The Imperial Arcanists were formed some 300 years after the founding of the [[Ul
 ### [[Guilds of Ruina]]
 Ruina is well connected along its roadways - particularly the [[Platinum Highroad]]. Many trading guilds from around the world and local have a stake in the country.
 
-- The [[Platinum Scale]] is a merchant's guild, the oldest in Ruina.
-- The [[Windcarrier Guild]] is a mercantile guild with a small presence in [[Midvale]] and around the ports of Ruina. It deals mainly with oceanic trading.
-
 ---
 # OLD STUFF BELOW HERE (Infinity text)
 
@@ -96,7 +93,6 @@ Ruina is well connected along its roadways - particularly the [[Platinum Highroa
 # Drinks:
 
 - Winterberry brew. The main export of Ironbase, the brew is a warm yellow drink that warms the body and chills the mouth. Sweet and refreshing.
-- Sherutan Rice Wine. Sweet rice wine.
 - Valouce Ale. A heavy drink that burns on the way down and brings out the meekest of hearts.
 - Silver Dragon hellwater. The purple liquid is like swallowing liquid nitrogen, with a peppermint like flavour and a salty aftertaste.
 
