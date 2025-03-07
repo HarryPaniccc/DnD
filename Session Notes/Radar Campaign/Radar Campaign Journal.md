@@ -2,7 +2,7 @@
 tags:
   - Core
 ---
-Antagonist and setting?
+Antagonist and setting? small change
 
 - Introduce the world
 - Short, maybe 10 sessions
