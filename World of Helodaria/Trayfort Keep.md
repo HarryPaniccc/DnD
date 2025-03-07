@@ -3,6 +3,7 @@ tags:
   - Lore
 ---
 Trayfort Keep is the home of the [[Vanguard]] located in the [[Ruina]], in the Outer-City Fields of [[Dularen]] some 4 hours south of the city.
+
 # Characters
 
 - [[Meeek]] - A white [[Kobold]] rescued by the Vanguard from the mountain above [[Vasspryg]]

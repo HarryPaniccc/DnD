@@ -9,7 +9,7 @@
 ### Tevis and his brother
 [[Tevis Einzbern]] wants Kanan to have his identity, to relate to people, to be kind, to be at peace, to be heal from the wounds of the time before.
 ### Syr Renslayer's Summons
-[[Syr Renslayer]] 
+[[Syr Bayle Renslayer]] 
 #### Court NPCs
 - Alaric
 - **Lord Regent Thalgrim Stonehelm** - The trusted advisor and regent, a dwarf with vast knowledge of statecraft.

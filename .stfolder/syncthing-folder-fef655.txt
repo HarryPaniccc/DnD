@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: flsa7-cdavp
-created: 2024-07-25T20:47:17+02:00

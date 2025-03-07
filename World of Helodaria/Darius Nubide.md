@@ -4,6 +4,8 @@ tags:
 ---
 ###### Quick Reference
 Use this section for quick details to copy + paste into session notes
+
+He has a [[Staff of the Magi]].
 # Description
 Grey eyes and a long beard with excellently groomed dark grey hair with streaks of white. A stout man by many accounts.
 

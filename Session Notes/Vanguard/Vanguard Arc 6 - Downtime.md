@@ -3,6 +3,14 @@ tags:
   - Core
 ---
 # Things to Remember
+Timeline to add to notes
+- Week 1: return to Dularen, add Skoldr, ask around for stewards
+- Week 2: Ulfric starts
+- Week 3: Ulfric begins to look around for staff to add. 
+- Week 4-5:
+
+Kanan spends minimum time in Brocia (like one day of prep)
+
 ### Gold at the start of downtime
 I'm not going to track each gold piece but its a good idea to get an idea of funds right now.
 
@@ -70,7 +78,7 @@ In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan 
 Something certainly happens in [[Ralia]].
 
 ### Commander of the [[Battalion of the Silver Arrow|Silver Arrow]]
-[[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]].
+[[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]]. Also maybe send him to stifle some kind of dissent against the Sirkonian line Game of Thrones style.
 
 # [[Caede]]
 ---
@@ -90,6 +98,8 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 - [ ] Places for her to perform - [[Uldronos Council]] member parties and such
 	- [ ] Mercantile Guilds parties
 	- [ ] Baron's parties
+- [ ] Information from noble parties
+- [ ] Darius thing
 
 ### [[Ley Lines]] and the [[Elemental Plane of Air]]
 
@@ -104,6 +114,19 @@ Rylai desires some kind of way to expel her sorcerous magic, rejecting who she w
 
 
 ### [[Darius Nubide]]
+> Rylai rolled a 12 on her random encounter table which means its time for the dishevelled interaction.
+> 
+> *The evening air is comfortable surrounding Trayfort. The wooden flooring and small fireplaces in each of the important rooms make the keep's temperature easy to maintain. Ulfric always lights what is needed as it is needed. 
+> 
+> One evening, before going to bed you finish off the end of a previously started collection of ballads before sating your appetite for entertainment for the evening, so you make your way from your desk to the nearly desolate library to replace the book and find a new one.
+> 
+> After returning to your room and placing the tome of choice on your bed side table you go and close your door for the evening. You watch as your shadow is outlined on the door by a beautiful blue flash from behind you, and turn to see a man holding a staff standing in your room.
+> 
+> You know Darius Nubide to be a completely composed man, in control of every aspect of himself, and most aspects of the environments he inhabits. The man before you has longer, unkept hair. His beard is untrimmed. He doesn't look like he has slept in the last 24 hours, and he leans on a staff forged of beautiful rune-inscribed spell metal, betraying his age for the first time since you have known him. He tries to conceal an increasingly bloodied bandage on his left hand.
+> 
+> "It is improper for one such as yourself to summon a member of the Uldronos Council, especially to command something of me." He does not shout, but his anger, exhaustion, and frustration is evident in his tone.*
+
+
 
 ### [[Lina Sweetsong]]
 

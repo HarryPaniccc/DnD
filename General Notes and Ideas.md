@@ -3,6 +3,9 @@ tags:
   - Core
 ---
 # To do list
+>[!Idea]
+>### Oneshot where they play as the people who had the Blade of Despair
+
 ### Miniatures
 - [ ] Rylai
 - [ ] Dusk
@@ -105,7 +108,7 @@ Sirkon once wielded the [[Heart of the Abyss]], using it to command the forces o
 ## Characters
 - [[King Sirkon]] - Desires the [[Heart of the Abyss]] and for [[Prince Artorius Sirkon]] to claim an eternal throne
 	- 
-- [[Syr Renslayer]] - Sion of [[Orcus]]
+- [[Syr Bayle Renslayer]] - Sion of [[Orcus]]
 	- Exterminate some threat to him north of [[Desseran]]
 - [[Zakuul]]
 	- Retrieve what lies within the [[City of the Glass Moon]]

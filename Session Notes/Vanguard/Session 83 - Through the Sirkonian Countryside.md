@@ -3,7 +3,7 @@
 **Antumbrahn 2nd**
 - [[Kanan Einzbern]] sets out for his journey for [[Steinwalde]], leaving [[Luthrand Manor]]
 - He arrives in [[Carlina]] where he defends the village against a mating pair of [[Manticore|Manticores]]
-- Early the next morning he is awoken by [[Syr Renslayer]] warning him of the dangers ahead and threatening him in a way, expressing his dissatisfaction with the change of station
+- Early the next morning he is awoken by [[Syr Bayle Renslayer]] warning him of the dangers ahead and threatening him in a way, expressing his dissatisfaction with the change of station
 
 **Antumbrahn 3rd - 6th**
 - Kanan passes through [[Ralia]] and the [[Unnamed Forest South of Brocia]], arriving in [[Brocia]] in the afternoon

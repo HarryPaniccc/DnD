@@ -11,7 +11,7 @@ Leerehalt is the large Castle-Town in the north of the [[Sirkonos]], on the sout
 ## The Royal Court
 - [[King Sirkon]]
 - [[Prince Artorius Sirkon]]
-- [[Syr Renslayer]]
+- [[Syr Bayle Renslayer]]
 - A tiefling cartographer
 - A general
 - 

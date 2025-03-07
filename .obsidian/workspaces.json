@@ -605,24 +605,20 @@
                 "id": "48c3d1d5349cf243",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Helodarian Firearms.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               },
               {
                 "id": "43fd1749389436ac",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Kingdom of Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
                 }
               },
               {
@@ -634,7 +630,9 @@
                     "file": "World of Helodaria/Zitrumea.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Zitrumea"
                 }
               }
             ],
@@ -659,19 +657,9 @@
                         "file": "World of Helodaria/Zitrumean Empire.md",
                         "mode": "source",
                         "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "bbaca54ea0e40757",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Item Pricing + Crafting.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Zitrumean Empire"
                     }
                   },
                   {
@@ -683,11 +671,12 @@
                         "file": "World of Helodaria/Deities of Helodaria.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Deities of Helodaria"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "53c3d9a0752c0b71",
@@ -703,23 +692,12 @@
                         "file": "World of Helodaria/Eranulaid.md",
                         "mode": "source",
                         "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "e6c276fe369ea62f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Republic of Ruina.md",
-                        "mode": "source",
-                        "source": false
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "Eranulaid"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "horizontal"
@@ -741,8 +719,11 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical"
-                  }
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
                 }
               },
               {
@@ -757,7 +738,9 @@
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical"
-                  }
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
                 }
               },
               {
@@ -765,7 +748,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
                 }
               }
             ]
@@ -792,7 +777,9 @@
                     "file": "General Notes and Ideas.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
                 }
               },
               {
@@ -801,7 +788,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Helodarian Firearms.md",
+                    "file": "World of Helodaria/Eranulaid.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -809,7 +796,9 @@
                     "searchQuery": "",
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Eranulaid"
                 }
               },
               {
@@ -818,10 +807,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Helodarian Firearms.md",
+                    "file": "World of Helodaria/Eranulaid.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
-                  }
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Eranulaid"
                 }
               },
               {
@@ -831,8 +822,12 @@
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
                 }
               },
               {
@@ -841,8 +836,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Helodarian Firearms.md"
-                  }
+                    "file": "World of Helodaria/Eranulaid.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Eranulaid"
                 }
               },
               {
@@ -854,7 +854,9 @@
                     "sortOrder": "frequency",
                     "showSearch": false,
                     "searchQuery": ""
-                  }
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -873,7 +875,9 @@
                     "file": "Guidelines.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
                 }
               },
               {
@@ -881,7 +885,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
@@ -903,8 +909,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b41a06085117c1db",
-      "mtime": "2024-08-08T13:51:19+02:00"
+      "active": "93c248d71fc56c3b",
+      "mtime": "2025-02-25T12:36:54+02:00"
     },
     "Magic Item Shop Stuff": {
       "main": {
@@ -1607,9 +1613,23 @@
                   "icon": "lucide-file",
                   "title": "Fetishes of the Resurgence"
                 }
+              },
+              {
+                "id": "5ed93aed36eed868",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Divine Fetish of the Avatar of Lathander.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Divine Fetish of the Avatar of Lathander"
+                }
               }
             ],
-            "currentTab": 9
+            "currentTab": 10
           }
         ],
         "direction": "vertical"
@@ -1744,13 +1764,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Fetishes of the Resurgence.md",
+                    "file": "Divine Fetish of the Avatar of Lathander.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Fetishes of the Resurgence"
+                  "title": "Outline of Divine Fetish of the Avatar of Lathander"
                 }
               },
               {
@@ -1788,19 +1808,8 @@
                   "icon": "lucide-file",
                   "title": "Guidelines"
                 }
-              },
-              {
-                "id": "0b8b21df095f03a7",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -1818,8 +1827,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "9dd1aa2fe7064fe4",
-      "mtime": "2025-02-10T10:02:30+02:00"
+      "active": "5ed93aed36eed868",
+      "mtime": "2025-02-22T21:40:53+02:00"
     },
     "Updating Deity and World": {
       "main": {
@@ -2167,6 +2176,7 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
+            "dimension": 46.84986595174262,
             "children": [
               {
                 "id": "08389105e0321ab7",
@@ -2266,11 +2276,13 @@
                   "title": "Underfoot Tollhouse"
                 }
               }
-            ]
+            ],
+            "currentTab": 6
           },
           {
             "id": "ab3355de63250024",
             "type": "tabs",
+            "dimension": 53.15013404825737,
             "children": [
               {
                 "id": "b570b995d66a4f2d",
@@ -2300,8 +2312,7 @@
                   "title": "Anathema"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -2436,13 +2447,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Items/Anathema.md",
+                    "file": "World of Helodaria/Underfoot Tollhouse.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Anathema"
+                  "title": "Outline of Underfoot Tollhouse"
                 }
               },
               {
@@ -2496,7 +2507,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 333.5
+        "width": 315.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2510,8 +2522,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "84838bb556769568",
-      "mtime": "2025-02-09T08:58:29+02:00"
+      "active": "afa2f7d76e06d2ea",
+      "mtime": "2025-02-25T11:42:31+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3431,6 +3443,34 @@
                 }
               },
               {
+                "id": "4f3d4f3ad89351e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session 85 - Search for the Ley Line.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 85 - Search for the Ley Line"
+                }
+              },
+              {
+                "id": "d3614ce1131332ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Synod of Elevation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Synod of Elevation"
+                }
+              },
+              {
                 "id": "2d8b02946de1be74",
                 "type": "leaf",
                 "state": {
@@ -3459,21 +3499,20 @@
                 }
               },
               {
-                "id": "85104b17518aa359",
+                "id": "be0828342ac114fa",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ulfric Straven.md",
+                    "file": "Eranulaid History.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ulfric Straven"
+                  "title": "Eranulaid History"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical"
@@ -3530,7 +3569,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 280.50418853759766
+        "width": 280.50418853759766,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3539,7 +3579,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 49.1421568627451,
+            "dimension": 69.32692307692308,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -3595,7 +3635,9 @@
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
-                    "useHierarchy": true
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-tags",
                   "title": "Tags"
@@ -3607,13 +3649,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Lucius.md",
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Lucius"
+                  "title": "Outline of Vanguard Arc 6 - Downtime"
                 }
               },
               {
@@ -3636,7 +3678,7 @@
           {
             "id": "92400877833113eb",
             "type": "tabs",
-            "dimension": 50.857843137254896,
+            "dimension": 30.673076923076927,
             "children": [
               {
                 "id": "bf82f9f28d38c15b",
@@ -3695,7 +3737,270 @@
           }
         ],
         "direction": "horizontal",
-        "width": 332.5,
+        "width": 307.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "08389105e0321ab7",
+      "mtime": "2025-03-04T11:39:22+02:00"
+    },
+    "Radar Campaign": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "6eff3c0b43ee9101",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "07be49af26cb0e16",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Radar Campaign Journal"
+                }
+              },
+              {
+                "id": "453f5f0ff23ce149",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Zitrumea.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Zitrumea"
+                }
+              },
+              {
+                "id": "0e92365c300be841",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "dimension": 62.21153846153846,
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Abandoned Clock Tower.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Abandoned Clock Tower"
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Session Notes/Session 81 -.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Session 81 -"
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "dimension": 37.78846153846154,
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
+                }
+              },
+              {
+                "id": "c68b5dcf4c07320d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5,
         "collapsed": true
       },
       "left-ribbon": {
@@ -3710,9 +4015,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "85104b17518aa359",
-      "mtime": "2025-02-09T08:22:59+02:00"
+      "active": "0e92365c300be841",
+      "mtime": "2025-03-02T15:09:42+02:00"
     }
   },
-  "active": "Rylai Downtime"
+  "active": "Radar Campaign"
 }

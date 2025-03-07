@@ -19,7 +19,10 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 - [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO . Camroc is within 20 miles of a shoreline
 
-- [[Pontiss]], a central/eastern metropolis with kinda like the place where Danaeris and her weird brother king were chilling
+- [[Pontiss]], a central/eastern metropolis with kinda like the place where Danaeris and her weird brother king were chilling'=
+
+- [[Piltover Like City]] where theres firearms and where the [[Tybalt Farrondale]] family is from.
+
 ## [[Qel-Annura]]
 
 ## [[Isaura]]

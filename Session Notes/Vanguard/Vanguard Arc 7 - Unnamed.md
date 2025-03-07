@@ -64,7 +64,7 @@ I need to list each character in a bullet point and also their motivations. Ill 
 ### List
 
 - [ ] [[King Sirkon]]
-- [ ] [[Syr Renslayer]]
+- [ ] [[Syr Bayle Renslayer]]
 - [ ] [[Zakuul]]
 - [ ] [[Ulrandir Vanariel]]
 - [ ] [[Darius Nubide]]
