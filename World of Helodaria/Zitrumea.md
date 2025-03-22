@@ -30,3 +30,5 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 ## The [[Armoured Lands]]
 The eastern shoreline 
 # History
+- [[Vecna]] attempted to do something with a city and now a remnant cult of his worshippers still remain there
+- 

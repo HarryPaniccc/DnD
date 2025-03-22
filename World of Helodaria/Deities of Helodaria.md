@@ -52,7 +52,7 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - 
 # Lesser Idols and Deities
 ## Archdevils
-Archdevils, or the Lords of the Nine Hells, are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
+Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
 ## Demon Lords
 - [[Orcus]], the Blood Lord
 - 
