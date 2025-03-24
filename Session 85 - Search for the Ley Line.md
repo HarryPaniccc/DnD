@@ -42,22 +42,23 @@ West of [[Vasspryg]] lies the entrance to a ruined research facility. The struct
 - Once a character has succeeded a check to manipulate an element of the Synod, they may use an action to control a part of the structure.
 
 ### Upper Levels
+NO STAIRS
 
 ### Half Dragon Undead Room
 
 ### Chambers of Emergence
 > Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. 
 
-- West of [[Vasspryg]] theres a ruined research facility dedicated to bringing out magical powers in people, looking to ascend them to incredible power.
+- West of [[Vasspryg]] there's a ruined research facility dedicated to bringing out magical powers in people, looking to ascend them to incredible power.
 - Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
 - Location has been visited recently
 - Vault with writing from the [[Book of Vile Darkness]]
 
 
+### Uladarian Orb
 
-
-# Finding the [[Ley Lines|Ley Line]]
+# Finding the [[Ley Lines|Ley Line]] Nexus
 ---
 Something happens
 

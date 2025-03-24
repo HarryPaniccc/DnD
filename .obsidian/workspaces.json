@@ -3783,12 +3783,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Zitrumea.md",
+                    "file": "World of Helodaria/Zitrumean Empire.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Zitrumea"
+                  "title": "Zitrumean Empire"
+                }
+              },
+              {
+                "id": "3643212ed11a8ad3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Disaton Revelre Capitulum.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Disaton Revelre Capitulum"
                 }
               },
               {
@@ -3803,6 +3817,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "25cf7690806bcd6e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Deities of Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deities of Helodaria"
                 }
               }
             ],
@@ -3850,7 +3878,7 @@
                 }
               },
               {
-                "id": "990cb2f371a0b860",
+                "id": "60144437ebeeb8fa",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
@@ -4005,7 +4033,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "obsidian-5e-statblocks:Open Creature Pane": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -4015,9 +4043,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "0e92365c300be841",
-      "mtime": "2025-03-02T15:09:42+02:00"
+      "active": "3643212ed11a8ad3",
+      "mtime": "2025-03-24T09:35:11+02:00"
     }
   },
-  "active": "Radar Campaign"
+  "active": "Rylai Downtime"
 }
