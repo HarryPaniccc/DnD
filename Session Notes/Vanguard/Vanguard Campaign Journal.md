@@ -21,7 +21,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - [[Vanguard Arc 7 - Unnamed]]
 
 
-# [[Vanguard Arc 6 - Downtime|Arc 6: Downtime]]
+# [[Vanguard Arc 6 - The Golden Age|Arc 6: The Golden Age]]
 
 ## Sessions
 - 
