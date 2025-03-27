@@ -45,6 +45,9 @@ Encounter holdfasts in the countryside, as well as encountering the lord who gro
 ---
 Something happens
 
+### [[Castle Vorciln]] Revisited
+Caede wants to loot the dungeons for armour and weapons
+
 # The [[Sieleran River]] Trail
 ---
 Follow the river for some time before heading west and curling up the foothills.
