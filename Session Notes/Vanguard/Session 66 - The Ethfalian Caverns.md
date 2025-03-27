@@ -21,7 +21,7 @@ You look over to see a wounded, shirtless, unshaven and dying, Jarren ward, lean
 - Go get the bucket of water outside
     
 
-Time is running out kid but you're doing so well. Keep. Going. Find the answers. Your’e almost done. Follow the whispers. Find the answers. What Lucius is. You're in the right place. Just keep going. Kanan. KANAN.
+Time is running out kid but you're doing so well. Keep. Going. Find the answers. Your’e almost done. Follow the whispers. Find the answers. What he is. You're in the right place. Just keep going. Kanan. KANAN.
 
 End.  
 

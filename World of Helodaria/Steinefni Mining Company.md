@@ -1,1 +1,5 @@
 The Steinefni Mining Company is a dwarven mining company in the north of Sirkonos, in the base of the [[Maghlas Mountains]] at the  [[Ethfalian Caverns]], in the origin of the [[Sieleran River]].
+
+### Characters of Significance
+- [[Drulin Grafteye]]. Bald at the top with a shaved jaw but a bushy patch of beard on his chin that connects with his moustache. Accent is short and ashy, somewhat deep and Sirkonian. The treasurer of the mines for all 98 years of its operation, as well as the health and safety regulations officer, Drulin oversees much of the mine’s activities and is well respected within the company.
+- [[Eivor Stonehand]]. Accent is norse with a rasp from too much beer. Thick, blonde dwarf hairstyle and wears a breastplate made of hammered iron, with two swords on his side. The operational manager, he ensures everyone keeps their load well lifted in the mines.

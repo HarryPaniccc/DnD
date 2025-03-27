@@ -8,8 +8,11 @@ tags:
 
 ### Miniatures
 - [ ] Rylai
+- [ ] Rudolph von Richten
 - [ ] Dusk
-- [ ] Kanan
+- [x] Kanan
+- [ ] Caede
+- [ ] Isilme
 - [ ] Portcullis
 - [ ] Goblins
 - [ ] Stone Arches

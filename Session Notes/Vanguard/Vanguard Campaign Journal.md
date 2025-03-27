@@ -26,7 +26,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ## Sessions
 - 
 - [[Session 85 - Tournament of Trayfort Hold]]
-- [[Session 85 - Search for the Ley Line]] - Rylai solo
+- [[Session 84 - Search for the Ley Line]] - Rylai solo
 - [[Session 84 - The Trial of Silb Heft]] - Silb solo
 - [[Session 84 - Travel to Steinwalde]] - Kanan + Caede solo
 - 

@@ -46,7 +46,6 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 | 10         | Winter Wolves                           |
 |            | Adult Dragon of Some Kind               |
 
-
 # Departure from Keldmire
 ---
 ### Ask for Rictavio
