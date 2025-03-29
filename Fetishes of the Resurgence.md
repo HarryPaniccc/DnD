@@ -8,4 +8,4 @@ The **Divine Fetishes of the Resurgence** are holy relics wielded by the avatars
 - [[Divine Fetish of the Avatar of the Raven Queen]]
 - [[Divine Fetish of the Avatar of Lathander]]
 
-I would like one of them to be a circlet, kinda like cosmic drive from league or something like it. Maybe one is made from the claws of a great ancient dragon that was slain by the bahamut avatar. 
+I would like one of them to be a circlet, kinda like cosmic drive from league or something like it. Maybe one is made from the claws of a great ancient dragon that was slain by the [[Bahamut]] avatar. 

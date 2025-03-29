@@ -19,8 +19,9 @@ Antagonist and setting? small change
 - Minotaurs
 	- 
 
-
-Hired to go kill some guys but then set up to be killed and now its a revenge plot against someone
+### Plot Ideas
+- Hired to go kill some guys but then set up to be killed and now its a revenge plot against someone. Maybe set in [[Ralia]] where a local lord has been murdered.
+- In Dularen involving the [[Church of the Unshackled]] has become corrupted with followers of [[Thezuurol]] or similar.
 
 # Act 1
 

@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "ae475d42e120be2e",
+            "id": "07be49af26cb0e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radar Campaign Journal"
+            }
+          },
+          {
+            "id": "453f5f0ff23ce149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Zitrumean Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zitrumean Empire"
+            }
+          },
+          {
+            "id": "3643212ed11a8ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disaton Revelre Capitulum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disaton Revelre Capitulum"
+            }
+          },
+          {
+            "id": "0e92365c300be841",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,70 +64,48 @@
             }
           },
           {
-            "id": "db8606c84f00d28f",
+            "id": "25cf7690806bcd6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 83 - Through the Sirkonian Countryside"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7b2888ddcda8dd30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "493ba1e3ae80d7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 84 - Search for the Ley Line"
+              "title": "Deities of Helodaria"
             }
           },
           {
-            "id": "8298728ccfe116d4",
+            "id": "fef57e567733da24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 84 - The Trial of Silb Heft.md",
+                "file": "Session Notes/Radar Campaign/Helodaria Player Handout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 84 - The Trial of Silb Heft"
+              "title": "Helodaria Player Handout"
             }
           },
           {
-            "id": "24076f9cf9fa1225",
+            "id": "6061d0e2a6459cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                "file": "Unnamed Zitrumea's Sister Continent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 84 - Travel to Steinwalde"
+              "title": "Unnamed Zitrumea's Sister Continent"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +149,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -142,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 315.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -151,7 +171,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 61.35922330097087,
+        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -173,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "file": "Abandoned Clock Tower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Backlinks for Abandoned Clock Tower"
             }
           },
           {
@@ -192,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "file": "Session Notes/Session 81 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outgoing links from Session 81 -"
             }
           },
           {
@@ -219,10 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Ruina.md"
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outline of Vanguard Campaign Journal"
             }
           },
           {
@@ -239,12 +262,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 38.640776699029125,
+        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -261,21 +285,7 @@
             }
           },
           {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
+            "id": "c68b5dcf4c07320d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -284,11 +294,12 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -303,14 +314,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "db8606c84f00d28f",
+  "active": "07be49af26cb0e16",
   "lastOpenFiles": [
-    "World of Helodaria/Sirkonos.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
-    "Session Notes/Radar Campaign/Radar Campaign Journal.md",
     "World of Helodaria/Zitrumean Empire.md",
-    "Disaton Revelre Capitulum.md",
+    "Unnamed Zitrumea's Sister Continent.md",
+    "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+    "Session Notes/Radar Campaign/Helodaria Player Handout.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Azim Krasis.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Deities of Helodaria.md",
+    "Fetishes of the Resurgence.md",
+    "Divine Fetish of the Avatar of Lathander.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
+    "World of Helodaria/Sirkonos.md",
+    "Disaton Revelre Capitulum.md",
     "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
     "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
     "Session Notes/Vanguard/Session 84 - The Trial of Silb Heft.md",
@@ -320,17 +338,10 @@
     "Junk 1.md",
     "Junk 2.md",
     "World of Helodaria/Strahldale.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Helodarian Calendar.md",
     "World of Helodaria/Brocia.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Steinwalde.md",
-    "Items/Anathema.md",
-    "World of Helodaria/Underfoot Tollhouse.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Founding Gods.md",
     "Session Notes/Radar Campaign",
     "Attachments/Trayfort Guards.png",
     "Attachments/Pasted image 20250204103038.png",
