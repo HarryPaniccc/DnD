@@ -7,7 +7,7 @@ tags:
 >### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
-- [ ] Rylai
+- [x] Rylai
 - [ ] Rudolph von Richten
 - [ ] Dusk
 - [x] Kanan
