@@ -48,7 +48,7 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Boldrei]], the Hearth Maker - Goddess of Community and Kindness. (LG)
 - [[Mystra]], the Lady of the Weave
 ## Gods to add?
-- Cyrric, prince of the dark sun
+- [[Cyric]], prince of the dark sun
 - 
 # Lesser Idols and Deities
 ## Archdevils
