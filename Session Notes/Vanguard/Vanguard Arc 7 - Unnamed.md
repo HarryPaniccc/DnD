@@ -7,7 +7,12 @@ There are a lot of things that need to be cleared up before I can specify exactl
 The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in flames. War is brewing in every corner. The dark corners of the world are responding to the coming of a messiah that has long been foretold.
 
 - Sirkon needs what's in the city of the glass moon
-- 
+- [[King Sirkon|Sirkon]] has used his powers to grant gifts to those that he seeks loyalty from. They understand his power, and accept the positive relationship but know to turn against his will is death
+
+### Antagonists
+[[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vassal of the abyss and bring around his rule of [[Eranulaid]].
+
+His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]], [[Ulrandir Vanariel]], [[Zakuul]], [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
 
 ### Desired Plot Points Brainstorming
 
@@ -26,37 +31,49 @@ The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in fla
 Want to do an adventure where people find a clue to Sirkon and then die, starting the attacks on Desseran.
 
 ## Act 1 - [[City of the Glass Moon]]
-The [[Duergar]] under the control of [[Zakuul]] are waging war with the [[Drow]] who imprisoned Zakuul, attacking the [[City of the Glass Moon]] and driving refugees and raiders to the surface. These raiders are raiding [[Ruina]]'s cities around the [[Dularen Plains]].
+When [[Zakuul]] defeated [[Darius Nubide]] he decided that not only are the Drow his enemy, but so is [[Ruina]] - it was a Ruinan group that sold him into slavery. He would torture Darius for a long time which drew [[King Sirkon|Sirkon's]] attention. Sirkon would parlay with and intimidate Zakuul, granting him a simulacrum of Darius to use in his dismantling of his opponents.
+
+Sirkon's desire with this move is to weaken Ruina and reclaim something that is within the [[City of the Glass Moon]]. Zakuul will use what he has been granted by Sirkon to initiate a war against the Drow while also tactically involving Ruina.
+
+[[Ulrandir Vanariel]], soon to be executed, has already been saved by Sirkon - a simulacrum placed in his stead. Ulrandir has been promised rule over Ruina once the dust settles, and has been made to assist Zakuul.
+
+This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Orcs|Orc]] abyssal loyalists to Sirkon, and the [[Duergar]] servants of Zakuul assemble under the.
 ### Events summary
+##### Background
+
+- [[Alfred Gundrei]] becomes Duke of [[Ruina]].
+- [[Darius Nubide]] acts as a mole and proxy in the Ruinan government. This treachery will allow [[Vasspryg]] to fall.
+- 
+
 - [[Alfred Gundrei]] has become king and immediately had to take war council
 - [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government (==Why==)
 - [[King Sirkon]] wants something from within the [[City of the Glass Moon]], and has given [[Zakuul]] the tools to achieve control of an [[Orcs]] (?) army to aid in has assaults - **Demon/Zodd guys are Sirkon's control of the situation**
 - [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him (Sent by Zakuul?/Ulrandir?/Darius?). They are getting past his security using the **Paintings**
 
-#### As I see it
+##### Key Points
 
-- War breaks out in Ruina against [[Drow]] and [[Orcs]]. Gundrei loses control of General Isaac due to assassinations.
+- War breaks out in Ruina on two fronts. [[Orcs|Orc]] demon loyalists strike, as do [[Drow]] raider refugees.
+- [[Vasspryg]] falls, [[Midvale]] becomes a defensive position for the [[Boreal Conclave]] and [[Ashen Legion]].
+- [[General Isaac]] won't push forwards as he believes there is treachery in the ranks.
+
 - General Isaac nearly sells his home to [[Zariel]] for protection. Zariel has interest in this as an agent against [[Demons|Demonic]] forces
-- The painting leads them to a layer of the [[Abyss]]
-- All the while [[Darius Nubide]] has acted incredibly antithesis to the Drow
-- 
-- 
+- The painting leads them to a layer of the [[Abyss]] where a number of other paintings are used. Smudge's people are imprisoned there?
+
 - Travel the [[Underdark]] and come to the [[City of the Glass Moon]] and battle with the [[Eldar]] there, the high priestess of something or other.
 
 
 ### [[General Isaac]] Assassin Plot and Painting Revelation
 
-
 ### Arcane Sickness Plot and [[Zakuul]] Reveal
 
 ### Proxy War
 
-
-## Act 2 - War in [[Desseran]]
+## Act 2 - War in [[Desseran]] and the [[Nightshade Peaks]]
 
 
 
 ## Act 3 - [[Heart of the Abyss]]
+How does this end
 
 # Characters
 ---
@@ -67,7 +84,7 @@ I need to list each character in a bullet point and also their motivations. Ill 
 - [ ] [[Syr Bayle Renslayer]]
 - [ ] [[Zakuul]]
 - [ ] [[Ulrandir Vanariel]]
-- [ ] [[Darius Nubide]]
+- [x] [[Darius Nubide]]
 - [ ] [[Dagon]]
 - [ ] [[Tharizdun]]
 - [ ] 

@@ -1,3 +1,80 @@
+# Race
+**Fallen Aasimar**
+- ASI: CHA + 2, STR +1
+- 30ft.
+- 60ft darkvision
+- Resist necrotic and radiant
+- Healing Hands. As an action, you can touch a creature and cause it to regain a number of hit points equal to your level. Once you use this trait, you can't use it again until you finish a long rest. (Healing hands: 1/long rest touch to heal equal to level as an action.)
+- Know light cantrip
+- Common + Celestial languages
+- **Necrotic shroud**: Skeletal wings, make people scared at level 3
+# Class
+
+**Hit dice**: 1d6
+**HP**: 6 + CON
+
+Prof:
+- daggers, darts, slings, q staffs, light crossbows
+- SAVES: Con + Cha
+- Intimidation + **Arcana**
+
+### Level 1
+- +2 Prof
+- Spellcasting
+- **Subclass** - when casting a spell role a d20, if 1, roll on surge table
+- Tides of chaos - advantage on something 1/long
+
+| **STR** | **DEX** | **CON** | **INT** | **CHA** | **WIS** |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| +1      |         |         |         | +2      |         |
+| 8       | 14      | 14      | 13      | 15      | 11      |
+| 9       | 14      | 14      | 13      | 17      | 11      |
+| -1      | +2      | +2      | +1      | +3      | 0       |
+
+# Background
+**Sage**
+- Two languages
+- Arcana, History
+- EQUIPMENT
+- Researcher feature
+
+# Spells
+### Cantrips (4)
+- 
+### 1st Level (2)
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Potion of Fire Giant Strength
 *Potion, Rare*
 When you drink this potion, your Strength score changes to 25 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.

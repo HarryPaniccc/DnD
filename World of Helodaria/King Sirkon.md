@@ -1,6 +1,9 @@
 ---
 tags:
   - Character
+aliases:
+  - Sirkon
+  - Sikarius Sirkon
 ---
 ###### Quick Reference
 Use this section for quick details to copy + paste into session notes
