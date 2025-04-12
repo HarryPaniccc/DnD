@@ -9,7 +9,8 @@ Old woods, teeming with older magics and eldritch curses. Walled towns, owned by
 Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous social-scape in order to study the innate darkness of the land.
 ### Map
 ![[Pasted image 20231217153118.png]]
-
+>[!Note]
+>Brocia should be further south, a liitle bit, so that [[Rokbaur Castle]] can be more isolated.
 
 # History
 ---
@@ -43,10 +44,12 @@ The large scar that stretches across the east third of the Kingdom and the great
 
 - [[Banespear Mountain]] is a vast, cursed peak that stands against the horizon like a split in a painting's canvass
 - [[Kohldwall]] is a town that acts as a bastion within the Wastes. People usually use it as a point of refuge and trade from towns that are off its main path
+- [[Rokbaur Castle]] is a hold a few days north of [[Brocia]] that overlooks the wastes, one of the defences against any hordes that may approach.
 
 ### [[Maghlas Mountains]]
 
 - [[Steinwalde]]: One of the two great dwarf fortresses of old to survive the wars of the Fall, Steinwalde, or “the stone forest”, is a massive walled retreat set deeply in the heart of the mountain range. Steinwalde is a nation not part of Sirkonos, but close by.
+- [[Estravia]]: a province of highland villages and towns to the far north of Sirkonos proper, situated on the base and even the highlands of the [[Maghlas Mountains]] mountains
 
 ### [[Miletohr Wilds]]
 The large stretch of wilderness that curves below and into the foothills of the [[Maghlas Mountains]], the Miletohr wilds are a sometimes magical and often accursed wood.
@@ -77,6 +80,20 @@ The Sirkonian royal line is represented by deep purples and blues, rules from ca
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Old from here
 ---
 #TODO 
 ## Port Eidenspear

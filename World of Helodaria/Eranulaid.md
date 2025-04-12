@@ -26,6 +26,7 @@ tags: Lore
 - [[Sirkonos]] is a kingdom amidst the marshes, wastes and forests west of the [[Nightshade Peaks]].
 - [[Steinwalde]] is a great [[Dwarf|Dwarven]] realm set in the eastern ranges of the [[Maghlas Mountains]].
 - [[Elf nomad group]] is an [[Elves]] civilisation that travels the continent.
+- [[Estravia]] is a small province of people that live to the north of [[Sirkonos]], in the foothills of the [[Maghlas Mountains]] and the highlands of the surrounding area. They bow to the royalty of Sirkonos.
 
 # [[Eranulaid History]]
 Eranulaid once had many civilisations across it that had good relations to the gods and powerful magic users. At some point in its history Avatars of [[Ilmater]], [[Bahamut]], [[The Raven Queen]], and [[Lathander]] held some kind of power over an ancient empire.

@@ -1,0 +1,1 @@
+A holdfast north of [[Brocia]] that holds a barren region of the [[Eastern Wastes]] in [[Sirkonos]]. The holdfast is protected by [[Lord Malgus Kraber]] and his family.

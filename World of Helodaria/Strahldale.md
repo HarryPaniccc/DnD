@@ -13,6 +13,6 @@ The mineral water from the [[Ethfalian Caverns]] flows down the [[Sieleran River
 - [[Bertha (Strahldale)]]: Strudel's wife.
 - [[Lund]]: Dwarven blacksmith who runs the smith in the town.
 - [[Thron Richter]]: A round, heavy human who has experience in combat and beast hunting. Sounds like Reinhardt but more staggered in his speech. 
-- [[Mad]]
+- ???
 
 # Locations
