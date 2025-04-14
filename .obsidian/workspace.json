@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "ae475d42e120be2e",
+            "id": "07be49af26cb0e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Radar Campaign Journal"
+            }
+          },
+          {
+            "id": "453f5f0ff23ce149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Zitrumean Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zitrumean Empire"
+            }
+          },
+          {
+            "id": "3643212ed11a8ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disaton Revelre Capitulum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disaton Revelre Capitulum"
+            }
+          },
+          {
+            "id": "0e92365c300be841",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,139 +64,21 @@
             }
           },
           {
-            "id": "2917bd48fe8a4d67",
+            "id": "5df6b1e00eef808e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
+                "file": "Session Notes/Radar Campaign/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 83 - Through the Sirkonian Countryside"
-            }
-          },
-          {
-            "id": "db8606c84f00d28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "38914ffe20113c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "cce4bc9312f8ebd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Estravia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estravia"
-            }
-          },
-          {
-            "id": "70315148df622749",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#abyssal%20hyena_fleemortals",
-                "title": "Abyssal Hyena - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Abyssal Hyena - 5etools"
-            }
-          },
-          {
-            "id": "e78bdfe0f9c61e18",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://koboldplus.club/",
-                "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'"
+              "title": "Session 0"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "7b2888ddcda8dd30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24076f9cf9fa1225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 84 - Travel to Steinwalde"
-            }
-          },
-          {
-            "id": "bdfa77576dac8833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lord Malgus Kraber.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lord Malgus Kraber"
-            }
-          },
-          {
-            "id": "08589e380b4073df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rokbaur Castle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rokbaur Castle"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,7 +122,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -211,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -221,7 +144,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 61.35922330097087,
+        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -243,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                "file": "Abandoned Clock Tower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 84 - Travel to Steinwalde"
+              "title": "Backlinks for Abandoned Clock Tower"
             }
           },
           {
@@ -262,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "file": "Session Notes/Session 81 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outgoing links from Session 81 -"
             }
           },
           {
@@ -289,10 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Ruina.md"
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outline of Vanguard Campaign Journal"
             }
           },
           {
@@ -309,12 +235,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 38.640776699029125,
+        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -331,21 +258,7 @@
             }
           },
           {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
+            "id": "c68b5dcf4c07320d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -354,11 +267,12 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -370,36 +284,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "24076f9cf9fa1225",
+  "active": "5df6b1e00eef808e",
   "lastOpenFiles": [
-    "World of Helodaria/Sirkonos.md",
-    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-    "World of Helodaria/Estravia.md",
-    "World of Helodaria/Lord Malgus Kraber.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
-    "Rokbaur Castle.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Drachenzunge Inn.md",
+    "Session Notes/Radar Campaign/Session 0.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session 0 Presentation.md",
+    "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Trayfort Keep.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Session 84 - The Trial of Silb Heft.md",
-    "General Notes and Ideas.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Estravia.md",
     "World of Helodaria/Strahldale.md",
-    "Mad.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Brocia.md",
-    "Magic Item Pricing + Crafting.md",
-    "Items/Anathema.md",
-    "Items/Nightfall, The Twilight Blade.md",
-    "World of Helodaria/Nightshade Peaks.md",
-    "Junk 2.md",
-    "Junk 1.md",
-    "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Fetishes of the Resurgence.md",
+    "World of Helodaria/Steinefni Mining Company.md",
+    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+    "World of Helodaria/Battalion of the Red Fountain.md",
+    "Syr Armond.md",
+    "Items/Duskdrinker.md",
+    "World of Helodaria/Lord Malgus Kraber.md",
+    "Rokbaur Castle.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Kronesguard.md",
+    "World of Helodaria/King Sirkon.md",
+    "World of Helodaria/Ulfric Straven.md",
+    "World of Helodaria/Necromantia.md",
+    "Battle of Strahldale.md",
+    "Session Notes/Vanguard/Session 77 - Lucius.md",
+    "World of Helodaria/Drachenzunge Inn.md",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Red Hand of Doom.pdf.crdownload",
     "Session Notes/Radar Campaign",

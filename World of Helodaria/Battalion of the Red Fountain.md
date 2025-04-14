@@ -6,3 +6,4 @@ Also known as the **Order of the Red Fountain** or the **Garrison of Diredahl**,
 # Companies
 # Notable Members
 - Commander [[Viscount Gale Luthrand]]
+- [[Syr Armond]]

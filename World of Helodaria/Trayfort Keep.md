@@ -9,6 +9,11 @@ Trayfort Keep is the home of the [[Vanguard]] located in the [[Ruina]], in the O
 - [[Meeek]] - A white [[Kobold]] rescued by the Vanguard from the mountain above [[Vasspryg]]
 - [[Skoldr Wittlewood]] - the Carpenter who Caede sought aid from in his personal projects and who he hired to fix the keep up a bit.
 - [[Ulfric Straven]] - Ex [[Ashen Legion]] captain. He acts as the master of house and steward of the Vanguard. He keeps the wages in check in a well organized ledger. His wage is 180 gp per month.
+### Other Staff
+
+- 2 Cooks
+- 5 Servants
+- 
 
 ### Todo
 Ulfric is looking for a small contingent of guards, 6 servants, and two cooks.

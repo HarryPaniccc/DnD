@@ -7,6 +7,7 @@ Outside the north most border of the [[Sirkonos]], squeezed between an ancient n
 
 The mineral water from the [[Ethfalian Caverns]] flows down the [[Sieleran River]] trail through the foothills north of the village, and collects in the White Lake south of the village. To the east, one can see the wastes, and to the west, a large, dark stretch of wilderness known as the Miletohr Wilds.
 # History
+Since the [[Battle of Strahldale]] a regiment from the [[Battalion of the Red Fountain]] has been posted in Strahldale to reinforce its people.
 
 # Notable Characters
 - [[Shoppekeep Strudel]]: An elderly, not all there gnomish man with manic speech patterns. Married to Bertha.

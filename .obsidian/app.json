@@ -8,5 +8,6 @@
   },
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }
