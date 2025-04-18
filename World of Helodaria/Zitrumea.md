@@ -23,6 +23,10 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 - [[Piltover Like City]] where theres firearms and where the [[Tybalt Farrondale]] family is from.
 
+- [[Redwall]] is a small walled town
+
+- 
+
 ## [[Qel-Annura]]
 
 ## [[Isaura]]

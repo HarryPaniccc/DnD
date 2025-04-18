@@ -3821,12 +3821,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Radar Campaign/Radar Campaign Journal.md",
+                    "file": "Session Notes/Radar Campaign 1/Radar Campaign Journal.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Radar Campaign Journal"
+                }
+              },
+              {
+                "id": "344bc0a0e4f07cbd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Radar Campaign 1/Session 1 - Stirring in the Darkness.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 1 - Stirring in the Darkness"
                 }
               },
               {
@@ -3870,43 +3884,9 @@
                   "icon": "lucide-file",
                   "title": "Vanguard Campaign Journal"
                 }
-              },
-              {
-                "id": "25cf7690806bcd6e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Deities of Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Deities of Helodaria"
-                }
               }
             ],
-            "currentTab": 4
-          },
-          {
-            "id": "1674154d1394238f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8837177c89c58804",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#aarakocra_mm",
-                    "title": "Bloodlord Varrox - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Bloodlord Varrox - 5etools"
-                }
-              }
-            ]
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -4041,13 +4021,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "file": "Session Notes/Radar Campaign 1/Session 1 - Stirring in the Darkness.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Campaign Journal"
+                  "title": "Outline of Session 1 - Stirring in the Darkness"
                 }
               },
               {
@@ -4113,11 +4093,12 @@
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
         }
       },
-      "active": "25cf7690806bcd6e",
-      "mtime": "2025-04-03T08:34:34+02:00"
+      "active": "344bc0a0e4f07cbd",
+      "mtime": "2025-04-15T14:46:35+02:00"
     }
   },
   "active": "Radar Campaign"
