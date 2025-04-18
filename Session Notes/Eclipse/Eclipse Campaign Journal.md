@@ -38,6 +38,8 @@ Now with Nethendell under seige, the survivors fled to a forgotten fortress in a
 
 > Lesser house under [[Unnamed Stark House Equivalent]] are vassals of this region, and lord
 
+Nethendell sits on top an ancient temple to [[Sehanine]].
+
 # Act 1
 The group start in a ransacked town and fight their way out, looking to find some kind of baring on the world. This act will have them escaping [[Nethendell]] and 
 
