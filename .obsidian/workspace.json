@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "344bc0a0e4f07cbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 - Stirring in the Darkness"
+            }
+          },
+          {
             "id": "a7c78460e274f9c3",
             "type": "leaf",
             "state": {
@@ -61,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "Deities of Helodaria"
-            }
-          },
-          {
-            "id": "344bc0a0e4f07cbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 - Stirring in the Darkness"
             }
           },
           {
@@ -120,7 +120,69 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
+      },
+      {
+        "id": "a5363465700c9bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382e62ef9469ee1a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#goblin_mm",
+                "title": "Goblin - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Goblin - 5etools"
+            }
+          },
+          {
+            "id": "a11eba8e8dde3a5e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://koboldplus.club/",
+                "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'"
+            }
+          },
+          {
+            "id": "768850d11cad603b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/spells.html#poison%20spray_xphb",
+                "title": "Poison Spray - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Poison Spray - 5etools"
+            }
+          },
+          {
+            "id": "bd99e2f45165ac67",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/book.html#xdmg,6",
+                "title": "Treasure - Dungeon Master's Guide (2024) - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Treasure - Dungeon Master's Guide (2024) - 5etools"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Disaton Revelre Capitulum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Eclipse Campaign Journal"
+              "title": "Backlinks for Disaton Revelre Capitulum"
             }
           },
           {
@@ -330,38 +392,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a7c78460e274f9c3",
+  "active": "3643212ed11a8ad3",
   "lastOpenFiles": [
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Keldmire.md",
+    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Disaton Revelre Capitulum.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
+    "World of Helodaria/Zitrumean Empire.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/The Raven Queen.md",
     "World of Helodaria/Sehanine.md",
-    "Attachments/Pasted image 20250418120407.png",
-    "Disaton Revelre Capitulum.md",
+    "World of Helodaria/Lolth.md",
     "World of Helodaria/Centuria.md",
+    "World of Helodaria/Bahamut.md",
+    "World of Helodaria/Tyr.md",
+    "World of Helodaria/Ilmater.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/Eranulaid.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/History of Helodaria.md",
+    "Attachments/Pasted image 20250418120407.png",
     "Planes of Existence.md",
     "Attachments/Pasted image 20250418111612.png",
     "Attachments/Pasted image 20250418111603.png",
     "Attachments/Pasted image 20250418111557.png",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Lord Harrenhal.md",
     "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-    "World of Helodaria/Zitrumea.md",
     "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Syr Armond.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Eclipse/Session 0.md",
     "export/Session 0/Attachments/Pasted image 20250414132345.png",
     "export/Session 0/Attachments",
-    "export/Session 0/plugin/chalkboard/README.md",
     "export/Session 0/plugin/chalkboard/_style.css",
     "export/Session 0/plugin/chalkboard/img/blackboard.png",
     "export/Session 0/plugin/chalkboard/img/boardmarker-black.png",
     "export/Session 0/plugin/chalkboard/img/boardmarker-blue.png",
     "export/Session 0/plugin/chalkboard/img/boardmarker-green.png",
-    "export/Session 0/plugin/chalkboard/img/boardmarker-orange.png",
     "export/Session 0/plugin/chalkboard/img",
     "export/Session 0/plugin/chalkboard/plugin (copy).js",
     "export/Session 0/plugin/chalkboard/style.css",
@@ -369,14 +439,7 @@
     "export/Session 0/plugin/chalkboard",
     "export/Session 0/plugin/chart/plugin.js",
     "export/Session 0/plugin/chart/chart.min.js",
-    "export/Session 0/plugin/chart/README.md",
     "export/Session 0/plugin/chart",
-    "export/Session 0/plugin/customcontrols/README.md",
-    "export/Session 0/plugin/menu/CONTRIBUTING.md",
-    "export/Session 0/plugin/menu/README.md",
-    "World of Helodaria/Prince Artorius Sirkon.md",
-    "Session 0 Presentation.md",
-    "World of Helodaria/Trayfort Keep.md",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
   ]

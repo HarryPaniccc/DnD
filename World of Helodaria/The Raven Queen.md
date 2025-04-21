@@ -2,7 +2,7 @@
 tags:
   - Lore
 ---
-*The Raven Queen's true name is Nerava(?)*
+> The Raven Queen's true name is Nerava(?)
 
 The Raven Queen is one of the deities in the pantheon of the [[Founding Gods]]. She is the God of death and Fate, her domain encompasses those whose lives are ending or have come to an end, and she is the patron to those who would seek to destroy undead creatures. 
 # Details
@@ -15,8 +15,9 @@ The Raven Queen despises undeath, and because of that she has a fierce hatred of
 ## Titles
 - The Dead Mistress
 - The Queen of the Damned
-- The Fate Weaver
+- Fate
 - The Lady of Fate
+
 ## Appearance
 The Raven Queen is a more abstract being than the other gods, appearing often as a collection of ravens or as signs. Her true form is that of a young, dark haired woman wearing shadows as gothic garments. Underneath her usual, expressionless mask she is quite beautiful.
 ## Birth of the Raven Queen

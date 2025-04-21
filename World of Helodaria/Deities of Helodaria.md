@@ -31,9 +31,9 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Sehanine]], The Moon Heart - Goddess of the Moon and Dreams. (NG)
 - [[The Raven Queen]] - Goddess of Death and Fate. (LN)
 - [[Tyr]], The Lawbearer - God of Law and Civilisation (LN)
-- [[Umberlee]], The Storm Weaver (CN)
+- [[Umberlee]], The Storm Weaver - God of the Sea and Storms (CN)
 ## The [[Destroyer Gods]]
-- [[Asmodeus]], The Lord of the Damned - God of Tyranny, Power and Lies. (LE)
+- [[Asmodeus]], Lord of the Damned - God of Tyranny, Power and Lies. (LE)
 - [[Gruumsh]], The Ruiner - God of Hordes, War and Ruin. (CE)
 - [[Lolth]], the Spider Queen - Goddess of Manipulation, Betrayal and Torture. (NE)
 - [[Malar]], Lord of Slaughter - God of Bloodlust, Cruelty and Slaughter. (CE)

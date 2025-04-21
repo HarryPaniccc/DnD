@@ -2,8 +2,7 @@
 tags:
   - Lore
 ---
-
-**Sehanine, the Moonsong** is the Elven God of freedom, moonlight, and the Moon. She embodies creativity and art. She is one of the [[Creation Gods]] of the [[Deities of Helodaria]].
+**Sehanine, the Moonsong** is the Elven God of freedom, moonlight, and the Moon. She embodies creativity and expression. She is one of the [[Creation Gods]] of the [[Deities of Helodaria]].
 # Details
 ---
 Sehanine is often found within [[Arborea]] or wandering the [[Feywild]]. She is as nomadic as the moon she urged into existence, wa

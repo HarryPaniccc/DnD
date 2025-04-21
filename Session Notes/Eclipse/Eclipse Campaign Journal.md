@@ -30,15 +30,13 @@ tags:
 # Plot Summary
 The town of [[Nethendell]] sits on the southern side of the pass that separates the northern [[Zitrumea]] regions from the central. Living in the shadow of the [[Tower of Yierdur]], the people of Nethendell have lived a peaceful life. The town is built above an ancient temple to [[Sehanine]].
 
-Talk of Orcs in the hills have sent a stir among the townsfolk, and though the lord vassal of Nethendell has fallen ill, his son, [[Lord Eskel Tormont]], has assured the townsfolk of safety. A false hope, as the village near the town fell to an army of goblins, and now the town has come under seige of an army of goblinoids, lead by [[Bloodlord Mehron]] with hom Eskel is in league. 
+Talk of Orcs in the hills have sent a stir among the townsfolk, and though the lord vassal of Nethendell has fallen ill, his son, [[Lord Eskel Tormont]], has assured the townsfolk of safety. A false hope, as the village near the town fell to an army of goblins, and now the town has come under seige of an army of goblinoids, lead by [[Bloodlord Mehron]] with whome Eskel is in league.  
 
 > He seeks some kinda something idfk
 
-Now with Nethendell under seige, the survivors fled to a forgotten fortress in a mountain overlooking the valley.
+Now with Nethendell under seige, the survivors fled to a forgotten mine in a mountain overlooking the valley.
 
-> Lesser house under [[Unnamed Stark House Equivalent]] are vassals of this region, and lord
-
-Nethendell sits on top an ancient temple to [[Sehanine]].
+> Lesser house under [[Unnamed Stark House Equivalent]] are vassals of this region, and lord 
 
 # Act 1
 The group start in a ransacked town and fight their way out, looking to find some kind of baring on the world. This act will have them escaping [[Nethendell]] and 

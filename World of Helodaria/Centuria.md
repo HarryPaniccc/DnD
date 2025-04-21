@@ -2,8 +2,7 @@
 tags:
   - Lore
 ---
-
-**Centuria** is a young goddess. A deity of the stars, she has sewn the constellations in the night sky. She is a god of luck and wonder. She seeks to provide knowledge to all, and guide those who are lost. She seeks only for everyone to be free within their lives, and for self expression to be the centre point of one’s life.
+**Centuria** is the young goddess if freedom, luck and stories. A deity of the stars, she has sewn the constellations in the night sky. She seeks to provide knowledge to all, and guide those who are lost. She seeks only for everyone to be free within their lives, and for all to be true to themself.
 
 Her birth came knowledgeably after the birth of the other gods of the pantheon. When she came into this world her first act was to sew the chaos of the starry night sky into the images and guiding pictures that are the constellations. 
 
@@ -21,6 +20,7 @@ The birth of [[Centuria]], the young God of Freedom, also took place early in th
 # Tenets and Teachings of Centuria
 ---
 
+>[!Tenets]
 > - While your future may be written in the stars, you are never confined to it. New paths can always be forged, one merely needs to know how.
 > - The freedom of the soul is what gives it strength. Never allow yourself or others to be bound by the shackles of tyranny.
 > - Guide others along the path to their freedom. If they are unwilling to fight against their bindings, sew the seeds of rebellion into their hearts.
