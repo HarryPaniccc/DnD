@@ -4,7 +4,7 @@ tags:
 ---
 > The Raven Queen's true name is Nerava(?)
 
-The Raven Queen is one of the deities in the pantheon of the [[Founding Gods]]. She is the God of death and Fate, her domain encompasses those whose lives are ending or have come to an end, and she is the patron to those who would seek to destroy undead creatures. 
+The Raven Queen is one of the deities in the pantheon of the [[Founding Gods]]. She is the God of death and Fate, her domain encompasses those whose lives are ending or have come to an end, and she is the patron to those who would seek to destroy undead creatures.
 # Details
 ---
 Residing in the [[Fortress of Memories]] within the [[Shadowfell]], the Raven Queen tends to and protects the souls of the departed. She collects other, interesting things that represent personality, such as memories, things that bring her once-shattered mind comfort. She holds dominion over souls and death, and is worshipped by those who have lost someone or wish for serenity that comes with less attachment. Her association with death and the conclusion of life often leads people to have a stigma against her.

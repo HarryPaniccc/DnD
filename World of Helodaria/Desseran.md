@@ -16,7 +16,7 @@ The city of Desseran is one of the oldest cities in [[Helodaria]], and the origi
 - Leader of the [[Thayan Orthodoxy]]
 - [[Platinum Talon]] Leader
 - [[Desseran Apostolate]]
-### The [[Council of Old Thay RENAME]]
+### The [[Red Wizards of Thay]]
 ### The [[Platinum Talon]]
 
 # History

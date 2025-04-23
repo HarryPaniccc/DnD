@@ -43,14 +43,31 @@ Goblins break in looking for more shit. They make a lot of noise as they make th
 
 # Prison Cistern
 ---
-Goblins + ogre
+> The chamber ahead is lit with a warm torchlight, moving swiftly, probably many torches carried by different creatures. The room is divided into two levels: An open level on the ground with various doors facing inwards on either side. At the back a pair of two stairways lead to the same raised platform which wraps around one end overlooking the center. A small river of sewer water flows form a grate at the back of the top level, down as a waterfall and into a collection at the bottom level, before flowing into a grate on the floor. 
 
-### Encounter: Goblin Looters
-Goblinoids looting a store room by some cells with prisoners in them. Theyre being hounded by the goblins.
+In a room with a raised platform with rows of prison doors on either side, at the center a grate of sewerage flows through
+
+### Encounter: Bugbear Looters
+> Bugbear Commander + Bugbears x 3 + Goblin x 2 + Ghoul
+
+Goblinoids looting a store room by some cells with prisoners in them. Theyre being hounded by the goblins. A bugbear wielding a whip demands that the prison doors are opened so that the prisoners inside can be claimed as slaves.
+
+### Prisoners
+
+
+# Sewer Passageway
+---
+Rats or something
 
 
 # Temple of Foreshadowing
 ---
-Giant spider
+Phase spider
+
 Undead
 Spectator (Just fucking steal the bg3 fight maybe)
+
+
+# Hawk of Hope
+---
+Hawk sees them and guides them away

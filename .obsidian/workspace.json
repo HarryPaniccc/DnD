@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "6c679cae750e7618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnamed Tiefling Ranger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnamed Tiefling Ranger"
+            }
+          },
+          {
             "id": "344bc0a0e4f07cbd",
             "type": "leaf",
             "state": {
@@ -120,69 +134,70 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       },
       {
         "id": "a5363465700c9bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "382e62ef9469ee1a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#goblin_mm",
-                "title": "Goblin - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Goblin - 5etools"
-            }
-          },
-          {
-            "id": "a11eba8e8dde3a5e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://koboldplus.club/",
-                "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'"
-            }
-          },
-          {
-            "id": "768850d11cad603b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/spells.html#poison%20spray_xphb",
-                "title": "Poison Spray - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Poison Spray - 5etools"
-            }
-          },
-          {
             "id": "bd99e2f45165ac67",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://5e.tools/book.html#xdmg,6",
-                "title": "Treasure - Dungeon Master's Guide (2024) - 5etools",
+                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
+                "title": "Character Creation - Quick Reference - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Treasure - Dungeon Master's Guide (2024) - 5etools"
+              "title": "Character Creation - Quick Reference - 5etools"
+            }
+          },
+          {
+            "id": "74291c7d8af46c28",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/backgrounds.html#sage_phb",
+                "title": "Sage - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Sage - 5etools"
+            }
+          },
+          {
+            "id": "60fb6f04f0c6f1e1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:sub_beast%20master_phb=b1",
+                "title": "Classes - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Classes - 5etools"
+            }
+          },
+          {
+            "id": "75f9d7caaf9044a2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#almiraj_toa",
+                "title": "Almiraj - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Almiraj - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -392,39 +407,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3643212ed11a8ad3",
+  "active": "60fb6f04f0c6f1e1",
   "lastOpenFiles": [
-    "World of Helodaria/Sirkonos.md",
-    "World of Helodaria/Keldmire.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "Unnamed Tiefling Ranger.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Disaton Revelre Capitulum.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside.md",
-    "World of Helodaria/Zitrumean Empire.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/The Raven Queen.md",
+    "Statblocks/Manticore Statblock.md",
+    "World of Helodaria/Lucius.md",
+    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Rokbaur Castle.md",
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Estravia.md",
+    "World of Helodaria/Lord Malgus Kraber.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "World of Helodaria/Desseran.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "World of Helodaria/Thayan Orthodoxy.md",
+    "World of Helodaria/Thay.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "Unnamed Half Elf Phantom Rogue.md",
     "World of Helodaria/Sehanine.md",
-    "World of Helodaria/Lolth.md",
-    "World of Helodaria/Centuria.md",
-    "World of Helodaria/Bahamut.md",
-    "World of Helodaria/Tyr.md",
-    "World of Helodaria/Ilmater.md",
+    "World of Helodaria/The Raven Queen.md",
+    "Disaton Revelre Capitulum.md",
+    "World of Helodaria/Zitrumea.md",
+    "World of Helodaria/Zitrumean Empire.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Keldmire.md",
     "Attachments/Pasted image 20240320125108.png",
-    "World of Helodaria/Eranulaid.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/History of Helodaria.md",
     "Attachments/Pasted image 20250418120407.png",
-    "Planes of Existence.md",
     "Attachments/Pasted image 20250418111612.png",
     "Attachments/Pasted image 20250418111603.png",
     "Attachments/Pasted image 20250418111557.png",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Lord Harrenhal.md",
-    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Syr Armond.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "export/Session 0/Attachments/Pasted image 20250414132345.png",
     "export/Session 0/Attachments",
     "export/Session 0/plugin/chalkboard/_style.css",

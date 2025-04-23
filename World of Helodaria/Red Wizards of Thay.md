@@ -13,4 +13,4 @@ As Thayan Wizards grow in the ranks they gain bigger and bigger facial tattoos.
 
 - Arch Zulkir of the order
 - Mennek Ariz https://forgottenrealms.fandom.com/wiki/Mennek_Ariz
-- 
+
