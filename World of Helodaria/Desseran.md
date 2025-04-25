@@ -14,10 +14,10 @@ The city of Desseran is one of the oldest cities in [[Helodaria]], and the origi
 ## Politics
 ### The council who runs the city, made up of leaders of various factions
 - Leader of the [[Thayan Orthodoxy]]
-- [[Platinum Talon]] Leader
+- [[Silver Talon]] Leader
 - [[Desseran Apostolate]]
 ### The [[Red Wizards of Thay]]
-### The [[Platinum Talon]]
+### The [[Silver Talon]]
 
 # History
 ---
@@ -29,11 +29,11 @@ The city of Desseran is one of the oldest cities in [[Helodaria]], and the origi
 ## Religion
 The city has a rich history of religious conflict and various worships, many being formed from the ashes of old worships.
 
-- The [[Platinum Talon]]
+- The [[Silver Talon]]
 - The [[Desseran Apostolate]]
 - [[Thayan Orthodoxy]]
-### The [[Platinum Talon]]
-The order of the [[Platinum Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
+### The [[Silver Talon]]
+The order of the [[Silver Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
 
 ## The [[Red Wizards of Thay]] 
 

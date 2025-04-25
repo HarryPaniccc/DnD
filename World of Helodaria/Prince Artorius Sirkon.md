@@ -1,6 +1,8 @@
 ---
 tags:
   - Character
+aliases:
+  - Arthur Sirkon
 ---
 Prince Artorius "Arthur" Sirkon is the crowned prince of the [[Sirkonos]] and friend to the vanguard. He is a human paladin oath of the crown.
 # Paladin Statblock

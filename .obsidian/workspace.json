@@ -4,182 +4,175 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "aa344a83fbb8a99a",
+            "id": "3062ac46bd8eabe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "General Notes and Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "General Notes and Ideas"
             }
           },
           {
-            "id": "dd119b19acdcea6e",
+            "id": "43fd1749389436ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Horc Paladin Of Centuria.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Horc Paladin Of Centuria"
+              "title": "Vanguard Arc 7 - Unnamed"
             }
           },
           {
-            "id": "344bc0a0e4f07cbd",
+            "id": "d1770a0f84c0e9b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+                "file": "World of Helodaria/Thay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Stirring in the Darkness"
+              "title": "Thay"
             }
           },
           {
-            "id": "a7cf7903ab1d6c27",
+            "id": "77b4d7d5f8a869af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Centuria.md",
+                "file": "World of Helodaria/Thayan Orthodoxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Centuria"
+              "title": "Thayan Orthodoxy"
             }
           },
           {
-            "id": "453f5f0ff23ce149",
+            "id": "ccda36de10c4926c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumean Empire.md",
+                "file": "World of Helodaria/Red Wizards of Thay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zitrumean Empire"
+              "title": "Red Wizards of Thay"
             }
           },
           {
-            "id": "210bd1e571299317",
+            "id": "86b1403d5eba48e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "World of Helodaria/Zakuul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zitrumea"
+              "title": "Zakuul"
             }
           },
           {
-            "id": "3643212ed11a8ad3",
+            "id": "fdeaa2a156954d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disaton Revelre Capitulum.md",
+                "file": "Uladar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disaton Revelre Capitulum"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a5363465700c9bcd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "962174d1aebcbb24",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                "title": "Character Creation - Quick Reference - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Character Creation - Quick Reference - 5etools"
+              "title": "Uladar"
             }
           },
           {
-            "id": "bd99e2f45165ac67",
+            "id": "4bc58232b1d122cf",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#paladin_phb,state:sub_devotion_phb=b1",
-                "title": "Paladin - 5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/King Sirkon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Paladin - 5etools"
+              "icon": "lucide-file",
+              "title": "King Sirkon"
             }
           },
           {
-            "id": "635067a577be979d",
+            "id": "af038168cc18132a",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/races.html#half-orc_phb",
-                "title": "Half-Orc - 5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Half-Orc - 5etools"
+              "icon": "lucide-file",
+              "title": "Desseran"
             }
           },
           {
-            "id": "2d320d0e0459f7a5",
+            "id": "9dd1aa2fe7064fe4",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/items.html#mace_phb",
-                "title": "Mace - 5etools",
-                "mode": "webview"
+                "file": "Fetishes of the Resurgence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Mace - 5etools"
+              "icon": "lucide-file",
+              "title": "Fetishes of the Resurgence"
             }
           },
           {
-            "id": "74291c7d8af46c28",
+            "id": "ef78878be7537cac",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/backgrounds.html#outlander_phb",
-                "title": "Outlander - 5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Outlander - 5etools"
+              "icon": "lucide-file",
+              "title": "Desseran"
+            }
+          },
+          {
+            "id": "7c179c6cb7ce04e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Eranulaid History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eranulaid History"
             }
           }
         ],
@@ -227,7 +220,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -240,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 258.5,
     "collapsed": true
   },
   "right": {
@@ -250,7 +243,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 58.948545861297546,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -272,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disaton Revelre Capitulum.md",
+                "file": "World of Helodaria/Desseran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +275,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disaton Revelre Capitulum"
+              "title": "Backlinks for Desseran"
             }
           },
           {
@@ -291,12 +284,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Desseran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Desseran"
             }
           },
           {
@@ -318,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Vanguard Arc 7 - Unnamed"
             }
           },
           {
@@ -342,12 +335,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 41.051454138702454,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -362,24 +355,12 @@
               "icon": "lucide-file",
               "title": "Guidelines"
             }
-          },
-          {
-            "id": "c68b5dcf4c07320d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -393,12 +374,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bd99e2f45165ac67",
+  "active": "43fd1749389436ac",
   "lastOpenFiles": [
+    "World of Helodaria/Eranulaid History.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Thay.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Desseran.md",
+    "World of Helodaria/Prince Artorius Sirkon.md",
+    "World of Helodaria/Nightshade Peaks.md",
+    "World of Helodaria/Silver Talon.md",
+    "World of Helodaria/Desseran Apostolate.md",
     "Unnamed Horc Paladin Of Centuria.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "World of Helodaria/Centuria.md",
     "World of Helodaria/Deities of Helodaria.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Disaton Revelre Capitulum.md",
     "World of Helodaria/Lucius.md",
     "Stormbringer.md",
@@ -412,15 +402,6 @@
     "World of Helodaria/Sirkonos.md",
     "World of Helodaria/Estravia.md",
     "World of Helodaria/Lord Malgus Kraber.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Thayan Orthodoxy.md",
-    "World of Helodaria/Thay.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Unnamed Half Elf Phantom Rogue.md",
-    "World of Helodaria/Sehanine.md",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20250418120407.png",
     "Attachments/Pasted image 20250418111612.png",

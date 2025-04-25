@@ -14,7 +14,7 @@ tags:
 - They imprisoned Eltab again beneath [[Diredahl]] in [[Dun Murroc]] #TODO and successfully ousted the god rulers of [[Desseran]]
 - From there the Empire of [[Thay]] spread across [[Eranulaid]]. Great cities were formed throughout the empire. It was a Magocracy.
 
-### The Sundering of [[Thay]] OCCURS
+### The Sundering of [[Thay]] occurs
 
 - Thay split into smaller states
 - Where Ruina now is became a sorcerer-supremist regime under the Malevolence
@@ -23,7 +23,7 @@ tags:
 - After the break out of the Fall, Sirkon leads the sirkonians against the forces of [[Malar]] and the demonic forces under [[Tharizdun]] and becomes the first Sirkonian King.
 - Sirkon becomes a lich after making a deal with [[Orcus]]
 - His influence spreads across [[Thay]] like a creeping disease, growing his council of [[Lich|Liches]] and loyalists
-- Some members of [[Thay]] rebel against him, seeing his rule as a sickness. By this point, the avatars of the [[Bahamut]] and of [[Ilmater]] have reclaimed their roles as kings of Desseran.
+- Some members of [[Thay]] rebel against him, seeing his rule as a sickness. By this point, the avatars of the [[Bahamut]] and of [[Lathander]] have reclaimed their roles as kings of Desseran.
 - He finds and convinces [[Eltab]] to sacrifice himself so that he might use his heart, infusing it with the [[Seed of the Abyss]] to become the [[Heart of the Abyss]]. This would allow Sirkon command of the Demonic forces that had grown in the [[Nightshade Peaks]]. Orcus now sees him as an avatar of all of demonkind, a force meant to helm that which exists in the dark places of the world.
 - His [[Red Wizards of Thay]] loyalists disappear to his side, leaving undiscovered doctrine that would cause future generations to be loyal to him.
 - [[Syr Bayle Renslayer]] rides with an army alongside the avatars of the gods against the forces accumulating in the [[Nightshade Peaks]] against [[Desseran]] under Sirkon's power. He is defeated and turns to worship [[Orcus]], becoming his undying champion.

@@ -1,7 +1,6 @@
 There are a lot of things that need to be cleared up before I can specify exactly what is happening. [[King Sirkon]] is returning to power now that his new physical form, [[Prince Artorius Sirkon]] has matured and begun to show promise. He needs the [[Heart of the Abyss]] to complete his Son's rise to power so that he might control his son as an avatar of himself.
 
 
-
 # Outline
 ---
 The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in flames. War is brewing in every corner. The dark corners of the world are responding to the coming of a messiah that has long been foretold.
@@ -31,13 +30,13 @@ His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]], [[Ulrandir
 Want to do an adventure where people find a clue to Sirkon and then die, starting the attacks on Desseran.
 
 ## Act 1 - [[City of the Glass Moon]]
-When [[Zakuul]] defeated [[Darius Nubide]] he decided that not only are the Drow his enemy, but so is [[Ruina]] - it was a Ruinan group that sold him into slavery. He would torture Darius for a long time which drew [[King Sirkon|Sirkon's]] attention. Sirkon would parlay with and intimidate Zakuul, granting him a simulacrum of Darius to use in his dismantling of his opponents.
+When [[Zakuul]] defeated [[Darius Nubide]] he decided that not only are the Drow his enemy, but so is [[Ruina]] - it was a Ruinan group that sold him into slavery, and now a member of the [[Uldronos Council]] has come to try enslave him. He would torture Darius for a long time which drew [[King Sirkon|Sirkon's]] attention. Sirkon would parlay with and intimidate Zakuul, granting him a simulacrum of Darius to use in his dismantling of his opponents.
 
 Sirkon's desire with this move is to weaken Ruina and reclaim something that is within the [[City of the Glass Moon]]. Zakuul will use what he has been granted by Sirkon to initiate a war against the Drow while also tactically involving Ruina.
 
 [[Ulrandir Vanariel]], soon to be executed, has already been saved by Sirkon - a simulacrum placed in his stead. Ulrandir has been promised rule over Ruina once the dust settles, and has been made to assist Zakuul.
 
-This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Orcs|Orc]] abyssal loyalists to Sirkon, and the [[Duergar]] servants of Zakuul assemble under the.
+This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Orcs|Orc]] abyssal loyalists to Sirkon, and the [[Duergar]] servants of Zakuul assemble in the ruins of an old ruinan stronghold. Their first victim? [[Vasspryg]] will fall.
 ### Events summary
 ##### Background
 
@@ -45,7 +44,7 @@ This causes a terrible alliance to be forged with the goal of the destruction of
 - [[Darius Nubide]] acts as a mole and proxy in the Ruinan government. This treachery will allow [[Vasspryg]] to fall.
 - 
 
-- [[Alfred Gundrei]] has become king and immediately had to take war council
+- [[Alfred Gundrei]] has become Duke and immediately had to take war council
 - [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government (==Why==)
 - [[King Sirkon]] wants something from within the [[City of the Glass Moon]], and has given [[Zakuul]] the tools to achieve control of an [[Orcs]] (?) army to aid in has assaults - **Demon/Zodd guys are Sirkon's control of the situation**
 - [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him (Sent by Zakuul?/Ulrandir?/Darius?). They are getting past his security using the **Paintings**
@@ -69,7 +68,13 @@ This causes a terrible alliance to be forged with the goal of the destruction of
 ### Proxy War
 
 ## Act 2 - War in [[Desseran]] and the [[Nightshade Peaks]]
+News from [[Desseran]] reaches Ruina: evil from the [[Nightshade Peaks]] has begun pouring against the city's defenders in the regions to the west of the river. King Sirkon will have fallen ill, ceding the throne to [[Prince Artorius Sirkon|Arthur Sirkon]]. Arthur will task Kanan with the mission of meeting with the leaders of Desseran, as Sirkonos and Desseran united may be able to harry the nightshade peaks from both sides more effectively.
 
+The [[Thayan Orthodoxy]] woman has the wit to ask: why now? And why in this manner? Why is the [[Sion of Orcus]] waging war on Desseran, and more importantly, why did he start by attacking a rinky dinky little town in the middle of nowhere? She thinks someone found some artifact that he needed to stay hidden.
+
+- [[Silver Talon]] fortress
+- [[Caede]] given the task of destroying the [[Sion of Orcus]]
+- "You have heard the beating too."
 
 
 ## Act 3 - [[Heart of the Abyss]]
