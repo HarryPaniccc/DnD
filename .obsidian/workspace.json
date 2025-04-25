@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "6c679cae750e7618",
+            "id": "dd119b19acdcea6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Tiefling Ranger.md",
+                "file": "Unnamed Horc Paladin Of Centuria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Tiefling Ranger"
+              "title": "Unnamed Horc Paladin Of Centuria"
             }
           },
           {
@@ -50,45 +50,17 @@
             }
           },
           {
-            "id": "a7c78460e274f9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sehanine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sehanine"
-            }
-          },
-          {
-            "id": "e2cc7cc849598da1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/The Raven Queen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Raven Queen"
-            }
-          },
-          {
             "id": "a7cf7903ab1d6c27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "World of Helodaria/Centuria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deities of Helodaria"
+              "title": "Centuria"
             }
           },
           {
@@ -141,7 +113,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd99e2f45165ac67",
+            "id": "962174d1aebcbb24",
             "type": "leaf",
             "state": {
               "type": "webviewer",
@@ -155,49 +127,63 @@
             }
           },
           {
+            "id": "bd99e2f45165ac67",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/classes.html#paladin_phb,state:sub_devotion_phb=b1",
+                "title": "Paladin - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Paladin - 5etools"
+            }
+          },
+          {
+            "id": "635067a577be979d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/races.html#half-orc_phb",
+                "title": "Half-Orc - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Half-Orc - 5etools"
+            }
+          },
+          {
+            "id": "2d320d0e0459f7a5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/items.html#mace_phb",
+                "title": "Mace - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mace - 5etools"
+            }
+          },
+          {
             "id": "74291c7d8af46c28",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/backgrounds.html#sage_phb",
-                "title": "Sage - 5etools",
+                "url": "https://2014.5e.tools/backgrounds.html#outlander_phb",
+                "title": "Outlander - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Sage - 5etools"
-            }
-          },
-          {
-            "id": "60fb6f04f0c6f1e1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:sub_beast%20master_phb=b1",
-                "title": "Classes - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Classes - 5etools"
-            }
-          },
-          {
-            "id": "75f9d7caaf9044a2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#almiraj_toa",
-                "title": "Almiraj - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Almiraj - 5etools"
+              "title": "Outlander - 5etools"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -407,12 +393,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "60fb6f04f0c6f1e1",
+  "active": "bd99e2f45165ac67",
   "lastOpenFiles": [
-    "Unnamed Tiefling Ranger.md",
+    "Unnamed Horc Paladin Of Centuria.md",
+    "World of Helodaria/Centuria.md",
+    "World of Helodaria/Deities of Helodaria.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Statblocks/Manticore Statblock.md",
+    "Disaton Revelre Capitulum.md",
     "World of Helodaria/Lucius.md",
+    "Stormbringer.md",
+    "Douglas Dier.md",
+    "Unnamed Tiefling Ranger.md",
+    "Statblocks/Manticore Statblock.md",
     "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
@@ -429,12 +421,6 @@
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "Unnamed Half Elf Phantom Rogue.md",
     "World of Helodaria/Sehanine.md",
-    "World of Helodaria/The Raven Queen.md",
-    "Disaton Revelre Capitulum.md",
-    "World of Helodaria/Zitrumea.md",
-    "World of Helodaria/Zitrumean Empire.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Keldmire.md",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20250418120407.png",
     "Attachments/Pasted image 20250418111612.png",

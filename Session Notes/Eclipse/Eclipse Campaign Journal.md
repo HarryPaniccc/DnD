@@ -2,14 +2,6 @@
 tags:
   - Core
 ---
-- Introduce the world
-- Short, maybe 10 sessions
-- Levels 4 to 7? That gives 4 levels
-- Some kind of dungeon crawl
-- A legendary item far too high for their shit.
-- [[Zitrumea]] setting? Maybe one of the larger ports or in [[Pontiss]]. Maybe within [[Baylan's Rest]]
-- Flesh out order of wizards?
-
 ### Plot Ideas
 - Hired to go kill some guys but then set up to be killed and now its a revenge plot against someone. Maybe set in [[Ralia]] where a local lord has been murdered, or rather a smaller townweew
 - In Dularen involving the [[Church of the Unshackled]] has become corrupted with followers of [[Thezuurol]] or similar.
@@ -27,11 +19,11 @@ tags:
 # Player Characters
 
 - Tristyn - [[Unnamed Half Elf Phantom Rogue]]
-- Tim - [[Unnamed Tiefling Ranger]]
-- Francois - [[Unnamed Half Elf Druid]]
-- Ryan - 
-- Rob -
-- Reid - 
+- Tim - [[Unnamed Tiefling Ranger]] 
+- Francois - [[Stormbringer]] (Helf Druid)
+- Ryan - (Tiefling Bard)
+- Rob - [[Unnamed Horc Paladin Of Centuria]] (\ Paladin)
+- Reid - [[Douglas Dier]] (Human wizard)
 
 # Plot Summary
 The town of [[Nethendell]] sits on the southern side of the pass that separates the northern [[Zitrumea]] regions from the central. Living in the shadow of the [[Tower of Yierdur]], the people of Nethendell have lived a peaceful life. The town is built above an ancient temple to [[Sehanine]].
