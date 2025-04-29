@@ -103,3 +103,9 @@ I just wanted to list encounters I want to have here
 - Sanctum of the God Emperor
 - [[Demogorgon]]
 - 
+
+[^1]: adas
+
+[^2]: WHAT THE FUCK I
+
+[^3]: TEST TEST TES

@@ -3,8 +3,8 @@ tags:
   - Core
 ---
 ### Plot Ideas
-- Hired to go kill some guys but then set up to be killed and now its a revenge plot against someone. Maybe set in [[Ralia]] where a local lord has been murdered, or rather a smaller townweew
-- In Dularen involving the [[Church of the Unshackled]] has become corrupted with followers of [[Thezuurol]] or similar.
+- Hired to go kill some guys but then set up to be killed and now its a revenge plot against someone. Maybe set in [[Ralia]] where a local lord has been murdered, or rather a smaller town
+- In Dularen involving the [[Church of the Unshackled]] has become corrupted with followers of [[Thezuurol]] or similar
 ### Going with
 - Town controlled by some kind of vassal whos son keeps him poisoned and controls the town like wormtongue. Before the town was raided by goblinoids who were 'defeated' but fled with the real heir captive.
 - People have been attacked/killed on the surrounding farmlands
