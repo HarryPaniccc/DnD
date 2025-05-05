@@ -19,7 +19,7 @@ tags:
 # Player Characters
 
 - Tristyn - [[Unnamed Half Elf Phantom Rogue]]
-- Tim - [[Unnamed Tiefling Ranger]] 
+- Tim - [[Rosmary (and Thyme)]] 
 - Francois - [[Stormbringer]] (Helf Druid)
 - Ryan - (Tiefling Bard)
 - Rob - [[Unnamed Horc Paladin Of Centuria]] (\ Paladin)

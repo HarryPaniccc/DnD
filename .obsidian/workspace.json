@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "e57e6c3b7d71d15e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rosmary (and Thyme).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rosmary (and Thyme)"
+            }
+          },
+          {
             "id": "dd119b19acdcea6e",
             "type": "leaf",
             "state": {
@@ -132,12 +146,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#paladin_phb,state:sub_devotion_phb=b1",
-                "title": "Paladin - 5etools",
+                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:sub_beast%20master_phb=b1",
+                "title": "Ranger - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Paladin - 5etools"
+              "title": "Ranger - 5etools"
+            }
+          },
+          {
+            "id": "b55d9bffea7aa200",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/spells.html#ensnaring%20strike_phb",
+                "title": "Ensnaring Strike - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ensnaring Strike - 5etools"
             }
           },
           {
@@ -174,16 +202,30 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/backgrounds.html#outlander_phb",
-                "title": "Outlander - 5etools",
+                "url": "https://2014.5e.tools/backgrounds.html#acolyte_phb",
+                "title": "Acolyte - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Outlander - 5etools"
+              "title": "Acolyte - 5etools"
+            }
+          },
+          {
+            "id": "fbf2b488824221aa",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/backgrounds.html#sailor_phb",
+                "title": "Backgrounds - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Backgrounds - 5etools"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -393,16 +435,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dd119b19acdcea6e",
+  "active": "fbf2b488824221aa",
   "lastOpenFiles": [
+    "World of Helodaria/Lathander.md",
+    "Rosmary (and Thyme).md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Unnamed Horc Paladin Of Centuria.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Nubide Keep.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
     "Unnamed Stark House Equivalent.md",
     "World of Helodaria/Ralia.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Session 70 - Let Sleeping Gods Lie.md",
     "World of Helodaria/Eranulaid.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Helodaria.md",
     "Attachments/Pasted image 20240320125108.png",
     "World.md",
@@ -411,17 +461,9 @@
     "World of Helodaria/Sirkonos.md",
     "World of Helodaria/Estravia.md",
     "World of Helodaria/Lord Malgus Kraber.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Unnamed Horc Paladin Of Centuria.md",
     "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Lathander.md",
     "World of Helodaria/Eranulaid History.md",
     "World of Helodaria/Thayan Orthodoxy.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Desseran Apostolate.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Thay.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "Attachments/Pasted image 20250418120407.png",
     "Attachments/Pasted image 20250418111612.png",
     "Attachments/Pasted image 20250418111603.png",
