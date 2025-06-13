@@ -5,7 +5,7 @@ Stat stick
 
 AND
 
-Once in a 24 hour period you may attempt to cause a new dawn to occur which will cause the sun to rise around you in a 1 mile radius, recharge "recharges at dawn" features, and allow allies in a 30 foot radius to gain the benefits of a short rest.
+Once in a 24 hour period you may attempt to cause a new dawn to occur which will cause the sun to rise around you in a 1 mile radius, recharge "recharges at dawn" features, and allow allies in a 100 foot radius to gain the benefits of a short rest.
 
 > Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
 

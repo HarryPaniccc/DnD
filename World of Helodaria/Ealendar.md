@@ -2,7 +2,28 @@
 tags:
   - PC
 ---
-# Half Orc
+# Intro
+---
+**Ealendar** (ay-lin-dar) is a [[Half Orc]] paladin of [[Centuria]], played in the [[Eclipse Campaign Journal|Eclipse Campaign]].
+# Description
+---
+## Appearance
+## Personality
+# Biography
+---
+## Before the Campaign
+## Campaign One: Vanguard
+# Character Information
+---
+## Quests
+## Notable Items
+### Current Items
+### Former Items
+# Relationships
+---
+# Creation
+
+## Half Orc
 - Strength +2, Con +1
 - Medium
 - 30ft
@@ -12,7 +33,7 @@ tags:
 - **Savage Attacks:** One more die on crits
 - Common and Orc
 - 7 ft tall (yippee)
-# Paladin
+## Paladin
 - 1d10 hit dice
 - HP 1: 10 + 3 + 10 + 7 + 3x(2) = 36
 
@@ -52,14 +73,14 @@ Channel Divinity
 
 ### ASI
 Great weapon master
-# Ability Scores
+## Ability Scores
 
 | STR | DEX | CON | INT | WIS | CHA | Source         |
 | --- | --- | --- | --- | --- | --- | -------------- |
 | 15  | 10  | 13  | 8   | 12  | 14  | Standard array |
 | +2  |     | +1  |     |     |     | Race           |
 | 17  | 10  | 14  | 8   | 12  | 14  | Totals         |
-# Background
+## Background
 Outlander
 - Athletics + Survival
 - One musical instrument

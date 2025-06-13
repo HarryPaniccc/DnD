@@ -4,228 +4,143 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "aa344a83fbb8a99a",
+            "id": "4197be4e659ef1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "e57e6c3b7d71d15e",
+            "id": "9489f1e08a50e6f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rosmary (and Thyme).md",
+                "file": "Session 85 - Dragonfire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rosmary (and Thyme)"
+              "title": "Session 85 - Dragonfire"
             }
           },
           {
-            "id": "dd119b19acdcea6e",
+            "id": "55d727412ad2bbf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Horc Paladin Of Centuria.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Horc Paladin Of Centuria"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "344bc0a0e4f07cbd",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+                "file": "World of Helodaria/Sirkonos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 - Stirring in the Darkness"
+              "title": "Sirkonos"
             }
           },
           {
-            "id": "a7cf7903ab1d6c27",
+            "id": "0ab9e66bd4bc3e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Centuria.md",
+                "file": "World of Helodaria/Steinwalde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Centuria"
+              "title": "Steinwalde"
             }
           },
           {
-            "id": "453f5f0ff23ce149",
+            "id": "935e0e77e2b38685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumean Empire.md",
+                "file": "World of Helodaria/Estravia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zitrumean Empire"
+              "title": "Estravia"
             }
           },
           {
-            "id": "210bd1e571299317",
+            "id": "70fb77a1a70b2eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zitrumea.md",
+                "file": "Valeria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zitrumea"
-            }
-          },
-          {
-            "id": "3643212ed11a8ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Disaton Revelre Capitulum.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Disaton Revelre Capitulum"
+              "title": "Valeria"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "a5363465700c9bcd",
+        "id": "520be37f04cf624b",
         "type": "tabs",
         "children": [
           {
-            "id": "962174d1aebcbb24",
+            "id": "bdd393e352943feb",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                "title": "Character Creation - Quick Reference - 5etools",
-                "mode": "webview"
+                "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Character Creation - Quick Reference - 5etools"
+              "icon": "lucide-file",
+              "title": "Session 84 - Travel to Steinwalde"
             }
           },
           {
-            "id": "bd99e2f45165ac67",
+            "id": "54888582fc14dff3",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:sub_beast%20master_phb=b1",
-                "title": "Ranger - 5etools",
-                "mode": "webview"
+                "file": "Siegfried the Horse.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Ranger - 5etools"
-            }
-          },
-          {
-            "id": "b55d9bffea7aa200",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/spells.html#ensnaring%20strike_phb",
-                "title": "Ensnaring Strike - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Ensnaring Strike - 5etools"
-            }
-          },
-          {
-            "id": "635067a577be979d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/races.html#half-orc_phb",
-                "title": "Half-Orc - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Half-Orc - 5etools"
-            }
-          },
-          {
-            "id": "2d320d0e0459f7a5",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/items.html#mace_phb",
-                "title": "Mace - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mace - 5etools"
-            }
-          },
-          {
-            "id": "74291c7d8af46c28",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/backgrounds.html#acolyte_phb",
-                "title": "Acolyte - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Acolyte - 5etools"
-            }
-          },
-          {
-            "id": "fbf2b488824221aa",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/backgrounds.html#sailor_phb",
-                "title": "Backgrounds - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Backgrounds - 5etools"
+              "icon": "lucide-file",
+              "title": "Siegfried the Horse"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +184,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -314,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disaton Revelre Capitulum.md",
+                "file": "Abandoned Clock Tower.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +239,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disaton Revelre Capitulum"
+              "title": "Backlinks for Abandoned Clock Tower"
             }
           },
           {
@@ -333,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Session 81 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Session 81 -"
             }
           },
           {
@@ -360,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Underfoot Tollhouse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Underfoot Tollhouse"
             }
           },
           {
@@ -384,7 +299,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
@@ -435,35 +350,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "fbf2b488824221aa",
+  "active": "9489f1e08a50e6f2",
   "lastOpenFiles": [
-    "World of Helodaria/Lathander.md",
-    "Rosmary (and Thyme).md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Unnamed Horc Paladin Of Centuria.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Nubide Keep.md",
-    "World of Helodaria/Dularen.md",
-    "World of Helodaria/Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-    "Unnamed Stark House Equivalent.md",
-    "World of Helodaria/Ralia.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Session 70 - Let Sleeping Gods Lie.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Helodaria.md",
-    "Attachments/Pasted image 20240320125108.png",
-    "World.md",
     "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-    "Rokbaur Castle.md",
-    "World of Helodaria/Sirkonos.md",
+    "Session 85 - Dragonfire.md",
+    "Siegfried the Horse.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "Session Notes/Eclipse/Session 2 - Webs in the Sewers.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session 999 - Tournament of Trayfort Hold.md",
+    "Session Notes/Vanguard/Session 999 - Search for the Ley Line.md",
+    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
+    "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Estravia.md",
-    "World of Helodaria/Lord Malgus Kraber.md",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Eranulaid History.md",
-    "World of Helodaria/Thayan Orthodoxy.md",
+    "World of Helodaria/Sirkonos.md",
+    "Valeria.md",
+    "Odessa.md",
+    "Items/Anathema.md",
+    "Items/Nightfall, The Twilight Blade.md",
+    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Elandra, Duchess of the Vorciln.md",
+    "Thezuurol.md",
+    "Attachments/Pasted image 20250612080405.png",
+    "Attachments/Pasted image 20250612080352.png",
+    "Magic Item Pricing + Crafting.md",
+    "World of Helodaria/Brocia.md",
+    "World of Helodaria/Underfoot Tollhouse.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "World of Helodaria/General Den'rael.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "Items/Consumables",
+    "Untitled.canvas",
     "Attachments/Pasted image 20250418120407.png",
     "Attachments/Pasted image 20250418111612.png",
     "Attachments/Pasted image 20250418111603.png",
@@ -473,8 +392,6 @@
     "export/Session 0/plugin/chalkboard/_style.css",
     "export/Session 0/plugin/chalkboard/img/blackboard.png",
     "export/Session 0/plugin/chalkboard/img/boardmarker-black.png",
-    "export/Session 0/plugin/chalkboard/img/boardmarker-blue.png",
-    "export/Session 0/plugin/chalkboard/img/boardmarker-green.png",
     "export/Session 0/plugin/chalkboard/img",
     "export/Session 0/plugin/chalkboard/plugin (copy).js",
     "export/Session 0/plugin/chalkboard/style.css",
@@ -482,7 +399,6 @@
     "export/Session 0/plugin/chalkboard",
     "export/Session 0/plugin/chart/plugin.js",
     "export/Session 0/plugin/chart/chart.min.js",
-    "export/Session 0/plugin/chart",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
   ]

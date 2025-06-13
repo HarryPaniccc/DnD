@@ -67,8 +67,9 @@ The Blooming Run takes up the most amount of space of the districts. It houses t
 
 Outside of the Peddle is a simple, well kept cityscape with many places to dine, drink and live out your life.
 
-- The Dripping Barrel Inn (6Sp/Night) is a hearty, large inn with the first floor being a tavern. In the far right there is a bar on a raised half of the floor, and the far left there is a staircase leading above the bar to the open top floor with corridors leading to 16 total rooms. There is also a stable that is available for 7cp per day, per animal. The place is run by a collection of waiter staff and [[Albanny Halonoth]].
+- The **Dripping Barrel Inn** (6Sp/Night) is a hearty, large inn with the first floor being a tavern. In the far right there is a bar on a raised half of the floor, and the far left there is a staircase leading above the bar to the open top floor with corridors leading to 16 total rooms. There is also a stable that is available for 7cp per day, per animal. The place is run by a collection of waiter staff and [[Albanny Halonoth]].
 	- Bonnard is a fairly stout, short haired human barhand who works at the dripping barrel.
+- The **Bloated Horse Tavern** is a full tavern at all times of the day
 - The **Laughing Deck** is a tavern run by halfling man [[Dick Pemberton]], the establishment contains a collection of tables.
 - **The Hold** is a small castle-like structure in which the [[Ashen Legion]] keeps its warriors, and generals should they visit town.
 

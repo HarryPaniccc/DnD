@@ -3843,164 +3843,101 @@
                 }
               },
               {
-                "id": "dd119b19acdcea6e",
+                "id": "02565181467abc1e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Unnamed Horc Paladin Of Centuria.md",
+                    "file": "Session Notes/Eclipse/Session 3 - Fleeing the City.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Unnamed Horc Paladin Of Centuria"
+                  "title": "Session 3 - Fleeing the City"
                 }
               },
               {
-                "id": "344bc0a0e4f07cbd",
+                "id": "d16a553f8096b4b7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+                    "file": "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 1 - Stirring in the Darkness"
+                  "title": "Session 4 - Corpses and Refugees"
                 }
               },
               {
-                "id": "a7cf7903ab1d6c27",
+                "id": "1e9792eab41918f8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Centuria.md",
+                    "file": "Tira Stone.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Centuria"
+                  "title": "Tira Stone"
                 }
               },
               {
-                "id": "453f5f0ff23ce149",
+                "id": "c7225a0910eb1ee7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Zitrumean Empire.md",
+                    "file": "Unnamed Stark House Equivalent.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Zitrumean Empire"
+                  "title": "Unnamed Stark House Equivalent"
                 }
               },
               {
-                "id": "210bd1e571299317",
+                "id": "b8045e4f5942ad99",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Zitrumea.md",
+                    "file": "Great Houses RENAME.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Zitrumea"
+                  "title": "Great Houses RENAME"
                 }
               },
               {
-                "id": "3643212ed11a8ad3",
+                "id": "fd6674e3d325ac80",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Disaton Revelre Capitulum.md",
+                    "file": "Nethendell.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Disaton Revelre Capitulum"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "a5363465700c9bcd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "962174d1aebcbb24",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                    "title": "Character Creation - Quick Reference - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Character Creation - Quick Reference - 5etools"
+                  "title": "Nethendell"
                 }
               },
               {
-                "id": "bd99e2f45165ac67",
+                "id": "878d3f0999e8c147",
                 "type": "leaf",
                 "state": {
-                  "type": "webviewer",
+                  "type": "markdown",
                   "state": {
-                    "url": "https://2014.5e.tools/classes.html#paladin_phb,state:sub_devotion_phb=b1",
-                    "title": "Paladin - 5etools",
-                    "mode": "webview"
+                    "file": "World of Helodaria/Douglas Dier.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "globe-2",
-                  "title": "Paladin - 5etools"
-                }
-              },
-              {
-                "id": "635067a577be979d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/races.html#half-orc_phb",
-                    "title": "Half-Orc - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Half-Orc - 5etools"
-                }
-              },
-              {
-                "id": "2d320d0e0459f7a5",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/items.html#mace_phb",
-                    "title": "Mace - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Mace - 5etools"
-                }
-              },
-              {
-                "id": "74291c7d8af46c28",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/backgrounds.html#outlander_phb",
-                    "title": "Outlander - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Outlander - 5etools"
+                  "icon": "lucide-file",
+                  "title": "Douglas Dier"
                 }
               }
             ],
@@ -4061,8 +3998,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 249.51103591918945
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4214,9 +4150,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "dd119b19acdcea6e",
-      "mtime": "2025-04-29T16:27:03+02:00"
+      "active": "02565181467abc1e",
+      "mtime": "2025-06-12T07:41:44+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Kanan Downtime"
 }

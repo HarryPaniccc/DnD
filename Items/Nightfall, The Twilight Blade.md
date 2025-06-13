@@ -2,8 +2,6 @@
 
 *Weapon (Longsword), Requires Attunement, Legendary*
 
-
-
 ---
 > Lore. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. Now to fill out the space. 
 

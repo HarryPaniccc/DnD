@@ -25,10 +25,11 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 
 ## Sessions
 - 
-- [[Session 85 - Tournament of Trayfort Hold]]
-- [[Session 84 - Search for the Ley Line]] - Rylai solo
-- [[Session 84 - The Trial of Silb Heft]] - Silb solo
-- 
+- [[Session 999 - Tournament of Trayfort Hold]]
+- [[Session 999 - Search for the Ley Line]] - Rylai solo
+- [[Session 999 - The Trial of Silb Heft]] - Silb solo
+
+- [[Session 85 - Dragonfire]] - Kanan + Caede solo
 - [[Session 84 - Travel to Steinwalde]] - Kanan + Caede solo
 - [[Session 83 - Through the Sirkonian Countryside]] - Kanan solo
 - [[Session 82 - Meeting King Sirkon]]

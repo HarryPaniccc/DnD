@@ -113,7 +113,7 @@ When you make an attack with a firearm and miss, the bullet miraculously ricoche
 If it is absolutely unfeasible for the environment to accommodate a ricocheting bullet, such as when the battle takes place while floating in the Astral Plane and there is no debris flying around, this Gambit does not function.
 
 ### Right Where I Want You
-When a creature targets you with an attack you may, as a reaction, choose to automatically be hit by the attack. In return, you also may draw and automatically hit the attacker with an attack from a firearm. Both you and the attacker still may roll to see if you score a critical hit.
+When a creature targets you with an attack you may, as a reaction, choose to automatically be hit by the attack. In return, you also may draw and automatically hit the attacker with an attack from a firearm. Both you and the attacker still may roll to see if either of you score a critical hit.
 
 ### Two Gun Fighting
 When you take the Attack action and attack with a one-handed firearm that you're holding in one hand, you can use a bonus action to attack with a different one-handed firearm that you're holding in the other hand. You can also load or reload a firearm without difficulty if your hands are full.

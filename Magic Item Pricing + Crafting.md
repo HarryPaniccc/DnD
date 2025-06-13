@@ -6,14 +6,15 @@ Item values need to be somewhat more consistent.
 # Crafting
 ## Components Table
 
-| **Component**      | **Used In**                 | **Value**                                                   |
-| ------------------ | --------------------------- | ----------------------------------------------------------- |
-| Giant bone         | Potion of giant strength    | 300g of crushed bone is equivalent of half a potion         |
-| Behir Pearl        |                             |                                                             |
-| Wound Crest Flower | Potion of healing (common)  | one flower pays for 25 Gp of a potion                       |
-| Griphon Feathers   | Potion of flying            | A griphon feather pays for 100 Gp                           |
-| Giant fingernail   | Potion of giant strength    | A giant fingernail pays for 250 Gp of the respective potion |
-| [[Cold Iron]]      | Holy Avengers, [[Anathema]] | Very high? Idk                                              |
+| **Component**      | **Used In**                             | **Value + Notes**                                           |
+| ------------------ | --------------------------------------- | ----------------------------------------------------------- |
+| Giant bone         | [[Potion of Fire Giant Strength]], etc. | 300g of crushed bone is equivalent of half a potion         |
+| Behir Pearl        |                                         |                                                             |
+| Wound Crest Flower | Potion of healing (common)              | one flower pays for 25 Gp of a potion                       |
+| Griphon Feathers   | [[Potion of Flying]]                    | A griphon feather pays for 100 Gp                           |
+| Giant fingernail   | Potion of giant strength                | A giant fingernail pays for 250 Gp of the respective potion |
+| [[Cold Iron]]      | Holy Avengers, [[Anathema]]             | Very high? Idk                                              |
+| Phase Spider Venom | [[Phase Spider Poison]]                 | https://www.thievesguild.cc/harvest/creature.php?id=470     |
 ## Item Process
 # Pricing
 ## DMG Pricing Table

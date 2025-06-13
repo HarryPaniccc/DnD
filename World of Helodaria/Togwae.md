@@ -1,7 +1,15 @@
 ---
 tags:
   - PC
+aliases:
+  - Stormbringer
 ---
+>Male Half-Elf named Toggwaew (derived from Sylvan for “Stormbringer”). Father was a royal/governmental game keeper and forester, now deceased.  Mother was a lower-level diplomat/dignitary, who met his father while spending time in the local forest reserve.
+>
+>Toggwaew has a slender build with short dark/black hair. Face somewhat typical of his elvish heritage, but softened by thicker eyebrows and a more prominent jawline. Eyes are hazelnut and skin tone is light brown with a hint of copper. Face shows clear weathering from many years of travel, with a few small scars from more intense battles.
+>
+>Clothing is optimised for blending into natural forest environments. Leather boots, trousers, tunic, and belt are all brown in colour and fairly plain in design, functionality and sturdiness being more important than fashionable design. A dark green cloak with a hood is worn over all this, fastened with a copper brooch containing a single, modestly sized green gem.
+
 # Half Elf
 - Charisma +2, 2 other unique +1s
 - Medium

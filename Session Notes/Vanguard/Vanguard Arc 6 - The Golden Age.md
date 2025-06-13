@@ -72,7 +72,9 @@ Kanan will also need to be introduced to the courts of the [[Nobility of Sirkono
 - Spy [[Doppelganger|Doppelganger]]
 - [[Thayan Orthodoxy]] Steward
 
-In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]].
+In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]. 
+
+He will be asked to kill [[Lord Malgus Kraber]].
 
 ### Witcher Work
 Something certainly happens in [[Ralia]].
@@ -103,7 +105,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 
 ### [[Ley Lines]] and the [[Elemental Plane of Air]]
 
-- [[Session 84 - Search for the Ley Line]]
+- [[Session 999 - Search for the Ley Line]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
@@ -127,21 +129,18 @@ Rylai desires some kind of way to expel her sorcerous magic, rejecting who she w
 > "It is improper for one such as yourself to summon a member of the Uldronos Council, especially to command something of me." He does not shout, but his anger, exhaustion, and frustration is evident in his tone.*
 
 
-
 ### [[Lina Sweetsong]]
-
 
 >[!Note]
 >Use a **layleech** from flee mortals
 
 
-
 # [[Silb Heft|Silb]]
 ---
 
-### Lord Stormshield's Trial
+### Lord Stormshield's Trial + [[Hommlet]]
 
-- [[Session 84 - The Trial of Silb Heft]]
+- [[Session 999 - The Trial of Silb Heft]]
 
 # [[Isilme Vanariel|Isilme]]
 ---

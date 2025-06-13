@@ -2,7 +2,7 @@
 tags:
   - Character
 ---
-	# Stats
+# Stats
 >[!Notes]
 >- Spear/staff and plate armor
 >- Spell DC = 8 + 4 + 6 + mods = 18 + 1 (damnation) + 1 (damnation)

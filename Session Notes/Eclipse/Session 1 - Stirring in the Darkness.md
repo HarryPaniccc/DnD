@@ -1,15 +1,18 @@
->[!Guidelines]
->No lingering
->High pace
->Keep it as a game. Exploration must be a game
+**Subsequent Session**: [[Session 2 - Webs in the Sewers]]
+## Post Mortem
+**Vanadrahs 11th, 813 PF**
+- [[Ignis]], [[Togwae]], [[Parcival Grimbourne]], [[Cened]], [[Rosmary (and Thyme)]], and [[Ealendar]] have all fled below [[Nethendell]] attempting to escape the horde besieging it
+- They spent some time searching the catacombs, opting to head towards the surface rather than towards the underground escape route.
+- They did battle with a group of goblin scouts.
+- They engaged a group of hobgoblins and an orc using slaves to sort garbage.
 
 ## Introduction
-> Campaign into here
+> Welcome to Zitrumea, the prime continent of the Material Plane. A vast realm dotted with kingdoms and fiefdoms, many of which united under the great empire bearing the same name as the continent. Under this banner, led by the legendary [[Baylan Zitrum]], a champion of the Creation Gods, the forces of humanity and order beat back the worshippers of the dark powers, and the deities that are now worshipped world wide sealed away or destroyed many of their treacherous, vile bretheren.
 > 
-> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
-
+> Our story finds us in the town of [[Nethendell]]. Situated in on the base of a range of mountains that segments the low north of the empire's territories, the citizens of nethendell have been stirred. Talk of orcs and goblins amassing in the hills and surrounding countryside, and the lord of Nethendell having fallen ill in recent months.
+> 
+> Despite is son, [[Lord Eskel Termon]], ensuring the people that the town would hold against invasion, a nearby village, known as [[Pallidmoore]], has fallen to invasion, a few survivors making their way to Nethendell. It took only days, but inevitably, the horde made its way to the larger town. The ensuing raid was a slaughter, houses being torched, people fleeing, and defences only truly beginning to hold surrounding the citymaster's manor.
 ### Opening Monologue
-The idea is to Pavlov's dog them into the zone. Choose an arc intro song?
 
 > The surrounds you find yourself in are cold, hard stone. Unforgiving and cruel. No sunlight seen these halls in hundreds of years. One thing is for certain. If you remain here, you know you will die.
 >
@@ -18,7 +21,6 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song?
 # Session Start
 - Escape the dungeons of the city, either heading deeper through a forgotten crypt or up through the prisons/city.
 - Spent the last little while hiding in a forgotten, ruined cell under the bones of the city.
-
 
 # The Pit
 ---
@@ -37,7 +39,7 @@ Outside a hallway leads in two directions:
 	- 10 Sp
 	- A dagger
 ### Encounter: Roaming Goblins
-> 3 x goblinx, 1 x goblin boss
+> 4 x goblins, 1 x goblin boss
 
 Goblins break in looking for more shit. They make a lot of noise as they make their way into the room giving the adventurers time to prepare an ambush.
 
@@ -48,26 +50,33 @@ Goblins break in looking for more shit. They make a lot of noise as they make th
 In a room with a raised platform with rows of prison doors on either side, at the center a grate of sewerage flows through
 
 ### Encounter: Bugbear Looters
-> Bugbear Commander + Bugbears x 3 + Goblin x 2 + Ghoul
+> Bugbear Commander + Bugbears x 3 + Goblin x 2 + Orc eye of gruumsh
 
 Goblinoids looting a store room by some cells with prisoners in them. Theyre being hounded by the goblins. A bugbear wielding a whip demands that the prison doors are opened so that the prisoners inside can be claimed as slaves.
 
 ### Prisoners
 
+### Splitting Path
+- Sewer path
+- Out to barracks (orc fight)
 
 # Sewer Passageway
 ---
-Rats or something
+Rats or something. Maybe the spiders
 
 
 # Temple of Foreshadowing
 ---
-Phase spider
+Phase spiders x 2
 
-Undead
+Web covered undead
 Spectator (Just fucking steal the bg3 fight maybe)
 
 
 # Hawk of Hope
 ---
 Hawk sees them and guides them away
+
+# Orcs
+---
+Blade of Ilenval

@@ -2,8 +2,9 @@
 tags:
   - PC
 ---
-Sehanine worshipper
-# Race: Half Elf
+Sehanine worshipper.
+# Creation
+## Race: Half Elf
 - Cha +2, any other two unique +1
 - Medium
 - 30ft
@@ -12,7 +13,7 @@ Sehanine worshipper
 - Proficiency in 2 skills
 - Common, Elvish, One more lang
 
-# Rogue
+## Rogue
 HP: 8 + CON
 Hit dice: 1d8
 
@@ -50,7 +51,7 @@ Dash, Disengage or Hide as a bonus action
 
 ### Alert
 
-# Stats
+## Stats
 
 | STR | DEX | CON | INT | WIS | CHA | Origin         |
 | --- | --- | --- | --- | --- | --- | -------------- |
@@ -58,7 +59,7 @@ Dash, Disengage or Hide as a bonus action
 |     | +1  | +1  |     |     | +2  | Racial Bonus   |
 |     |     |     |     |     |     | Other          |
 | 8   | 16  | 14  | 14  | 12  | 12  | Total          |
-# Acolyte
+## Acolyte
 Insight + Religion
 2 Languages
 A [holy symbol](https://2014.5e.tools/items.html#holy%20symbol_phb) (a gift to you when you entered the priesthood), a prayer [book](https://2014.5e.tools/items.html#book_phb) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](https://2014.5e.tools/items.html#common%20clothes_phb), and a belt [pouch](https://2014.5e.tools/items.html#pouch_phb) containing 15 gp

@@ -1,5 +1,6 @@
-**Previous Session:**
-**Subsequent Session:**
+**Previous Session:** [[Session 3 - Fleeing the City]]
+**Subsequent Session:** 
+
 ## Introduction
 > "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
 > 

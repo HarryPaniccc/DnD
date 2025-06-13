@@ -1,14 +1,17 @@
+**Previous Session:** [[Session 83 - Through the Sirkonian Countryside]]
+**Subsequent Session:** [[Session 85 - Dragonfire]]
 ## Post Mortem
 ---
 **Antumbrahn 12th**
-- Kanan and Rudolph van Richten overhear rumours about [[Lord Malgus Kraber]] and [[Rokbaur Castle]] while staying at a roadside inn on their way to [[Strahldale]].
+- [[Kanan Einzbern]] and [[Rudolph van Richten]] overhear rumours about [[Lord Malgus Kraber]] and [[Rokbaur Castle]] while staying at a roadside inn on their way to [[Strahldale]].
 
 **Antumbrahn 13th - 16th**
 - Kanan and van Richten make their way to Strahldale, being slowed by the heavy late-autumn rains.
 - Kanan sends for [[Caede]] in [[Dularen]], telling him to return to Strahldale for their journey.
 - Caede prepares his traveling equipment, provides an edict for Isilme while he is gone, and instructs [[Ulfric Straven]] to keep the house in order.
 - The group meet [[Syr Armond]], a knight of the [[Battalion of the Red Fountain]].
-- Caede and Kanan reunite.
+- Caede and Kanan reunite
+- Caede senses [[Erasmus van Richten]]'s ghost following Rudolph
 
 **Antumbrahn 17th**
 - The group, alongside their animals: [[Yakula]], [[Oxferatu]], and [[Siegfried the Horse]], make their way northwards up the [[Sieleran River]].

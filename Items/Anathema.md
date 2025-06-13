@@ -16,4 +16,4 @@ While your sworn enemy lives, you have disadvantage on attacks with all other we
 
 - Maybe have a mechanic that restores HP when dropping to zero hit points? (This should be unique in the campaign)
 - Once a [[Holy Avenger]]
-- 
+- Protector of man buff? (1d10 vs Aberrations, elementals, fey, fiends, monstrosities and undead)
