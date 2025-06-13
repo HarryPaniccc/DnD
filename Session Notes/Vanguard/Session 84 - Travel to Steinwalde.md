@@ -70,9 +70,9 @@ Encounter holdfasts in the countryside, as well as encountering the lord who gro
 - Canvas covers are like 2cp no big deal there like even getting Ulfric to pick some up when he goes shopping he gets them for you
 - Two Yaks (https://2014.5e.tools/bestiary.html#ox_mpmm) at 15gp each
 ### Carry Animals
-- Kanan's riding horse
+- Kanan's riding horse - [[Siegfried the Horse]]
 - Van Richten's draft horse
-- The two Yaks
+- The two Yaks - [[Yakula]] and [[Oxferatu]]
 - Caedes summons
 ### Random Encounter Table
 
