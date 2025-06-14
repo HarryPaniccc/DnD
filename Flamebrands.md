@@ -1,0 +1,1 @@
+The **Flamebrands** are a group of dwarves led by [[Gaz the Branded]] who specialize in hunting red dragons

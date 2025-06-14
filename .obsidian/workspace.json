@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "9aa93a708353c8cb",
+            "id": "692a34f26a32282d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaz the Branded.md",
+                "file": "Flamebrands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaz the Branded"
+              "title": "Flamebrands"
             }
           },
           {
@@ -146,12 +146,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#young%20red%20dragon_mm",
-                "title": "Young Red Dragon - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#invisible%20stalker_mm",
+                "title": "Invisible Stalker - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Young Red Dragon - 5etools"
+              "title": "Invisible Stalker - 5etools"
             }
           },
           {
@@ -160,12 +160,26 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://5e.tools/bestiary.html#warrior%20veteran_xmm",
-                "title": "Warrior Veteran - 5etools",
+                "url": "https://5e.tools/bestiary.html#riding%20horse_xmm",
+                "title": "Riding Horse - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Warrior Veteran - 5etools"
+              "title": "Riding Horse - 5etools"
+            }
+          },
+          {
+            "id": "9aa93a708353c8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaz the Branded.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaz the Branded"
             }
           },
           {
@@ -180,6 +194,34 @@
               },
               "icon": "globe-2",
               "title": "Dragon Slayer Greataxe - 5etools"
+            }
+          },
+          {
+            "id": "405b391c2a1547b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodarian Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodarian Calendar"
+            }
+          },
+          {
+            "id": "546225a4eee5378c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodarian Firearms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodarian Firearms"
             }
           }
         ],
@@ -395,21 +437,23 @@
   },
   "active": "93ab6d8da2eaa0b2",
   "lastOpenFiles": [
+    "World of Helodaria/Helodarian Firearms.md",
     "Session 85 - Dragonfire.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Gaz the Branded.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "Flamebrands.md",
+    "Valeria.md",
+    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
     "Attachments/Pasted image 20250613130505.png",
     "Attachments/Pasted image 20250613130303.png",
     "Attachments/Pasted image 20250613130248.png",
     "Attachments/Pasted image 20250613130216.png",
     "2025-06-13.md",
     "World of Helodaria/Estravia.md",
-    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
     "Attachments/Estravia perfect.png",
-    "Valeria.md",
     "Redvalley.md",
     "Siegfried the Horse.md",
-    "World of Helodaria/Helodarian Calendar.md",
     "Session Notes/Eclipse/Session 2 - Webs in the Sewers.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session 999 - Tournament of Trayfort Hold.md",
@@ -426,7 +470,6 @@
     "Thezuurol.md",
     "Attachments/Pasted image 20250612080405.png",
     "Attachments/Pasted image 20250612080352.png",
-    "Magic Item Pricing + Crafting.md",
     "Attachments/Pasted image 20240320125108.png",
     "Items/Consumables",
     "Untitled.canvas",

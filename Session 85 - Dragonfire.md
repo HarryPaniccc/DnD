@@ -53,6 +53,12 @@ Slightly further up there sits a flat upon which a simple cabin is built, used b
 ### Travel Random Encounters
 - Every hour or two they pass through another small hamlet. Edmund will speak with the people there who approach them, otherwise waving to them.
 - As the days go by the party encounters more and more landmarks
+
+Bandit
+Bandit captain
+scout
+scout captain
+thug
 # The Faults
 ---
 In order for the group to further their trek northwards they will need to surpass the large barrier that is the section of the [[Yiata River]] river that cuts the Estravian region off from the mountains to Steinwalde.
@@ -64,12 +70,20 @@ Shattered plains
 
 # Warcry of the [[Flamebrands]]
 ---
-[[Gaz the Branded]] and his soldiers battle a young and an adult red dragon
+[[Gaz the Branded]] and his soldiers battle a young and an adult red dragon.
 
 > The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But captivating, then, from over the ridge, a streak of vibrant crimson blows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
 > 
 > Not to mention the fire trailing from its mouth.
 
-They have a war priest and a bunch of warrior veterans and a mage
+### Encounter: The Mother and Son
+- [[Gaz the Branded]], statblock of Thwad Underbrew - 22
+- [[Borthi son of Tingor]], Warpriest - 13
+- 9 x warrior Veterans but with hand crossbows and battle axes - 17
+- Young red dragon - 14
+- Adult red dragon - 15
+- Van Richten - 16
+
+They have a war priest and a bunch of warrior veterans but they have the minion trait
 
 RESISTANCE TO FIRE
