@@ -8,7 +8,7 @@ The largest village in [[Estravia]], akin to the one in 'Van Helsing', **Valeria
 # History
 
 # Notable Factions and Characters
-- [[Syr Edmund]]
+- [[Syr Edmund]], the lone [[Kronesguard]] of Valeria is the law of the region. He leads rangings into the wilderness against the dangers of the wilds.
 
 # Locations
 

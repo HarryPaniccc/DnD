@@ -1,5 +1,20 @@
 **Previous Session:** [[Session 84 - Travel to Steinwalde]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 86 - Witches and Dragonfire]]
+## Post Mortem
+---
+**Antumbrahn 24th**
+- [[Kanan Einzbern]], [[Caede]], [[Syr Edmund]] and [[Rudolph van Richten]] discuss their route through [[Estravia]], as well as deciding to send the werewolf man that they rescued to a nearby monastary
+- The group views the map of the estravian region north of [[Valeria]], deciding to follow the direct route through the valley and looking to curve along the eastern limits of the [[Faults of North Estravia]], hoping to use the helm of teleportation to cross the river.
+- The group learn of [[Merideth, the Bheur Hag]]
+
+**Antumbrahn 25th**
+- The group sets off for their journey to the end of the valley
+- While travelling they encounter an abandoned fortress in the mountain, where Kanan and Caede face and defeat some ghouls and an **Invisible Stalker**
+- Afterwards, they return outside to find [[Ballard]] and a band of bandits harrassing Edmund and Van Richten.
+- The bandits are slaughtered, but three surrender, turning out to be led by Syr Edmund's niece, [[Belle Nierhund]]
+- After a day's ride they return Belle to her home in the village at the end of the valley, [[Trau's End]]. There, Kanan offers for Belle to join the [[Battalion of the Silver Arrow]]
+
+---
 ## Introduction
 
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light

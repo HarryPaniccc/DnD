@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 83 - Through the Sirkonian Countryside]]
-**Subsequent Session:** [[Session 85 - Dragonfire]]
+**Subsequent Session:** [[Session 85 - Estravian Brigands]]
 ## Post Mortem
 ---
 **Antumbrahn 12th**
