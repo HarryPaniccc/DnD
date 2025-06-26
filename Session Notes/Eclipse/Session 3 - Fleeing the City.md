@@ -1,8 +1,16 @@
 **Previous Session:** [[Session 2 - Webs in the Sewers]]
 **Subsequent Session:** [[Session 4 - Corpses and Refugees]]
 ## Post Mortem
-- #TODO 
-### Recap
+**Vanadrahs 11th**
+- The party, having defeated the phase spiders, make a new acquaintence, [[Douglas Dier]]
+- Travelling further into the sewers they encounter the wounded [[General Den'rael]], who gives them a phrase to repeat to a women they must find, [[Tira Stone]]: "The blood wavers when the storm approaches."
+- The party flees the sewers of [[Nethendell]], making camp on a hill overlooking the city
+**Vanadrahs 12th**
+- The party begins to follow a silver falcon, likely sent by Tira in order to lead stragglers to a safe haven
+- On their journey the group encounters an ancient druidic site, guarded by a [[Galeb Duhr]]. After aiding in him cleaning the site, he gifts them an [[Elemental Gem]] of the earth.
+- Furthering their travel, avoiding the main road, the group comes across a fallen group of refugees, being feasted on a group of ghouls.
+
+## Recap
 **Much has happened** these past dayys, too much to tell now, but here is what is most important.
 - The raid on the town of [[Nethendell]] has driven our band of adventurers, warriors and vagabonds into the dungeon networks below the city.
 - There, wandering from chamber to chamber hoping to find a way out, the group dispatched with a groups of goblins, orcs, and bugbears, freeing a few slaves in the process.

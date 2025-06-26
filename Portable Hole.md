@@ -1,17 +1,3 @@
-# Wastehunter
-*Weapon (Shortsword), Uncommon*
-The weapon is curved slightly, the cutting edge well sharpened, and the flat of the blade has beautiful filigree in a dark steel.
-
-When an attack made with this weapon hits a beast or monstrosity, the target suffers an additional 1d6 necrotic damage.
-
----
-
-# Yellow Diamond Elemental Gem
-*Wondrous Item, Uncommon*
-This gem contains a mote of elemental energy. When you use an action to break the gem, an earth elemental is summoned as if you had cast the *conjur elemental* spell, and the gem's magic is lost
-
----
-
 # Portable Hole
 *Wondrous Item, Rare*
 his fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
@@ -25,4 +11,3 @@ If the hole is folded up, a creature within the hole's extradimensional space ca
 Placing a _portable hole_ inside an extradimensional space created by a *bag of holding*, *Heward's handy haversack*, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 ---
-

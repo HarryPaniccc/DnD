@@ -4,186 +4,115 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "4197be4e659ef1fd",
+            "id": "aa344a83fbb8a99a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "93513226174e46ab",
+            "id": "d16a553f8096b4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 86 - Witches and Dragonfire.md",
+                "file": "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 86 - Witches and Dragonfire"
+              "title": "Session 4 - Corpses and Refugees"
             }
           },
           {
-            "id": "55d727412ad2bbf7",
+            "id": "c7225a0910eb1ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Unnamed Stark House Equivalent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Unnamed Stark House Equivalent"
             }
           },
           {
-            "id": "08389105e0321ab7",
+            "id": "b8045e4f5942ad99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Sirkonos.md",
+                "file": "Great Houses RENAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sirkonos"
+              "title": "Great Houses RENAME"
             }
           },
           {
-            "id": "0ab9e66bd4bc3e62",
+            "id": "7157d22663b1f261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Ealendar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
-            }
-          },
-          {
-            "id": "70fb77a1a70b2eac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Valeria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Valeria"
+              "title": "Ealendar"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "520be37f04cf624b",
+        "id": "2e2243741491fcc3",
         "type": "tabs",
         "children": [
           {
-            "id": "935e0e77e2b38685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Estravia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estravia"
-            }
-          },
-          {
-            "id": "bdd393e352943feb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 84 - Travel to Steinwalde"
-            }
-          },
-          {
-            "id": "9489f1e08a50e6f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 85 - Estravian Brigands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 85 - Estravian Brigands"
-            }
-          },
-          {
-            "id": "fa5fad548af13873",
+            "id": "90ece501fe88fb08",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#invisible%20stalker_mm",
-                "title": "Invisible Stalker - 5etools",
+                "url": "https://5e.tools/bestiary.html#ghoul_xmm",
+                "title": "Ghoul - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Invisible Stalker - 5etools"
+              "title": "Ghoul - 5etools"
             }
           },
           {
-            "id": "93ab6d8da2eaa0b2",
+            "id": "7d405ef09825662d",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://5e.tools/bestiary.html#riding%20horse_xmm",
-                "title": "Riding Horse - 5etools",
+                "url": "https://2014.5e.tools/classes.html#rogue_phb,state:sub_phantom_tce=b1",
+                "title": "Rogue - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Riding Horse - 5etools"
-            }
-          },
-          {
-            "id": "9aa93a708353c8cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gaz the Branded.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gaz the Branded"
+              "title": "Rogue - 5etools"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,7 +156,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -240,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 249.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -271,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Abandoned Clock Tower.md",
+                "file": "Disaton Revelre Capitulum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Abandoned Clock Tower"
+              "title": "Backlinks for Disaton Revelre Capitulum"
             }
           },
           {
@@ -290,12 +220,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81 -.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -317,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Underfoot Tollhouse.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Underfoot Tollhouse"
+              "title": "Outline of Eclipse Campaign Journal"
             }
           },
           {
@@ -341,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "92400877833113eb",
@@ -392,14 +322,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b2a6831c271b3d7",
+  "active": "d16a553f8096b4b7",
   "lastOpenFiles": [
-    "Flamebrands.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
+    "World of Helodaria/Ealendar.md",
+    "Great Houses RENAME.md",
+    "Junk 1.md",
+    "Unnamed Stark House Equivalent.md",
+    "Portable Hole.md",
+    "Elemental Gem.md",
+    "Items/Wastehunter.md",
+    "Session Notes/Eclipse/Session 3 - Fleeing the City.md",
+    "World of Helodaria/Douglas Dier.md",
+    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Session Notes/Vanguard/Session 86 - Witches and Dragonfire.md",
+    "Flamebrands.md",
     "Gaz the Branded.md",
     "World of Helodaria/Helodarian Firearms.md",
     "World of Helodaria/Helodarian Calendar.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Valeria.md",
     "Trau's End.md",
     "World of Helodaria/Estravia.md",
@@ -414,17 +355,6 @@
     "Attachments/Estravia perfect.png",
     "Redvalley.md",
     "Siegfried the Horse.md",
-    "Session Notes/Eclipse/Session 2 - Webs in the Sewers.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Session 999 - Tournament of Trayfort Hold.md",
-    "Session Notes/Vanguard/Session 999 - Search for the Ley Line.md",
-    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Sirkonos.md",
-    "Odessa.md",
-    "Items/Anathema.md",
-    "Items/Nightfall, The Twilight Blade.md",
-    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
     "Attachments/Pasted image 20250612080405.png",
     "Attachments/Pasted image 20250612080352.png",
     "Attachments/Pasted image 20240320125108.png",
