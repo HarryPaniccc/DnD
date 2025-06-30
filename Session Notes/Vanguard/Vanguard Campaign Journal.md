@@ -2,7 +2,7 @@
 tags:
   - Core
 ---
-I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc?
+I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc? Links to the [[Vanguard]]
 # Active Plot Points/Quests/Things to Remember
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Dusk]]
@@ -22,6 +22,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 
 
 # [[Vanguard Arc 6 - The Golden Age|Arc 6: The Golden Age]]
+In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]], the [[Vanguard]] go seperate ways, persuing personal goals and adventures across [[Eranulaid]].
 
 ## Sessions
 - 

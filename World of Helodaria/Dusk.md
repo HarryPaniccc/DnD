@@ -1,6 +1,8 @@
 ---
 tags:
   - PC
+aliases:
+  - Skye
 ---
 - [[Fenrir]] Friend from [[Camroc]]
 - Once known as [[Skye]]

@@ -81,7 +81,7 @@ The entrance is guarded by two well-armed men allied with [[General Den'rael]], 
 Established in what would once have been the operations office of the mine, Tira has a map laid out of the region.
 
 > "What of the riders we sent to [[Castle Sungrand]]?"
-> "None have returned, ma'am. We can only assume the worst. Our best hope is that they at least made it to [[Lord Margit]]'s halls before they were lost."
+> "None have returned, ma'am. We can only assume the worst. Our best hope is that they at least made it to [[Lord Margit Tormon]]'s halls before they were lost."
 > "That is only if he is willing to provide aide. The man is no coward, but I find it unlikely that he won't try to profit from this. He has wanted to rule the valley for some time now. How many more came in today?"
 > "Thirty three, ma'am."
 > "More every day. Feeding them is going to be come a problem soon enough. You are dismissed. Go relieve Trayton and the men at the gate."
@@ -92,7 +92,7 @@ There are two high elves in the room with her, surveying the map.
 - [[Atara]], wearing mithril half plate, nearly form fitting metal armour, and abeautiful bow over her shoulders. She has neatly woven blonde hair and deep brown eyes.
 
 What she knows
-- [[Lord Margit]] is the leader of castle Sungrand and has yet to provide aide to the refugees. Two riders have been sent for their aide, and were expected back the day before.
+- [[Lord Margit Tormon]] is the leader of castle Sungrand and has yet to provide aide to the refugees. Two riders have been sent for their aide, and were expected back the day before.
 - Upon hearing the phrase "The blood wavers when the storm approaches", she will understand what [[General Den'rael]] meant.
 
 ### Parcival's Retinue
@@ -102,5 +102,5 @@ What she knows
 
 # Branching Paths
 ---
-- Go to [[Castle Sungrand]] and petition [[Lord Margit]] for aide
+- Go to [[Castle Sungrand]] and petition [[Lord Margit Tormon]] for aide
 - Seek the temple

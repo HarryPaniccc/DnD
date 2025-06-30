@@ -41,16 +41,20 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Tiamat]], the Five Hungers - God of Greed, Destruction and Dragonkind. (CE)
 
 - [[Das Moge]], Betrayal's Muse (No Alignment)
+# The [[Primordials]]
+---
+The Primordials are ancient forces of nature and the universe. Some say they existed before time, others say they were born of the personification of the forces of the world as it was percieved.
 # Other Gods
 ---
 - [[Vecna]], Hoarder of Secrets (NE)
 - [[Ioun]], the Mistress of Sight - Goddess of Knowledge, Prophecy and Skill. (NG)
 - [[Boldrei]], the Hearth Maker - Goddess of Community and Kindness. (LG)
 - [[Mystra]], the Lady of the Weave
-## Gods to add?
+## Gods to add
 - [[Cyric]], prince of the dark sun
 - 
 # Lesser Idols and Deities
+---
 ## Archdevils
 Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
 ## Demon Lords

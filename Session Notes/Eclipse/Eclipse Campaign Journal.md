@@ -61,16 +61,20 @@ Now with Nethendell under seige, the survivors fled to a forgotten mine in a mou
 - [[Pallidmoore]]
 
 # Act 1
-The group start in a ransacked town and fight their way out, looking to find some kind of baring on the world. This act will have them escaping [[Nethendell]] and finding [[Tira Stone]] and helping the refugees get set up, and maybe holding off against a seige. They will need to petition [[Lord Mikael Termon]] for shelter. Use the black iron pact stats for [[Lord Eskel Termon]] and friends.
+The group start in a ransacked town and fight their way out, looking to find some kind of baring on the world. This act will have them escaping [[Nethendell]] and finding [[Tira Stone]] and helping the refugees get set up, and maybe holding off against a seige. They will need to petition [[Lord Margit Tormon]] for shelter. Use the black iron pact stats for [[Lord Eskel Termon]] and friends.
 - Escape
 - Find [[Tira Stone]]
 - Help survivors + people
 - Castle guys need to help
+- Maybe make petitioning 
 
 ### Sessions
 Presented in reverse chronological order
-- [[Session 1 - Stirring in the Darkness]]
+- [[Session 5 - A Den of Chitin]]
+- [[Session 4 - Corpses and Refugees]]
+- [[Session 3 - Fleeing the City (hit level 5)]]
 - [[Session 2 - Webs in the Sewers]]
+- [[Session 1 - Stirring in the Darkness]]
 
 ---
 # Act 2

@@ -27,13 +27,12 @@ Isilme was raised in the guards quarters of [[Castle Anavar]] in the city center
 
 Isilme was raised in the ranks of the guards, her mother was unable to either part with her completely, but she was unable to provide her any love either. [[Minra Vanariel|Minra]], Isilme's mother, learned to eventually ignore her feelings for Isilme, and grew colder as Isilme grew older, but never really managed to let Isilme go. Minra later remarried a high elf baron in an arranged marriage, created by Ulrandir, and had another child.
 ## Sirkonos
-She joined the [[Vanguard]]
+She joined the [[Vanguard]] and became a [[Dhampir]]
 # Character Information
 ---
 ## Quests
-- Become immortal
+- Become immortal (completed)
 - Kill [[Ulrandir Vanariel]]
-- 
 ## Notable Items
 ### Current Items
 - The [[Blade of Despair]]
@@ -48,3 +47,4 @@ She joined the [[Vanguard]]
 - [[Ulrandir Vanariel]], Isilme's grandfather and former member of the [[Uldronos Council]].
 - [[Minra Vanariel]], Isilme's mother.
 - [[Sabien]], Isilme's Half-Orc owner of the Red Dagger Tavern in [[Dularen]]
+- [[Smudge]], a fragment of the [[Primordials|Primordial]] of something

@@ -1,5 +1,5 @@
 **Previous Session**: [[Session 1 - Stirring in the Darkness]]
-**Subsequent Session:** [[Session 3 - Fleeing the City]]
+**Subsequent Session:** [[Session 3 - Fleeing the City (hit level 5)]]
 
 ## Post Mortem
 - The heroes looted

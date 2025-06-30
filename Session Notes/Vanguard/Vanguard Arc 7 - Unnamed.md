@@ -1,5 +1,16 @@
 There are a lot of things that need to be cleared up before I can specify exactly what is happening. [[King Sirkon]] is returning to power now that his new physical form, [[Prince Artorius Sirkon]] has matured and begun to show promise. He needs the [[Heart of the Abyss]] to complete his Son's rise to power so that he might control his son as an avatar of himself.
 
+# Planning Reset
+---
+>[!Simple Questions]
+>1. **BBEG**: [[King Sirkon|Sirkon]]. Desires rule of [[Eranulaid]] and command of the [[Abyss]] through the [[Heart of the Abyss]], but his physical form requires [[Prince Artorius Sirkon]] to be his physical avatar.
+>2. **High Tower Surprise**: The Betrayal. The game was rigged from the start. 
+>3. **Lieutenants**: [[Syr Bayle Renslayer|Bayle]]. Bayle is the most loyal of the lieutenants, acting as the primary organizer of the armies under his command. It is Bayle's work that causes the war in [[Desseran]].
+>   [[Zakuul]]. Manipulated yet unpredictable, Zakuul is an agent for Sirkon, but not extremely loyal. His vengeance is an easy route to the weakening of Ruina, as well as allowing Sirkon to get to whatever is in the [[City of the Glass Moon]].
+>   [[Ulrandir Vanariel]]. He wants vengeance on the [[Uldronos Council]], and something to do with [[Smudge]].
+>   
+
+
 
 # Outline
 ---
@@ -11,9 +22,9 @@ The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in fla
 ### Antagonists
 [[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vassal of the abyss and bring around his rule of [[Eranulaid]].
 
-His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]], [[Ulrandir Vanariel]], [[Zakuul]], [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
+His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
 
-### Desired Plot Points Brainstorming
+### Desired Plot Points + Brainstorming
 
 - The Red Wizard woman who has the vampire spawn has some kind of goal
 - The [[Nightshade Peaks]] and a fortress there go to war with [[Desseran]] and [[Sirkonos]], [[Sion of Orcus]] in rulership
@@ -45,7 +56,7 @@ This causes a terrible alliance to be forged with the goal of the destruction of
 - 
 
 - [[Alfred Gundrei]] has become Duke and immediately had to take war council
-- [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government (==Why==)
+- [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government so that Zakuul can cause another front of destruction for the drow 
 - [[King Sirkon]] wants something from within the [[City of the Glass Moon]], and has given [[Zakuul]] the tools to achieve control of an [[Orcs]] (?) army to aid in has assaults - **Demon/Zodd guys are Sirkon's control of the situation**
 - [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him (Sent by Zakuul?/Ulrandir?/Darius?). They are getting past his security using the **Paintings**
 
@@ -103,9 +114,3 @@ I just wanted to list encounters I want to have here
 - Sanctum of the God Emperor
 - [[Demogorgon]]
 - 
-
-[^1]: adas
-
-[^2]: WHAT THE FUCK I
-
-[^3]: TEST TEST TES

@@ -12,7 +12,7 @@ tags:
 - [ ] Dusk
 - [x] Kanan
 - [ ] Caede
-- [ ] Isilme
+- [x] Isilme
 - [ ] Portcullis
 - [ ] Goblins
 - [ ] Stone Arches

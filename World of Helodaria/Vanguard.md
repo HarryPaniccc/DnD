@@ -11,14 +11,13 @@ The Vanguard have their permanent stronghold in [[Trayfort Keep]] in the Outer-c
 - [[Isilme Vanariel]]
 - [[Caede]]
 - [[Rylai Sweetsong]]
-- [[Adhara]]
-- [[Dusk]]
+- [[Dusk]], formerly Skye
 - [[Silb Heft]]
 - [[Olaf Rein]]
 ## Former Members
 - [[Balthazar Cassander]]
 - [[Dorax]]
-- [[Skye]]
+- [[Adhara]]
 # Allies/NPCs list
 ## General
 - [[Alfred Gundrei]]
