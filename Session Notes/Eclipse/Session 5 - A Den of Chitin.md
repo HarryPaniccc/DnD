@@ -21,7 +21,26 @@ Ideas for what should happen
 ---
 Something happens
 
-# Section
+# Abandoned Mine
 ---
-Something else happens
 
+## Entrance Crevasse
+> Entrance and Guardian
+
+The chamber looks to be a central mining shaft, with collapsed tunnels once used by the mine's constructors. Other than once-square carved tunnels leading in three directions, two of which are now collapsed to the left, there are a number of somewhat smoothe tunnels leading into the rockface, some as large as 3 meters across.
+
+### Encounter: Ankheg Ambush x 2
+
+
+## Puzzle/Roleplaying Challenge
+> Puzzle/Roleplaying Challenge
+
+## Trick or Setback
+> Trick or Setback
+
+## Ankheg Queen
+> Climax, Big Battle, or Conflict
+
+
+## Bulette Hunting Ground
+> Reward, Revelation, Twist

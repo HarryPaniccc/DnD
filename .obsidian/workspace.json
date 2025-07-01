@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deities of Helodaria"
+              "title": "Session 5 - A Den of Chitin"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Primordials"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -242,7 +242,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -254,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Primordials"
+              "title": "Outline of Session 5 - A Den of Chitin"
             }
           },
           {
@@ -278,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
@@ -332,16 +334,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7eb9e5f3f76f7347",
+  "active": "541629fa92ca2fd1",
   "lastOpenFiles": [
-    "General Notes and Ideas.md",
+    "World of Helodaria/Kenifria.md",
+    "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
+    "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/Primordials.md",
+    "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Primevals.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Redvalley.md",
     "World of Helodaria/Dagon.md",
@@ -354,12 +358,10 @@
     "World of Helodaria/Estravia.md",
     "World of Helodaria/Lord Malgus Kraber.md",
     "World of Helodaria/Trayfort Keep.md",
-    "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
     "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
     "Lord Margit Tormon.md",
-    "World of Helodaria/Ealendar.md",
     "Attachments/Pasted image 20250613130505.png",
     "Attachments/Pasted image 20250613130303.png",
     "Attachments/Pasted image 20250613130248.png",
