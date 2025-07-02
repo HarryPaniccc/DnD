@@ -23,7 +23,7 @@ tags:
 - [ ] New tables
 - [ ] Stalagmites
 - [x] Generic Rogue (2 stabbies)
-- [ ] Guards for [[Session 83 - Through the Sirkonian Countryside]]'s Manticore fight
+- [ ] Guards for [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]'s Manticore fight
 - [ ] Bowman/crossbowman
 - [ ] Chests
 ### Normal Stuff

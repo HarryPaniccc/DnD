@@ -5,7 +5,7 @@ aliases:
   - Syr Renslayer
   - Bayle
 ---
-Syr Renslayer is a Death Knight and the Sion of the Demon Lord [[Orcus]], and he has been [[King Sirkon]]'s general for as long as he has sat on the Sirkonian throne. Over history, Renslayer has been ruling a fort in the [[Nightshade Peaks]], east of the [[Sirkonos]], but as Sirkon's plan has come to fruition he has needed his closest advisor close at hand.
+Syr Renslayer is a Death Knight and the Sion of the Demon Lord [[Orcus]], and he has been [[King Sirkon]]'s General for as long as he has sat on the Sirkonian throne. Over history, Renslayer has been ruling a fort in the [[Nightshade Peaks]], east of the [[Sirkonos]], but as Sirkon's plan has come to fruition he has needed his closest advisor close at hand.
 
 Renslayer is secretly envious and hateful of [[King Sirkon]], believing that his control over the forces of the [[Nightshade Peaks]] over the last thousand years after Sirkon's defeat have given him the right to reforge the world in his own image: one of conquest and death.
 

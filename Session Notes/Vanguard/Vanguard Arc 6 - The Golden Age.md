@@ -2,12 +2,33 @@
 tags:
   - Core
 ---
+# Timeline
+> Summaries of important events from session post-mortems and from out of session interactions.
+
+**Week 1 (Banahras 24th)**
+- return to Dularen
+- add Skoldr
+- ask around for stewards.
+
+**Week 2 (Antumbrahn 2nd)**
+- Ulfric starts
+- Kanan leaves for [[Session 83 - Through the Sirkonian Countryside (Start of Arc)|Kanan Solo Session]]
+- Rylai and Dusk start performing in upper society of Dularen and researching magic.
+
+**Week 3 (Antumbrahn 9th)**
+- Ulfric begins to look around for staff to add.
+
+**Week 4 (Antumbrahn 16th)**
+- Caede leaves for [[Strahldale]]
+- Meeting [[Odessa]]
+- Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
+- Late in the week [[Darius Nubide]] appears to Rylai in her rooms
+
+**Week 5 (Antumbrahn 23rd)**
+- Caede and Kanan make it to the first village of [[Estravia]]
+
 # Things to Remember
-Timeline to add to notes
-- Week 1: return to Dularen, add Skoldr, ask around for stewards
-- Week 2: Ulfric starts
-- Week 3: Ulfric begins to look around for staff to add. 
-- Week 4-5:
+
 
 Kanan spends minimum time in Brocia (like one day of prep)
 
@@ -52,7 +73,7 @@ The PC's are going to be accumulating allies throughout this period.
 ### Pilgrimage to [[Steinwalde]]
 
 - [[Session 84 - Travel to Steinwalde]]
-- [[Session 83 - Through the Sirkonian Countryside]]
+- [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
 
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 

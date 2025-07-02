@@ -113,16 +113,16 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Deities of Helodaria.md",
+                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Deities of Helodaria"
+                  "title": "Session 5 - A Den of Chitin"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 7
           }
         ],
         "direction": "vertical"
@@ -210,7 +210,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Session 84 - Travel to Steinwalde"
+                  "title": "Backlinks for Session 5 - A Den of Chitin"
                 }
               },
               {
@@ -244,7 +244,9 @@
                   "type": "tag",
                   "state": {
                     "sortOrder": "frequency",
-                    "useHierarchy": true
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
                   "icon": "lucide-tags",
                   "title": "Tags"
@@ -256,13 +258,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Isilme Vanariel.md",
+                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Isilme Vanariel"
+                  "title": "Outline of Session 5 - A Den of Chitin"
                 }
               },
               {
@@ -334,8 +336,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "1c14b96219db292f",
-      "mtime": "2025-06-28T16:40:20+02:00"
+      "active": "541629fa92ca2fd1",
+      "mtime": "2025-07-01T10:38:01+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -3493,6 +3495,7 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
+            "dimension": 63.77049180327868,
             "children": [
               {
                 "id": "08389105e0321ab7",
@@ -3514,12 +3517,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 84 - Search for the Ley Line.md",
+                    "file": "Session Notes/Vanguard/Session 999 - Search for the Ley Line.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 84 - Search for the Ley Line"
+                  "title": "Session 999 - Search for the Ley Line"
                 }
               },
               {
@@ -3564,8 +3567,43 @@
                   "title": "Trayfort Keep"
                 }
               }
+            ]
+          },
+          {
+            "id": "35e6c8e92bf0a795",
+            "type": "tabs",
+            "dimension": 36.22950819672131,
+            "children": [
+              {
+                "id": "ed65ea1003bd36e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Helodarian Calendar.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Helodarian Calendar"
+                }
+              },
+              {
+                "id": "8fea7a72dc58e0bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 84 - Travel to Steinwalde"
+                }
+              }
             ],
-            "currentTab": 4
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -3584,7 +3622,7 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical",
+                    "sortOrder": "alphabeticalReverse",
                     "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
@@ -3622,8 +3660,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 280.50418853759766,
-        "collapsed": true
+        "width": 272.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3702,13 +3739,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Trayfort Keep.md",
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Trayfort Keep"
+                  "title": "Outline of Vanguard Arc 6 - The Golden Age"
                 }
               },
               {
@@ -3790,7 +3827,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 284.5
+        "width": 383.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3804,8 +3841,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4859a2c24bd1b882",
-      "mtime": "2025-04-30T11:14:17+02:00"
+      "active": "08389105e0321ab7",
+      "mtime": "2025-07-01T17:56:06+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4149,5 +4186,5 @@
       "mtime": "2025-06-28T15:39:14+02:00"
     }
   },
-  "active": "Original Workspace"
+  "active": "Eclipse"
 }

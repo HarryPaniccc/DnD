@@ -14,3 +14,4 @@ The Kronesguard are the official military of the [[Sirkonos]]. At the top of the
 - [[Battalion of the Black Dogs]]
 - [[Battalion of the Red Fountain]]
 - #TODO 
+

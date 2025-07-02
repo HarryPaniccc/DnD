@@ -1,3 +1,5 @@
+**Previous Session:** [[Session 82 - Meeting King Sirkon (End of Arc)]]
+**Subsequent Session:** [[Session 84 - Travel to Steinwalde]]
 ## Post Mortem
 ---
 **Antumbrahn 2nd**

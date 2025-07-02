@@ -10,6 +10,7 @@ Sehanine is often found within the plane of [[Arborea]] or wandering the [[Feywi
 - The Moon Song
 - The Moon Heart
 - The Lady of Dreams
+- Lady Night
 ## Appearance
 When personified, Sehanine appears most often as a short, youthful elven woman wearing a gown or robe woven in true silver, [[Mirthral]], or moonlight. Shadows and light reflect and play with the edges of her form and her hair, which is long - often the most consistent element of any of her forms.
 
@@ -25,6 +26,7 @@ Her avatar shapes, however, are as varied as the phases of the moon. Her appeara
 # Worship
 ---
 ## Symbols
+- [[Armour of Sehanine]]
 
 ## Places of Worship
 ### Continent

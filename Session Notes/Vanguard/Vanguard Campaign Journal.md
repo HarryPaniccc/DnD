@@ -32,8 +32,8 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 
 - [[Session 85 - Estravian Brigands]] - Kanan + Caede solo
 - [[Session 84 - Travel to Steinwalde]] - Kanan + Caede solo
-- [[Session 83 - Through the Sirkonian Countryside]] - Kanan solo
-- [[Session 82 - Meeting King Sirkon]]
+- [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]] - Kanan solo
+- [[Session 82 - Meeting King Sirkon (End of Arc)]]
 - [[Session 81 - Blessings of the Deathwatch]]
 
 # Arc 5: Sirkonos

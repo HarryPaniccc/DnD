@@ -3,6 +3,7 @@ tags:
   - Lore
 ---
 An ancient order predating [[The Fall]], the 
+Not to be confused with the bardy guild(?)
 
 
 # Brainstorming

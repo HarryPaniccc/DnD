@@ -1,4 +1,4 @@
-**Previous Session:** [[Session 83 - Through the Sirkonian Countryside]]
+**Previous Session:** [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
 **Subsequent Session:** [[Session 85 - Estravian Brigands]]
 ## Post Mortem
 ---

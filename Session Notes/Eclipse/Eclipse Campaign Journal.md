@@ -16,6 +16,8 @@ Organ
 - [[Jewel of Sehanine or somesuch shit]]
 - [[Gem of Brightness]]
 - [[Elemental Gem]]
+- [[Scrying Eye]]
+- [[Blood Spear]] (CoS item)
 ### Jana's Ideas
 - Cute talking animal (baby lamb) becomes part of group at some point it sacrifices itself (masculine urge last stand, gruesome death) (Respawnable lamb): The murderer did it not out of hunger, but malice
 - Small pond (unassuming from outside) if someone goes in its deep as hell and it leads to stuff on the sides. Little dudes/magical light. Vertical water fight. Something sireny

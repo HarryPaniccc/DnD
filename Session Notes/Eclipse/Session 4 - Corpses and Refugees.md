@@ -1,6 +1,13 @@
 **Previous Session:** [[Session 3 - Fleeing the City (hit level 5)]]
 **Subsequent Session:** [[Session 5 - A Den of Chitin]]
-
+## Post Mortem
+**Vanadrahs 12th**
+- Destroyed a group of ghouls that were feasting on the remains of deceased refugees.
+- Looted and burned the caravan, ensuring it does not attract further ghouls.
+- Claimed a pair of draft horses, which you named Lager and Weiss
+- At sundown, the group arrived to an abandoned mine, guarded by men that wore the same colours as [[General Den'rael]].
+- They found and spoke with [[Tira Stone]], as well as [[Hadran]] and [[Atara]] after the elves took an interest in [[Cened]], inviting her to find them in the evening.
+- The group were given a summary of events thus far, delivered their message to Tira, and
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
 - Fighting their way through the sewers of the beseiged city of [[Nethendell]], our band of adventurers came across a new ally in the form of [[Douglas Dier]], trapped by a nest of phase spiders.
