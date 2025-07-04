@@ -19,14 +19,16 @@ tags:
 - Ulfric begins to look around for staff to add.
 
 **Week 4 (Antumbrahn 16th)**
-- Caede leaves for [[Strahldale]]
+- (16th) Caede leaves for [[Strahldale]]
 - Meeting [[Odessa]]
-- Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
-- Late in the week [[Darius Nubide]] appears to Rylai in her rooms
+- (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
+- (21st) [[Darius Nubide]] appears to Rylai in her rooms
 
 **Week 5 (Antumbrahn 23rd)**
 - Caede and Kanan make it to the first village of [[Estravia]]
 
+**Week 6 (Antumbrahn 30th) - Winter starts**
+- 
 # Things to Remember
 
 

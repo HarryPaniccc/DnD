@@ -3495,7 +3495,7 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 63.77049180327868,
+            "dimension": 55.49040511727079,
             "children": [
               {
                 "id": "08389105e0321ab7",
@@ -3567,12 +3567,13 @@
                   "title": "Trayfort Keep"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "35e6c8e92bf0a795",
             "type": "tabs",
-            "dimension": 36.22950819672131,
+            "dimension": 44.50959488272921,
             "children": [
               {
                 "id": "ed65ea1003bd36e7",
@@ -3660,7 +3661,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 272.5
+        "width": 272.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3739,13 +3741,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "file": "Session Notes/Vanguard/Session 999 - Search for the Ley Line.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Arc 6 - The Golden Age"
+                  "title": "Outline of Session 999 - Search for the Ley Line"
                 }
               },
               {
@@ -3827,7 +3829,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 383.5
+        "width": 383.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3841,8 +3844,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2025-07-01T17:56:06+02:00"
+      "active": "cd1493f91885a669",
+      "mtime": "2025-07-03T12:37:44+02:00"
     },
     "Eclipse": {
       "main": {
@@ -3868,31 +3871,31 @@
                 }
               },
               {
-                "id": "d16a553f8096b4b7",
+                "id": "25feb20783731941",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
+                    "file": "Session Notes/Eclipse/Session 5 - Into the Mines.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 4 - Corpses and Refugees"
+                  "title": "Session 5 - Into the Mines"
                 }
               },
               {
-                "id": "a8b060c406cc88b2",
+                "id": "f3c931cd993ca658",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 5 - A Den of Chitin.md",
+                    "file": "Session Notes/Eclipse/Session 6 - A Den of Chitin.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 5 - A Den of Chitin"
+                  "title": "Session 6 - A Den of Chitin"
                 }
               },
               {
@@ -3924,21 +3927,45 @@
                 }
               },
               {
-                "id": "7157d22663b1f261",
+                "id": "db27e0fdcb37ddaf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Ealendar.md",
+                    "file": "World of Helodaria/Deities of Helodaria.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ealendar"
+                  "title": "Deities of Helodaria"
+                }
+              },
+              {
+                "id": "6cdfa1268a2f3dd4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junk 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Junk 1"
+                }
+              },
+              {
+                "id": "5546c9b589b3b771",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "2e2243741491fcc3",
@@ -3950,7 +3977,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://5e.tools/bestiary.html#ankheg_fleemortals",
+                    "url": "https://5e.tools/bestiary.html#ankheg_xmm",
                     "title": "Ankheg - 5etools",
                     "mode": "webview"
                   },
@@ -3959,17 +3986,59 @@
                 }
               },
               {
+                "id": "700c6a84ab2ccd34",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://5e.tools/book.html#xge,2,brewing%20potions%20of%20healing,0",
+                    "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools"
+                }
+              },
+              {
+                "id": "06438bd16e323cf4",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/classes.html#paladin_phb",
+                    "title": "Paladin - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Paladin - 5etools"
+                }
+              },
+              {
                 "id": "7d405ef09825662d",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/classes.html#rogue_phb,state:sub_phantom_tce=b1",
-                    "title": "Rogue - 5etools",
+                    "url": "https://2014.5e.tools/items.html#gloves%20of%20thievery_dmg",
+                    "title": "Gloves of Thievery - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Rogue - 5etools"
+                  "title": "Gloves of Thievery - 5etools"
+                }
+              },
+              {
+                "id": "b6677155bfce5f82",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/bestiary.html#carrion%20crawler_mm",
+                    "title": "Carrion Crawler - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Carrion Crawler - 5etools"
                 }
               }
             ]
@@ -4182,8 +4251,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "a8b060c406cc88b2",
-      "mtime": "2025-06-28T15:39:14+02:00"
+      "active": "25feb20783731941",
+      "mtime": "2025-07-03T09:20:33+02:00"
     }
   },
   "active": "Eclipse"

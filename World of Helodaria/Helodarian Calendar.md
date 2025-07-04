@@ -15,4 +15,4 @@ The [[Helodaria|Helodarian]] Calendar is one that is derived from a North-Zitrum
 | Dul’ussahn (Winter)  | 30   |                            |
 | Vanadras             | 28   |                            |
 | Danudrei             | 29   | Winter’s Valley (7th)      |
-### [[Holidays]]
+### ![[Holidays]]

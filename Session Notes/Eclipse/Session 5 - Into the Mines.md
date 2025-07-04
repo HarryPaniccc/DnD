@@ -1,5 +1,6 @@
 **Previous Session:** [[Session 4 - Corpses and Refugees]]
-**Subsequent Session:** 
+**Subsequent Session:** [[Session 6 - A Den of Chitin]]
+## Post Mortem
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.

@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 3 - Fleeing the City (hit level 5)]]
-**Subsequent Session:** [[Session 5 - A Den of Chitin]]
+**Subsequent Session:** [[Session 5 - Into the Mines]]
 ## Post Mortem
 **Vanadrahs 12th**
 - Destroyed a group of ghouls that were feasting on the remains of deceased refugees.

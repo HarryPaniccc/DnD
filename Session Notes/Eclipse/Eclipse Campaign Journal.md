@@ -80,7 +80,7 @@ The group start in a ransacked town and fight their way out, looking to find som
 
 ### Sessions
 Presented in reverse chronological order
-- [[Session 5 - A Den of Chitin]]
+- [[Session 5 - Into the Mines]]
 - [[Session 4 - Corpses and Refugees]]
 - [[Session 3 - Fleeing the City (hit level 5)]]
 - [[Session 2 - Webs in the Sewers]]
