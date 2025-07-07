@@ -3977,12 +3977,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://5e.tools/bestiary.html#ankheg_xmm",
-                    "title": "Ankheg - 5etools",
+                    "url": "https://5e.tools/bestiary.html#mimic_xmm",
+                    "title": "Mimic - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Ankheg - 5etools"
+                  "title": "Mimic - 5etools"
                 }
               },
               {
@@ -4251,9 +4251,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "25feb20783731941",
-      "mtime": "2025-07-03T09:20:33+02:00"
+      "active": "90ece501fe88fb08",
+      "mtime": "2025-07-04T23:52:17+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Rylai Downtime"
 }

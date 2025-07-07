@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 84 - Travel to Steinwalde]]
-**Subsequent Session:** [[Session 86 - Witches and Dragonfire]]
+**Subsequent Session:** [[Session 999 - Witches and Dragonfire]]
 ## Post Mortem
 ---
 **Antumbrahn 24th**

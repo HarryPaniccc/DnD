@@ -1,9 +1,12 @@
+**Previous Session:** [[Session 85 - Estravian Brigands]]
+**Subsequent Session:**
+
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
 
 ### Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Returning from her adventure in [[Sirkonos]] to the familiarity of [[Dularen]] Rylai has begun to introspect about what her power means for who she is as a person 
+- Returning from her adventure in [[Sirkonos]] to the familiarity of [[Dularen]], Rylai has begun to introspect about what her power means for who she is as a person 
 - Dedicated to researching methods that will allow her to depart with the part of her magic that represents who she once thought she was meant to be, [[Rylai Sweetsong]] now believes that she has discovered the means of understanding and severing her sorcerous magic: A crossing of the [[Ley Lines]], a [[Ley Nexus]].
 - In aid of her persuit, [[Darius Nubide]] pointed her towards a ruin near [[Vasspryg]] that could hold information that may prove valuable for the both of them.
 
