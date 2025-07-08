@@ -1,7 +1,16 @@
+---
+tags:
+  - Lore
+aliases:
+  - Elder Elemental Eye
+---
 Tharizdun is a truly primordial being. A god of eternal, suffocating depths and void that fills them, Tharizdun appears not in the crashing of waves but in the coldness of the waters, the pressure of the depths and nothingness of the open ocean.
+
+Tharizdun was once a good being. He was corrupted by [[Dagon]].
 # Details
 ## Titles
 - Void Eternal
+- The Elder Elemental Eye
 ## Appearance
 Tharizdun's appearance is that of an octopus with uncountable, writhing arms shrouded in inky darkness, such that the boundaries between god and void are unknowable. His size is immense, and many think that his darkness is his true form, and that it is that darkness that gives root to his influence on the world.
 # Tenets and Teachings

@@ -10,6 +10,8 @@
 - Dedicated to researching methods that will allow her to depart with the part of her magic that represents who she once thought she was meant to be, [[Rylai Sweetsong]] now believes that she has discovered the means of understanding and severing her sorcerous magic: A crossing of the [[Ley Lines]], a [[Ley Nexus]].
 - In aid of her persuit, [[Darius Nubide]] pointed her towards a ruin near [[Vasspryg]] that could hold information that may prove valuable for the both of them.
 
+
+
 ### Opening Monologue
 > The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
 > 
@@ -21,6 +23,12 @@
 - Some way of determining what kind of elemental crossing she is looking for. Maybe the Ley Line will be used rather to **educate** her goal.
 - She needs to go to the [[Elemental Plane of Air]] through some kind of portal or by finding a [[Tuning Fork]].
 - **Maybe Rylai gives the magic to Lina**
+- [[Dusk]] practises blade singing
+- [[Isilme Vanariel]] fights her urges, and we learn more from [[Smudge]]
+### Darius' Offer to Rylai
+"There is much outside of official capacity that I desire, and though the loyalties of the sentinels are unquestionable, much of my resources are predisposed. West of Vasspryg there lies a ruin believed to be a center of research for the old Ruinan Tyranny. I believe it to be the Synod of Elevation, a once sacred place where those who were unable to prove their connection to their lineages were given one final chance to snap into their heritage of power, or be cast from their position in the sorcerer king's society. It has been probed by arcanist historians and treasure hunters for some time, but I have always suspected that there was something that everyone else had missed, hidden within that ruin. **If anywhere of old Ruina held the location of a Ley Line Nexus it would be there.**"
+
+"What I require in exchange for this information is information: Any understanding of magic and what would cause it to flow or cease within an individual that is housed there. The understanding that they had of how the weave has enlightened much of our own, and expansion is of great interest to me."
 ### Rylai's Study Infodump
 >*These readings come as a result of days of regular reading. The information here is drip fed to you after exhaustive dismissal of texts unrelated to your research, until finally you identify the form of the theory you are working on.*
 >
@@ -61,7 +69,7 @@ THERE ARE NO STAIRS
 
 # Finding the [[Ley Lines|Ley Line]] Nexus
 ---
-Something happens
+Temple of elemental chaos, Temple to the [[Tharizdun]]
 
 > Goes to a region where there is elemental chaos
 > [[Primordials]]/[[Dagon]]?
