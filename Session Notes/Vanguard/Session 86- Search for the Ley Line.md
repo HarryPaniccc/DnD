@@ -11,7 +11,6 @@
 - In aid of her persuit, [[Darius Nubide]] pointed her towards a ruin near [[Vasspryg]] that could hold information that may prove valuable for the both of them.
 
 
-
 ### Opening Monologue
 > The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
 > 
@@ -44,32 +43,45 @@
 
 # [[Synod of Elevation]]
 ---
+- Four hours west of [[Vasspryg]]
+## Approach the Ruin
+A ruin that is overgrown with moss and other flora, growing out of the side of a mountain, the structure would have likely been regal in its prime, but what remains appears to be three distinct ruins.
 
-West of [[Vasspryg]] lies the entrance to a ruined research facility. The structure is housed comfortably within a cave which is accessible by a small crack which can be squeezed through with some effort. Beyond sits a large door constructed of stone sitting against the walls of a large structure built into the cave wall, clearly made of stone cut from elsewhere. A runed groove runs along the outer face of the door, which stands half opened, faintly glowing with the blue magic used to open and close it.
+The base of a watchtower, its upper floors having crumbled mostly inwards, but the rubble has been moved to next to the structure. Behind that, in a courtyard of some sorts, what looks like it might have once been a temple, too, sits ruined. Behind that sits the most well-preserved of the structures. A series of 5 arches, some 10 to 15 feet high, arcs around the entrance to a structure that stretches out in either direction for a small distance. Above the ground floor of the main structure, evidence of windows and an upper structure remains, but other than the ground floor, everything seems to be in as bad condition as the rest of the ruin.
+### Ruined Watchtower
 
-- As a character passes near the door, they sense a probing sensation, like someone pushing against you to see if you will stay standing or be moved back, but testing not your body, but your will. A character can attempt a DC 20 ability check using their spellcasting ability to try to gain control of the door, or, if the character is a sorcerer, may attempt a DC 10 check.
+### Inner Courtyard and Door
+- As a character passes near the door, they sense a probing sensation, like someone pushing against you to see if you will stay standing or be moved back, but testing not your body, but your will. A character who can cast spells can attempt a DC 20 ability check using their spellcasting ability to try to gain control of the door, or, if the character is a sorcerer, may attempt a DC 10 check.
+- As a character reaches out with their will, they feel another presence grow and begin to push against them, as if discovering an intruder trying to open a door.
 - Once a character has succeeded a check to manipulate an element of the Synod, they may use an action to control a part of the structure.
+#### Encounter: Nalfeshnee
 
 ### Upper Levels
-THERE ARE NO STAIRS
-
+- Boss sorcerer study and its guardians
+#### Encounter: Helmed Horrors x 5 with elemental prison weapons
+- Elemental spirits are trapped in the weapons of the helmed horrors, allowing the weapon to have a 5th level *Elemental Weapon* spell cast on them (no concentration) (+2 to hit, +2d4 damage)
+- **Loot**: 5 plate armours of great design, 5 shields, 5 longswords
+#### Encounter: Trapped fire elemental
+- [[Sylph]] named [[Sonus]]
+- Three of the spirits are not powerful enough to form in the material plane
+- A fire elemental
 ### Half Dragon Undead Room
 
-### Chambers of Emergence
-> Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. 
+### Chamber of Emergence
+> Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
 
-- West of [[Vasspryg]] there's a ruined research facility dedicated to bringing out magical powers in people, looking to ascend them to incredible power.
 - Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
 - Location has been visited recently
 - Vault with writing from the [[Book of Vile Darkness]]
 
 
-### Uladarian Orb
-
 # Finding the [[Ley Lines|Ley Line]] Nexus
 ---
 Temple of elemental chaos, Temple to the [[Tharizdun]]
+- Slaadi
+- Gibbering mouthers
+- 
 
 > Goes to a region where there is elemental chaos
 > [[Primordials]]/[[Dagon]]?

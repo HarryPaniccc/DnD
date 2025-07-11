@@ -3495,7 +3495,7 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 55.49040511727079,
+            "dimension": 48.663426488456864,
             "children": [
               {
                 "id": "08389105e0321ab7",
@@ -3517,12 +3517,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 999 - Search for the Ley Line.md",
+                    "file": "Session Notes/Vanguard/Session 86- Search for the Ley Line.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 999 - Search for the Ley Line"
+                  "title": "Session 86- Search for the Ley Line"
+                }
+              },
+              {
+                "id": "cf659896fed91343",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Tharizdun.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Tharizdun"
                 }
               },
               {
@@ -3568,43 +3582,85 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 5
           },
           {
             "id": "35e6c8e92bf0a795",
             "type": "tabs",
-            "dimension": 44.50959488272921,
+            "dimension": 51.336573511543136,
             "children": [
-              {
-                "id": "ed65ea1003bd36e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Helodarian Calendar.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Helodarian Calendar"
-                }
-              },
               {
                 "id": "8fea7a72dc58e0bd",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+                    "file": "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 84 - Travel to Steinwalde"
+                  "title": "Session 83 - Through the Sirkonian Countryside (Start of Arc)"
+                }
+              },
+              {
+                "id": "55c5dc165ceb4577",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ruina"
+                }
+              },
+              {
+                "id": "73bfd1d713df6c41",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://5e.tools/bestiary.html#jade%20giant%20spider_oota",
+                    "title": "Jade Giant Spider - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Jade Giant Spider - 5etools"
+                }
+              },
+              {
+                "id": "91fc7a8b403def45",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/items.html#stirring%20dragon's%20wrath%20greatsword_ftd",
+                    "title": "Stirring Dragon's Wrath Greatsword - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Stirring Dragon's Wrath Greatsword - 5etools"
+                }
+              },
+              {
+                "id": "d6f2d8882dfdfb36",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://koboldplus.club/",
+                    "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Kobold Plus Fight Club - The first rule of Kobold Fight Club is 'Yip Yip!'"
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -3661,8 +3717,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 272.5,
-        "collapsed": true
+        "width": 351.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3844,8 +3899,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "cd1493f91885a669",
-      "mtime": "2025-07-03T12:37:44+02:00"
+      "active": "4859a2c24bd1b882",
+      "mtime": "2025-07-08T22:14:20+02:00"
     },
     "Eclipse": {
       "main": {

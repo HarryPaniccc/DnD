@@ -27,7 +27,7 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 ## Sessions
 - 
 - [[Session 999 - Tournament of Trayfort Hold]]
-- [[Session 999 - Search for the Ley Line]] - Rylai solo
+- [[Session 86- Search for the Ley Line]] - Rylai solo
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
 
 - [[Session 85 - Estravian Brigands]] - Kanan + Caede solo

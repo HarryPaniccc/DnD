@@ -37,7 +37,7 @@ The room was once a worship space, perhaps an altar room dedicated to a knight o
 
 Tevis: 210 HP, 19 AC and 17 initiative
 
-### **ENCOUNTER: Elandra + Succubus Willbreaker+ Incubus Willbreaker + Chimaera vs Caede + Skye + Rylei + Adhara**
+**ENCOUNTER: Elandra + Succubus Willbreaker+ Incubus Willbreaker + Chimaera vs Caede + Skye + Rylei + Adhara**
 - Elandra: 18 AC, 204 HP, 8 initiative
 - Succubus Willbreaker: 17 AC, 108 HP, 11 initiative
 - Incubus Willbreaker: 17 AC, 108 HP, 18 initiative
