@@ -2,20 +2,18 @@
 **Subsequent Session:**
 
 ## Introduction
-> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
+> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.
 
 ### Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Returning from her adventure in [[Sirkonos]] to the familiarity of [[Dularen]], Rylai has begun to introspect about what her power means for who she is as a person 
+- Returning from her adventure in [[Sirkonos]] to the familiarity of [[Dularen]], [[Rylai Sweetsong]] has begun to introspect about what her power means for who she is as a person .
 - Dedicated to researching methods that will allow her to depart with the part of her magic that represents who she once thought she was meant to be, [[Rylai Sweetsong]] now believes that she has discovered the means of understanding and severing her sorcerous magic: A crossing of the [[Ley Lines]], a [[Ley Nexus]].
-- In aid of her persuit, [[Darius Nubide]] pointed her towards a ruin near [[Vasspryg]] that could hold information that may prove valuable for the both of them.
-
+- In aid of her persuit, [[Darius Nubide]] pointed her towards a ruin near [[Vasspryg]] that could hold information that may prove valuable for the both of them - a ruin he believes to be the [[Synod of Elevation]].
 
 ### Opening Monologue
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+> The last breath of Autumn grips [[Ruina]]. The landscape surrounding [[Trayfort Keep]] is a vibrant display of colour and metamorphosis. In this realm of ancient histories and calamity, there too exists beauty and calmness. One thing is for certain, Winter is but one week away, and the snowfall has begun to chill your bones.
 > 
-> The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
-
+> The day is the 23rd of *Antumbrahn*, 813 post fall, and you are preparing for another adventure - the first true excursion in a little over a month.
 
 # Session Start
 
@@ -24,6 +22,8 @@
 - **Maybe Rylai gives the magic to Lina**
 - [[Dusk]] practises blade singing
 - [[Isilme Vanariel]] fights her urges, and we learn more from [[Smudge]]
+
+## Notes for reference
 ### Darius' Offer to Rylai
 "There is much outside of official capacity that I desire, and though the loyalties of the sentinels are unquestionable, much of my resources are predisposed. West of Vasspryg there lies a ruin believed to be a center of research for the old Ruinan Tyranny. I believe it to be the Synod of Elevation, a once sacred place where those who were unable to prove their connection to their lineages were given one final chance to snap into their heritage of power, or be cast from their position in the sorcerer king's society. It has been probed by arcanist historians and treasure hunters for some time, but I have always suspected that there was something that everyone else had missed, hidden within that ruin. **If anywhere of old Ruina held the location of a Ley Line Nexus it would be there.**"
 
@@ -41,7 +41,8 @@
 >DC 20
 >*You find yourself reading a translation of an old scroll, preserved in glass and kept hidden from the sun and moisture by layers of basement. "Power", the translation reads, "often requires suffering to access. How many sorcerers are born but never discover their true purpose? Certainly never in the population of the workers" - a footnote mentions that the word "worker" and "slave" are the same in this language - "would we expect someone to discover power. But... sometimes the elevation is not easily known in the children of our subjects. Those born seemingly un-elevated should not necessarily never have the opportunity to prove their holy right. Thus, as of Reign 477" - another note, years since their emperor came into power - "those born to elevated parents must be given the opportunity to blossom their abilities. Power, often requires suffering to access. If that fails, the un-elevated children of elevated parents must not be allowed to extend their failure to their bloodline." The translation ends.*
 
-# [[Synod of Elevation]]
+
+# Ruin Approach
 ---
 - Four hours west of [[Vasspryg]]
 ## Approach the Ruin
@@ -50,31 +51,55 @@ A ruin that is overgrown with moss and other flora, growing out of the side of a
 The base of a watchtower, its upper floors having crumbled mostly inwards, but the rubble has been moved to next to the structure. Behind that, in a courtyard of some sorts, what looks like it might have once been a temple, too, sits ruined. Behind that sits the most well-preserved of the structures. A series of 5 arches, some 10 to 15 feet high, arcs around the entrance to a structure that stretches out in either direction for a small distance. Above the ground floor of the main structure, evidence of windows and an upper structure remains, but other than the ground floor, everything seems to be in as bad condition as the rest of the ruin.
 ### Ruined Watchtower
 
-### Inner Courtyard and Door
-- As a character passes near the door, they sense a probing sensation, like someone pushing against you to see if you will stay standing or be moved back, but testing not your body, but your will. A character who can cast spells can attempt a DC 20 ability check using their spellcasting ability to try to gain control of the door, or, if the character is a sorcerer, may attempt a DC 10 check.
+### Inner Sanctum and Hidden Portal
+The singular chamber that is most intriguing to the players is a sanctum of sorts. On the far wall sits a mural of a pair of dragons bowing to a man whose facial features are replaced with what looks like a smoothe, almost glass-like surface.
+
+- As a character passes near the mural, they sense a probing sensation, like someone pushing against you to see if you will stay standing or be moved back, but testing not your body, but your will. A character who can cast spells can attempt a DC 20 ability check using their spellcasting ability to try to gain control of the door, or, if the character is a sorcerer, may attempt a DC 10 check.
 - As a character reaches out with their will, they feel another presence grow and begin to push against them, as if discovering an intruder trying to open a door.
-- Once a character has succeeded a check to manipulate an element of the Synod, they may use an action to control a part of the structure.
+- Once a character has succeeded a check to manipulate an element of the Synod, they may use an action to control a part of the deeper synod structure's main mechanisms.
 #### Encounter: Nalfeshnee
+When a character pushes against the mural for the first time, the magic of the structure summons a **Nalfeshnee demon**, bound in a magic circle somewhere in the structure
 
-### Upper Levels
-- Boss sorcerer study and its guardians
-#### Encounter: Helmed Horrors x 5 with elemental prison weapons
-- Elemental spirits are trapped in the weapons of the helmed horrors, allowing the weapon to have a 5th level *Elemental Weapon* spell cast on them (no concentration) (+2 to hit, +2d4 damage)
-- **Loot**: 5 plate armours of great design, 5 shields, 5 longswords
-#### Encounter: Trapped fire elemental
-- [[Sylph]] named [[Sonus]]
-- Three of the spirits are not powerful enough to form in the material plane
-- A fire elemental
-### Half Dragon Undead Room
+After defeating the demon, the party will be teleported to the synod
+# [[Synod of Elevation]]
+---
 
-### Chamber of Emergence
+## The Facility - First Level
+The portal opens into an open chamber of stone, tiered, with what appears to be a balcony of sorts cut one layer. The ceiling of the central chamber is high, maybe 50 ft up. There are six pathways on the ground floor: Two left, two right, and two forward
+### Residence Wing
+A series of corridoors and rooms belonging to both ministers and those who had come to the synod for "Inauguration". Students have bars on their doors. There is a common room like space. Bones litter the ground.
+### Research Wing
+### Elemental Essence Chamber
+Ornate shapes on the walls, depicting various different planes
+Four pedistals, one broken, give of a faint light. On the floor, mosaic of the inner planes, depicting the elemental planes.
+
+**Rylai feels a connection** to the three pedistals, and the shards on each of them
+- Water shard is cold. Stillness. In it she finds dullness, the ability to hide from her pain, but also the loss of passion
+- Fire shard is anguish. Power and frustration, but also love. Warmth. You realize just how familiar the feeling is, and how much you long for the cold to disipate, but also how much you fear it.
+- Air shard you feel as you are. You feel a reflection of yourself. Less modified by your past or how you chose to deal with it, you feel in the air shard there is truth. It merely enhances the effects of the fire or water shards
+
+Depending on what Rylai chooses, she will gain one of the following
+- [[Elemental Essence Shard (Water)]]
+- [[Elemental Essence Shard (Fire)]]
+- [[Elemental Essence Shard (Air)]]
+
+The two she did not choose will summon an elemental of each type, and two mephits of the combination of them.
+## Second Level
+### Vault of Emergence
+On the left side, beneath the torture chambers
 > Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
 
 - Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
-- Location has been visited recently
-- Vault with writing from the [[Book of Vile Darkness]]
 
+### Chamber of Sacrifice
+A chamber where those who fail to prove themselves capable of elevation are brought to the chamber of sacrifice, where they have a hideous ritual performed on their bodies and they are torn apart and transformed into a **Flameskull**.
+
+### Vault of 
+### Knowing Fool
+Mummy lord fight but themed like a man maddened by knowledge
+
+## Hole
 
 # Finding the [[Ley Lines|Ley Line]] Nexus
 ---

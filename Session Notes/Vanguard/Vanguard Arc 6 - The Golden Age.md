@@ -24,7 +24,9 @@ tags:
 - (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
 - (21st) [[Darius Nubide]] appears to Rylai in her rooms
 
+
 **Week 5 (Antumbrahn 23rd)**
+- (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
 - Caede and Kanan make it to the first village of [[Estravia]]
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
