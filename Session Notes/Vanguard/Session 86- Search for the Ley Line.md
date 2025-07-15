@@ -44,7 +44,7 @@
 
 # Ruin Approach
 ---
-- Four hours west of [[Vasspryg]]
+- two hours west of [[Vasspryg]]
 ## Approach the Ruin
 A ruin that is overgrown with moss and other flora, growing out of the side of a mountain, the structure would have likely been regal in its prime, but what remains appears to be three distinct ruins.
 
