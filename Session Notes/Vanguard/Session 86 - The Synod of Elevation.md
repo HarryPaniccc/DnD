@@ -1,5 +1,20 @@
 **Previous Session:** [[Session 85 - Estravian Brigands]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 87 - An Element of Truth]]
+## Post Mortem
+---
+**Antumbrahn 23rd**
+- [[Rylai Sweetsong]], [[Dusk]] and [[Isilme Vanariel]] prepare for their adventure at [[Trayfort Keep]].
+- Rylai wears a cowboy hat
+
+**Antumbrahn 28th**
+- The group make it to [[Vasspryg]] from the [[Platinum Highroad]]
+- They hear about an attack on Vasspryg and Dularen from orc forces, and about a strange tent in the army of the Vasspryg invaders
+- The group meets [[General Isaac]]. Isaac suggests that Rylai speaks with [[Alfred Gundrei]] in order to understand why [[Ulrandir Vanariel]] has not yet been executed.
+
+**Antumbrahn 29th**
+- The group hires a team of 4 bodyguards and makes their way to the ruins
+- They enter the sanctum, learning of the mental control they can take over the structure, and face and defeat a nalfeshnee
+- The group adventures, finding the chamber of the elements, where Rylai chooses the [[Elemental Essence Shard (Fire)]] and summons three ice mephits, an air elemental, and a water elemental
 
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.

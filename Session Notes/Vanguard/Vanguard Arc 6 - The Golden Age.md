@@ -130,7 +130,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 
 ### [[Ley Lines]] and the [[Elemental Plane of Air]]
 
-- [[Session 86- Search for the Ley Line]]
+- [[Session 86 - The Synod of Elevation]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
