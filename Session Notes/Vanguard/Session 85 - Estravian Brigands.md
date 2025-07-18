@@ -49,7 +49,6 @@ Following a main road to the north out of [[Valeria]] and through [[Estravia]].
 | 11                                         | Trolls                                         |
 | 12                                         | Frost Giants                                   |
 
-
 # [[Valeria]] Ranging
 ---
 ### View from the Apex

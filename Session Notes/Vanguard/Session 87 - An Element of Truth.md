@@ -28,7 +28,17 @@ Ideas for what should happen
 Something happens
 
 
-# Section
+# Finding the [[Ley Lines|Ley Line]] Nexus
 ---
-Something else happens
+Temple of elemental chaos, Temple to the [[Tharizdun]], [[Tharizdun|Elder Elemental Eye]]
+- Slaadi
+- Gibbering mouthers
+- 
 
+> Goes to a region where there is elemental chaos
+> [[Primordials]]/[[Dagon]]?
+
+
+# [[Elemental Plane of Air]]
+---
+- [[Sylphmade Scarf]]

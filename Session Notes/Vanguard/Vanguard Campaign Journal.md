@@ -25,13 +25,14 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]], the [[Vanguard]] go seperate ways, persuing personal goals and adventures across [[Eranulaid]].
 
 ## Sessions
-- 
 - [[Session 999 - Tournament of Trayfort Hold]]
-- [[Session 86 - The Synod of Elevation]] - Rylai solo
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
+- [[Session 999 - Witches and Dragonfire]]
 
-- [[Session 85 - Estravian Brigands]] - Kanan + Caede solo
-- [[Session 84 - Travel to Steinwalde]] - Kanan + Caede solo
+- [[Session 87 - An Element of Truth]]
+- [[Session 86 - The Synod of Elevation]] - Rylai + Isilme + Dusk
+- [[Session 85 - Estravian Brigands]] - Kanan + Caede
+- [[Session 84 - Travel to Steinwalde]] - Kanan + Caede
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]] - Kanan solo
 - [[Session 82 - Meeting King Sirkon (End of Arc)]]
 - [[Session 81 - Blessings of the Deathwatch]]

@@ -28,11 +28,11 @@ tags:
 **Week 5 (Antumbrahn 23rd)**
 - (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
 - Caede and Kanan make it to the first village of [[Estravia]]
+- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and begin doing the Synod Dungeon
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
 - 
 # Things to Remember
-
 
 Kanan spends minimum time in Brocia (like one day of prep)
 
