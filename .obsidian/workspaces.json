@@ -2218,18 +2218,8 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 46.84986595174262,
+            "dimension": 49.166666666666664,
             "children": [
-              {
-                "id": "08389105e0321ab7",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              },
               {
                 "id": "4197be4e659ef1fd",
                 "type": "leaf",
@@ -2242,6 +2232,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "be715f8a455bacc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 6 - The Golden Age"
                 }
               },
               {
@@ -2287,31 +2291,17 @@
                 }
               },
               {
-                "id": "9c55a70ce8184bb9",
+                "id": "351ba7ee58d63144",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Brocia.md",
+                    "file": "World of Helodaria/Estravia.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Brocia"
-                }
-              },
-              {
-                "id": "afa2f7d76e06d2ea",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Underfoot Tollhouse.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Underfoot Tollhouse"
+                  "title": "Estravia"
                 }
               }
             ],
@@ -2320,7 +2310,7 @@
           {
             "id": "ab3355de63250024",
             "type": "tabs",
-            "dimension": 53.15013404825737,
+            "dimension": 50.833333333333336,
             "children": [
               {
                 "id": "b570b995d66a4f2d",
@@ -2351,17 +2341,17 @@
                 }
               },
               {
-                "id": "ce0766bd1e5c7071",
+                "id": "5f3a4386e436b7a1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 84 - Travel to Steinwalde.md",
+                    "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 84 - Travel to Steinwalde"
+                  "title": "Session 85 - Estravian Brigands"
                 }
               }
             ],
@@ -2422,8 +2412,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 297.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2575,8 +2564,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "ce0766bd1e5c7071",
-      "mtime": "2025-03-26T19:44:03+02:00"
+      "active": "351ba7ee58d63144",
+      "mtime": "2025-07-20T17:38:11+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -4281,5 +4270,5 @@
       "mtime": "2025-07-04T23:52:17+02:00"
     }
   },
-  "active": "Kanan Downtime"
+  "active": "Rylai Downtime"
 }

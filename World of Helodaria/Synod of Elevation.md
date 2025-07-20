@@ -6,12 +6,19 @@ The Synod also had the objective of bringing out latent magical power in the chi
 ---
 ## Level 1
 The portal opens into an open chamber of stone, tiered, with what appears to be a balcony of sorts cut one layer. The ceiling of the central chamber is high, maybe 50 ft up. There are six pathways on the ground floor: Two left, two right, and two forward
+### Arrival Chamber
+The chamber in which the Nalfeshnee guard and the entrance portal are stored. Tiered with two levels, and a vastly high ceiling.
 ### Residence Wing
-A series of corridoors and rooms belonging to both ministers and those who had come to the synod for "Inauguration". Students have bars on their doors. There is a common room like space. Bones litter the ground.
+A series of corridoors and rooms belonging to both ministers and those who had come to the synod for "Inauguration". Students have bars on their doors. There is a common room like space with a dining chamber. Bones litter the ground.
 - **Secret Door** to 
 ### Research Wing
-### 
-### Elemental Essence Chamber
+A long, autere hallway that wraps around a central scribing room where various scrolls and writings are conducted away from the noise of the rest of the Synod. 
+
+The wing is connected to the library wing and chamber of reflection.
+### Library Wing
+### Emergence Chambers
+From this wing the true purpose of the Synod is evident. Various rooms through which one might bring a student to "snap" towards their power.
+##### Elemental Essence Chamber
 Ornate shapes on the walls, depicting various different planes
 Four pedistals, one broken, give of a faint light. On the floor, mosaic of the inner planes, depicting the elemental planes.
 
