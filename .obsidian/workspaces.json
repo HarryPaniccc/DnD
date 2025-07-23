@@ -3571,7 +3571,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "35e6c8e92bf0a795",
@@ -3678,8 +3678,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5,
-        "collapsed": true
+        "width": 276.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3758,12 +3757,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "World of Helodaria/Synod of Elevation.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of Synod of Elevation"
                 }
               },
               {
@@ -3845,7 +3845,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 365.5
+        "width": 365.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3859,8 +3860,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "0b6a92f621642cae",
-      "mtime": "2025-07-17T18:23:29+02:00"
+      "active": "66c99bf372ae0171",
+      "mtime": "2025-07-23T09:47:00+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4270,5 +4271,5 @@
       "mtime": "2025-07-04T23:52:17+02:00"
     }
   },
-  "active": "Rylai Downtime"
+  "active": "Eclipse"
 }

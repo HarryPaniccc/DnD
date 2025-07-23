@@ -1,11 +1,11 @@
-**Previous Session:**
-**Subsequent Session:**
+**Previous Session:** [[Session 5 - Into the Mines]]
+**Subsequent Session:** [[Session 7 - ]]
 ## Introduction
 > "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
 > 
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
 
-	## Recap
+## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
 - Last session these things happened
 - This is important because
@@ -58,8 +58,13 @@ A roper sits above a swarm of maggots and a mimic
 - 2 ankhegs
 - Boss ankheg (120 hp)
 
-**Loot**: Corpses that are stacked with wealth, and magic items
+**Loot**: 
+- A small chest that looks as though it was being transported by a small caravan of guards. DC 15 lockpicking to open. Within, lying on a bed of 84 gold pieces, sits a masterworked, carved of chitin ivory, [[Dagger of Acid]]. The handle is ivory, and runes decorate the cutting edge.
 ## 5. Bulette Hunting Ground
 > Reward, Revelation, Twist
 
 Pathways to this room are covered in a thick layer of waxy substance, sealing up pathways in that direction. There is a shrine to [[Lolth]] and some kind of lolthy thing there, being watched by a Bulette.
+
+**Loot**:
+- A scroll of *conjure animals* that summons two giant spiders
+- 

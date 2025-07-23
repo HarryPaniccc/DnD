@@ -4,9 +4,7 @@
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
-- Having escaped [[Nethendell]], our group of adventurers sought out survivors of the seige that had taken place over the last week. Travelling through the wilderness and dealing with the dangers faced along the way, the group was guided by what they believed a sign: A silver falcon, leading them west, towards a mountainous outcropping of the range to their north.
-- It was there, after picking up a pair of draft horses and renaming them to **Lager** and **Weiss**, that the party came across an abandoned mine that had been turned into a refugee camp, housing what must be over two hundred refugees.
-- From there they found the person they were looking for, the mage known as [[Tira Stone]], advisor to [[Lord Eskel Termon]] and impromptu guardian over the refugee camp. She briefed you on the situation, that riders had been sent to [[Castle Sungrand]] for aid, but none have returned. In addition, the camp is endangered by a nest of ankhegs in a potential space the refugees could move to, and you were tasked with clearing out these ankhegs.
+- 
 
 ### Opening Monologue
 
@@ -53,7 +51,7 @@ The chamber looks to be a central mining shaft, with collapsed tunnels once used
 ## 2. Navigating The Nest
 > Puzzle/Roleplaying Challenge
 
-## 3. Roper Hive Nest
+## 3. Roper Breeding Room
 > Trick or Setback
 ### Encounter: Roper Mimic Combo
 A Roper, a Mimic, and 3 swarms of Maggots
@@ -61,14 +59,19 @@ A roper sits above a swarm of maggots and a mimic
 
 **Loot:** 
 - The mimic holds stuff from its previous victims: 175 gp, 53 sp, a [[Chime of Opening]] and a **scroll of ray of sickness**.
-- In the infestation of larvae there sits the corpse of 
+- In the infestation of larvae there sits the corpse of a drow. There is barely noticable drow architecture around the area.
 ## 4. Ankheg Nest
 > Climax, Big Battle, or Conflict
 - 2 ankhegs
 - Boss ankheg (120 hp)
 
-**Loot**: Corpses that are stacked with wealth, and magic items
+**Loot**:
+- A small chest that looks as though it was being transported by a small caravan of guards. DC 15 lockpicking to open. Within, lying on a bed of 84 gold pieces, sits a masterworked, carved of chitin ivory, [[Dagger of Acid]]. The handle is ivory, and runes decorate the cutting edge.
 ## 5. Bulette Hunting Ground
 > Reward, Revelation, Twist
 
 Pathways to this room are covered in a thick layer of waxy substance, sealing up pathways in that direction. There is a shrine to [[Lolth]] and some kind of lolthy thing there, being watched by a Bulette.
+
+**Loot**:
+- A scroll of *conjure animals* that summons two giant spiders
+- 
