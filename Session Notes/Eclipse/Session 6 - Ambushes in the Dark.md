@@ -1,16 +1,15 @@
 **Previous Session:** [[Session 5 - Into the Mines]]
-**Subsequent Session:** [[Session 7 - ]]
-## Introduction
-> "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
-> 
-> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
+**Subsequent Session:** [[Session 7 - A Den of Chitin]]
+## Post Mortem
+**Vanadrahs 13th**
+- Headed deeper into the cave to the roper region
+- Battled the roper and mimic and the fledgelings
+- Looted the mimic's items, getting the [[Chime of Opening]]
+- Started killing egg sacks that will attract the ankhegs from the boss room
 
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Last session these things happened
-- This is important because
-- And then this
-
+- Winged this bit
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
@@ -21,11 +20,6 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
 # Session Start
 Ideas for what should happen
-
-
-# Section
----
-Something happens
 
 
 # Abandoned Mine
@@ -47,7 +41,7 @@ The chamber looks to be a central mining shaft, with collapsed tunnels once used
 ## 3. Roper Hive Nest
 > Trick or Setback
 ### Encounter: Roper Mimic Combo
-A Roper, a Mimic, and 3 swarms of Maggots
+A Roper (15), a Mimic (6), and 3 swarms of Maggots (11)
 A roper sits above a swarm of maggots and a mimic
 
 **Loot:** 

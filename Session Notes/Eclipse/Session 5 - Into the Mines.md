@@ -1,10 +1,17 @@
 **Previous Session:** [[Session 4 - Corpses and Refugees]]
-**Subsequent Session:** [[Session 6 - A Den of Chitin]]
+**Subsequent Session:** [[Session 6 - Ambushes in the Dark]]
 ## Post Mortem
+**Vanadrahs 12th**
+- [[Cened]] spoke with the high elves and they notified them of the [[Mirror of Liraleth]]
+- [[Douglas Dier]] gambled in camp, crossing paths with [[Parcival Grimbourne]]'s retinue
+- The party accepted that they were to head into the mines ruins and deal with the Ankhegs there
 
+**Vanadrahs 13th**
+- Bought some vials from merchants and went into the mines
+- Faced an ankheg ambush
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
-- 
+- I erased this accidentally
 
 ### Opening Monologue
 

@@ -10,6 +10,7 @@ Organ
 - [[Wastehunter]]
 - [[Gem of Brightness]]
 - [[Elemental Gem]]
+- [[Chime of Opening]]
 **Unawarded**
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
@@ -20,7 +21,6 @@ Organ
 - [[Jewel of Sehanine or somesuch shit]]
 - [[Scrying Eye]]
 - [[Blood Spear]] (CoS item)
-- [[Chime of Opening]]
 - [[Arrow-Catching Shield]]
 - [[Instrument of the Bards]]
 - [[Ring of Jumping]]
