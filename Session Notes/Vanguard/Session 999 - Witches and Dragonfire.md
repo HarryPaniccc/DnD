@@ -9,7 +9,7 @@
 - Kanan and Caede, accompanied by the protector kronesguard of [[Valeria]], have begun making their way towards the [[Faults of North Estravia]],
 - While setting up for lunch the next morning, the group investigated the stench of death, and defeated a group of ghouls that were enjoying a meal, as well as an invisible air spirit of some kind.
 - After this battle, having burned the remains, the group came to realize that their travelling party had been surrounded by bandits, led by the same man who they had freed the werewolf from
-- After defeating the bandits, and reconciling with Syr Edmund's niece, they made their way to [[Trau's End]], the small village at the end of the valley.
+- After defeating the bandits, and reconciling with [[Syr Edmund]]'s niece, they made their way to [[Trau's End]], the small village at the end of the valley.
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
@@ -18,8 +18,14 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 > The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
 
 
-# Session Start
-Ideas for what should happen
+# Session Start - Pre Session Activities
+> Whatsapp DnDing to expediate things
+
+- The group leaves [[Trau's End]], Kanan offers the [[Battalion of the Silver Arrow]] position to [[Belle Nierhund]], and they make their way following the map. (Survival roll 26)
+- Caede and Kanan discuss life and their siblings
+- Short snowball fight
+- Caede sees [[Erasmus van Richten]] (Van Richten's Son)
+- 
 
 
 # Section

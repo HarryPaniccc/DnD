@@ -66,6 +66,20 @@
                 }
               },
               {
+                "id": "d26a1d76887754db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Primordial of Hunger.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Primordial of Hunger"
+                }
+              },
+              {
                 "id": "85502860378e5ee7",
                 "type": "leaf",
                 "state": {
@@ -106,23 +120,9 @@
                   "icon": "lucide-file",
                   "title": "Vanguard Arc 6 - The Golden Age"
                 }
-              },
-              {
-                "id": "541629fa92ca2fd1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 5 - A Den of Chitin"
-                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -258,13 +258,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
+                    "file": "Primordial of Hunger.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Session 5 - A Den of Chitin"
+                  "title": "Outline of Primordial of Hunger"
                 }
               },
               {
@@ -336,8 +336,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "541629fa92ca2fd1",
-      "mtime": "2025-07-01T10:38:01+02:00"
+      "active": "d26a1d76887754db",
+      "mtime": "2025-07-31T10:44:50+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -4247,5 +4247,5 @@
       "mtime": "2025-07-24T11:41:56+02:00"
     }
   },
-  "active": "Original Workspace"
+  "active": "Kanan Downtime"
 }
