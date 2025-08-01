@@ -25,7 +25,7 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 - Caede and Kanan discuss life and their siblings
 - Short snowball fight
 - Caede sees [[Erasmus van Richten]] (Van Richten's Son)
-- 
+- They make it to a hill overlooking the rivers to the north, and their incline
 
 
 # Section
