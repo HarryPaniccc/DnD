@@ -14,6 +14,18 @@
 - The bandits are slaughtered, but three surrender, turning out to be led by Syr Edmund's niece, [[Belle Nierhund]]
 - After a day's ride they return Belle to her home in the village at the end of the valley, [[Trau's End]]. There, Kanan offers for Belle to join the [[Battalion of the Silver Arrow]]
 
+**Antumbrahn 26th - Whatsapp gameplay**
+- The group departs from [[Trau's End]] saying goodbye to [[Syr Edmund]] for now, and crosses the plains ahead without a hitch.
+- Caede and Kanan have a snowball fightm and end their journey on a hill overlooking the [[Yiata River]] and the [[Faults of North Estravia]]
+- Draugr incident
+
+**Antumbrahn 27th - 29th Whatsapp gameplay**
+- Crossing of the river
+
+**Antumbrahn 30th - Whatsapp gameplay**
+- 
+
+
 ---
 ## Introduction
 
