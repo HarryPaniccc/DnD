@@ -23,7 +23,11 @@
 - Crossing of the river
 
 **Antumbrahn 30th - Whatsapp gameplay**
-- 
+- Searching the river for a way to the faults
+- Ascend to the faults
+
+**Dulussahn 1st - Whatsapp gameplay**
+- First day of hiking across the faults.
 
 
 ---
