@@ -14,7 +14,7 @@
 When you draw *Nightfall*, until the next long rest you lose the ability to roll hit dice to heal in any way other than using *Nightfall*. When you hit a creature using *Nightfall*, you can expend a hit die and heal using it as if you had used it during a short rest.
 
 ### Butcher of Light
-The first time you hit any creature with an attack using *Nightfall* on a turn that creature must succeed on a DC 17 Constitution saving throw or suffer a wound until the end of your next turn. Any slashing damage the creature takes while they are wounded increases by 2d6 *and your melee weapon attacks score a critical hit on the creature on a d20 roll of 19 or higher.*
+The first time you hit any creature with an attack using *Nightfall* on a turn that creature must succeed on a DC 17 Constitution saving throw or suffer a wound until the end of your next turn. Any slashing damage the creature takes while they are wounded in this way increases by 2d6 *and your melee weapon attacks score a critical hit on the creature on a d20 roll of 19 or higher.*
 
 ### Lifeblood
 When you roll maximum damage on a damage die for an attack made with *Nightfall*, *Nightfall* gains a charge. You can gain only one charge per attack. These charges are all lost when *Nightfall* is sheathed or within 1 minute of not making a weapon attack against a creature or having damage dealt to you by an enemy. You can have no more than 8 charges at a time.
