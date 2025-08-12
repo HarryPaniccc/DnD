@@ -28,6 +28,11 @@
 
 **Dulussahn 1st - Whatsapp gameplay**
 - First day of hiking across the faults.
+- Kanan scouts, revealing a few key objectives. The group goes to the road.
+- At night they hear the sound of white dragons going at it.
+
+**Dulussahn 2nd - Whatsapp gameplay**
+- 
 
 
 ---

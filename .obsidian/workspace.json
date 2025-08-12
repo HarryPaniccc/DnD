@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -282,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Estravia.md",
+                "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Estravia"
+              "title": "Outline of Session 85 - Estravian Brigands"
             }
           },
           {
@@ -356,10 +356,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "351ba7ee58d63144",
+  "active": "5f3a4386e436b7a1",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+    "Attachments/hextml/Unconfirmed 944959.crdownload",
+    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+    "World of Helodaria/Estravia.md",
     "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
     "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
     "World of Helodaria/Synod of Elevation.md",
@@ -371,7 +373,6 @@
     "World of Helodaria/Steinwalde.md",
     "Items/Nightfall, The Twilight Blade.md",
     "World of Helodaria/Sirkonos.md",
-    "World of Helodaria/Estravia.md",
     "Items/Compasses of the Old Orders.md",
     "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
     "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
@@ -384,7 +385,6 @@
     "Attachments/Estravia perfect.png",
     "Primordial of Hunger.md",
     "World of Helodaria/Primordials.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session Notes/Age of Wounds",
     "Attachments/dungeon scrawl/Unconfirmed 886126.crdownload",
     "Attachments/dungeon scrawl/Unconfirmed 185868.crdownload",
@@ -405,7 +405,6 @@
     "Attachments/Pasted image 20250612080352.png",
     "Attachments/Pasted image 20240320125108.png",
     "Items/Consumables",
-    "export/Session 0/Attachments",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
   ]
