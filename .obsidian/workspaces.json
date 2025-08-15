@@ -2360,7 +2360,7 @@
                 }
               }
             ],
-            "currentTab": 9
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -2417,8 +2417,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 297.5,
-        "collapsed": true
+        "width": 297.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2495,13 +2494,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Underfoot Tollhouse.md",
+                    "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Underfoot Tollhouse"
+                  "title": "Outline of Session 85 - Estravian Brigands"
                 }
               },
               {
@@ -2555,8 +2554,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 315.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2570,8 +2568,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b284af2a23dfc8e4",
-      "mtime": "2025-08-10T12:09:01+02:00"
+      "active": "5f3a4386e436b7a1",
+      "mtime": "2025-08-14T13:17:53+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3867,7 +3865,7 @@
         }
       },
       "active": "66c99bf372ae0171",
-      "mtime": "2025-07-23T09:47:00+02:00"
+      "mtime": "2025-08-14T19:48:25+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4250,7 +4248,7 @@
         }
       },
       "active": "aa344a83fbb8a99a",
-      "mtime": "2025-07-24T11:41:56+02:00"
+      "mtime": "2025-08-14T19:48:06+02:00"
     }
   },
   "active": "Kanan Downtime"
