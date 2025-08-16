@@ -4,51 +4,129 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
-        "type": "tabs",
+        "id": "b4c44c75995641c6",
+        "type": "split",
+        "dimension": 43.81663113006397,
         "children": [
           {
-            "id": "4197be4e659ef1fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
+            "id": "f6ee7c6f3acda308",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4197be4e659ef1fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
+              {
+                "id": "be715f8a455bacc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 6 - The Golden Age"
+                }
+              },
+              {
+                "id": "b570b995d66a4f2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Item Pricing + Crafting.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magic Item Pricing + Crafting"
+                }
+              }
+            ]
           },
           {
-            "id": "be715f8a455bacc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "mode": "source",
-                "source": false
+            "id": "0c7c343f1aee4fea",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ca1da7fca7de73b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Sirkonos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sirkonos"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "0ab9e66bd4bc3e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Steinwalde.md",
-                "mode": "source",
-                "source": false
+              {
+                "id": "0ab9e66bd4bc3e62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Steinwalde.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Steinwalde"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Steinwalde"
-            }
-          },
+              {
+                "id": "351ba7ee58d63144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Estravia.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Estravia"
+                }
+              },
+              {
+                "id": "65016defacf141a4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Faults of North Estravia.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Faults of North Estravia"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "ad403f483996d6ec",
+        "type": "tabs",
+        "dimension": 56.18336886993603,
+        "children": [
           {
             "id": "f1c9f02a19a2f78e",
             "type": "leaf",
@@ -61,48 +139,6 @@
               },
               "icon": "lucide-file",
               "title": "Nightfall, The Twilight Blade"
-            }
-          },
-          {
-            "id": "4ca1da7fca7de73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "351ba7ee58d63144",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Estravia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estravia"
-            }
-          },
-          {
-            "id": "b570b995d66a4f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Item Pricing + Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic Item Pricing + Crafting"
             }
           },
           {
@@ -134,6 +170,20 @@
             }
           },
           {
+            "id": "c1ab1f2e0d3032ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 999 - The North Estravian Faults.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 999 - The North Estravian Faults"
+            }
+          },
+          {
             "id": "b284af2a23dfc8e4",
             "type": "leaf",
             "state": {
@@ -148,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -282,13 +333,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+                "file": "Session 999 - The North Estravian Faults.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 85 - Estravian Brigands"
+              "title": "Outline of Session 999 - The North Estravian Faults"
             }
           },
           {
@@ -342,7 +393,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,24 +408,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5f3a4386e436b7a1",
+  "active": "c1ab1f2e0d3032ee",
   "lastOpenFiles": [
-    "Attachments/hextml/nethendell valley.html.gz",
-    "Attachments/hextml/Unconfirmed 602887.crdownload",
     "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+    "Session 999 - The North Estravian Faults.md",
     "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "World of Helodaria/Synod of Elevation.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Attachments/hextml/Unconfirmed 944959.crdownload",
-    "World of Helodaria/Estravia.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-    "Magic Item Pricing + Crafting.md",
-    "World of Helodaria/Vessel of Avarice.md",
     "Items/Anathema.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Magic Item Pricing + Crafting.md",
+    "Faults of North Estravia.md",
+    "World of Helodaria/Estravia.md",
     "World of Helodaria/Steinwalde.md",
+    "Untitled.canvas",
+    "Attachments/hextml/nethendell valley.html.gz",
+    "Attachments/hextml/Unconfirmed 602887.crdownload",
+    "World of Helodaria/Synod of Elevation.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Attachments/hextml/Unconfirmed 944959.crdownload",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "World of Helodaria/Vessel of Avarice.md",
     "Items/Nightfall, The Twilight Blade.md",
     "World of Helodaria/Sirkonos.md",
     "Items/Compasses of the Old Orders.md",
@@ -386,7 +441,6 @@
     "World of Helodaria/Helodarian Calendar.md",
     "Thezuurol.md",
     "Attachments/Estravia perfect.png",
-    "Primordial of Hunger.md",
     "Session Notes/Age of Wounds",
     "Attachments/dungeon scrawl/Unconfirmed 886126.crdownload",
     "Attachments/dungeon scrawl/Unconfirmed 185868.crdownload",
@@ -394,8 +448,6 @@
     "Attachments/dungeon scrawl/Synod of Elevation.ds",
     "Attachments/dungeon scrawl/Unconfirmed 712175.crdownload",
     "Attachments/dungeon scrawl",
-    "Attachments/New folder",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20250701181726.png",
     "Attachments/Pasted image 20250701181719.png",

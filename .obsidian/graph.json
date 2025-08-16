@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "-path:Statblocks -path:Templates  ",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -74,6 +74,6 @@
   "repelStrength": 13.6979166666667,
   "linkStrength": 1,
   "linkDistance": 136,
-  "scale": 0.0596920227070902,
+  "scale": 0.08368719496900322,
   "close": true
 }

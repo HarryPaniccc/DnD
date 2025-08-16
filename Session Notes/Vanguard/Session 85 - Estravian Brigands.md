@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 84 - Travel to Steinwalde]]
-**Subsequent Session:** [[Session 999 - Witches and Dragonfire]]
+**Subsequent Session:** [[Session 999 - The North Estravian Faults]]
 ## Post Mortem
 ---
 **Antumbrahn 24th**
@@ -13,27 +13,6 @@
 - Afterwards, they return outside to find [[Ballard]] and a band of bandits harrassing Edmund and Van Richten.
 - The bandits are slaughtered, but three surrender, turning out to be led by Syr Edmund's niece, [[Belle Nierhund]]
 - After a day's ride they return Belle to her home in the village at the end of the valley, [[Trau's End]]. There, Kanan offers for Belle to join the [[Battalion of the Silver Arrow]]
-
-**Antumbrahn 26th - Whatsapp gameplay**
-- The group departs from [[Trau's End]] saying goodbye to [[Syr Edmund]] for now, and crosses the plains ahead without a hitch.
-- Caede and Kanan have a snowball fightm and end their journey on a hill overlooking the [[Yiata River]] and the [[Faults of North Estravia]]
-- Draugr incident
-
-**Antumbrahn 27th - 29th Whatsapp gameplay**
-- Crossing of the river
-
-**Antumbrahn 30th - Whatsapp gameplay**
-- Searching the river for a way to the faults
-- Ascend to the faults
-
-**Dulussahn 1st - Whatsapp gameplay**
-- First day of hiking across the faults.
-- Kanan scouts, revealing a few key objectives. The group goes to the road.
-- At night they hear the sound of white dragons going at it.
-
-**Dulussahn 2nd - Whatsapp gameplay**
-- 
-
 
 ---
 ## Introduction

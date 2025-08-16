@@ -14,6 +14,7 @@ Mostly hard kept, tight roads. Perilous and rocky. Think the Romanian scenery fr
 - [[Valeria]] - The largest Estravian village in the middle of a deep valley, surrounded on all sides by mountain and adjacent to a frigid river.
 - [[Redvalley]] - a small village about an hour south of [[Valeria]]. Destroyed in 813 PF.
 - [[Trau's End]] - a village at the end of the valley north of [[Valeria]] overlooking the central hills of the region.
+- The [[Faults of North Estravia]] - A vast region north of the province akin to a titanic-scale bed of a dried lake, where plateaus of varied elevations are separated by deep chasms hiding ancient horrors.
 ### Landmarks
 - [[Yiata River]] is the large frigid river that winds through the region.
 - 
