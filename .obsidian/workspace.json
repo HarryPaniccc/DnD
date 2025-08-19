@@ -6,11 +6,12 @@
       {
         "id": "b4c44c75995641c6",
         "type": "split",
-        "dimension": 43.81663113006397,
+        "dimension": 45.3091684434968,
         "children": [
           {
             "id": "f6ee7c6f3acda308",
             "type": "tabs",
+            "dimension": 49.32692307692307,
             "children": [
               {
                 "id": "4197be4e659ef1fd",
@@ -59,6 +60,7 @@
           {
             "id": "0c7c343f1aee4fea",
             "type": "tabs",
+            "dimension": 50.67307692307693,
             "children": [
               {
                 "id": "4ca1da7fca7de73b",
@@ -125,7 +127,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 56.18336886993603,
+        "dimension": 54.69083155650319,
         "children": [
           {
             "id": "f1c9f02a19a2f78e",
@@ -408,16 +410,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c1ab1f2e0d3032ee",
+  "active": "65016defacf141a4",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+    "Attachments/hextml/Unconfirmed 655795.crdownload",
+    "Attachments/hextml/Unconfirmed 53661.crdownload",
+    "Attachments/hextml/Unconfirmed 444698.crdownload",
+    "Attachments/hextml/Unconfirmed 721808.crdownload",
+    "Attachments/hextml/Unconfirmed 30285.crdownload",
     "Session 999 - The North Estravian Faults.md",
+    "Faults of North Estravia.md",
+    "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
     "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Items/Anathema.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Magic Item Pricing + Crafting.md",
-    "Faults of North Estravia.md",
     "World of Helodaria/Estravia.md",
     "World of Helodaria/Steinwalde.md",
     "Untitled.canvas",
@@ -439,15 +446,10 @@
     "Junk 1.md",
     "Items/Infernal Compass.md",
     "World of Helodaria/Helodarian Calendar.md",
-    "Thezuurol.md",
     "Attachments/Estravia perfect.png",
     "Session Notes/Age of Wounds",
     "Attachments/dungeon scrawl/Unconfirmed 886126.crdownload",
     "Attachments/dungeon scrawl/Unconfirmed 185868.crdownload",
-    "Attachments/dungeon scrawl/Unconfirmed 706283.crdownload",
-    "Attachments/dungeon scrawl/Synod of Elevation.ds",
-    "Attachments/dungeon scrawl/Unconfirmed 712175.crdownload",
-    "Attachments/dungeon scrawl",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20250701181726.png",
     "Attachments/Pasted image 20250701181719.png",
