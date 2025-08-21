@@ -1,21 +1,22 @@
-**Previous Session:** [[Session 5 - Into the Mines]]
-**Subsequent Session:** [[Session 7 - A Den of Chitin]]
-## Post Mortem
+**Previous Session:** [[Session 6 - Ambushes in the Dark]]
+**Subsequent Session:** [[Session 8 - Trembling Earth]]
+## Post Morten
 **Vanadrahs 13th**
-- Headed deeper into the cave to the roper region
-- Battled the roper and mimic and the fledgelings
-- Looted the mimic's items, getting the [[Chime of Opening]]
-- Started killing egg sacks that will attract the ankhegs from the boss room
+- Destroed the Ankheg eggs in the hatchery, summoning the three remaining Ankhegs to the hatchery chamber
+- Dug their way through the hive matter towards the Bulette hunting grounds, discovering the Lolth shrine
+- In an attempt to investigate it, [[Cened]] is sent to sneak up towards it, summoning the Bulette fight
 
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Winged this bit
-### Opening Monologue
-The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
+- Having been hired to clear out the abandoned mine in the refugee camp, our group of adventurers delved into the depths, seeking Ankheg blood
+- After an ambush, and now attacking what looks to be a hatchery of some kind in which a roper and a mimic were lying in wait, the group identified that attacking the egg sacks along the walls would incite some kind of aggression from the denisens of the hive.
+- Now, having taking time to patch themselves up, we join them again in the Den of Chitin
 
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+### Opening Monologue
+
+> The surrounds you find yourselves in are humid, filthy. Hardened organic hive mass decorates the walls, the pungent smell of dead larvae and aberration fills the already rank chamber. One thing is for certain tough. The crawling remains, and your job is not yet finished.
 > 
-> The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
+> The day is the 13th of *Vanadrahs*, 813, and you are staunching your wounds, some of you covered in warm, fresh blood that is either your own, or your enemies'.
 
 
 # Abandoned Mine
@@ -28,21 +29,9 @@ The chamber looks to be a central mining shaft, with collapsed tunnels once used
 
 - It takes an action to squeeze through the fissure. Once three people have squeezed through, a pair of ankehgs will attack, will appear in front of the group and the other end.
 
-### Encounter: Ankheg Ambush x 2
-2 x Ankhegs attack the group. (Initiatives 19 and 9)
-
-## 2. Navigating The Nest
-> Puzzle/Roleplaying Challenge
 
 ## 3. Roper Hive Nest
-> Trick or Setback
-### Encounter: Roper Mimic Combo
-A Roper (15), a Mimic (6), and 3 swarms of Maggots (11)
-A roper sits above a swarm of maggots and a mimic
-
-**Loot:** 
-- The mimic holds stuff from its previous victims: 175 gp, 53 sp, a [[Chime of Opening]] and a **scroll of ray of sickness**.
-- In the infestation of larvae there sits the corpse of 
+> Trick or Setback 
 ## 4. Ankheg Nest
 > Climax, Big Battle, or Conflict
 - 2 ankhegs
@@ -57,4 +46,3 @@ Pathways to this room are covered in a thick layer of waxy substance, sealing up
 
 **Loot**:
 - A scroll of *conjure animals* that summons two giant spiders
-- 
