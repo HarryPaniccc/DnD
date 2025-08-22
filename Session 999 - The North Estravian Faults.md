@@ -47,7 +47,8 @@ This session note serves as a note for an online, text-based session that is pro
 - At night they hear the sound of white dragons going at it.
 
 **Dulussahn 2nd - Whatsapp gameplay**
-- Kanan has his first vision.
+- Kanan has his first vision of a fallen wizard
+- During their travel the group notices the battleground of the dragons and Kanan encounters a group of [[Winter Wolf|Winter Wolves]]
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature

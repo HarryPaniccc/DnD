@@ -79,6 +79,12 @@ bonus_actions:
     desc: Each enemy within 120 feet who can hear the manticore must succeed on a DC 14 Wisdom saving throw or be frightened of the manticore for 1 minute (save ends at end of turn). If the initial saving throw fails by 5 or more, a creature is also dazed while frightened in this way.
 ```
 
-
+>[!Legendary Action]
+>#### Infuriated Roar
+>The manticore's strength increases by 3 and when it moves a creature they move an additional 10 feet and if they strike a surface they suffer an additional 1d4 bludgeoning damage and fall prone.
+>#### The following trigger on attacking a prone target
+>While infuriated, a missed sting attack lodges the manticore's tail in the ground until the end of its next turn, during this time it cant use the stinger. 
+>
+>If it misses a bite its target becomes grappled by the manticore, however the target loses access to their hands as it is forced on keeping the head at bay. The target can choose to end this grapple and free their hands, but allow the manticore to make another bite as a reaction that doesnt trigger this ability.
 
 
