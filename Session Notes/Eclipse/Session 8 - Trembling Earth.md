@@ -7,9 +7,7 @@
 
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Last session these things happened
-- This is important because
-- And then this
+- Jumping right into the action, Bulette fight
 
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
@@ -20,15 +18,17 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
 
 # Session Start
-Ideas for what should happen
+- Bulette fight
+- Loot the Lolth shrine
+- Back on the main questline
+- MAP
 
 
-# Section
+# Bulette
 ---
-Something happens
 
 
-# Section
+
+# 
 ---
 Something else happens
-

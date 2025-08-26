@@ -16,5 +16,4 @@ The **North Estravian Faults** are a vast region north of the province of [[Estr
 | (10,11)  | Tall, spire-like plates accentuate this region. Notably, some bridges are constructed here, making pathing through this plane a 2-hour route if one manages to follow a path successfully. |
 
 
-
 Hexes adjacent to the (11, 9) mountain are less shattered and do not require a DC 15 Survival check to cross in 3 hours.

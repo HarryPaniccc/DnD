@@ -15,6 +15,10 @@ This session note serves as a note for an online, text-based session that is pro
 - The characters fall into the chasms below
 - They may wander across the hag that lives within this region, or will have to escape a Tarrasque
 
+### Travel Encounters
+- Blizzard dice and some encounters from Icewind Dale - see the blizzard thing
+- Roll to see if a random encounter occurs. Then roll and add 1 - if the number is greater than the encounter die, a blizzard begins 1d4 hours before and ends 1d4 hours after the encounter.
+
 | Roll (1d6) + 1 per 2 days north of Valeria | Encounter - In Estravia                        |
 | ------------------------------------------ | ---------------------------------------------- |
 | 1                                          | Wyvern                                         |

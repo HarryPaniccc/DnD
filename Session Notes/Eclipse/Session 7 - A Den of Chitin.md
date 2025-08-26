@@ -29,7 +29,6 @@ The chamber looks to be a central mining shaft, with collapsed tunnels once used
 
 - It takes an action to squeeze through the fissure. Once three people have squeezed through, a pair of ankehgs will attack, will appear in front of the group and the other end.
 
-
 ## 3. Roper Hive Nest
 > Trick or Setback 
 ## 4. Ankheg Nest
