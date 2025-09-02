@@ -1,0 +1,6 @@
+---
+tags:
+  - Lore
+aliases:
+  - Dwarves
+---

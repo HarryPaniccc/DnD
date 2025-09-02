@@ -53,6 +53,11 @@ This session note serves as a note for an online, text-based session that is pro
 **Dulussahn 2nd - Whatsapp gameplay**
 - Kanan has his first vision of a fallen wizard
 - During their travel the group notices the battleground of the dragons and Kanan encounters a group of [[Winter Wolf|Winter Wolves]]
+- The group fights off the winter wolves, which follow them into a blizzard. Kanan and Caede find a shelter under the bridge/highroad they are wandering towards, and dispatch of a giant and his mammoth, but when they separate from the group the winter wolves attack their caraan. They fight the wolves off and rest for the night
+
+**Dulussahn 3rd - Whatsapp gameplay**
+- The group ascends the highroad that once led to [[Steinwalde]]
+- Kanan experiences the second vision from [[Lathran Murke]]
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature
@@ -62,6 +67,15 @@ This session note serves as a note for an online, text-based session that is pro
 2. The worst thing that could have happened was falling into these gods-damned chasms, but at least they offer protection from the wind chill and any hunting dragons overhead, although their fear of whatever is down here does not instill any security in your mind. Your hand grips your staff as it channels what warmth it can pull from the plane of fire. It might be the only reason you and those under your protection can still walk. Shadows shift around you, various corridoors of darkness that _feel_ full of hatred, wanting to claw at you and pull you into the abyss. You won't let them.
 
 3. It has been days in this labyrinth, and now not many remain - most lost to ghouls or cold or shadows in the night. And the hordes follow still, as though they wait for the light of your power to falter, as you know it will. You are so tired. But you look down at the hand of the little girl clutching yours - old and whithered by comparison - and you know you can push on. Your only purpose now is to get as many of these poor souls home as you can, and pray that, for your mistakes and foolishness, you receive the punishment you deserve.
+# Highroad Travellers
+---
+On the highroad in (11,10) the watchtower is controlled by a patrol of dwarves of the [[Battlehammer Clan]]. There are 4 dwarf scouts: [[Olunt]], [[Kalanor]], [[Morgrail]] and their leader, [[Zeb]]. 
+
+Zeb is brave, if not foolhardy. He believes that the Duergar of the [[Sunblight Clan]] that have set up along the highroad must have found some kind of rich vein of minerals under the mountain: setting up a mine in very dangerous dragon territory must be worth a risk somehow. His followers think that they should have at least brought a few [[Flamebrands]].
+
+# [[Sunblight Clan]]
+---
+The sunblight clan is being controlled by the adult white dragon **insert name here**.
 # Tarrasque
 ---
 Deep within the caverns, of the faults hides a terrible, godlike secret: A Tarrasque wanders the mazes of the fissures, preying on anything foolish enough to enter its domain and acquire its notice. The creature wanders lathargically

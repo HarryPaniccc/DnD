@@ -17,3 +17,4 @@ A battalion of soldiers known particularly for their red dragon hunting tactics.
 - [[Gaz the Branded]] - A scarred dwarf and the leader of the [[Flamebrands]].
 
 # Locations
+Something kinda like Urithuru

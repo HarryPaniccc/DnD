@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 84 - Travel to Steinwalde]]
-**Subsequent Session:** [[Session 999 - The North Estravian Faults]]
+**Subsequent Session:** [[Session 85.5 - The North Estravian Faults]]
 ## Post Mortem
 ---
 **Antumbrahn 24th**
