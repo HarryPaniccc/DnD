@@ -243,7 +243,7 @@ A small group of mercenaries from the southern baronies that have come for the b
 ## Dragons of Eranulaid
 
 - Zakuul, the Chained One, Ageing adult blue dragon. Zakuul was imprisoned as a very young dragon, Zakuul was sold to Drow as a slave, where he was used as brute labour, experimented on, harvested for his natural magical power and passed around from duergar to drow and back, enslaved for over 400 years. He is quick to temper, and his only goal is to free himself and grow in power to wreak vengeance upon his captors. He is a powerful ageing blue dragon. Zakuul was born above ground and lived near the Seidr Plateau for around 20 years before he was captured. He is the blue dragon that the unnamed mercs captured in their oneshot.
-- Roshuldra, the Ivy Horror, Adult Green Dragon, is located in a forest in the Seidr Plateau known as the Mistwood. She made her lair near a source of shadowfell energy which she studied to improve her necromancy magic. Her lair sits behind a waterfall.
+- 
     
 
 ## The Valkuur

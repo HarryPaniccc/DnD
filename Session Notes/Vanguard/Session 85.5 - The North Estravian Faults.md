@@ -58,6 +58,8 @@ This session note serves as a note for an online, text-based session that is pro
 **Dulussahn 3rd - Whatsapp gameplay**
 - The group ascends the highroad that once led to [[Steinwalde]]
 - Kanan experiences the second vision from [[Lathran Murke]]
+- The group meets the [[Battlehammer Clan]] prospectors led by [[Zeb]] and spots an adult white dragon south of them.
+- 
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature
