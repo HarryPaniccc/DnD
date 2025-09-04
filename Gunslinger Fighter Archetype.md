@@ -115,6 +115,10 @@ If it is absolutely unfeasible for the environment to accommodate a ricocheting 
 ### Right Where I Want You
 When a creature targets you with an attack you may, as a reaction, choose to automatically be hit by the attack. In return, you also may draw and automatically hit the attacker with an attack from a firearm. Both you and the attacker still may roll to see if either of you score a critical hit.
 
+### Try Me
+You use a loaded firearm, you make a threat to a creature that cares for its own life that can understand you. The creature must make a Wisdom (Insight) check against (?). If the creature succeeds the check, until you finish interacting with the creature you have advantage on Intimidation checks against the creature, and it is Frightened of you until you fire the firearm used in this Gambit.
+
+If the creature fails the check, you make a ranged weapon attack against the creature with advantage. If the Dungeon Master deems it fit, you may instantly kill said creature with the attack. Otherwise, the creature is surprised in its first turn.
 ### Two Gun Fighting
 When you take the Attack action and attack with a one-handed firearm that you're holding in one hand, you can use a bonus action to attack with a different one-handed firearm that you're holding in the other hand. You can also load or reload a firearm without difficulty if your hands are full.
 
