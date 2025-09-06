@@ -25,6 +25,9 @@ For a time the Gods' creations flourished. They wove and forged and sang the fir
 During this age before ages, the great elemental [[Primordials]] made themselves known to be the enemies of the gods and their creations. As the realms were under creation, the Primordials of fundamental concepts grew wrathful, and unleashed terrible destruction on the young peoples of Helodaria: Shattering their forms, setting forth unknowable cosmic powers, and calling upon the chaos of the [[Abyss]] to feed upon the children of the Gods. 
 
 The Gods waged great war on the elemental titans, whose very power had gained a collective of worshipping of various beings from across the planes. In this time, true evil found its way into the hearts of mortals for the first time. The violent ambition that the Gods could fall to ruin. That the creators could be undone. [[Dawn War]] saw death and destruction shatter the multiverse. The conflict of the Primordials and the Gods shook the very cosmos, and even after it was won, the destruction that it had wrought could be felt across the planes.
+## The [[Age of Wounds]]
+The age of wounds is a dark age, where men had to relearn how to forge bronze to survive. It may have taken place **before the dawn war**, but it took place at least 4000 years prior to the beginning of the age of ascension. If it did precede the dawn war, then there must have been another war calamity before it.
+
 # The [[Age of Ascension]]
 ---
 Magic, divine and arcane, was a gift from the gods in the form of lessons. Temples were constructed, wars were waged and, eventually, empires were formed, and the worlds and planes truly settled once again. Some would use these powers to enact the age of ascension. Others would see their newfound gifts as evidence that they were the new Gods of the world, and would attempt to rule over mortals like tyrants.

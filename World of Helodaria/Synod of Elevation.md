@@ -1,12 +1,6 @@
 The **Synod of Elevation** is a research facility belonging to a sect of [[Old Ruinan Empire]] mages loyal to [[The Malevolence]] dedicated to finding a way to access the source of magic, experimenting with people's souls. 
 
 The Synod also had the objective of bringing out latent magical power in the children of sorcerers from the [[Old Ruinan Empire]] in order to give them a "last chance" to not dishonor their blood lines.
-# Dungeon Elements
----
-### Ceilings
-Ceilings in the larger chambers are 60 ft. tall. In corridoors, hey are about 10 ft up - enough space for a floating highmage to get around without worrying about scraping his head.
-### Defences
-- 
 # Dungeon Layout
 ---
 ### Arrival Chamber
@@ -24,12 +18,9 @@ Ruined escape items are in this chamber.
 ### Research Wing
 A long, austere hallway that wraps around a central scribing room where various scrolls and writings are conducted away from the noise of the rest of the Synod. 
 
-The wing is connected to the library wing and the **chamber of reflection**.
+The wing is connected via a secret door to the **minister's study wing**.
 
 In the bottom left corner of the research wing, second closest to the blocked door, the three pious **Flameskulls** have collected a small treasure trove of what, to them, represents things of value that their masters would have left behind that need protecting.
-
-### Library Wing
-
 
 ### Emergence Chambers
 From this wing the true purpose of the Synod is evident. Various rooms through which one might bring a student to "snap" towards their power.
@@ -48,8 +39,8 @@ Depending on what Rylai chooses, she will gain one of the following
 - [[Elemental Essence Shard (Air)]]
 
 The two she did not choose will summon an elemental of each type, and two mephits of the combination of them.
-
-## Second Level
+### Torture Chamber
+Where the students were subjected to various forms of physical pain, kept distant from the main structure of the Synod to prevent the screams being heard.
 ### Vault of Emergence
 On the left side, beneath the torture chambers
 > Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
@@ -57,8 +48,8 @@ On the left side, beneath the torture chambers
 - Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
 
-### Chamber of Sacrifice
+### Chamber of Rebirth
 A chamber where those who fail to prove themselves capable of elevation are brought to the chamber of sacrifice, where they have a hideous ritual performed on their bodies and they are torn apart and transformed into a **Flameskull**.
 
-### Knowing Fool
+### Headminister's Quarters
 Mummy lord fight but themed like a man maddened by knowledge

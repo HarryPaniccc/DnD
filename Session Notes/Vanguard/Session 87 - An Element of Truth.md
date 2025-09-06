@@ -1,5 +1,8 @@
 **Previous Session:** [[Session 86 - The Synod of Elevation]]
-**Subsequent Session:** 
+**Subsequent Session:** [[Session 999 - Temple of Elemental Evil and Wind and Stuff]]
+## Post Mortem
+---
+
 ## Introduction 
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.
 
@@ -15,22 +18,26 @@
 > 
 > The day is the 29th of *Antumbrahn*, 813, and you steel yourself to do battle once again. Roll initiative.
 
-# Session Start
+# Session Summary
 - The group continues to search the [[Synod of Elevation]].
 - [[Rylai Sweetsong|Rylai]] feels a connection to the elements, as well as a call for help from an elemental trapped in the weapon of a helmed horror. 
 - A potential ally can be made in a [[Friendly Flameskull]] who will attack only if attacked.
+- Marthirion's study has a page of the vile darkness book
+- The Sylph can guide the group to where Rylai needs to go - the temple to Tharizdun built over the Ley Line nexus
 
 # [[Synod of Elevation]]
 ---
+Needed to add lines to make the section easier to read
 ### Encounter List
 - Elemental ambush with the air and water elementals
 - Helmed Horror defensive position with the spells
 - Sylph
 - Flameskulls
 - Friendly flameskull
-- Marthirion, Marred by Seeing
+- [[Marthirion|Marthirion, Marred by Seeing]]
 
 ### Elemental Essence Chamber
+----
 Ornate shapes on the walls, depicting various different planes
 Four pedistals, one broken, give of a faint light. On the floor, mosaic of the inner planes, depicting the elemental planes.
 
@@ -39,51 +46,92 @@ On the second floor, the viewing platform, about 15 ft. above the ground floor, 
 - Four ornate candelabras made of electrum (100 Gp each) sit with candles long since burned away. They are, however, each clearly dusted by someone in the last day or so, as they are cleaner than the environments
 - On the walls depict primal elemental forces given vague shapes, with eyes of precious inlayed in the structures.  2 ambers, pearls, sea-green jades and Chrysoberyls (transparent yellow-green) each worth 100 gp.
 
-The top chamber level here leads to the minister's chambers, as well as the viewing room in the **Wandering Mind Chamber**.
+The top chamber level here leads to the minister's research wing, but the door to it is sealed without a flameskull to assist, as well as the viewing room in the **Wandering Mind Chamber**.
+
 ##### **ENCOUNTER** - Water, Air elemental, 3 x  ice mephits
 Upon choosing the [[Elemental Essence Shard (Fire)]], Rylai has summoned the contained wrath of the two elementals that remain in the chamber.
-### Wandering Mind Chamber
+
+
+### Wandering Self Chamber
+---
 Here sits destroyed series of four altars meant to seat people's bodies while under the effects of the _astral projection_ spell.
+
+**LOOT**:
 - There is, at the end of the room, sitting on an ornate weapon stand, a [[Silver Dagger]], curved and vicious looking, with a ruby set in the pommel. The weapon is a magical tool, meant to sever the *Silver Chord* connecting one to their body while in an astral form.
 - Below that in a drawer there sit three 1000 gp beautiful red-orange jacinths, beset in three ornately carved silver bars, each worth 100 gp (1100 gp as a set)
 - There sits on each altar three skeletal figures - where potentials have been lost to the astral plane.
 
-### Residence Wing
-A series of corridoors and rooms belonging to both ministers and those who had come to the synod for "Inauguration". Students have bars on their doors. There is a common room like space. Bones litter the ground.
+### Research Wing
+---
+A long, austere hallway that wraps around a central scribing room where various scrolls and writings are conducted away from the noise of the rest of the Synod. 
 
-On the second level there is an ornate large room which belonged to the master of the Synod, [[Marthirion]]. In there exists piles and piles of ruined finery, some burned, some dissolved by something, but all seem to have been dusted down by the flameskulls
-### Marthirion's Study
-On the second floor above the entrance to the **Blood Pool** at the end of a long corridoor is the study of the late headminiter [[Marthirion]]. Guarding the Chamber will be two of the roaming **Helmed Horrors**, but if the intruders have been spotted, all 5 of the horrors will be present.
+The wing is connected via a secret door to the **minister's study wing**.
 
-##### **Encounter** - Element-Bearer Helmed Horrors
-Five **Helmed Horrors** bearing weapons each containing imprisoned **elemental spirits** in gems in the pommels of their weapons
-- Each helmed horror has a 5th level *elemental weapon* spell cast on their weapons (+2 to hit, +2d4 damage), one with thunder damage, two with fire, and two with cold.
-
-Imprisoned within the lead horror's weapon is the [[Sylph]] named 
-
-##### Flameskull Monitors - 3 x Flameskulls
-Four flameskull servants still roam the synod. One is a failure experiment, and will only fight to defend itself. The other three will attempt to ascertain if the group are allied or not.
-
-
+In the bottom left corner of the research wing, second closest to the blocked door, the three pious **Flameskulls** have collected a small treasure trove of what, to them, represents things of value that their masters would have left behind that need protecting.
 ##### [[Friendly Flameskull]]
 > *Ministers! It is grand to have your attention again! I am certain you will find the Synod up to your standards. Please forgive any of my failures.*
 
 
+### Residence Wing
+---
+A series of corridoors and rooms belonging to both ministers and those who had come to the synod for "Inauguration". Students have bars on their doors. There is a common room like space. Bones litter the ground.
 
-##### Marthirion, Marred by Seeing
+On the second level there is an ornate large room which belonged to the master of the Synod, [[Marthirion]]. In there exists piles and piles of ruined finery, some burned, some dissolved by something, but all seem to have been dusted down by the flameskulls.
+##### **ENCOUNTER** - 3 x Flameskulls
+Four flameskull servants still roam the synod. One is a failure experiment, and will only fight to defend itself. The other three will attempt to ascertain if the group are allied or not.
+
+### Torture Chamber
+
+### Chamber of Rebirth
+---
+A chamber where those who fail to prove themselves capable of elevation are brought to the chamber of sacrifice, where they have a hideous ritual performed on their bodies and they are torn apart and transformed into a **Flameskull**.
+
+### Vault of Emergence
+---
+On the left side, beneath the torture chambers
+> Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
+
+- Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
+- Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
+
+### Minister Research Wing Hallway
+---
+On the second floor above the entrance to the **Chambers of Rebirth and Emergence** at the end of a long corridoor is the study of the late headminister [[Marthirion]]. Guarding the Chamber will be two of the roaming **Helmed Horrors**, but if the intruders have been spotted, all 5 of the horrors will be present.
+
+##### **ENCOUNTER** - Element-Bearer Helmed Horrors
+Five **Helmed Horrors** bearing weapons each containing imprisoned **elemental spirits** in gems in the pommels of their weapons
+- Each helmed horror has a 5th level *elemental weapon* spell cast on their weapons (+2 to hit, +2d4 damage), one with thunder damage, two with fire, and two with cold.
+
+**LOOT**
+- Each of the horrors bodies are quality plate armour and shields. Their swords are destroyed when the elementals are freed.
+
+Imprisoned within the lead horror's weapon is the [[Sylph]] named [[Eleanor]]. She is good natured, and can sense [[Rylai Sweetsong|Rylai]]'s connection to the [[Elemental Plane of Air]].
+
+### Marthirion's Study
+---
+Within the head chamber of the Synod there exists a central lecturn, on which is the corpse of Headminister [[Marthirion]], and a single page of the [[Book of Vile Darkness]].
+
+##### **ENCOUNTER** - [[Marthirion, Marred by Seeing]]
+Marthirion's statblock is that of a hybrid of 2014 and 2024 [[Mummy Lord]]. Key notes are as follows:
+- The 2024 Mummy lord is the base
+- Dreadful glare is the 2014 version - **deals no damage**
+- Legendary actions are as 2014 version, except the **Attack** legendary action is allows the use of *Channel Negative Energy*.
+- No **Whirlwind of Sand** legendary action
 
 
 
 # Finding the [[Ley Lines|Ley Line]] Nexus
 ---
-Temple of elemental chaos, Temple to the [[Tharizdun]], [[Tharizdun|Elder Elemental Eye]]
+Temple of elemental chaos, Temple to the [[Tharizdun]], [[Tharizdun|Elder Elemental Eye]], has been constructed over a nexus where the four elemental planes cross the [[Material Plane]]. Here, someone attuned to a particular element can connect to that plane and travel through it, but the darkness of the elder god must be disrupted.
 - Slaadi
 - Gibbering mouthers
-- 
+- Demons
+- Evil elementals
 
 > Goes to a region where there is elemental chaos
 > [[Primordials]]/[[Dagon]]?
 
+The Temple was constructed after the [[Age of Wounds]] to honour Tharizdun, but after he was corrupted by [[Dagon]], the god reclaimed it as a temple to elemental evil.
 
 # [[Elemental Plane of Air]]
 ---

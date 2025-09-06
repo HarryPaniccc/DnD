@@ -51,6 +51,20 @@
             }
           },
           {
+            "id": "c0a77bc07aa80061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 86 - The Synod of Elevation"
+            }
+          },
+          {
             "id": "cf659896fed91343",
             "type": "leaf",
             "state": {
@@ -91,6 +105,20 @@
               "icon": "lucide-file",
               "title": "Trayfort Keep"
             }
+          },
+          {
+            "id": "55c5dc165ceb4577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
+            }
           }
         ],
         "currentTab": 2
@@ -100,34 +128,6 @@
         "type": "tabs",
         "dimension": 52.02558635394456,
         "children": [
-          {
-            "id": "55c5dc165ceb4577",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Ruina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruina"
-            }
-          },
-          {
-            "id": "c0a77bc07aa80061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 86 - The Synod of Elevation"
-            }
-          },
           {
             "id": "66c99bf372ae0171",
             "type": "leaf",
@@ -143,49 +143,21 @@
             }
           },
           {
-            "id": "4c79d8763ab92bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marthirion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marthirion"
-            }
-          },
-          {
-            "id": "2c7f96706db4f7d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodarian Calendar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodarian Calendar"
-            }
-          },
-          {
             "id": "5ea97a61b8d0d6f2",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://5e.tools/bestiary.html#flameskull_mm",
-                "title": "Flameskull - 5etools",
+                "url": "https://5e.tools/bestiary.html#mummy%20lord_xmm",
+                "title": "Mummy Lord - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Flameskull - 5etools"
+              "title": "Mummy Lord - 5etools"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +224,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 69.32692307692308,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -350,7 +321,6 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 30.673076923076927,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -427,14 +397,24 @@
   },
   "active": "5ea97a61b8d0d6f2",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
     "World of Helodaria/Synod of Elevation.md",
-    "Marthirion.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "World of Helodaria/Rylai Sweetsong.md",
     "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "Marthirion.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/History of Helodaria.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Ruina.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Mistborn Inquisitor Analogue.md",
+    "Mummy Lord.md",
+    "Attachments/Pasted image 20250906123642.png",
+    "Attachments/Pasted image 20250906123637.png",
+    "Mummy Lord.md",
+    "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Trayfort Keep.md",
     "World of Helodaria/Tharizdun.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
     "World of Helodaria/Vasspryg.md",
     "Wilhelm Heartgrinder.md",
@@ -446,16 +426,8 @@
     "World of Helodaria/Faults of North Estravia.md",
     "Items/Duskdrinker.md",
     "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Gunslinger Fighter Archetype.md",
-    "World of Helodaria/Helodarian Firearms.md",
     "Attachments/hextml/Unconfirmed 760485.crdownload",
-    "Dwarf.md",
-    "World of Helodaria/Kalanor.md",
-    "Roshuldra the Ivy Horror.md",
-    "World of Helodaria/Uldronos Council.md",
-    "World of Helodaria/Thordan Stormshield.md",
-    "World of Helodaria/Einzberns.md",
     "Attachments/hextml/Unconfirmed 828147.crdownload",
     "Attachments/Pasted image 20250823201221.png",
     "Attachments/hextml/Unconfirmed 655795.crdownload",
@@ -473,8 +445,6 @@
     "Attachments/Pasted image 20250613130303.png",
     "Attachments/Pasted image 20250613130248.png",
     "Attachments/Pasted image 20250613130216.png",
-    "Attachments/Pasted image 20250612080405.png",
-    "Attachments/Pasted image 20250612080352.png",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
   ]

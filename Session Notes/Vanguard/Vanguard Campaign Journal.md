@@ -17,8 +17,8 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
 
-# Arc 7: King at the End of the World
-- [[Vanguard Arc 7 - Unnamed]]
+# [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]
+Things begin to take root
 
 
 # [[Vanguard Arc 6 - The Golden Age|Arc 6: The Golden Age]]
