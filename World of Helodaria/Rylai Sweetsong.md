@@ -1,6 +1,8 @@
 ---
 tags:
   - PC
+aliases:
+  - Rylai
 ---
 # Intro
 ---

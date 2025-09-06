@@ -4,255 +4,184 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c44c75995641c6",
-        "type": "split",
-        "dimension": 45.3091684434968,
-        "children": [
-          {
-            "id": "f6ee7c6f3acda308",
-            "type": "tabs",
-            "dimension": 49.32692307692307,
-            "children": [
-              {
-                "id": "4197be4e659ef1fd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Campaign Journal"
-                }
-              },
-              {
-                "id": "be715f8a455bacc5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vanguard Arc 6 - The Golden Age"
-                }
-              },
-              {
-                "id": "b570b995d66a4f2d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Magic Item Pricing + Crafting.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Magic Item Pricing + Crafting"
-                }
-              },
-              {
-                "id": "3823f5be1fc0b044",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/trapshazards.html#blizzard_idrotf",
-                    "title": "Blizzard - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Blizzard - 5etools"
-                }
-              },
-              {
-                "id": "143a13702e5b4d68",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/adventure.html#idrotf,12",
-                    "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools"
-                }
-              },
-              {
-                "id": "a508cf567da9cb3e",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/adventure.html#idrotf,12,frost%20giant%20riding%20a%20mammoth,0",
-                    "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools"
-                }
-              }
-            ]
-          },
-          {
-            "id": "0c7c343f1aee4fea",
-            "type": "tabs",
-            "dimension": 50.67307692307693,
-            "children": [
-              {
-                "id": "4ca1da7fca7de73b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Sirkonos.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Sirkonos"
-                }
-              },
-              {
-                "id": "0ab9e66bd4bc3e62",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Steinwalde.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Steinwalde"
-                }
-              },
-              {
-                "id": "351ba7ee58d63144",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Estravia.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Estravia"
-                }
-              },
-              {
-                "id": "65016defacf141a4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Faults of North Estravia.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Faults of North Estravia"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 54.69083155650319,
+        "dimension": 47.97441364605544,
         "children": [
           {
-            "id": "f1c9f02a19a2f78e",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Nightfall, The Twilight Blade.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nightfall, The Twilight Blade"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "84838bb556769568",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Anathema.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anathema"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "5f3a4386e436b7a1",
+            "id": "cd1493f91885a669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+                "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 85 - Estravian Brigands"
+              "title": "Session 87 - An Element of Truth"
             }
           },
           {
-            "id": "d48144273fa68474",
+            "id": "cf659896fed91343",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
+                "file": "World of Helodaria/Tharizdun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 85.5 - The North Estravian Faults"
+              "title": "Tharizdun"
             }
           },
           {
-            "id": "18f8c19bf04e49ea",
+            "id": "2d8b02946de1be74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
+                "file": "World of Helodaria/Vasspryg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Einzberns"
+              "title": "Vasspryg"
             }
           },
           {
-            "id": "7b9b594f89c9a941",
+            "id": "4859a2c24bd1b882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Dragons of Helodaria.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dragons of Helodaria"
+              "title": "Trayfort Keep"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "35e6c8e92bf0a795",
+        "type": "tabs",
+        "dimension": 52.02558635394456,
+        "children": [
+          {
+            "id": "55c5dc165ceb4577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Ruina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruina"
+            }
+          },
+          {
+            "id": "c0a77bc07aa80061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 86 - The Synod of Elevation"
+            }
+          },
+          {
+            "id": "66c99bf372ae0171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Synod of Elevation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synod of Elevation"
+            }
+          },
+          {
+            "id": "4c79d8763ab92bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marthirion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marthirion"
+            }
+          },
+          {
+            "id": "2c7f96706db4f7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodarian Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodarian Calendar"
+            }
+          },
+          {
+            "id": "5ea97a61b8d0d6f2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#flameskull_mm",
+                "title": "Flameskull - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Flameskull - 5etools"
             }
           }
         ],
@@ -275,7 +204,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -288,7 +217,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elemental",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -313,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -322,7 +252,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 69.32692307692308,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -344,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +284,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Einzberns"
+              "title": "Backlinks for Uldronos Council"
             }
           },
           {
@@ -363,12 +293,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81 -.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -378,7 +308,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -390,13 +322,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Einzberns"
+              "title": "Outline"
             }
           },
           {
@@ -414,12 +345,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 30.673076923076927,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -436,7 +367,35 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -446,11 +405,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -466,10 +425,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7b9b594f89c9a941",
+  "active": "5ea97a61b8d0d6f2",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "Marthirion.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Tharizdun.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+    "World of Helodaria/Vasspryg.md",
+    "Wilhelm Heartgrinder.md",
+    "Items/Elemental Essence Shard (Air).md",
+    "Attachments/dungeon scrawl/Unconfirmed 965124.crdownload",
     "World of Helodaria/Dragons of Helodaria.md",
+    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
     "Attachments/hextml/Unconfirmed 389453.crdownload",
     "World of Helodaria/Faults of North Estravia.md",
     "Items/Duskdrinker.md",
@@ -477,9 +449,6 @@
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Gunslinger Fighter Archetype.md",
     "World of Helodaria/Helodarian Firearms.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "World of Helodaria/Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
     "Attachments/hextml/Unconfirmed 760485.crdownload",
     "Dwarf.md",
     "World of Helodaria/Kalanor.md",
@@ -487,14 +456,6 @@
     "World of Helodaria/Uldronos Council.md",
     "World of Helodaria/Thordan Stormshield.md",
     "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Zakuul.md",
-    "World of Helodaria/Vanguard.md",
-    "Sunblight Clan.md",
-    "Mirthil Hall.md",
-    "World of Helodaria/Battlehammer Clan.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "Zeb.md",
-    "Items/Anathema.md",
     "Attachments/hextml/Unconfirmed 828147.crdownload",
     "Attachments/Pasted image 20250823201221.png",
     "Attachments/hextml/Unconfirmed 655795.crdownload",
@@ -504,7 +465,6 @@
     "Attachments/hextml/Unconfirmed 30285.crdownload",
     "Untitled.canvas",
     "Attachments/hextml/nethendell valley.html.gz",
-    "Attachments/hextml/Unconfirmed 602887.crdownload",
     "Attachments/Estravia perfect.png",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20250701181726.png",
