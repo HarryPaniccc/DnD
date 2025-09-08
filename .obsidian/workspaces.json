@@ -120,9 +120,23 @@
                   "icon": "lucide-file",
                   "title": "Vanguard Arc 6 - The Golden Age"
                 }
+              },
+              {
+                "id": "f17b1cb115a1de0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Odessa.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Odessa"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -258,13 +272,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Primordial of Hunger.md",
+                    "file": "Odessa.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Primordial of Hunger"
+                  "title": "Outline of Odessa"
                 }
               },
               {
@@ -326,6 +340,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "bases:Create new base": false,
           "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
@@ -336,8 +351,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "d26a1d76887754db",
-      "mtime": "2025-07-31T10:44:50+02:00"
+      "active": "f17b1cb115a1de0a",
+      "mtime": "2025-09-06T22:12:26+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -3741,12 +3756,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://5e.tools/bestiary.html#ice%20mephit_mm",
-                    "title": "Ice Mephit - 5etools",
+                    "url": "https://5e.tools/bestiary.html#mummy%20lord_xmm",
+                    "title": "Mummy Lord - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Ice Mephit - 5etools"
+                  "title": "Mummy Lord - 5etools"
                 }
               }
             ],
@@ -3807,8 +3822,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5,
-        "collapsed": true
+        "width": 276.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3886,12 +3900,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
+                    "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline"
+                  "title": "Outline of Session 87 - An Element of Truth"
                 }
               },
               {
@@ -3972,7 +3987,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 365.5
+        "width": 365.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3987,8 +4003,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "5ea97a61b8d0d6f2",
-      "mtime": "2025-09-06T16:03:13+02:00"
+      "active": "3b2a6831c271b3d7",
+      "mtime": "2025-09-06T22:12:08+02:00"
     },
     "Eclipse": {
       "main": {

@@ -1,6 +1,0 @@
----
-
----
-```statblock
-monster: Mummy Lord
-```
