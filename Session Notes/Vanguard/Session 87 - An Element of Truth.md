@@ -2,6 +2,15 @@
 **Subsequent Session:** [[Session 999 - Temple of Elemental Evil and Wind and Stuff]]
 ## Post Mortem
 ---
+**Antumbrahn 29th**
+- The group defeat the elementals that attacked them in the Elemental Essence chamber
+- They discover the Wandering Self chamber and Isilme drains one of the corpses entirely of blood. She will be good for a while.
+- They try the door to the torture chamber, but do not have access to the section
+- They meet [[Maurice the Flameskull]] and he takes him on a tour, where they are attacked by the three mad flameskulls
+- They have [[Maurice the Flameskull]] take them to a safe chamber, where they long rest
+- (22:00) They are led to the senior research wing where the reformed flameskulls have informed the Helmed Horror guardians of the Synod.
+- The helmed horrors are defeated, and [[Ophelia the Sylph]] was rescued from her crystal prison
+- The group rest and enter [[Marthirion]]'s study, where [[Dusk]], using *comprehend languages*, reads the single name "[[Dagon]]" on the page of the [[Book of Vile Darkness]], and having the name stuck in her head awakens Marthirion
 
 ## Introduction 
 > *So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.*
@@ -114,7 +123,7 @@ Five **Helmed Horrors** bearing weapons each containing imprisoned **elemental s
 **LOOT**
 - Each of the horrors bodies are quality plate armour and shields. Their swords are destroyed when the elementals are freed.
 
-Imprisoned within the lead horror's weapon is the [[Sylph]] named [[Eleanor]]. She is good natured, and can sense [[Rylai Sweetsong|Rylai]]'s connection to the [[Elemental Plane of Air]].
+Imprisoned within the lead horror's weapon is the [[Sylph]] named [[Ophelia the Sylph|Ophelia]]. She is good natured, and can sense [[Rylai Sweetsong|Rylai]]'s connection to the [[Elemental Plane of Air]].
 
 ### Marthirion's Study
 ---

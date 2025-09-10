@@ -1,4 +1,4 @@
-**Previous Session:**
+**Previous Session:** [[Session 87 - An Element of Truth]]
 **Subsequent Session:**
 ## Post Mortem
 ---

@@ -1,0 +1,6 @@
+---
+aliases:
+  - Ophelia
+tags:
+  - Character
+---
