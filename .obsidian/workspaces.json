@@ -3757,11 +3757,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://5e.tools/bestiary.html#mummy%20lord_xmm",
-                    "title": "Mummy Lord - 5etools",
+                    "title": "Bestiary - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Mummy Lord - 5etools"
+                  "title": "Bestiary - 5etools"
                 }
               }
             ],
@@ -3822,8 +3822,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5,
-        "collapsed": true
+        "width": 276.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4005,7 +4004,7 @@
         }
       },
       "active": "cd1493f91885a669",
-      "mtime": "2025-09-08T14:47:52+02:00"
+      "mtime": "2025-09-10T17:23:31+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4364,5 +4363,5 @@
       "mtime": "2025-08-24T10:40:13+02:00"
     }
   },
-  "active": "Rylai Downtime"
+  "active": "Kanan Downtime"
 }
