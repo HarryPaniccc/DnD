@@ -5,20 +5,18 @@ tags:
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc? Links to the [[Vanguard]]
 # Active Plot Points/Quests/Things to Remember
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
-- Sending Stone Pair 2: [[Caede]] - [[Dusk]]
+- Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
 - Teleportation Helm: [[Caede]]
 - [[Isilme Vanariel]]'s Dhampirism consequences
-- Await a message from [[Darius Nubide]]
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th) - quest for the ransacked village
-- Heal Tevis
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]
-Things begin to take root
+Things begin to take root. The heart beats once again.
 
 
 # [[Vanguard Arc 6 - The Golden Age|Arc 6: The Golden Age]]

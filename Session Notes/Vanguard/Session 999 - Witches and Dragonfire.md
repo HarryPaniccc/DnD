@@ -1,15 +1,11 @@
-**Previous Session:** [[Session 85 - Estravian Brigands]], [[Session 85.5 - The North Estravian Faults]]
+**Previous Session:** [[Session 85 - Estravian Brigands]] and [[Session 85.5 - The North Estravian Faults]]
 **Subsequent Session:**
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
 
 ### Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Our heroes are on a journey to [[Steinwalde]], the hidden dwarven fortress north of [[Sirkonos]]
-- Kanan and Caede, accompanied by the protector kronesguard of [[Valeria]], have begun making their way towards the [[Faults of North Estravia]],
-- While setting up for lunch the next morning, the group investigated the stench of death, and defeated a group of ghouls that were enjoying a meal, as well as an invisible air spirit of some kind.
-- After this battle, having burned the remains, the group came to realize that their travelling party had been surrounded by bandits, led by the same man who they had freed the werewolf from
-- After defeating the bandits, and reconciling with [[Syr Edmund]]'s niece, they made their way to [[Trau's End]], the small village at the end of the valley.
+- 
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
@@ -28,12 +24,16 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 - They make it to a hill overlooking the rivers to the north, and their incline
 
 
-# Section
+# The Ride out of the Chasms
 ---
-Something happens
+The group will have a relatively calm time as they reach the end of the chasms, but up ahead will be a battle between 
 
 
-# Section
+# Warcry of the [[Flamebrands]]
 ---
-Something else happens
+> The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But then from over the ridge, a streak of vibrant crimson flows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
+> 
+> Not to mention the fire trailing from its mouth.
 
+On a plateau covered in snow in a clearing within a small forest of fir trees [[Gaz the Branded]] and his [[Flamebrands]] have set a trap in order to trap the [[Young Red Dragon]] [[Bloodmaw]]. What Gaz is hoping for, and what he has not yet told his soldiers, is that he hopes this will draw out [[Oriothar the Monarch]].
+##### **Encounter** - Young Red Dragon and [[Oriothar the Monarch]]

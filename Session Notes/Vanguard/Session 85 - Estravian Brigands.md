@@ -86,7 +86,7 @@ Shattered plains
 ---
 [[Gaz the Branded]] and his soldiers battle a young and an adult red dragon.
 
-> The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But captivating, then, from over the ridge, a streak of vibrant crimson blows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
+> The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But then from over the ridge, a streak of vibrant crimson flows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
 > 
 > Not to mention the fire trailing from its mouth.
 

@@ -75,13 +75,14 @@ The PC's are going to be accumulating allies throughout this period.
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
-
+ - [[Session 85.5 - The North Estravian Faults]]
 - [[Session 84 - Travel to Steinwalde]]
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
 
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, The Twilight Blade]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 
 - Overload the chalice and maybe go to the hells?
+
 #### Gear Ideas
 One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing + Crafting]] document too.
 
@@ -89,6 +90,10 @@ One of the primary objectives too is for Kanan to sort out some of his gear on t
 - [[Infernal Compass]]
 - [[Potion of Vampiric Sense]]
 - [[Repeating Crossbow]]
+- 
+#### Dragon Problem in Steinwalde
+[[Dragons of Helodaria|Dragon]] season has come early to Steinwalde this generation. The dragons and their usual politics are being fought by the dwarven forces, and the hunt for red dragons is being led by the [[Flamebrands]].
+- [[Oriothar the Monarch]] is currently attempting to take Steinwalde, believing to be pretending to be loyal to [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] with the goal of steal her place.
 - 
 
 ### Count Einzbern
@@ -113,8 +118,9 @@ Something certainly happens in [[Ralia]].
 The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
 
 ### Herald of the [[Deathwatch]]
+
 ### Dungeon Delving
-Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]
+Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]. The castle has been claimed, and the supplies need only be transported back to Ruina.
 
 
 # [[Rylai Sweetsong|Rylai]]

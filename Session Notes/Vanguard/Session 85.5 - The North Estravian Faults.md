@@ -58,8 +58,11 @@ This session note serves as a note for an online, text-based session that is pro
 **Dulussahn 3rd - Whatsapp gameplay**
 - The group ascends the highroad that once led to [[Steinwalde]]
 - Kanan experiences the second vision from [[Lathran Murke]]
-- The group meets the [[Battlehammer Clan]] prospectors led by [[Zeb]] and spots an adult white dragon south of them.
-- 
+- The group meets the [[Battlehammer Clan]] prospectors led by [[Zeb]] and spots the adult white dragon [[Frostcleaver]] south of them.
+
+**Dulussahn 4th**
+- The group awakens before sunrise to sneak past the [[Sunblight Clan]] fortress
+- Kanan experiences the third vision from [[Lathran Murke]]
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature
@@ -68,7 +71,7 @@ This session note serves as a note for an online, text-based session that is pro
 
 2. The worst thing that could have happened was falling into these gods-damned chasms, but at least they offer protection from the wind chill and any hunting dragons overhead, although their fear of whatever is down here does not instill any security in your mind. Your hand grips your staff as it channels what warmth it can pull from the plane of fire. It might be the only reason you and those under your protection can still walk. Shadows shift around you, various corridoors of darkness that _feel_ full of hatred, wanting to claw at you and pull you into the abyss. You won't let them.
 
-3. It has been days in this labyrinth, and now not many remain - most lost to ghouls or cold or shadows in the night. And the hordes follow still, as though they wait for the light of your power to falter, as you know it will. You are so tired. But you look down at the hand of the little girl clutching yours - old and whithered by comparison - and you know you can push on. Your only purpose now is to get as many of these poor souls home as you can, and pray that, for your mistakes and foolishness, you receive the punishment you deserve.
+3. It has been days in this labyrinth, and now not many remain - most lost to ghouls or cold or shadows in the night. And the hordes follow still, as though they wait for the light of your power to falter, as you know it will. You are so tired. But you look down at the hand of the little girl clutching yours - old and whithered by comparison - and you know you can push on. Your only purpose now is to get as many of these poor souls home as you can, and pray that, for your mistakes and foolishness, you receive the punishment you deserve for leading so many to their dooms.
 # Highroad Travellers
 ---
 On the highroad in (11,10) the watchtower is controlled by a patrol of dwarves of the [[Battlehammer Clan]]. There are 4 dwarf scouts: [[Olunt]], [[Kalanor]], [[Morgrail]] and their leader, [[Zeb]]. 
