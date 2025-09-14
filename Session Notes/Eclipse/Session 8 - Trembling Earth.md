@@ -1,6 +1,16 @@
 **Previous Session:** [[Session 7 - A Den of Chitin]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 9 - ]]
+## Post Mortem
+**Vanadrahs 13th**
+- The party defeated a Bulette while exploring the entrance to the [[Underdark]] at the end of the Ankheg nest
+- Once looting concluded, they returned to [[Tira Stone]] who thanked them for assisting with the danger
+- She gave them access to assistance from their best equipment, and a promise of more rations, as well as four [[Potion of Healing|Potions of Healing]] that she could spare
+- Tira then employed the party to seek out [[Lord Margit Tormon|Margit Tormon]] at [[Castle Sungrand]], hoping that they might be able to petition him for aide
 
+**Vanadrahs 14th**
+- The group decide to cut through the forest in order to make it to Sungrand quicker.
+- They do battle with and slay a group of Hobgoblins led by a Bugbear chief.
+- After running into a Hobgoblin patrol, thr group has alerted the scouting party to their presence, and are now being persued by the [[Khalar'hok]] within the wood
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
 - Having been commissioned to clear out the abandoned mines near the refugee camp, our group of heroes set an ambush for and managed to defeat a large group of ankhegs.
