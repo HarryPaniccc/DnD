@@ -13,6 +13,7 @@ tags:
 - [[Drulin Grafteye]] - Worker of the [[Steinefni Mining Company]] is from Steinwalde.
 - [[Torbera Nobyrn]] - A master artificer. Based off of Robyn
 - [[Grelchar the Keen]] - Master craftsman, and one of the best smiths in Steinwalde.
+- 
 ### The [[Flamebrands]]
 A battalion of soldiers known particularly for their red dragon hunting tactics. Many bear scars, often their armour is molded to show them off as marks of pride, where it is practical. They always carry [[Potion of Fire Resistance|potions of fire resistance]], as well as thick armours, heavy crossbows made to bring down their prey, and bridges so that they might span gaps near where their hunt is.
 

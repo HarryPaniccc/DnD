@@ -80,7 +80,10 @@ Zeb is brave, if not foolhardy. He believes that the Duergar of the [[Sunblight 
 
 # [[Sunblight Clan]]
 ---
-The sunblight clan is being controlled by the adult white dragon **insert name here**.
+The sunblight clan is in allegiance with the adult white dragon [[Frostcleaver]].
+### Westmost Watchtower
+- Bugbear on the roof keeping watch
+- Three Duergar soldiers inside led by a duergar stone guard. All are at the end of their shift
 # Tarrasque
 ---
 Deep within the caverns, of the faults hides a terrible, godlike secret: A Tarrasque wanders the mazes of the fissures, preying on anything foolish enough to enter its domain and acquire its notice. The creature wanders lathargically

@@ -1,4 +1,4 @@
-# Nightfall, the Twilight Blade
+# Nightfall, the Hand that Feeds
 
 *Weapon (Longsword), Requires Attunement, Legendary*
 

@@ -36,4 +36,9 @@ The group will have a relatively calm time as they reach the end of the chasms, 
 > Not to mention the fire trailing from its mouth.
 
 On a plateau covered in snow in a clearing within a small forest of fir trees [[Gaz the Branded]] and his [[Flamebrands]] have set a trap in order to trap the [[Young Red Dragon]] [[Bloodmaw]]. What Gaz is hoping for, and what he has not yet told his soldiers, is that he hopes this will draw out [[Oriothar the Monarch]].
-##### **Encounter** - Young Red Dragon and [[Oriothar the Monarch]]
+##### **Encounter** - Young Red Dragon and [[Oriothar the Monarch|Old Whitehorn]]
+
+
+# Hike to the Battle
+---
+Flamebrands will be hauling their things on a large ornate bridge. 

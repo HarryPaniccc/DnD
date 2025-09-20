@@ -4,152 +4,126 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "0054f9d005d45423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Dragons of Helodaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Dragons of Helodaria"
             }
           },
           {
-            "id": "63722f93b03a1631",
+            "id": "46cff7f4452ce291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+                "file": "World of Helodaria/Caede.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8 - Trembling Earth"
+              "title": "Caede"
             }
           },
           {
-            "id": "329857d450fe056f",
+            "id": "6ed72ebf840688ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 9 -.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 -"
-            }
-          },
-          {
-            "id": "c7225a0910eb1ee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unnamed Stark House Equivalent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unnamed Stark House Equivalent"
-            }
-          },
-          {
-            "id": "b8045e4f5942ad99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Great Houses RENAME.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Great Houses RENAME"
-            }
-          },
-          {
-            "id": "bba88a77aa9490a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thread of Deceit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thread of Deceit"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "2e2243741491fcc3",
+        "id": "8e3b866d5c2ca19b",
         "type": "tabs",
         "children": [
           {
-            "id": "90ece501fe88fb08",
+            "id": "b5721bbfb4d528f9",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://5e.tools/bestiary.html#undead%20bulette_wdmm",
-                "title": "Bestiary - 5etools",
+                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
+                "title": "Quick Reference - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bestiary - 5etools"
+              "title": "Quick Reference - 5etools"
             }
           },
           {
-            "id": "700c6a84ab2ccd34",
+            "id": "dfe09451f1a17c7e",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#aarakocra_mm",
-                "title": "Aarakocra - 5etools",
+                "url": "https://2014.5e.tools/feats.html#tough_phb",
+                "title": "Tough - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Aarakocra - 5etools"
+              "title": "Tough - 5etools"
             }
           },
           {
-            "id": "06438bd16e323cf4",
+            "id": "8761fb8b0ad9f499",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/index.html",
-                "title": "5etools",
+                "url": "https://2014.5e.tools/classes.html#paladin_phb,state:sub_redemption_xge=b1",
+                "title": "Paladin - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "5etools"
+              "title": "Paladin - 5etools"
             }
           },
           {
-            "id": "ddf34ada6d3af480",
+            "id": "2be6c419b4b59f73",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "webviewer",
               "state": {
-                "file": "Attachments/Red Hand of Doom.pdf"
+                "url": "https://2014.5e.tools/races.html#aasimar%20(protector)_vgm",
+                "title": "Aasimar (Protector) - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file-text",
-              "title": "Red Hand of Doom"
+              "icon": "globe-2",
+              "title": "Aasimar (Protector) - 5etools"
+            }
+          },
+          {
+            "id": "aa6f6c20f6493223",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/backgrounds.html#acolyte_phb",
+                "title": "Acolyte - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Acolyte - 5etools"
             }
           }
         ]
@@ -171,7 +145,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -196,7 +170,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -209,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 287,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -218,7 +193,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 64.23076923076924,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -240,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disaton Revelre Capitulum.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disaton Revelre Capitulum"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -259,12 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
             }
           },
           {
@@ -274,7 +249,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -286,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Caede.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Caede"
             }
           },
           {
@@ -310,12 +287,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 35.76923076923077,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -332,21 +309,24 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 321.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -362,36 +342,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63722f93b03a1631",
+  "active": "46cff7f4452ce291",
   "lastOpenFiles": [
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+    "World of Helodaria/Necromantia.md",
+    "World of Helodaria/Caede.md",
     "World of Helodaria/Dragons of Helodaria.md",
+    "Divine Fetish of the Avatar of the Raven Queen.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "Primevals.md",
+    "Primordial of Hunger.md",
+    "World of Helodaria/Primordials.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Vanguard.md",
     "Oriothar the Monarch.md",
+    "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
+    "King Dharn the Blacklock.md",
+    "World of Helodaria/Steinwalde.md",
+    "Templates/NPC Template.md",
+    "Prince Boryg the Brash.md",
+    "Items/Nightfall, the Hand that Feeds.md",
+    "Items/Anathema.md",
+    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+    "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Centuria.md",
     "Session 9 -.md",
     "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
     "Lord Margit Tormon.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-    "Session Notes/Eclipse/Session 2 - Webs in the Sewers.md",
-    "Session Notes/Eclipse/Session 7 - A Den of Chitin.md",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
-    "Unnamed Stark House Equivalent.md",
-    "Great Houses RENAME.md",
-    "World of Helodaria/Ignis.md",
-    "World of Helodaria/Cened.md",
-    "World of Helodaria/Togwae.md",
-    "World of Helodaria/Ealendar.md",
-    "World of Helodaria/Rosmary (and Thyme).md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Thread of Deceit.md",
     "Attachments/Red Hand of Doom.pdf",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
-    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
-    "World of Helodaria/Tira Stone.md",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",
     "Attachments/hextml/Unconfirmed 131447.crdownload",
