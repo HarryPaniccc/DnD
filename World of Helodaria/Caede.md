@@ -4,7 +4,7 @@ tags:
 ---
 # Intro
 ---
-Caede is an aasimar paladin/barbarian who was born an angel of [[The Raven Queen]]. 
+Caede is an aasimar paladin/barbarian who was born an angel of [[The Raven Queen]], and a member of the [[Vanguard]].
 # Description
 ---
 ## Appearance
@@ -23,6 +23,7 @@ During the wars of the fall on Eranulaid, Caede and his brothers and sisters of 
 - [[Ring of Psychic Resistance]]
 - [[Belt of Dwarvenkind]]
 - [[Hoardfeller's Cudgel]]
+- [[Black Ice Half Plate]]
 ### Former Items
 # Relationships
 ---

@@ -35,7 +35,6 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 - Vampire thing with [[Isilme Vanariel]] (Complete)
 ## Notable Items
 ### Current Items
-- [[Cadaverous Edge]]
 - [[Boots of Haste]]
 - [[Skye's Locket of the Armory]], gifted to him by [[Dusk]] as a way of using his diverse weapon collection
 - [[Supple Brigandine of the Sentinel]]
@@ -44,8 +43,12 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 - [[Duskdrinker]]
 - The [[Vessel of Avarice]]
 - [[Anathema]]
+- [[Lathran's Staff]]
 ### Former Items
 - The [[Daybreakers]], the ancestral relics of the Einzbern's origin.
+- [[Cadaverous Edge]], given to [[Isilme Vanariel]].
+- The [[Rune Cannon]] of [[Jarren Ward]]
+- [[Dragonslayer Longsword]], given to [[Caede]]
 # Relationships
 ---
 ### Tevis

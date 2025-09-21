@@ -20,18 +20,22 @@ tags:
 
 **Week 4 (Antumbrahn 16th)**
 - (16th) Caede leaves for [[Strahldale]]
-- Meeting [[Odessa]]
+- Kanan and Caede meet [[Odessa]]
 - (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
 - (21st) [[Darius Nubide]] appears to Rylai in her rooms
 
 
 **Week 5 (Antumbrahn 23rd)**
 - (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
-- Caede and Kanan make it to the first village of [[Estravia]]
+- Caede and Kanan make it to the first village of [[Estravia]], and later Valeria, where they meet [[Belle Nierhund]]
 - (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and begin doing the Synod Dungeon
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
-- 
+- Kanan and Caede make it to the base of the North Estravian Faults where they face winter wolves, frost giants, blizzards, and meet the [[Battlehammer Clan]] scouts
+- They attack a Duergar watchtower in trying to pass through them
+
+**Week 7 (Dulussahn 7th)**
+- Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
 # Things to Remember
 
 Kanan spends minimum time in Brocia (like one day of prep)
@@ -75,7 +79,7 @@ The PC's are going to be accumulating allies throughout this period.
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
- - [[Session 85.5 - The North Estravian Faults]]
+- [[Session 85.5 - The North Estravian Faults]]
 - [[Session 84 - Travel to Steinwalde]]
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
 

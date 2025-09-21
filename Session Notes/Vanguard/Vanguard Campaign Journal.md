@@ -25,9 +25,10 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 ## Sessions
 - [[Session 999 - Tournament of Trayfort Hold]]
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
+- [[Session 999 - Dragonfire]]
 
-- [[Session 88 - Duergar and Dragonfire]]
-- [[Session 87 - An Element of Truth]]
+- [[Session 88 - Duergar Sunblighters]]
+- [[Session 87 - An Element of Truth]] - Rylai + Isilme + Dusk
 - [[Session 86 - The Synod of Elevation]] - Rylai + Isilme + Dusk
 - [[Session 85.5 - The North Estravian Faults]] - Kanan and Caede Whatsapp
 - [[Session 85 - Estravian Brigands]] - Kanan + Caede
@@ -56,10 +57,11 @@ In the year of 813 Post-Fall the [[Vanguard]] travelled to the [[Sirkonos]] to h
 - [[Session 66 - The Ethfalian Caverns]]
 - [[Session 65 - ]]
 - [[Session 64 - ]]
+- [[Session 63 -]]
 # Arc 4: Chains of the Past
 In the year 812 Post Fall the [[Vanguard]] faced off against the [[Halo of Chains]], led by [[Caede]]'s brother, [[Galund]], in a race to prevent him from finding the souls of the lost [[Valkuur]] and reclaim enough power to reshape the [[Religion|religions]] of the world so that the [[Deities of Helodaria|Gods]] no longer had any control over the [[Material Plane]].
 
 # Arc 3: Tenets of Corruption
-Following a trail of clues which led them to the [[Oakrot Woods]], the [[Vanguard]] pursued a warlock known by the name of [[Garen]] to [[Dularen]], entering the metropolis for the first time. What would follow was a web of conspiracy, leading to the freeing of [[Alfred Gundrei]] from the demonic influence of the Glabrezu demon [[Thezuurol]], and their receiving of [[Trayfort Keep]].
+Following a trail of clues which led them to the [[Oakrot Woods]], the [[Vanguard]] pursued a warlock known by the name of [[Garen]] to [[Dularen]], entering the metropolis for the first time. What would follow was a web of conspiracy, leading to the freeing of [[Alfred Gundrei]] from the demonic influence of the Glabrezu demon [[Thezuurol]], and their receiving of [[Trayfort Keep]], and their titles as lords of the city.
 # Arc 2: Knights of the Malevolence
 # Arc 1: A Brave New World

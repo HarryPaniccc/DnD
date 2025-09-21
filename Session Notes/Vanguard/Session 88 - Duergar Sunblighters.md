@@ -1,6 +1,27 @@
 **Previous Session:** [[Session 85 - Estravian Brigands]] and [[Session 85.5 - The North Estravian Faults]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 999 - Dragonfire]]
+## Post Mortem
+---
+**Dulussahn 4th**
+- The party defeats the [[Sunblight Clan]]'s lookout and note a blizzard about to hit them
+- They rush forth and struke the main guardpost outside of the entrance to the fortress
+- The [[Battlehammer Clan]] scouts aid as best they can, and together they manage to cut down the forces of the Duergar
+- [[Caede]] claims the [[Black Ice Half Plate]]
+- The group escape into the blizzard and flee the stone bridge.
+
+**Dulussahn 5th and 6th**
+- The group parts ways with the Battlehammer scouts, who offer them that the [[Battlehammer Clan]] are their allies now.
+- Kanan leads the group into the Chasms in search of the resting place of [[Lathran Murke's Descendent]]
+
+**Dulussahn 7th and 8th**
+- The group navitgate the chasms and find the [[Staff of Lathran's Descendent]] and face a horde of ghouls
+- [[Siegfried the Horse]] his slain in the battle
+
+**Dulussahn 11th**
+- The group leave the chasms and pass through the valley that will lead them beyond the faults, towards [[Steinwalde]]
+
 ## Introduction
+---
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.
 
 ### Recap
@@ -15,6 +36,7 @@
 > The day is the 4th of Dulussahn, 813, and you grasp your weapons tightly as the smell of blood takes to the frigid air, and the Sunblight clan's sentries fight to repel your assault.
 
 # Session Start
+Travelling the [[Faults of North Estravia]]
 - Duergar tower and Sunblight clan are in their way.
 - The road carries on for some time before levelling out
 - Travel montage for expediency. It takes 4-5 days of hard movement to get to where theyve gotta go. Maybe do an encounter 
@@ -59,26 +81,3 @@ From the mists of the caverns, [[Merideth, the Bheur Hag]], will send her "puppi
 The group will have a relatively calm time as they reach the end of the chasms, but up ahead will be a battle between the Flamebrands and the young red dragon.
 
 
-# Warcry of the [[Flamebrands]]
----
-> The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But then from over the ridge, a streak of vibrant crimson flows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
-> 
-> Not to mention the fire trailing from its mouth.
-
-On a plateau covered in snow in a clearing within a small forest of fir trees [[Gaz the Branded]] and his [[Flamebrands]] have set a trap in order to trap the [[Young Red Dragon]] [[Bloodmaw]]. What Gaz is hoping for, and what he has not yet told his soldiers, is that he hopes this will draw out [[Oriothar the Monarch]].
-##### **Encounter** - Young Red Dragon and [[Oriothar the Monarch|Old Whitehorn]]
-**Oriothar** has 768 hit points, as well as greatwyrm scales -2 per damage instance, and the **young red dragon** has 445 hit points, or 534 if its going too fast.
-
-If the battle begins to go south, Oriothar will realize that the obsession that [[Gaz the Branded|Gaz]] has with him will lead to more deaths than he can inflict here, so he will allow the dwarf to survive. Worst case scenario, Oriothar will flee with his life.
-
-**Initiatives:**
-- [[Gaz the Branded]], statblock of Thwad Underbrew modified
-- [[Borthi son of Tingor]], War priest will play a supportive role with spells like Crusader's Mantle and hold monster
-- 9 x [[Flamebrands Statblock|Flamebrands]] Are the grunts 
-- Young red dragon
-- [[Oriothar the Monarch|Old Whitehorn]]
-- Van Richten - Protect the horses
-
-# Hike to the Battle
----
-Flamebrands will be hauling their things on a large ornate bridge. 

@@ -4,7 +4,7 @@ tags:
 ---
 The **North Estravian Faults** are a vast region north of the province of [[Estravia]] in [[Sirkonos]] akin to a titanic-scale bed of a dried lake, where plateaus of varied elevations are separated by deep chasms hiding ancient horrors.
 
-In this region exists the ancient [[Nalaziegel]], the road known as the river of brick
+In this region exists the ancient [[Nalaziegel]], the road known as the river of brick. Along this road, somewhere in the mountains, is the fortress of the [[Sunblight Clan]] where they, in coalition with [[Frostcleaver]], mine [[Black Ice]].
 
 # Map Notes
 ---

@@ -1,5 +1,39 @@
 **Previous Session:** [[Session 85 - Estravian Brigands]]
-**Subsequent Session:** [[Session 88 - Duergar and Dragonfire]]
+**Subsequent Session:** [[Session 88 - Duergar Sunblighters]]
+
+## Post Mortem
+---
+**Antumbrahn 26th - Whatsapp gameplay**
+- The group departs from [[Trau's End]] saying goodbye to [[Syr Edmund]] for now, and crosses the plains ahead without a hitch.
+- Caede and Kanan have a snowball fightm and end their journey on a hill overlooking the [[Yiata River]] and the [[Faults of North Estravia]]
+- Draugr incident
+
+**Antumbrahn 27th - 29th Whatsapp gameplay**
+- Crossing of the river
+
+**Antumbrahn 30th - Whatsapp gameplay**
+- Searching the river for a way to the faults
+- Ascend to the faults
+
+**Dulussahn 1st - Whatsapp gameplay**
+- First day of hiking across the faults.
+- Kanan scouts, revealing a few key objectives. The group goes to the road.
+- At night they hear the sound of white dragons going at it.
+
+**Dulussahn 2nd - Whatsapp gameplay**
+- Kanan has his first vision of a fallen wizard
+- During their travel the group notices the battleground of the dragons and Kanan encounters a group of [[Winter Wolf|Winter Wolves]]
+- The group fights off the winter wolves, which follow them into a blizzard. Kanan and Caede find a shelter under the bridge/highroad they are wandering towards, and dispatch of a giant and his mammoth, but when they separate from the group the winter wolves attack their caraan. They fight the wolves off and rest for the night
+
+**Dulussahn 3rd - Whatsapp gameplay**
+- The group ascends the highroad that once led to [[Steinwalde]]
+- Kanan experiences the second vision from [[Lathran Murke]]
+- The group meets the [[Battlehammer Clan]] prospectors led by [[Zeb]] and spots the adult white dragon [[Frostcleaver]] south of them.
+
+**Dulussahn 4th**
+- The group awakens before sunrise to sneak past the [[Sunblight Clan]] fortress
+- Kanan experiences the third vision from [[Lathran Murke]]
+- The group attacks the [[Duergar]] watchtower
 ## Introduction
 This session note serves as a note for an online, text-based session that is proving to take some time. While Caede and Kanan traversed the [[Faults of North Estravia]], they face crossing dragon territory, as well as the people that live in the region
 
@@ -33,37 +67,7 @@ This session note serves as a note for an online, text-based session that is pro
 | 10                                         | Orcs                                           |
 | 11                                         | Trolls                                         |
 | 12                                         | Frost Giants                                   |
-**Antumbrahn 26th - Whatsapp gameplay**
-- The group departs from [[Trau's End]] saying goodbye to [[Syr Edmund]] for now, and crosses the plains ahead without a hitch.
-- Caede and Kanan have a snowball fightm and end their journey on a hill overlooking the [[Yiata River]] and the [[Faults of North Estravia]]
-- Draugr incident
 
-**Antumbrahn 27th - 29th Whatsapp gameplay**
-- Crossing of the river
-
-**Antumbrahn 30th - Whatsapp gameplay**
-- Searching the river for a way to the faults
-- Ascend to the faults
-
-**Dulussahn 1st - Whatsapp gameplay**
-- First day of hiking across the faults.
-- Kanan scouts, revealing a few key objectives. The group goes to the road.
-- At night they hear the sound of white dragons going at it.
-
-**Dulussahn 2nd - Whatsapp gameplay**
-- Kanan has his first vision of a fallen wizard
-- During their travel the group notices the battleground of the dragons and Kanan encounters a group of [[Winter Wolf|Winter Wolves]]
-- The group fights off the winter wolves, which follow them into a blizzard. Kanan and Caede find a shelter under the bridge/highroad they are wandering towards, and dispatch of a giant and his mammoth, but when they separate from the group the winter wolves attack their caraan. They fight the wolves off and rest for the night
-
-**Dulussahn 3rd - Whatsapp gameplay**
-- The group ascends the highroad that once led to [[Steinwalde]]
-- Kanan experiences the second vision from [[Lathran Murke]]
-- The group meets the [[Battlehammer Clan]] prospectors led by [[Zeb]] and spots the adult white dragon [[Frostcleaver]] south of them.
-
-**Dulussahn 4th**
-- The group awakens before sunrise to sneak past the [[Sunblight Clan]] fortress
-- Kanan experiences the third vision from [[Lathran Murke]]
-- The group attacks the [[Duergar]] watchtower
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature
