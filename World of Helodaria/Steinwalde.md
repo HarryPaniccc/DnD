@@ -4,6 +4,7 @@ tags:
 ---
 # Description
 
+
 # History
 
 # Notable Factions and Characters
@@ -19,6 +20,10 @@ A battalion of soldiers known particularly for their red dragon hunting tactics.
 
 **Members**
 - [[Gaz the Branded]] - A scarred dwarf and the leader of the [[Flamebrands]].
+- [[Borthi son of Tingor]] - A cleric follower of Moradin and second to Gaz.
 
 # Locations
-Something kinda like Urithuru
+### Outer Stone Village
+Long stone road leading through many large statues and battlements cut square in the rock.
+### Great Entryhall
+### 

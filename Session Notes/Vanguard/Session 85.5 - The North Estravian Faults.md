@@ -63,6 +63,7 @@ This session note serves as a note for an online, text-based session that is pro
 **Dulussahn 4th**
 - The group awakens before sunrise to sneak past the [[Sunblight Clan]] fortress
 - Kanan experiences the third vision from [[Lathran Murke]]
+- The group attacks the [[Duergar]] watchtower
 # Kanan's Vision
 ---
 > Every evening Kanan will receive a new vision from a lost spirit in this region form his **Grim Psychometry** feature

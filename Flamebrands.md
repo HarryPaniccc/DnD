@@ -1,1 +1,1 @@
-The **Flamebrands** are a group of dwarves led by [[Gaz the Branded]] who specialize in hunting red dragons
+The **Flamebrands** are a group of dwarves led by [[Gaz the Branded]] who specialize in hunting red dragons. This is the document for their order, but their statblocks can be found in [[Flamebrands Statblock]]
