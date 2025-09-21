@@ -4,7 +4,6 @@ tags:
 ---
 # Description
 
-
 # History
 
 # Notable Factions and Characters

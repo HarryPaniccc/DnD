@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 85 - Estravian Brigands]]
-**Subsequent Session:** [[Session 999 - Witches and Dragonfire]]
+**Subsequent Session:** [[Session 88 - Duergar and Dragonfire]]
 ## Introduction
 This session note serves as a note for an online, text-based session that is proving to take some time. While Caede and Kanan traversed the [[Faults of North Estravia]], they face crossing dragon territory, as well as the people that live in the region
 

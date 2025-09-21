@@ -25,8 +25,8 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 ## Sessions
 - [[Session 999 - Tournament of Trayfort Hold]]
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
-- [[Session 999 - Witches and Dragonfire]]
 
+- [[Session 88 - Duergar and Dragonfire]]
 - [[Session 87 - An Element of Truth]]
 - [[Session 86 - The Synod of Elevation]] - Rylai + Isilme + Dusk
 - [[Session 85.5 - The North Estravian Faults]] - Kanan and Caede Whatsapp

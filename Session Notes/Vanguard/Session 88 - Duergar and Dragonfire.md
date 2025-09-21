@@ -30,6 +30,7 @@ Wrap up what we were doing
 
 ##### **Encounter:** Response to Attack
 If the group fail to hide that they made it past and the Duergar realize what is happening they will send four duergar and the duergar mind mage (17 AC from **Black Ice Halfplate**) to inspect.
+
 ##### **Encounter:** Sunblighter Crane Fortress
 The combat will have different enemies depending on whether they manage to not raise the alarm.
 > The road beyond the battlement wraps a good distance before coming to a squat, square structure hanging off of the edge of the road. Torches are lit in the courtyard surrounding it, and opposite it, going up the mountain, another dual set of battlements guard a huge passage deeper into the mountain. Hanging off the balcony beyond the edge of the wall is a large crane lift, drawn by large beasts of burden.
@@ -38,7 +39,7 @@ The combat will have different enemies depending on whether they manage to not r
 
 - One Bugbear on either side of the fortresses passageway above the portcullis on a balcony
 - Five Duergar in the chamber adjacent to the passage
-- A Duergar Mind Mage in half plate (16 AC) in a study overlooking the area
+- A Duergar Mind Mage in half plate (17 AC) in a study overlooking the area
 - (If alert) five more duergar and two stone guards
 
 ##### **Encounter:** Frostcleaver
