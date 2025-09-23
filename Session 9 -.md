@@ -14,8 +14,9 @@
 > The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
 
 # Session Start
-- Fleeing through the forest now full of scouting parties alert to their presence
-- Maybe a ranger or something is an hour behind them
+- The party is now fleeing through the forest after encountering a hobgoblin patrol and alerting the scouts of Vraath keep to their presence
+- Their goal is to make it to [[Castle Sungrand]] to petition [[Lord Margit Tormon]] for aide for the refugees.
+- They fled deeper into the forest, so they have to deal with both hunters and forest monsters
 
 # Through the Forest
 ---

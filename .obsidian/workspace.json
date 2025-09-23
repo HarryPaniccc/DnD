@@ -4,228 +4,156 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ee7c6f3acda308",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
-        "dimension": 47.174840085287855,
         "children": [
           {
-            "id": "4197be4e659ef1fd",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "be715f8a455bacc5",
+            "id": "63722f93b03a1631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Session 8 - Trembling Earth"
             }
           },
           {
-            "id": "0ab9e66bd4bc3e62",
+            "id": "329857d450fe056f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "Session 9 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Session 9 -"
             }
           },
           {
-            "id": "b570b995d66a4f2d",
+            "id": "c7225a0910eb1ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Item Pricing + Crafting.md",
+                "file": "Unnamed Stark House Equivalent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Item Pricing + Crafting"
+              "title": "Unnamed Stark House Equivalent"
             }
           },
           {
-            "id": "3823f5be1fc0b044",
+            "id": "b8045e4f5942ad99",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/trapshazards.html#blizzard_idrotf",
-                "title": "Blizzard - 5etools",
-                "mode": "webview"
+                "file": "Great Houses RENAME.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Blizzard - 5etools"
+              "icon": "lucide-file",
+              "title": "Great Houses RENAME"
             }
           },
           {
-            "id": "143a13702e5b4d68",
+            "id": "bba88a77aa9490a4",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/adventure.html#idrotf,12",
-                "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools",
-                "mode": "webview"
+                "file": "Thread of Deceit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools"
+              "icon": "lucide-file",
+              "title": "Thread of Deceit"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "ad403f483996d6ec",
+        "id": "2e2243741491fcc3",
         "type": "tabs",
-        "dimension": 52.825159914712145,
         "children": [
           {
-            "id": "f1c9f02a19a2f78e",
+            "id": "90ece501fe88fb08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Items/Nightfall, the Hand that Feeds.md",
-                "mode": "source",
-                "source": false
+                "url": "https://5e.tools/bestiary.html#undead%20bulette_wdmm",
+                "title": "Undead Bulette - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Nightfall, the Hand that Feeds"
+              "icon": "globe-2",
+              "title": "Undead Bulette - 5etools"
             }
           },
           {
-            "id": "84838bb556769568",
+            "id": "700c6a84ab2ccd34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Items/Anathema.md",
-                "mode": "source",
-                "source": false
+                "url": "https://2014.5e.tools/bestiary.html#aarakocra_mm",
+                "title": "Aarakocra - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Anathema"
+              "icon": "globe-2",
+              "title": "Aarakocra - 5etools"
             }
           },
           {
-            "id": "32cd2f2562d8f051",
+            "id": "06438bd16e323cf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-                "mode": "source",
-                "source": false
+                "url": "https://2014.5e.tools/index.html",
+                "title": "5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Session 88 - Duergar Sunblighters"
+              "icon": "globe-2",
+              "title": "5etools"
             }
           },
           {
-            "id": "3a929096ef006464",
+            "id": "ddf34ada6d3af480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Session 999 - Dragonfire.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Red Hand of Doom.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Session 999 - Dragonfire"
-            }
-          },
-          {
-            "id": "66bbff11cd80ec31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Kanan Einzbern.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kanan Einzbern"
-            }
-          },
-          {
-            "id": "ab1f3ae98afda9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 999 - Dragonfire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 999 - Dragonfire"
-            }
-          },
-          {
-            "id": "7b9b594f89c9a941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dragons of Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dragons of Helodaria"
-            }
-          },
-          {
-            "id": "ee9f669c1145f507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "King Dharn the Blacklock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "King Dharn the Blacklock"
-            }
-          },
-          {
-            "id": "2ce036f3976d00d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodarian Calendar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodarian Calendar"
+              "icon": "lucide-file-text",
+              "title": "Red Hand of Doom"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,7 +197,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -282,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
+    "width": 264.5,
     "collapsed": true
   },
   "right": {
@@ -314,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Disaton Revelre Capitulum.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Disaton Revelre Capitulum"
             }
           },
           {
@@ -332,12 +261,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 999 - Witches and Dragonfire"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -359,12 +288,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Eclipse Campaign Journal"
             }
           },
           {
@@ -382,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "92400877833113eb",
@@ -434,36 +364,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4197be4e659ef1fd",
+  "active": "ddf34ada6d3af480",
   "lastOpenFiles": [
-    "Items/Nightfall, the Hand that Feeds.md",
-    "King Dharn the Blacklock.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "Items/Anathema.md",
-    "Magic Item Pricing + Crafting.md",
-    "Session 999 - Dragonfire.md",
+    "Session 9 -.md",
+    "Attachments/Red Hand of Doom.pdf",
     "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Faults of North Estravia.md",
+    "Session 999 - Dragonfire.md",
+    "Session Notes/Vanguard/Session 88 - Duergar and Dragonfire.md",
     "World of Helodaria/Helodarian Firearms.md",
+    "World of Helodaria/Steinwalde.md",
+    "Hoardfeller's Cudgel.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Dragons of Helodaria.md",
+    "King Dharn the Blacklock.md",
+    "World of Helodaria/Caede.md",
     "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
     "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Estravia.md",
-    "World of Helodaria/Sirkonos.md",
-    "Hoardfeller's Cudgel.md",
-    "World of Helodaria/Dragons of Helodaria.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "Items/Anathema.md",
     "Amber Hagmire.md",
     "World of Helodaria/Mountreach.md",
     "Statblocks/Flamebrands Statblock.md",
+    "World of Helodaria/Gaz the Branded.md",
+    "Flamebrands.md",
+    "Oriothar the Monarch.md",
+    "Divine Fetish of the Avatar of the Raven Queen.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "Primevals.md",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
-    "Attachments/Red Hand of Doom.pdf",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",
     "Attachments/hextml/Unconfirmed 131447.crdownload",
