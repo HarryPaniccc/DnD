@@ -9,9 +9,9 @@ tags:
 ### Miniatures
 - [x] Rylai
 - [ ] Rudolph von Richten
-- [ ] Dusk
+- [x] Dusk
 - [x] Kanan
-- [ ] Caede
+- [x] Caede
 - [x] Isilme
 - [ ] Portcullis
 - [ ] Goblins
@@ -23,7 +23,6 @@ tags:
 - [ ] New tables
 - [ ] Stalagmites
 - [x] Generic Rogue (2 stabbies)
-- [ ] Guards for [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]'s Manticore fight
 - [ ] Bowman/crossbowman
 - [ ] Chests
 ### Normal Stuff

@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disaton Revelre Capitulum.md",
+                "file": "General Notes and Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Disaton Revelre Capitulum"
+              "title": "Backlinks for General Notes and Ideas"
             }
           },
           {
@@ -311,8 +311,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -348,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -364,7 +362,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ddf34ada6d3af480",
+  "active": "4cb96e6d4287e8a5",
   "lastOpenFiles": [
     "Session 9 -.md",
     "Attachments/Red Hand of Doom.pdf",
