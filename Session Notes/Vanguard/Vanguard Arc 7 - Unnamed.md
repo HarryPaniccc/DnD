@@ -1,5 +1,6 @@
 There are a lot of things that need to be cleared up before I can specify exactly what is happening. [[King Sirkon]] is returning to power now that his new physical form, [[Prince Artorius Sirkon]] has matured and begun to show promise. He needs the [[Heart of the Abyss]] to complete his Son's rise to power so that he might control his son as an avatar of himself.
 
+
 # Planning Reset
 ---
 >[!Simple Questions]

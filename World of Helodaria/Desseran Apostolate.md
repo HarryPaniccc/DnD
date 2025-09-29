@@ -6,6 +6,7 @@ The **Desseran Apostolate** is a modern [[Religion]] and religious group centere
 
 
 # Worship
+Begin, Endure, End. These are the edicts of the Apostles. Never fear starting anew and growing. Survive and ensure that your work is good. Do not let the end of your life be the end of your legacy.
 ### Holy Figures
 
 - [[Unnamed Avatar of the Bahamut]]

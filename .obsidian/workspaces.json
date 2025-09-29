@@ -4155,8 +4155,7 @@
                   "title": "Thread of Deceit"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "2e2243741491fcc3",
@@ -4216,7 +4215,8 @@
                   "title": "Red Hand of Doom"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -4305,7 +4305,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Disaton Revelre Capitulum.md",
+                    "file": "General Notes and Ideas.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -4315,7 +4315,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Disaton Revelre Capitulum"
+                  "title": "Backlinks for General Notes and Ideas"
                 }
               },
               {
@@ -4374,8 +4374,7 @@
                   "title": "All properties"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "92400877833113eb",
@@ -4411,8 +4410,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 315.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4427,9 +4425,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "329857d450fe056f",
-      "mtime": "2025-09-19T20:47:36+02:00"
+      "active": "4cb96e6d4287e8a5",
+      "mtime": "2025-09-29T20:59:14+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Next Arc Planning"
 }

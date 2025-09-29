@@ -8,6 +8,7 @@ As Thayan Wizards grow in the ranks they gain bigger and bigger facial tattoos.
 
 # Description
 # History
+
 # Locations
 # Members
 

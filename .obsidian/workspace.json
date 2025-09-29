@@ -4,155 +4,184 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "af038168cc18132a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Desseran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Desseran"
             }
           },
           {
-            "id": "63722f93b03a1631",
+            "id": "77b4d7d5f8a869af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+                "file": "World of Helodaria/Thayan Orthodoxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8 - Trembling Earth"
+              "title": "Thayan Orthodoxy"
             }
           },
           {
-            "id": "329857d450fe056f",
+            "id": "86b1403d5eba48e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 9 -.md",
+                "file": "World of Helodaria/Zakuul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 -"
+              "title": "Zakuul"
             }
           },
           {
-            "id": "c7225a0910eb1ee7",
+            "id": "fdeaa2a156954d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Stark House Equivalent.md",
+                "file": "World of Helodaria/Uladar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Stark House Equivalent"
+              "title": "Uladar"
             }
           },
           {
-            "id": "b8045e4f5942ad99",
+            "id": "4bc58232b1d122cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Great Houses RENAME.md",
+                "file": "World of Helodaria/King Sirkon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Houses RENAME"
+              "title": "King Sirkon"
             }
           },
           {
-            "id": "bba88a77aa9490a4",
+            "id": "9dd1aa2fe7064fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thread of Deceit.md",
+                "file": "Fetishes of the Resurgence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread of Deceit"
+              "title": "Fetishes of the Resurgence"
+            }
+          },
+          {
+            "id": "ef78878be7537cac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran"
             }
           }
         ]
       },
       {
-        "id": "2e2243741491fcc3",
+        "id": "73ae6739b4d1d516",
         "type": "tabs",
         "children": [
           {
-            "id": "90ece501fe88fb08",
+            "id": "7c179c6cb7ce04e6",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://5e.tools/bestiary.html#undead%20bulette_wdmm",
-                "title": "Undead Bulette - 5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/Eranulaid History.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Undead Bulette - 5etools"
+              "icon": "lucide-file",
+              "title": "Eranulaid History"
             }
           },
           {
-            "id": "700c6a84ab2ccd34",
+            "id": "c0b69b0cf72150bb",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#aarakocra_mm",
-                "title": "Aarakocra - 5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Aarakocra - 5etools"
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
             }
           },
           {
-            "id": "06438bd16e323cf4",
+            "id": "0cd1a259f961f81f",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/index.html",
-                "title": "5etools",
-                "mode": "webview"
+                "file": "World of Helodaria/History of Helodaria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "5etools"
+              "icon": "lucide-file",
+              "title": "History of Helodaria"
             }
           },
           {
-            "id": "ddf34ada6d3af480",
+            "id": "515d52a4acec68b1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Red Hand of Doom.pdf"
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Red Hand of Doom"
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "fb9508880a60902b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran Apostolate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran Apostolate"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +225,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -209,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 258.5,
     "collapsed": true
   },
   "right": {
@@ -219,7 +248,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 58.948545861297546,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -241,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "World of Helodaria/Desseran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +280,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Notes and Ideas"
+              "title": "Backlinks for Desseran"
             }
           },
           {
@@ -260,12 +289,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Desseran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Desseran"
             }
           },
           {
@@ -287,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Desseran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Desseran"
             }
           },
           {
@@ -310,12 +339,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 41.051454138702454,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -330,23 +360,12 @@
               "icon": "lucide-file",
               "title": "Guidelines"
             }
-          },
-          {
-            "id": "c68b5dcf4c07320d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,11 +380,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4cb96e6d4287e8a5",
+  "active": "af038168cc18132a",
   "lastOpenFiles": [
+    "World of Helodaria/Eranulaid History.md",
+    "World of Helodaria/Desseran.md",
+    "Timeline.md",
+    "World of Helodaria/History of Helodaria.md",
+    "Unnamed Avatar of the Bahamut.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "World of Helodaria/Desseran Apostolate.md",
+    "World of Helodaria/Kenifria.md",
+    "World of Helodaria/Thayan Orthodoxy.md",
+    "World of Helodaria/Thay.md",
+    "World of Helodaria/King Sirkon.md",
+    "World of Helodaria/Uladar.md",
+    "World of Helodaria/Zakuul.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Vanguard.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Oriothar the Monarch.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Attachments/Red Hand of Doom.pdf",
-    "General Notes and Ideas.md",
     "Session 9 -.md",
     "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
     "Session 999 - Dragonfire.md",
@@ -373,22 +409,6 @@
     "World of Helodaria/Helodarian Firearms.md",
     "World of Helodaria/Steinwalde.md",
     "Hoardfeller's Cudgel.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "King Dharn the Blacklock.md",
-    "World of Helodaria/Caede.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "Items/Anathema.md",
-    "Amber Hagmire.md",
-    "World of Helodaria/Mountreach.md",
-    "Statblocks/Flamebrands Statblock.md",
-    "World of Helodaria/Gaz the Branded.md",
-    "Flamebrands.md",
-    "Oriothar the Monarch.md",
-    "Divine Fetish of the Avatar of the Raven Queen.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",

@@ -6,7 +6,7 @@ tags: Lore
 
 #TODO Read all this shit and rework the order of things. Maybe have an "Eras" document and a timeline too?
 
-
+- [[Timeline]]
 
 Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age. The most important events are catalogued here, but often settlements or regions require their own histories.
 # The Eternity of Before
