@@ -7,14 +7,10 @@ tags:
 >### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
-- [x] Rylai
 - [ ] Rudolph von Richten
-- [x] Dusk
-- [x] Kanan
-- [x] Caede
-- [x] Isilme
 - [ ] Portcullis
-- [ ] Goblins
+- [ ] Owlbear
+- [ ] Goblins (Maybe like 2 or 3 more)
 - [ ] Stone Arches
 - [ ] Ladder(s)
 - [ ] Zombies
@@ -22,7 +18,6 @@ tags:
 - [ ] Barrels + Boxes
 - [ ] New tables
 - [ ] Stalagmites
-- [x] Generic Rogue (2 stabbies)
 - [ ] Bowman/crossbowman
 - [ ] Chests
 ### Normal Stuff

@@ -11,8 +11,8 @@ Organ
 - [[Gem of Brightness]]
 - [[Elemental Gem]]
 - [[Chime of Opening]]
+- [[Dagger of Acid]] (Prejudice)
 **Unawarded**
-- 
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
 - [[Elven Hammer of some kind]]
