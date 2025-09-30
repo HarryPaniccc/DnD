@@ -238,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -382,8 +381,9 @@
   },
   "active": "af038168cc18132a",
   "lastOpenFiles": [
-    "World of Helodaria/Eranulaid History.md",
+    "General Notes and Ideas.md",
     "World of Helodaria/Desseran.md",
+    "World of Helodaria/Eranulaid History.md",
     "Timeline.md",
     "World of Helodaria/History of Helodaria.md",
     "Unnamed Avatar of the Bahamut.md",
@@ -395,7 +395,6 @@
     "World of Helodaria/King Sirkon.md",
     "World of Helodaria/Uladar.md",
     "World of Helodaria/Zakuul.md",
-    "General Notes and Ideas.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "World of Helodaria/Vanguard.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",

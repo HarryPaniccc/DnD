@@ -2,15 +2,9 @@
 tags:
   - Settlement
 ---
-
->[!Landing Notes]
->- [[Thay]]
->- [[The Fall]]
->- Original stuff linking to the Thayan wizards
->- The Sundering and Seduction
 # Description
 ---
-The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of [[Thay]]. The city
+The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay|Empire of Thay]].
 ## Politics
 ### The council who runs the city, made up of leaders of various factions
 - Leader of the [[Thayan Orthodoxy]]
