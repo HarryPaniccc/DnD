@@ -28,6 +28,7 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 - 
 
 ## [[Qel-Annura]]
+High elf home city
 
 ## [[Isaura]]
 

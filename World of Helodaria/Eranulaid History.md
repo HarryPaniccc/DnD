@@ -4,6 +4,7 @@ tags:
 aliases:
   - History of Eranulaid
 ---
+Some kind of [[Timeline]]
 # Events summary to add
 
 - Home of the first humans

@@ -16,7 +16,7 @@ The reload property of most firearms has a loading time of 30 seconds (5 actions
 
 If the reload property of a firearm includes a die, the firearm is designed in such a way that it can have many rounds reloaded as an action during combat, as opposed to paying the reload duration to reload one of the chambers. As an action, you may roll the reload die and load a number of rounds into the weapon equal to the number rolled on the die. Weapons that possess this property usually have some kind of quick-loading apparatus that is used to pack pre-packed rounds into the chambers, or uses some form of advanced chamber or rounds.
 ## Loading
-Some firearms are designed with the intent to be quick to reload. The loading property works the same as with simple and martial weapons. Effects that require you to do some action to reload a firearm, it is assumed that a firearm with loading is reloaded at the end of your turn.
+Some firearms are designed with the intent to be quick to reload. The loading property works the same as with simple and martial weapons. For effects that require you to do some action to reload a firearm, it is assumed that a firearm with loading is reloaded at the end of your turn.
 # Normal Firearms
 Simple black powder weapons with slow reloads. 
 

@@ -11,7 +11,7 @@ Starting when you choose this archetype at 3rd level, you gain proficiency with 
 #### Gambit of Preference
 Gambits represent the stylish tricks that Gunslingers are capable of performing with their weapons. When you gain the Gunslinger archetype, you learn one Gambit of your choice. You can swap out this Gambit when you level up. You can only use a gambit's active effect once per turn.
 
-Once you use this feature up to a number of times equal to your proficiency bonus, you must finish a short or long rest to use a Gambit again. 
+Once you use the active effects of Gambits up to a number of times equal to your proficiency bonus, you must finish a short or long rest to use a Gambit again. 
 
 The DC associated with your Gunslinger Gambits is calculated as follows: $$\text{Gambit DC} =8 + \text{your proficiency bonus} + \text{your Intelligence or Dexterity mod (your choice)}$$
 ##### Special Powders
@@ -41,7 +41,7 @@ Scoundrels see the potency of firearms as an excellent way to complement their s
 > Choose one of the following passives ()
 #### Caliber Feature
 ##### Artillerist
-When you hit an attack with a firearm, roll a percentile dice. If the number rolled is equal to or lower than your level the attack critically hits. 
+When you hit an attack with a firearm, roll percentile dice. If the number rolled is equal to or lower than your level the attack critically hits. 
 
 ##### Outlaw
 Each time you kill an enemy creature you earn a point. When you reload a firearm, you use all the points you've accumulated. For each point, the same number of initial bullets fired from that firearm will deal an additional die of damage.
@@ -68,6 +68,12 @@ The reloading speed of firearms are significantly reduced for you.
 
 ### Level 15
 ---
+> Massive power boost
+> Echo Knight: Reclaim potential (shit ton of temp HP)
+> Battlemaster: Near infinite maneuvers
+> Eldritch Knight: Lesser, 30ft teleport when action surging
+> Champion: Lesser, crit on 18 or higher
+> Psi: Busted defence buff for EVERYONE as a bonus action
 
 
 
@@ -76,12 +82,16 @@ The reloading speed of firearms are significantly reduced for you.
 ### Calibre Feature
 #### Outlaw
 
+#### Scoundrel
 
+#### Artillerist
+Instead of attack action, attack once with advantage. Autocrit on hit. If a normal crit hits, its a tripple crit
 # Gambits
 ---
 > Gambits should be actives
 ### Bug Out
 When a firearm you are wielding runs out of ammunition your movement speed increases by 10ft. until the end of your turn.
+*note: procs twice if used at later levels*
 
 ### Combat Roll
 On the same turn that you make an attack with a firearm or use any action to reload a firearm you may move up 15ft. in a straight line as a bonus action. This movement does not provoke opportunity attacks, and any held action that you would trigger with this movement is instead triggered immediately at the end of your turn.

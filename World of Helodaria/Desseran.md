@@ -32,7 +32,14 @@ For a great part of the Age of Ascension, Desseran acted as the capital for the 
 When Thay split into its smaller city states, the center of the empire maintained its control in Desseran. The Zhulkir council
 
 ### The Fall
-As demonic forces grow in the west the red wizards begin to grow weaker and other forces raise against the thingy
+As demonic forces grow in the west the red wizards begin to grow weaker and other forces raise against the thingy. The god emperors returned and went across the continent battling the foes they found.
+
+During this time the war for the [[Nightshade Peaks]] was fought which culminated in the death of [[Unnamed Avatar of the Bahamut]] and the loss of the [[Heart of the Abyss]].
+
+### Something should happen here
+
+### Modern Day
+
 
 
 
