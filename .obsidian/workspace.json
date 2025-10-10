@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oriothar the Monarch.md",
+                "file": "World of Helodaria/Dragons of Helodaria.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oriothar the Monarch"
+              "title": "Outline of Dragons of Helodaria"
             }
           },
           {
@@ -376,8 +376,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18ba83968f35c37d",
+  "active": "0054f9d005d45423",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Oriothar the Monarch.md",
     "Gunslinger Fighter Archetype.md",
     "World of Helodaria/Helodarian Firearms.md",
     "World of Helodaria/Kanan Einzbern.md",
@@ -386,8 +391,6 @@
     "World of Helodaria/Caede.md",
     "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Isilme Vanariel.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Oriothar the Monarch.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Primordials.md",
     "Primevals.md",
@@ -401,9 +404,6 @@
     "Timeline.md",
     "World of Helodaria/History of Helodaria.md",
     "Unnamed Avatar of the Bahamut.md",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Desseran Apostolate.md",
-    "World of Helodaria/Kenifria.md",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
