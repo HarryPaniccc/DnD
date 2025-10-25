@@ -13,6 +13,7 @@ This document serves a list of dragons as well as other notes about them. I may 
 - [[Zakuul]] - Adult/ancient blue dragon who was imprisoned below [[Mountreach]]
 - [[Roshuldra the Ivy Horror]] - Adult green dragon **slain** by the [[Vanguard]]
 - [[Imvaernarhro]] - The Ancient Red of [[Anaroth the Sun Mountains|the Sun Mountains]] and guardian of the [[Heart of the Abyss]]
+- [[Breathtaker]] - Young green dragon living in the [[Nethendell]] valley
 #### Dragons of the [[Maghlas Mountains]]
 - [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] - Ancient red Dragon and [[Duvan'ahr the Sleeping Odium|Bane of Steinwalde]]
 - [[Oriothar the Monarch]] - Adult red dragon laired near [[Steinwalde]] in the [[Maghlas Mountains]], leader of the 813 PF armada attacking the realm.

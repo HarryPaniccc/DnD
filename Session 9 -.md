@@ -4,9 +4,10 @@
 ---
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
-- Last session these things happened
-- This is important because
-- And then this
+- Having secured the refugee camp from the Ankheg nest threat that lay within the abandoned mines surrounding the camp, the party was given a new objective: Petition [[Castle Sungrand]] for aide so that the refugees might be protected from the roving bands of the [[Khalar'hok]].
+- The party set out into the wilderness, deciding to cut through the forest separating the top and bottom halves of the Nethendell valley
+- After encountering and nearly decimatinga patrol of hobgoblin scouts led by a bugbear captain, the scouts raised the alarm to other patroling parties by blowing on a warhorn
+- Now, flying from the scene of the battle, attempting to lose their persuers, the group flees deeper into the forest.
 
 ### Opening Monologue
 > The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
@@ -41,9 +42,28 @@ The war chief is guarded by the rampart
 ##### **ENCOUNTER** - Hobgoblin Rangers
 - 3 x Hobgoblins and a worg
 
+### Overrun Druid Grove
+The young green dragon [[Breathtaker]] is impersonating the druid Trina Willowwealth. A thicket of magical thorny bushes wraps around the crumbling ruins of an elven mousoleum, clearly unkept. There is a feeling of unease surrounding the region.
 
+The druidess will be welcoming to the travellers, attempting to lure them in to her clutches with teas poisoned with 
+
+##### **ENCOUNTER** - Young Green Dragon [[Breathtaker]]
+HP: 260
+
+**Loot**: 800 sp, 150 gp, four silver goblets set with moonstones (60 gp each), a *scroll of misty step*, and a *scroll of lightning bolt*.
 
 # [[Castle Sungrand]]
 ---
 Something else happens
+
+The guards of Castle Sungrand are well trained soldiers, so they will fight in rank as best they can in order to control a battle field. They also have the *pack tactics* trait.
+
+Armed soldiers guard checkpoints on the road and smaller watchtowers within 2 hexes of the castle. Typically a squad is a group of five guards and one or two veterans.
+
+On the road, a **knight** will lead two veterans and seven guards, three of which have pikes instead of spears and shields.
+
+### The Castle Grounds
+The walls of the castle stand some 15 feet tall at most places, with an inner balcony and positions for archers. The castle itself is surrounded by a thick, marshy moat, bridged by a think wooden walkway that can easily be collapsed. The grounds are well kept and inside there are the signs of life that come with any equipped army: soldiers running drills, pigs and chickens minding their feed, horses being tended to.
+
+The inner walls are taller, as the outer appears to have been erected to surround the homes in recent years. The inner keep is impressive and entirely stone, with a steel portcullis that can fall over large wooden doors. The small size of the fortress makes it clear to anyone that it is very defensible, especially given the mounted soldiers and those running formation.
 
