@@ -140,8 +140,6 @@ Marthirion's statblock is that of a hybrid of 2014 and 2024 [[Mummy Lord]]. Key 
 - Legendary actions are as 2014 version, except the **Attack** legendary action is allows the use of *Channel Negative Energy*.
 - No **Whirlwind of Sand** legendary action
 
-
-
 # Finding the [[Ley Lines|Ley Line]] Nexus
 ---
 Temple of elemental chaos, Temple to the [[Tharizdun]], [[Tharizdun|Elder Elemental Eye]], has been constructed over a nexus where the four elemental planes cross the [[Material Plane]]. Here, someone attuned to a particular element can connect to that plane and travel through it, but the darkness of the elder god must be disrupted.

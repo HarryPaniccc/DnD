@@ -4,142 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "63722f93b03a1631",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8 - Trembling Earth"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "329857d450fe056f",
+            "id": "cd1493f91885a669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 9 -.md",
+                "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 -"
+              "title": "Session 87 - An Element of Truth"
             }
           },
           {
-            "id": "c7225a0910eb1ee7",
+            "id": "ca5fe06786311032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Stark House Equivalent.md",
+                "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Stark House Equivalent"
+              "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
             }
           },
           {
-            "id": "b8045e4f5942ad99",
+            "id": "2d8b02946de1be74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Great Houses RENAME.md",
+                "file": "World of Helodaria/Vasspryg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Great Houses RENAME"
+              "title": "Vasspryg"
+            }
+          },
+          {
+            "id": "4859a2c24bd1b882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trayfort Keep"
+            }
+          },
+          {
+            "id": "cf659896fed91343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Tharizdun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tharizdun"
+            }
+          },
+          {
+            "id": "55c5dc165ceb4577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "2e2243741491fcc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90ece501fe88fb08",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/bestiary.html#undead%20bulette_wdmm",
-                "title": "Undead Bulette - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Undead Bulette - 5etools"
-            }
-          },
-          {
-            "id": "700c6a84ab2ccd34",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#worg_mm",
-                "title": "Worg - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Worg - 5etools"
-            }
-          },
-          {
-            "id": "06438bd16e323cf4",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/index.html",
-                "title": "5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "5etools"
-            }
-          },
-          {
-            "id": "ddf34ada6d3af480",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/Red Hand of Doom.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Red Hand of Doom"
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +139,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -171,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elemental",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +164,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -196,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -206,7 +187,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -228,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +218,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Notes and Ideas"
+              "title": "Backlinks for Uldronos Council"
             }
           },
           {
@@ -247,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -262,7 +242,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -274,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Session 999 - Temple of Elemental Evil and Wind and Stuff"
             }
           },
           {
@@ -302,7 +284,6 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -319,7 +300,35 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -329,11 +338,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 365.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -349,34 +358,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "700c6a84ab2ccd34",
+  "active": "ca5fe06786311032",
   "lastOpenFiles": [
-    "Attachments/Red Hand of Doom.pdf",
-    "Session 9 -.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
+    "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Vasspryg.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Marthirion.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "World of Helodaria/Desseran.md",
+    "World of Helodaria/Eranulaid History.md",
+    "Session 10 -.md",
+    "Session 9 - Vraath Keep.md",
+    "Unnamed Stark House Equivalent.md",
     "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Attachments/Red Hand of Doom.pdf",
     "Great Houses RENAME.md",
     "World of Helodaria/Nethendell.md",
     "Thread of Deceit.md",
     "World of Helodaria/Dragons of Helodaria.md",
-    "General Notes and Ideas.md",
     "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Oriothar the Monarch.md",
     "Gunslinger Fighter Archetype.md",
     "World of Helodaria/Helodarian Firearms.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Silb Heft.md",
-    "World of Helodaria/Dusk.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Primordials.md",
-    "Primevals.md",
-    "World of Helodaria/Zitrumean Empire.md",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",

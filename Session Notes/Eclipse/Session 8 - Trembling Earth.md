@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 7 - A Den of Chitin]]
-**Subsequent Session:** [[Session 9 - ]]
+**Subsequent Session:** [[Session 9 - Vraath Keep]]
 ## Post Mortem
 **Vanadrahs 13th**
 - The party defeated a Bulette while exploring the entrance to the [[Underdark]] at the end of the Ankheg nest

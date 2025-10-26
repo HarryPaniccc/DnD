@@ -1,13 +1,11 @@
-**Previous Session:** [[Session 8 - Trembling Earth]]
+**Previous Session:** [[Session 9 - Vraath Keep]]
 **Subsequent Session:**
 ## Post Mortem
 ---
+
+
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
-- Having secured the refugee camp from the Ankheg nest threat that lay within the abandoned mines surrounding the camp, the party was given a new objective: Petition [[Castle Sungrand]] for aide so that the refugees might be protected from the roving bands of the [[Khalar'hok]].
-- The party set out into the wilderness, deciding to cut through the forest separating the top and bottom halves of the Nethendell valley
-- After encountering and nearly decimatinga patrol of hobgoblin scouts led by a bugbear captain, the scouts raised the alarm to other patroling parties by blowing on a warhorn
-- Now, flying from the scene of the battle, attempting to lose their persuers, the group flees deeper into the forest.
 
 ### Opening Monologue
 > The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.

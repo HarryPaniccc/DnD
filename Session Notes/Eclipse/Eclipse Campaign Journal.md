@@ -81,6 +81,7 @@ The group start in a ransacked town and fight their way out, looking to find som
 
 ### Sessions
 Presented in reverse chronological order
+- [[Session 9 - Vraath Keep]]
 - [[Session 8 - Trembling Earth]]
 - [[Session 7 - A Den of Chitin]]
 - [[Session 6 - Ambushes in the Dark]]
