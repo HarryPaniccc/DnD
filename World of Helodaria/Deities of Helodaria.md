@@ -18,7 +18,7 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 | **[[Lathander]]**,  The Lord of Dawn  | The Sun, Healing, Beginnings       | The sun, sometimes rising over a field      | Life, Light                   |
 | **[[Moradin]]**, The All Hammer       | Craft, Creation, Work and Dwarves  | An anvil and hammer                         | Knowledge, Forge              |
 | **[[Sehanine]]**, The Moonsong        | The Moon, Dreams and Travel        |                                             | Knowledge, Trickery, Twilight |
-| **[[The Raven Queen]]**               | Death and Fate                     |                                             | Death, Grave                  |
+| **[[The Raven Queen]]**               | Death and Fate                     | A raven's head or outline                   | Death, Grave                  |
 | **[[Tyr]]**, The Lawbearer            | Justice, Law and Civilisation      | A double sided halberd holding a scale      | Order, War                    |
 | [[Umberlee]], The Stormweaver         | The Sea and Storms                 |                                             | Tempest, Nature               |
 - [[Bahamut]], The Platinum Dragon - God of Good and Justice. (LG)

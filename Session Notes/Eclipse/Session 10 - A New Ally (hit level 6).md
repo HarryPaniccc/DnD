@@ -1,25 +1,38 @@
-**Previous Session:** [[Session 8 - Trembling Earth]]
-**Subsequent Session:** [[Session 10 - ]]
+**Previous Session:** [[Session 9 - Vraath Keep]]
+**Subsequent Session:** [[Session 11 - Approach of Castle Sungrand]]
 ## Post Mortem
 ---
-
+**Vanadrahs 15th**
+- [[Vraath Keep]]'s guards are slain and loot begins to be claimed
+- A letter written in Draconic is found which describes [[Lord Tormon]]'s illness being the cause of poison, and an expression that [[Lord Eskel Tormon]] is perceived as weak.
+- The party finds [[Swift]] the wood elf monk being tortured by a half dragon
+- Flee the keep and set up camp trying to hide from the scouts searching for them
+- During the rest, a random encounter is triggered, drawing the attention of [[Castle Sungrand]] soldiers
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
-- Having secured the refugee camp from the Ankheg nest threat that lay within the abandoned mines surrounding the camp, the party was given a new objective: Petition [[Castle Sungrand]] for aide so that the refugees might be protected from the roving bands of the [[Khalar'hok]].
-- The party set out into the wilderness, deciding to cut through the forest separating the top and bottom halves of the Nethendell valley
-- After encountering and nearly decimatinga patrol of hobgoblin scouts led by a bugbear captain, the scouts raised the alarm to other patroling parties by blowing on a warhorn
-- Now, flying from the scene of the battle, attempting to lose their persuers, the group flees deeper into the forest.
+- During their journey to ask for help from the military fortress in the region, [[Castle Sungrand]], the party managed to acquire the attention of the scouting presence of the [[Khalar'hok]] in the forest known as [[Arden's Vale]]
+- Having spent a day sculking through the forest, avoiding being detected by the goblinoid forces, the party eventually came across a small keep currently held by the enemy
+- The group decided to assault the fortress and claim it for themselves. Using clever tactics and their magical items, a bloody battle broke out in which the leader of the keep, an unnammed sorcerer, fell to the power of a moonbeam. Now, the melee continues, as we return to combat
 
 ### Opening Monologue
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+> Overhead, the sun begins to make its way down towards the horizon. Your heart races in your ear as you clutch your weapon, now slick with the blood of your enemy. Behind you, Cened, Douglas puts his weight against the wall to steady himself.
 > 
-> The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
+> The day is the 15th of *Vanadrahs*, 813, and you catch your breath for another moment, as you ready yourself to kill again. It is the top of the round, and it is your turn.
 
 # Session Start
-- The party is now fleeing through the forest after encountering a hobgoblin patrol and alerting the scouts of Vraath keep to their presence
-- Their goal is to make it to [[Castle Sungrand]] to petition [[Lord Margit Tormon]] for aide for the refugees.
-- They fled deeper into the forest, so they have to deal with both hunters and forest monsters
+- The party is claiming Vraath Keep from those that remain there
+
+# Vraath Keep Battle
+---
+The remaining goblin will begin to flee on his worg to find allied hunting parties to converge on the keep and slay those who have taken it from them
+
+##### **ENCOUNTER**: Returning Raiders - Hobgoblin Captain, Manticore, Bugbears x 3, goblins x 5
+If the party remains in the area for longer than two hours, an escaped goblin can report to the captain of the nearest forward camp preparing to assault [[Castle Sungrand]].
+
+# [[Swift]] In Chains
+---
+Beneath the manticore nest there exists a dimly lit dungeon, in which Swift is being tortured by a **Half-White Dragon Veteran**. 
 
 # Through the Forest
 ---

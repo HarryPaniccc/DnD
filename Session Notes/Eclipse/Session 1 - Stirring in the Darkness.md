@@ -11,7 +11,7 @@
 > 
 > Our story finds us in the town of [[Nethendell]]. Situated in on the base of a range of mountains that segments the low north of the empire's territories, the citizens of nethendell have been stirred. Talk of orcs and goblins amassing in the hills and surrounding countryside, and the lord of Nethendell having fallen ill in recent months.
 > 
-> Despite is son, [[Lord Eskel Termon]], ensuring the people that the town would hold against invasion, a nearby village, known as [[Pallidmoore]], has fallen to invasion, a few survivors making their way to Nethendell. It took only days, but inevitably, the horde made its way to the larger town. The ensuing raid was a slaughter, houses being torched, people fleeing, and defences only truly beginning to hold surrounding the citymaster's manor.
+> Despite is son, [[Lord Eskel Tormon]], ensuring the people that the town would hold against invasion, a nearby village, known as [[Pallidmoore]], has fallen to invasion, a few survivors making their way to Nethendell. It took only days, but inevitably, the horde made its way to the larger town. The ensuing raid was a slaughter, houses being torched, people fleeing, and defences only truly beginning to hold surrounding the citymaster's manor.
 ### Opening Monologue
 
 > The surrounds you find yourself in are cold, hard stone. Unforgiving and cruel. No sunlight seen these halls in hundreds of years. One thing is for certain. If you remain here, you know you will die.

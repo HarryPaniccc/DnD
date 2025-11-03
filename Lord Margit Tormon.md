@@ -4,4 +4,4 @@ tags:
 aliases:
   - Margit Tormon
 ---
-Cousin to [[Lord Eskel Termon]], leader of [[Castle Sungrand]]
+Cousin to [[Lord Eskel Tormon]], leader of [[Castle Sungrand]]

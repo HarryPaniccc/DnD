@@ -12,7 +12,7 @@
 **Much has happened** these past days, too much to tell now, but here is what is most important.
 - Fighting their way through the sewers of the beseiged city of [[Nethendell]], our band of adventurers came across a new ally in the form of [[Douglas Dier]], trapped by a nest of phase spiders.
 - After following [[Ignis|Ignis']] understandings of the underground sewer system, the group came across a wounded knight, dressed in quality plate and wielding a magical blade
-- The knight named himself [[General Den'rael]], a man sworn to [[King Trygon]]. He claimed to have been a part of the council of [[Lord Eskel Termon]], and has been helping refugees escape the city for the past few days.
+- The knight named himself [[General Den'rael]], a man sworn to [[King Trygon]]. He claimed to have been a part of the council of [[Lord Eskel Tormon]], and has been helping refugees escape the city for the past few days.
 - After giving you the edict that you must find a mage named [[Tira Stone]] and deliver to her a message: "The blood wavers when the storm approaches", and then gave you an opening to fly from the city by leading a group of hobgoblin raiders away.
 - Now, after camping in the woods, you follow a silver falcon, hoping this to be some kind of sign that could lead you to safety.
 

@@ -4,123 +4,135 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "770d2990c53200d2",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "08389105e0321ab7",
+            "id": "e02f049c80954426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Session 10 - A New Ally (hit level 6)"
             }
           },
           {
-            "id": "cd1493f91885a669",
+            "id": "53c43ad63765bd3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 87 - An Element of Truth"
+              "title": "Session 11 - Approach of Castle Sungrand"
             }
           },
           {
-            "id": "ca5fe06786311032",
+            "id": "39a1207e74aca9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                "file": "Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
+              "title": "Castle Sungrand"
             }
           },
           {
-            "id": "2d8b02946de1be74",
+            "id": "b8045e4f5942ad99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Great Houses RENAME.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vasspryg"
+              "title": "Great Houses RENAME"
             }
           },
           {
-            "id": "4859a2c24bd1b882",
+            "id": "ddf34ada6d3af480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Red Hand of Doom.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "icon": "lucide-file-text",
+              "title": "Red Hand of Doom"
             }
           },
           {
-            "id": "cf659896fed91343",
+            "id": "860c2a137915e1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Tharizdun.md",
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tharizdun"
+              "title": "Deities of Helodaria"
             }
           },
           {
-            "id": "55c5dc165ceb4577",
+            "id": "076c84925b9b4e81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "file": "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rylai Sweetsong"
+              "title": "Session 9 - Vraath Keep"
+            }
+          },
+          {
+            "id": "054e66e8d67bb8dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Item Pricing + Crafting.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic Item Pricing + Crafting"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -152,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elemental",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +176,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -177,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -187,6 +198,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -208,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uldronos Council"
+              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
             }
           },
           {
@@ -227,12 +239,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -242,9 +254,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -256,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 999 - Temple of Elemental Evil and Wind and Stuff"
+              "title": "Outline of Session 11 - Approach of Castle Sungrand"
             }
           },
           {
@@ -279,11 +289,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
+        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -300,35 +312,7 @@
             }
           },
           {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
+            "id": "c68b5dcf4c07320d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -338,12 +322,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,35 +341,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ca5fe06786311032",
+  "active": "53c43ad63765bd3f",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
-    "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Vasspryg.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Marthirion.md",
-    "World of Helodaria/Synod of Elevation.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Eranulaid History.md",
-    "Session 10 -.md",
-    "Session 9 - Vraath Keep.md",
-    "Unnamed Stark House Equivalent.md",
-    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Attachments/Red Hand of Doom.pdf",
     "Great Houses RENAME.md",
-    "World of Helodaria/Nethendell.md",
-    "Thread of Deceit.md",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
-    "Oriothar the Monarch.md",
-    "Gunslinger Fighter Archetype.md",
-    "World of Helodaria/Helodarian Firearms.md",
+    "Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Magic Item Pricing + Crafting.md",
+    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Items/Potion of Hill Giant Strength.md",
+    "General Notes and Ideas.md",
+    "Unnamed Stark House Equivalent.md",
+    "Statblocks/Human Brawler.md",
+    "Statblocks/Human Knave.md",
+    "Attachments/Pasted image 20251101141017.png",
+    "Attachments/Pasted image 20251101140935.png",
+    "Esme Stumpstride.md",
+    "World of Helodaria/Brocia.md",
+    "World of Helodaria/Sirkonos.md",
+    "Attachments/Pasted image 20251101122230.png",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Swift.md",
+    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "World of Helodaria/Lord Eskel Tormon.md",
+    "Mithril Hall.md",
+    "World of Helodaria/Zitrumea.md",
+    "Session Notes/Eclipse/Session 2 - Webs in the Sewers.md",
+    "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
+    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
+    "Session Notes/Eclipse/Session 5 - Into the Mines.md",
+    "Attachments/5E_CharacterSheet_Fillable.pdf",
+    "Attachments/Unconfirmed 466187.crdownload",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",
@@ -399,15 +386,10 @@
     "Attachments/hextml/Unconfirmed 760485.crdownload",
     "Attachments/hextml/Unconfirmed 828147.crdownload",
     "Attachments/Pasted image 20250823201221.png",
-    "Attachments/hextml/Unconfirmed 655795.crdownload",
-    "Attachments/hextml/Unconfirmed 53661.crdownload",
     "Untitled.canvas",
     "Attachments/Estravia perfect.png",
     "Untitled 1.canvas",
     "Attachments/Pasted image 20250701181726.png",
-    "Attachments/Pasted image 20250701181719.png",
-    "Attachments/Pasted image 20250613130505.png",
-    "Attachments/Pasted image 20250613130303.png",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
   ]

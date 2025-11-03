@@ -43,7 +43,7 @@ There 5 humanoid corpses: two paupers, what looks to be a dwarven worker of some
 > Ahead, you hear the sound heavy breathing, like someone trying to catch their breath. It's masked, the man is certainly wearing a heavy helm of some kind. A strange pale light is cast on the walls surrounding the intersection, bright and constant, like a magic light, but sharded, in fragments. And moving, scattering along the wall.
 
 What he knows
-- The lord was a part of [[Lord Eskel Termon]]'s council when the attack came
+- The lord was a part of [[Lord Eskel Tormon]]'s council when the attack came
 - He left to command the defenses but was too late, they were overwhelmed when he arrived at the gates.
 - He has been trying to return to the Tormon keep but only got close enough to see it is still holding out
 - Tell [[Tira Stone]] "The blood wavers when the storm approaches".
