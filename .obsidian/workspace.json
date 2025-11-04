@@ -266,13 +266,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 11 - Approach of Castle Sungrand"
+              "title": "Outline"
             }
           },
           {
@@ -341,12 +340,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53c43ad63765bd3f",
+  "active": "c68b5dcf4c07320d",
   "lastOpenFiles": [
+    "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
     "Attachments/Red Hand of Doom.pdf",
     "Great Houses RENAME.md",
     "Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
     "Magic Item Pricing + Crafting.md",
