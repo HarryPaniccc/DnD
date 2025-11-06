@@ -1,12 +1,16 @@
 
 ---
-# Prejudice | Dagger of Acid
-*Weapon (dagger), rare*
-You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+# Potion of Hill Giant Strength
+*Potion, Uncommon*
+When you drink this potion, your Strength score changes to 21 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
 
-You can use an action to cause thick, green acid to coat the blade. The acid remains for 1 minute or until an attack using this weapon hits a creature. That creature must succeed on a DC 15 Dexterity saving throw or take 2d10 acid damage and have their armor class be reduced by 2 for 1 minute. The dagger can't be used this way again until the next dawn.
-
-> A heartbeat can be a death sentence, if it is being used to spread poison. One's own sign of life, killing them.
+> A sliver of a hill giant's fingernail is suspended in this potion, and the foul stench renders it unpleasant to swallow.
 
 ---
+# Ring of Protection
+*Ring, Rare, Requires Attunement*
+You gain a +1 bonus to your AC and Saving Throws while wearing this ring.
 
+> I never did trust elves. Something about knowing that they will outlast you makes me feel like they're just waiting until we die to reveal their true colours.
+
+---

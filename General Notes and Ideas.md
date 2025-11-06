@@ -7,6 +7,9 @@ tags:
 >### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
+- [ ] Kobolds
+- [ ] Wraiths
+- [ ] Hell Hounds
 - [ ] Rudolph von Richten
 - [ ] Portcullis
 - [ ] Owlbear

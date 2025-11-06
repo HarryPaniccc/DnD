@@ -17,6 +17,8 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - [[Emile Greenhill]] - Square jaw human man with a fanciful mustache. Emile is a provisions merchant.
 # Locations
 ### Inner Keep
+- **Meeting Chamber**. The dark, spacious, stone room where [[Lord Margit Tormon]] holds his councils and assemblies. The chamber is supported by four thick pillars and exists after an antechamber into the keep itself. The ceiling is around 10ft tall so the room does not sacrifice efficiency for grandiosity.
+### Central Wall
 - **Smithy and Armorer** - At the entrance to the keep sits a two storied structure with a forge at the bottom that is backed up with repairing weapons. Master smith **half orc** [[Melgron the Smith]] has taken on half a dozen apprentices along with his usual labourers to make up for the additional work. 
 	  *Services*: Not much magical work can be done, but they have seen a few in their day. Masterworked weapons can be repaired or appraised.
 - **[[Borderlands Inn]]** - A three-storied structure overlooking the well in the square of the keep. The bottom is a large tavern, once filled with travellers through the region, now occupied mostly by soldiers bearing Tormon colours. Run by [[Esme Stumpstride]].
@@ -26,6 +28,6 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 		- 10 healing potions (50 Gp)
 		- 5 Greater healing potions (125 Gp)
 		- [[Potion of Hill Giant Strength]] (350 Gp)
-		- 
+
 ### Outer Village
 - 

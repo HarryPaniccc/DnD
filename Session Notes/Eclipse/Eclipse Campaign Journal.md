@@ -57,9 +57,9 @@ Organ
 # Plot Summary
 The town of [[Nethendell]] sits on the southern side of the pass that separates the northern [[Zitrumea]] regions from the central. Living in the shadow of the [[Tower of Yierdur]], the people of Nethendell have lived a peaceful life. The town is built above an ancient temple to [[Sehanine]].
 
-Talk of Orcs in the surrounding hills have sent a stir among the townsfolk, and though the lord vassal of Nethendell has fallen ill, his son, [[Lord Eskel Tormon]], has assured the townsfolk of safety. A false hope, as the village of [[Pallidmoore]] near the town fell to an army of goblins, and now the town has come under seige by the same army, the [[Khalar'hok]], lead by [[Bloodlord Mehron]] with whome Eskel is in league.
+Talk of Orcs in the surrounding hills have sent a stir among the townsfolk, and though the lord vassal of Nethendell, [[Lord Sirius Tormon]] has fallen ill, his son, [[Lord Eskel Tormon]], has assured the townsfolk of safety. A false hope, as the village of [[Pallidmoore]] near the town fell to an army of goblins, and now the town has come under seige by the same army, the [[Khalar'hok]], lead by [[Bloodlord Mehron]] with whome Eskel is in league.
 
-Eskel and Mehron seek the [[Mirror of Liraleth]], a source of power said once to be wielded by an elven warrior during the wars of the fall, so that they might corrupt it to use it as a #TODO . Ki Rin pair, one is taken and the other needs help
+Eskel and Mehron seek the [[Mirror of Liraleth]], a source of power said once to be wielded by an elven warrior during the wars of the fall, so that they might corrupt it to use it as a #TODO . Ki Rin pair, one is taken and the other needs help.
 
 Now with Nethendell under seige, the survivors fled to a forgotten mine in a mountain overlooking the valley. Related, a small sect of [[Sehanine]] worshipper elves stalk the land in hiding, maintaining small temples and such to ensure that the mirror remains hidden.
 
@@ -80,11 +80,10 @@ The group start in a ransacked town and fight their way out, looking to find som
 - Escape
 - Find [[Tira Stone]]
 - Help survivors + people
-- Castle guys need to help
-- Maybe make petitioning 
 
 ### Sessions
 Presented in reverse chronological order
+- [[Session 12 - The Clock Strikes Twelve]]
 - [[Session 11 - Castle Sungrand]]
 - [[Session 10 - A New Ally (hit level 6)]]
 - [[Session 9 - Vraath Keep]]

@@ -4,7 +4,7 @@
 ---
 **Vanadrahs 15th**
 - [[Vraath Keep]]'s guards are slain and loot begins to be claimed
-- A letter written in Draconic is found which describes [[Lord Tormon]]'s illness being the cause of poison, and an expression that [[Lord Eskel Tormon]] is perceived as weak.
+- A letter written in Draconic is found which describes [[Lord Sirius Tormon]]'s illness being the cause of poison, and an expression that [[Lord Eskel Tormon]] is perceived as weak.
 - The party finds [[Swift]] the wood elf monk being tortured by a half dragon
 - Flee the keep and set up camp trying to hide from the scouts searching for them
 - During the rest, a random encounter is triggered, drawing the attention of [[Castle Sungrand]] soldiers

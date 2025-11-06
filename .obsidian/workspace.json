@@ -22,45 +22,17 @@
             }
           },
           {
-            "id": "e02f049c80954426",
+            "id": "4ffd6c1018f8ed29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+                "file": "Session 12 - The Clock Strikes Twelve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10 - A New Ally (hit level 6)"
-            }
-          },
-          {
-            "id": "be742bff3b524194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11 - Castle Sungrand"
-            }
-          },
-          {
-            "id": "39a1207e74aca9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castle Sungrand"
+              "title": "Session 12 - The Clock Strikes Twelve"
             }
           },
           {
@@ -76,21 +48,21 @@
             }
           },
           {
-            "id": "054e66e8d67bb8dc",
+            "id": "39a1207e74aca9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Item Pricing + Crafting.md",
-                "mode": "preview",
+                "file": "World of Helodaria/Castle Sungrand.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Item Pricing + Crafting"
+              "title": "Castle Sungrand"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -224,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+                "file": "Session 12 - The Clock Strikes Twelve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 11 - Castle Sungrand"
+              "title": "Outline of Session 12 - The Clock Strikes Twelve"
             }
           },
           {
@@ -247,8 +220,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -300,38 +272,37 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "be742bff3b524194",
+  "active": "4ffd6c1018f8ed29",
   "lastOpenFiles": [
-    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
-    "Magic Item Pricing + Crafting.md",
-    "Session Notes/Age of Wounds/Age of Wounds Campaign Journal.md",
-    "World of Helodaria/Age of Wounds.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "World of Helodaria/Castle Sungrand.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "World of Helodaria/Kalanor.md",
+    "Session 12 - The Clock Strikes Twelve.md",
     "Attachments/Red Hand of Doom.pdf",
-    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "Swift.md",
+    "Magic Item Pricing + Crafting.md",
+    "World of Helodaria/Castle Sungrand.md",
     "World of Helodaria/Deities of Helodaria.md",
-    "Great Houses RENAME.md",
-    "Oriothar the Monarch.md",
-    "Session 999 - Dragonfire.md",
-    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
-    "World of Helodaria/Dragons of Helodaria.md",
     "Items/Potion of Hill Giant Strength.md",
     "General Notes and Ideas.md",
-    "Unnamed Stark House Equivalent.md",
-    "Statblocks/Human Brawler.md",
-    "Statblocks/Human Knave.md",
+    "Lord Sirius Tormon.md",
+    "Items/Dagger of Venom.md",
+    "prejdu.md",
+    "Templates/Deity Template.md",
+    "World of Helodaria/Ealendar.md",
+    "World of Helodaria/Parcival Grimbourne.md",
+    "Great Houses RENAME.md",
+    "Junk 1.md",
+    "Ring of Protection.md",
+    "Potion of Healing.md",
+    "World of Helodaria/Cened.md",
+    "World of Helodaria/Ilmater.md",
+    "Session Notes/Age of Wounds/Age of Wounds Campaign Journal.md",
+    "World of Helodaria/Age of Wounds.md",
     "Attachments/Pasted image 20251101141017.png",
     "Attachments/Pasted image 20251101140935.png",
-    "Esme Stumpstride.md",
-    "World of Helodaria/Brocia.md",
-    "World of Helodaria/Sirkonos.md",
     "Attachments/Pasted image 20251101122230.png",
-    "Swift.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
     "Attachments/5E_CharacterSheet_Fillable.pdf",
     "Attachments/Unconfirmed 466187.crdownload",
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
