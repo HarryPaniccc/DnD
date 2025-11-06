@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 9 - Vraath Keep]]
-**Subsequent Session:** [[Session 11 - Approach of Castle Sungrand]]
+**Subsequent Session:** [[Session 11 - Castle Sungrand]]
 ## Post Mortem
 ---
 **Vanadrahs 15th**

@@ -20,6 +20,7 @@ Organ
 - [[Dual Shortswords]]
 - [[Armour of Sehanine]] (mistcloak invisibility thing)
 - [[Jewel of Sehanine or somesuch shit]]
+- [[Ring of Protection]]
 - [[Scrying Eye]]
 - [[Blood Spear]] (CoS item)
 - [[Arrow-Catching Shield]]
@@ -84,7 +85,7 @@ The group start in a ransacked town and fight their way out, looking to find som
 
 ### Sessions
 Presented in reverse chronological order
-- [[Session 11 - Approach of Castle Sungrand]]
+- [[Session 11 - Castle Sungrand]]
 - [[Session 10 - A New Ally (hit level 6)]]
 - [[Session 9 - Vraath Keep]]
 - [[Session 8 - Trembling Earth]]

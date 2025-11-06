@@ -1,5 +1,11 @@
 **Previous Session:** [[Session 10 - A New Ally (hit level 6)]]
 **Subsequent Session:** [[Session 12 - ]]
+
+>[!TODO]
+>Print the stuff
+>MAGIC ITEMS
+>Idk
+
 ## Post Mortem
 ---
 
@@ -30,6 +36,12 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 ---
 On the road, a **knight** will lead two veterans and seven guards, three of which have pikes instead of spears and shields.
 
+### What the soldiers know
+- **Garette** is the captain of the expidition. He belives that [[Kalir Windguard]] fled the castle, defying [[Lord Margit Tormon|Margit Tormon]] in order to gain some upper hand on the [[Khalar'hok]]
+- The soldiers all believe Kalir is dead or fled as a coward. He was a great leader and would have been useful, but the general must have been disposed of or fled when she saw the odds.
+
+> [[Kalir Windguard]], hero of Sungrand, had heard of the approaching masses once [[Pallidmoore]] had been attacked. She, as well as her allies and adventuring companions, set out to learn more about the oncoming threat. [[Lord Margit Tormon|Margit Tormon]] allowed her to go, but not engage, under orders of [[Canon Valaris]].
+
 # Castle Sungrand
 ---
 [[Castle Sungrand]] is currently under lockdown. Under the region two ish hexes around the castle, and the perimeter of the forest, is patrolled by squads of soldiers under the command of [[Lord Margit Tormon|Margit Tormon]].
@@ -46,5 +58,6 @@ The inner walls are taller, as the outer appears to have been erected to surroun
 [[Canon Valaris]] is acting as an advisor to [[Lord Margit Tormon|Margit Tormon]]'s army
 
 ##### **ENCOUNTER**: Wraith assasins - 3 X Wraiths in the night
+The wraiths are [[Kalir Windguard]] and her followers. She still wears her [[Ring of Protection]], making her harder to slay. The wraiths will attack at midnight.
 
 

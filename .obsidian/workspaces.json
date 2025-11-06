@@ -221,7 +221,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 287
+        "width": 268.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -363,7 +363,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 321.5
+        "width": 268.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -379,7 +379,7 @@
         }
       },
       "active": "18ba83968f35c37d",
-      "mtime": "2025-09-13T10:31:44+02:00"
+      "mtime": "2025-11-05T20:22:31+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -4055,59 +4055,45 @@
                 }
               },
               {
-                "id": "84cf215fea2cc9bb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 8 - Trembling Earth"
-                }
-              },
-              {
-                "id": "329857d450fe056f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session 9 - Vraath Keep.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 9 - Vraath Keep"
-                }
-              },
-              {
                 "id": "e02f049c80954426",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 10 -.md",
+                    "file": "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 10 -"
+                  "title": "Session 10 - A New Ally (hit level 6)"
                 }
               },
               {
-                "id": "c7225a0910eb1ee7",
+                "id": "53c43ad63765bd3f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Unnamed Stark House Equivalent.md",
+                    "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Unnamed Stark House Equivalent"
+                  "title": "Session 11 - Approach of Castle Sungrand"
+                }
+              },
+              {
+                "id": "39a1207e74aca9b0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Castle Sungrand.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Castle Sungrand"
                 }
               },
               {
@@ -4123,55 +4109,6 @@
                   "icon": "lucide-file",
                   "title": "Great Houses RENAME"
                 }
-              }
-            ],
-            "currentTab": 3
-          },
-          {
-            "id": "2e2243741491fcc3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "90ece501fe88fb08",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://5e.tools/bestiary.html#undead%20bulette_wdmm",
-                    "title": "Undead Bulette - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Undead Bulette - 5etools"
-                }
-              },
-              {
-                "id": "700c6a84ab2ccd34",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#worg_mm",
-                    "title": "Worg - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Worg - 5etools"
-                }
-              },
-              {
-                "id": "06438bd16e323cf4",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/index.html",
-                    "title": "5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "5etools"
-                }
               },
               {
                 "id": "ddf34ada6d3af480",
@@ -4184,9 +4121,51 @@
                   "icon": "lucide-file-text",
                   "title": "Red Hand of Doom"
                 }
+              },
+              {
+                "id": "860c2a137915e1af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Deities of Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deities of Helodaria"
+                }
+              },
+              {
+                "id": "076c84925b9b4e81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 9 - Vraath Keep"
+                }
+              },
+              {
+                "id": "054e66e8d67bb8dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Item Pricing + Crafting.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Magic Item Pricing + Crafting"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -4243,8 +4222,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 264.5,
-        "collapsed": true
+        "width": 286.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4275,7 +4253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "General Notes and Ideas.md",
+                    "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -4285,7 +4263,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for General Notes and Ideas"
+                  "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
                 }
               },
               {
@@ -4321,13 +4299,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Parcival Grimbourne.md",
+                    "file": "Magic Item Pricing + Crafting.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Eclipse Campaign Journal"
+                  "title": "Outline of Magic Item Pricing + Crafting"
                 }
               },
               {
@@ -4344,7 +4322,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
@@ -4380,24 +4359,23 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 315.5
       },
       "left-ribbon": {
         "hiddenItems": {
           "bases:Create new base": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-5e-statblocks:Open Creature pane": false
         }
       },
-      "active": "e02f049c80954426",
-      "mtime": "2025-10-26T15:11:05+02:00"
+      "active": "054e66e8d67bb8dc",
+      "mtime": "2025-11-05T19:59:00+02:00"
     }
   },
   "active": "Eclipse"
