@@ -4,6 +4,14 @@ tags:
 ---
 Item values need to be somewhat more consistent.
 # Crafting
+Crafting and item by DMG rules and Xanathars takes incredibly long. The sell price of an item is roughly double that of the crafting cost. The crafting time in the DMG gives 25gp per day increment, which is ridiculously slow. *The idea is to quarter or eighth the crafting time.*
+
+In order to craft an item, each 100gp of its **crafting cost** requires one day of work. Depending on the level, hiring a very skillful helper to aid in crafting at maybe 25gp per day can increase the productivity.
+
+>[!Example]
+>For example, Silb's Dwarven Plate was commissioned at 40 000gp selling price. This puts its crafting price probably around the 20k - 25k gp, or, at best when working solo, 200 days of forging.
+>
+>Due to the number of skilled smiths aiding in the process, and the speciality of the forge, it makes sense to assign a large number of people working on the item, so if 5 dwarves worked on the armor, the work would take 40 days to complete $20000 \div 5 = 40$
 ## Components Table
 
 | **Component**      | **Used In**                             | **Value + Notes**                                           |
@@ -16,13 +24,10 @@ Item values need to be somewhat more consistent.
 | [[Cold Iron]]      | Holy Avengers, [[Anathema]]             | Very high? Idk                                              |
 | Phase Spider Venom | [[Phase Spider Poison]]                 | https://www.thievesguild.cc/harvest/creature.php?id=470     |
 ## Item Process
+
 # Pricing
 ## DMG Pricing Table
-- 25 Gp is a day for crafting in DMG
-- 50 Gp per **WORK WEEK** (5 days) in Xanathar's, which is nonsense I think. Crafting cost is half selling cost, so if a sword sells for 200 Gp, it takes 2 days to craft
-- 50Gp value per day?
 - Xanathar's has a magic item ingredients table: Item rarity connected to component CR
-	- Therefore a behir pearl can make a RARE item as it is CR 11
 - There's also a brewing potion of healing section in Xanathar's
 
 | Rarity    | Character Level | Value           |
@@ -32,8 +37,7 @@ Item values need to be somewhat more consistent.
 | Rare      | 5th or higher   | 501-5,000 gp    |
 | Very rare | 11th or higher  | 5,001-50,000 gp |
 | Legendary | 17th or higher  | 50,001+ gp      |
-|           |                 |                 |
-## Values in game
+## Table of Selling Prices
 Calculate based on rarity, amount of uses, half modifier for single-use items, and for utility and power. Different locations have different values.
 
 | Name                                    | Rarity      | Value (Gp)              | Notes                                                                                                       |

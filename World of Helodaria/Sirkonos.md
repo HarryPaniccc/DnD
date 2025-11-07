@@ -14,7 +14,7 @@ Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, 
 
 # History
 ---
-Before the apparent Sirkon royal lineage, the region where Sirkonos now sits as ruled by the [[Thay]].
+Before the apparent Sirkon royal lineage, the region where Sirkonos now sits was ruled by the [[Thay]].
 
 # Geography
 ---

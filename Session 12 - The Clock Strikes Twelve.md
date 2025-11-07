@@ -20,6 +20,7 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 # Session TODO
 - Investigate the cleric's office
 - Attack from wraiths
+- Realize one of the Wraiths is the deceased cleric 
 - [[Ealendar]]'s Splint Armor at Dusk from the blacksmith
 - Fire arrows for [[Cened]]
 - Cloaked figure in the night?

@@ -4,15 +4,15 @@
 ---
 
 ## Introduction
-> "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
-> 
+---
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
 
-## Recap
+### Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- Last session these things happened
-- This is important because
-- And then this
+- [[Kanan Einzbern]] and [[Caede]], chosen of [[The Raven Queen]] have made the long and arduous journey across the [[Faults of North Estravia]], passing through small mountain villages, across a great ancient stone highway, and hopping across a great spiderweb of chasms that score the land
+- Before leaving the faults, the pair, accompanied by the legendary monster hunter [[Rudolph van Richten]], found a small dwarven travelling company, making friends with members of the [[Battlehammer Clan]].
+- Alongside the dwarves, the battled their way through the forward fortification of a Duergar fortress of some kind, where they learned that a clan known as the [[Sunblight Clan|Sunblighters]] have been mining a material known as [[Black Ice]].
+- After parting ways with the dwarven prospectors, the pair found their way, led by Kanan's visions, into and through the cursed chasms of the land. It was there that they came across the remains of an ancestor of Kanan's, and reclaimed his remains and the remains of those he was protecting, as well as his staff, for a proper burial.
 
 ### Opening Monologue
 > The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.

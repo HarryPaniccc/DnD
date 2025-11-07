@@ -4152,8 +4152,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 227.5,
-        "collapsed": true
+        "width": 227.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4289,8 +4288,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 293.5,
-        "collapsed": true
+        "width": 293.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4306,8 +4304,8 @@
         }
       },
       "active": "4ffd6c1018f8ed29",
-      "mtime": "2025-11-06T18:48:39+02:00"
+      "mtime": "2025-11-07T21:42:14+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Kanan Downtime"
 }
