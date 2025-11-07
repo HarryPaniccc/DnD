@@ -6,7 +6,7 @@
       {
         "id": "f6ee7c6f3acda308",
         "type": "tabs",
-        "dimension": 47.174840085287855,
+        "dimension": 54.995499549955,
         "children": [
           {
             "id": "4197be4e659ef1fd",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Item Pricing + Crafting.md",
+                "file": "Magic Item Pricing and Crafting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Item Pricing + Crafting"
+              "title": "Magic Item Pricing and Crafting"
             }
           },
           {
@@ -98,7 +98,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 52.825159914712145,
+        "dimension": 45.004500450045,
         "children": [
           {
             "id": "f1c9f02a19a2f78e",
@@ -143,12 +143,12 @@
             }
           },
           {
-            "id": "70af31682e3a223c",
+            "id": "83e18f2777238384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 999 - Dragonfire.md",
+                "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
                 "mode": "source",
                 "source": false
               },
@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Einzberns.md",
+                "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Einzberns"
+              "title": "Outline of Session 999 - Dragonfire"
             }
           },
           {
@@ -343,7 +343,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
@@ -395,35 +396,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b570b995d66a4f2d",
+  "active": "83e18f2777238384",
   "lastOpenFiles": [
-    "Session 999 - Dragonfire.md",
     "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "Items/Anathema.md",
-    "World of Helodaria/Sirkonos.md",
-    "World of Helodaria/Steinwalde.md",
-    "Magic Item Pricing + Crafting.md",
-    "World of Helodaria/Estravia.md",
-    "World of Helodaria/Faults of North Estravia.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
-    "Session 12 - The Clock Strikes Twelve.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "King Dharn the Blacklock.md",
+    "Magic Item Pricing and Crafting.md",
+    "World of Helodaria/Dragons of Helodaria.md",
+    "World of Helodaria/Frostcleaver.md",
+    "Divine Fetish of the Avatar of Lathander.md",
+    "Fetishes of the Resurgence.md",
+    "Disaton Revelre Capitulum.md",
+    "Divine Fetish of the Avatar of the Raven Queen.md",
+    "Duvan'ahr the Sleeping Odium.md",
+    "World of Helodaria/Dwarf.md",
+    "Great Houses RENAME.md",
+    "Guidelines.md",
+    "Items/Hoardfeller's Cudgel.md",
+    "World of Helodaria/Anaroth the Sun Mountains.md",
+    "Imvaernarhro.md",
+    "Junk 1.md",
+    "World of Helodaria/Mithral Hall.md",
+    "Mistborn Inquisitor Analogue.md",
+    "World of Helodaria/Nalaziegel.md",
+    "Odessa.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Items/Potion of Healing.md",
+    "Primevals.md",
+    "prejdu.md",
+    "World of Helodaria/Prince Boryg the Brash.md",
     "Attachments/Red Hand of Doom.pdf",
-    "Items/Hearthstone.md",
-    "Items/Wastehunter.md",
-    "Items/Chime of Opening.md",
-    "Items/Dagger of Acid.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-    "Swift.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Items/Potion of Hill Giant Strength.md",
     "Attachments/Pasted image 20251101141017.png",
     "Attachments/Pasted image 20251101140935.png",
     "Attachments/Pasted image 20251101122230.png",

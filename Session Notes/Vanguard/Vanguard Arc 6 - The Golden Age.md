@@ -88,7 +88,7 @@ Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from t
 - Overload the chalice and maybe go to the hells?
 
 #### Gear Ideas
-One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing + Crafting]] document too.
+One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing and Crafting]] document too.
 
 - [[+2 Green Dragon Scale Leather Armor]]
 - [[Infernal Compass]]

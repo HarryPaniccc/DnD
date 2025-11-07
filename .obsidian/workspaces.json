@@ -29,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Oriothar the Monarch.md",
+                    "file": "World of Helodaria/Oriothar the Monarch.md",
                     "mode": "source",
                     "source": false
                   },
@@ -164,7 +164,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 10
           }
         ],
         "direction": "vertical"
@@ -183,7 +183,7 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabeticalReverse",
+                    "sortOrder": "alphabetical",
                     "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
@@ -221,7 +221,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 268.5
+        "width": 268.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -300,13 +301,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Oriothar the Monarch.md",
+                    "file": "World of Helodaria/Dragons of Helodaria.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Oriothar the Monarch"
+                  "title": "Outline of Dragons of Helodaria"
                 }
               },
               {
@@ -378,8 +379,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "18ba83968f35c37d",
-      "mtime": "2025-11-05T20:22:31+02:00"
+      "active": "0054f9d005d45423",
+      "mtime": "2025-11-07T23:11:37+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -2266,187 +2267,101 @@
         "type": "split",
         "children": [
           {
-            "id": "b4c44c75995641c6",
-            "type": "split",
-            "dimension": 47.174840085287855,
+            "id": "f6ee7c6f3acda308",
+            "type": "tabs",
+            "dimension": 54.995499549955,
             "children": [
               {
-                "id": "f6ee7c6f3acda308",
-                "type": "tabs",
-                "dimension": 49.32692307692307,
-                "children": [
-                  {
-                    "id": "4197be4e659ef1fd",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Vanguard Campaign Journal"
-                    }
+                "id": "4197be4e659ef1fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "be715f8a455bacc5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Vanguard Arc 6 - The Golden Age"
-                    }
-                  },
-                  {
-                    "id": "b570b995d66a4f2d",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Magic Item Pricing + Crafting.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Magic Item Pricing + Crafting"
-                    }
-                  },
-                  {
-                    "id": "3823f5be1fc0b044",
-                    "type": "leaf",
-                    "state": {
-                      "type": "webviewer",
-                      "state": {
-                        "url": "https://2014.5e.tools/trapshazards.html#blizzard_idrotf",
-                        "title": "Blizzard - 5etools",
-                        "mode": "webview"
-                      },
-                      "icon": "globe-2",
-                      "title": "Blizzard - 5etools"
-                    }
-                  },
-                  {
-                    "id": "143a13702e5b4d68",
-                    "type": "leaf",
-                    "state": {
-                      "type": "webviewer",
-                      "state": {
-                        "url": "https://2014.5e.tools/adventure.html#idrotf,12",
-                        "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools",
-                        "mode": "webview"
-                      },
-                      "icon": "globe-2",
-                      "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools"
-                    }
-                  },
-                  {
-                    "id": "a508cf567da9cb3e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "webviewer",
-                      "state": {
-                        "url": "https://2014.5e.tools/adventure.html#idrotf,12,frost%20giant%20riding%20a%20mammoth,0",
-                        "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools",
-                        "mode": "webview"
-                      },
-                      "icon": "globe-2",
-                      "title": "Icewind Dale - Icewind Dale: Rime of the Frostmaiden - 5etools"
-                    }
-                  },
-                  {
-                    "id": "a98b42f9d925ef21",
-                    "type": "leaf",
-                    "state": {
-                      "type": "webviewer",
-                      "state": {
-                        "url": "https://2014.5e.tools/bestiary.html#duergar%20stone%20guard_mpmm",
-                        "title": "Duergar Stone Guard - 5etools",
-                        "mode": "webview"
-                      },
-                      "icon": "globe-2",
-                      "title": "Duergar Stone Guard - 5etools"
-                    }
-                  }
-                ],
-                "currentTab": 6
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
               },
               {
-                "id": "0c7c343f1aee4fea",
-                "type": "tabs",
-                "dimension": 50.67307692307693,
-                "children": [
-                  {
-                    "id": "4ca1da7fca7de73b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Sirkonos.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Sirkonos"
-                    }
+                "id": "be715f8a455bacc5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "0ab9e66bd4bc3e62",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Steinwalde.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Steinwalde"
-                    }
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 6 - The Golden Age"
+                }
+              },
+              {
+                "id": "b570b995d66a4f2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Magic Item Pricing and Crafting.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "351ba7ee58d63144",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Estravia.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Estravia"
-                    }
+                  "icon": "lucide-file",
+                  "title": "Magic Item Pricing and Crafting"
+                }
+              },
+              {
+                "id": "0ab9e66bd4bc3e62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Steinwalde.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  {
-                    "id": "65016defacf141a4",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "World of Helodaria/Faults of North Estravia.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Faults of North Estravia"
-                    }
-                  }
-                ],
-                "currentTab": 1
+                  "icon": "lucide-file",
+                  "title": "Steinwalde"
+                }
+              },
+              {
+                "id": "351ba7ee58d63144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Estravia.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Estravia"
+                }
+              },
+              {
+                "id": "4ca1da7fca7de73b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Sirkonos.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sirkonos"
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 2
           },
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 52.825159914712145,
+            "dimension": 45.004500450045,
             "children": [
               {
                 "id": "f1c9f02a19a2f78e",
@@ -2477,45 +2392,31 @@
                 }
               },
               {
-                "id": "3549fa02a8678cec",
+                "id": "11b6ea251f0a840c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
+                    "file": "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 85 - Estravian Brigands"
+                  "title": "Session 88 - Duergar Sunblighters"
                 }
               },
               {
-                "id": "d48144273fa68474",
+                "id": "70af31682e3a223c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults.md",
+                    "file": "Session 999 - Dragonfire.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 85.5 - The North Estravian Faults"
-                }
-              },
-              {
-                "id": "32cd2f2562d8f051",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Session 999 - Witches and Dragonfire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 999 - Witches and Dragonfire"
+                  "title": "Session 999 - Dragonfire"
                 }
               },
               {
@@ -2547,7 +2448,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -2682,13 +2583,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Einzberns.md",
+                    "file": "Magic Item Pricing and Crafting.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Einzberns"
+                  "title": "Outline of Magic Item Pricing and Crafting"
                 }
               },
               {
@@ -2705,7 +2606,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
@@ -2741,8 +2643,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5,
-        "collapsed": true
+        "width": 315.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2757,8 +2658,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "32cd2f2562d8f051",
-      "mtime": "2025-09-20T19:45:52+02:00"
+      "active": "b570b995d66a4f2d",
+      "mtime": "2025-11-07T22:44:50+02:00"
     },
     "Silb Downtime": {
       "main": {

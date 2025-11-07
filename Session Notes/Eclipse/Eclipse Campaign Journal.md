@@ -12,6 +12,7 @@ Organ
 - [[Elemental Gem]]
 - [[Chime of Opening]]
 - [[Dagger of Acid]] (Prejudice)
+- [[Thread of Deceit]]
 **Unawarded**
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
@@ -20,7 +21,7 @@ Organ
 - [[Dual Shortswords]]
 - [[Armour of Sehanine]] (mistcloak invisibility thing)
 - [[Jewel of Sehanine or somesuch shit]]
-- [[Ring of Protection]]
+- [[Ring of Protection +1]]
 - [[Scrying Eye]]
 - [[Blood Spear]] (CoS item)
 - [[Arrow-Catching Shield]]

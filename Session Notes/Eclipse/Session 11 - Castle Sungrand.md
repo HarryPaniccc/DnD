@@ -69,6 +69,6 @@ The inner walls are taller, as the outer appears to have been erected to surroun
 [[Canon Valaris]] is acting as an advisor to [[Lord Margit Tormon|Margit Tormon]]'s army
 
 ##### **ENCOUNTER**: Wraith assasins - 3 X Wraiths in the night
-The wraiths are [[Kalir Windguard]] and her followers. She still wears her [[Ring of Protection]], making her harder to slay. The wraiths will attack at midnight.
+The wraiths are [[Kalir Windguard]] and her followers. She still wears her [[Ring of Protection +1]], making her harder to slay. The wraiths will attack at midnight.
 
 

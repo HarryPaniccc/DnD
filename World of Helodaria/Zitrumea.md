@@ -25,7 +25,7 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 
 - [[Redwall]] is a small walled town
 
-- [[Mithril Hall]] is an ancient important dwarf hall in the north of Zitrumea
+- [[Mithral Hall]] is an ancient important dwarf hall in the north of Zitrumea
 
 ## [[Qel-Annura]]
 High elf home city

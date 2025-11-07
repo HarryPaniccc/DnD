@@ -25,7 +25,6 @@
 - Steinwalde siege
 - Meet the Steinwaldi
 
-
 # Warcry of the [[Flamebrands]]
 ---
 > The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But then from over the ridge, a streak of vibrant crimson flows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
@@ -49,3 +48,9 @@ If the battle begins to go south, Oriothar will realize that the obsession that 
 # Hike to the Battle
 ---
 Flamebrands will be hauling their things on a large ornate bridge. 
+
+# Seige
+---
+
+# [[Steinwalde]] at Last
+---
