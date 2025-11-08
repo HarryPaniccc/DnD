@@ -2406,12 +2406,12 @@
                 }
               },
               {
-                "id": "70af31682e3a223c",
+                "id": "83e18f2777238384",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 999 - Dragonfire.md",
+                    "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
                     "mode": "source",
                     "source": false
                   },
@@ -2583,13 +2583,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Magic Item Pricing and Crafting.md",
+                    "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Magic Item Pricing and Crafting"
+                  "title": "Outline of Session 999 - Dragonfire"
                 }
               },
               {
@@ -2643,7 +2643,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 315.5
+        "width": 315.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -2658,8 +2659,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b570b995d66a4f2d",
-      "mtime": "2025-11-07T22:44:50+02:00"
+      "active": "83e18f2777238384",
+      "mtime": "2025-11-08T11:20:38+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3995,8 +3996,7 @@
                   "title": "Castle Sungrand"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -4204,9 +4204,9 @@
           "obsidian-5e-statblocks:Open Creature pane": false
         }
       },
-      "active": "4ffd6c1018f8ed29",
-      "mtime": "2025-11-07T21:42:14+02:00"
+      "active": "25685d0a01d13bf7",
+      "mtime": "2025-11-09T00:07:11+02:00"
     }
   },
-  "active": "Kanan Downtime"
+  "active": "Eclipse"
 }
