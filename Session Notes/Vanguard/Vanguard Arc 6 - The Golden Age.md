@@ -21,7 +21,7 @@ tags:
 **Week 4 (Antumbrahn 16th)**
 - (16th) Caede leaves for [[Strahldale]]
 - Kanan and Caede meet [[Odessa]]
-- (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]].
+- (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]]. They clear [[Vorciln Castle]], meet [[Odessa]] and claim a lot of arms for their soldiers.
 - (21st) [[Darius Nubide]] appears to Rylai in her rooms
 
 
@@ -79,6 +79,8 @@ The PC's are going to be accumulating allies throughout this period.
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
+- [[Session 999 - Dragonfire]]
+- [[Session 88 - Duergar Sunblighters]]
 - [[Session 85.5 - The North Estravian Faults]]
 - [[Session 84 - Travel to Steinwalde]]
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
@@ -94,7 +96,7 @@ One of the primary objectives too is for Kanan to sort out some of his gear on t
 - [[Infernal Compass]]
 - [[Potion of Vampiric Sense]]
 - [[Repeating Crossbow]]
-- 
+- [[Anathema]]
 #### Dragon Problem in Steinwalde
 [[Dragons of Helodaria|Dragon]] season has come early to Steinwalde this generation. The dragons and their usual politics are being fought by the dwarven forces, and the hunt for red dragons is being led by the [[Flamebrands]].
 - [[Oriothar the Monarch]] is currently attempting to take Steinwalde, believing to be pretending to be loyal to [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] with the goal of steal her place.
@@ -118,10 +120,13 @@ Something certainly happens in [[Ralia]].
 
 # [[Caede]]
 ---
+### Repair the [[Leviathan Axe]]
+Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 ### Defences and Staff of [[Trayfort Keep]]
 The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
 
 ### Herald of the [[Deathwatch]]
+
 
 ### Dungeon Delving
 Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]. The castle has been claimed, and the supplies need only be transported back to Ruina.

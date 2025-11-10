@@ -2269,7 +2269,7 @@
           {
             "id": "f6ee7c6f3acda308",
             "type": "tabs",
-            "dimension": 54.995499549955,
+            "dimension": 47.896213183730715,
             "children": [
               {
                 "id": "4197be4e659ef1fd",
@@ -2361,7 +2361,7 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 45.004500450045,
+            "dimension": 52.103786816269285,
             "children": [
               {
                 "id": "f1c9f02a19a2f78e",
@@ -2660,7 +2660,7 @@
         }
       },
       "active": "83e18f2777238384",
-      "mtime": "2025-11-08T11:20:38+02:00"
+      "mtime": "2025-11-09T13:25:08+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3996,7 +3996,8 @@
                   "title": "Castle Sungrand"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -4204,9 +4205,9 @@
           "obsidian-5e-statblocks:Open Creature pane": false
         }
       },
-      "active": "25685d0a01d13bf7",
-      "mtime": "2025-11-09T00:07:11+02:00"
+      "active": "4ffd6c1018f8ed29",
+      "mtime": "2025-11-09T13:24:40+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Kanan Downtime"
 }

@@ -47,8 +47,7 @@ If the battle begins to go south, Oriothar will realize that the obsession that 
 
 # Hike to the Battle
 ---
-Flamebrands will be hauling their things on a large ornate bridge. 
-
+Flamebrands will be hauling their things on a large ornate bridge which allows them
 # Seige
 ---
 
