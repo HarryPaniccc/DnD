@@ -15,6 +15,8 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - [[Melgron the Smith]] - Half-Orc smith. Bald head with vibrant green skin and a well-groomed beard. Fierce tusks and muscle bound in a way few others are. 
 - [[Esme Stumpstride]] - Halfling with a somewhat bulbous nose and chin-length brown hair
 - [[Emile Greenhill]] - Square jaw human man with a fanciful mustache. Emile is a provisions merchant.
+- [[Gothrend Grinda]] - Head cleric at the chapel of [[Ilmater]] and friend to [[Kalir Windguard]]
+- [[Kalir Windguard]] - Fighter hero of castle sungrand. She went missing some time before the attack of [[Pallidmoore]].
 # Locations
 ### Inner Keep
 - **Meeting Chamber**. The dark, spacious, stone room where [[Lord Margit Tormon]] holds his councils and assemblies. The chamber is supported by four thick pillars and exists after an antechamber into the keep itself. The ceiling is around 10ft tall so the room does not sacrifice efficiency for grandiosity.
@@ -22,12 +24,15 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - **Smithy and Armorer** - At the entrance to the keep sits a two storied structure with a forge at the bottom that is backed up with repairing weapons. Master smith **half orc** [[Melgron the Smith]] has taken on half a dozen apprentices along with his usual labourers to make up for the additional work. 
 	  *Services*: Not much magical work can be done, but they have seen a few in their day. Masterworked weapons can be repaired or appraised.
 - **[[Borderlands Inn]]** - A three-storied structure overlooking the well in the square of the keep. The bottom is a large tavern, once filled with travellers through the region, now occupied mostly by soldiers bearing Tormon colours. Run by [[Esme Stumpstride]].
-- **Chapel** - Dungeon undeneath
+- **Chapel** - There is a main central worship chamber of the temple, and a crypt below, as well as a healing infirmary where the acolytes of the chapel work to aid the wounded. In the crypt, an altar to [[Saint Windguard]] 
 - **Provisions Merchant**  - Near the entrance to the courtyard outside of the castle, the provisions merchant's offices sit. [[Emile Greenhill]] has his fair share of goods for sale. He pays some of the people of the town to go corpse picking to find things for his profits. He has two bodyguards, a [[Human Brawler]] and a [[Human Knave]] from **Flee, Mortals!**, each with a [[Potion of Hill Giant Strength]] (STR = 21 for an hour)
 	*Services*:
 		- 10 healing potions (50 Gp)
 		- 5 Greater healing potions (125 Gp)
 		- [[Potion of Hill Giant Strength]] (350 Gp)
-
+### Lost Dungeon
+Below the castle once sprawled a vast dungeon and prison, constructed ages ago when the castle was first built. In the ages since it has been forgotten, only the portion of it below the [[#Inner Keep]] remain for the prisoners of the lord.
+- **Entrance Gap** - to enter the deeper dungeons from the dungeon below the keep, one must cross a dark stairway with a terrible drop on either side into darkness and into an aquaduct below.
+- **Broken Wall** - in the chapel, near the [[Saint Windguard]] statue in the crypt below there is a broken wall that leads to the dungeon below.
 ### Outer Village
 - 

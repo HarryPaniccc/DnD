@@ -11,7 +11,9 @@ Not to be confused with the bardy guild(?)
 - They have existed for long before the empire, originating before the fall
 - Now they are small, dont control a standing army or anything
 - 
-
+### Names
+- Disaton Revelre Capitulum
+- Convocation *something*
 ### Cool words
 - Axiom
 - Bene Gesserit

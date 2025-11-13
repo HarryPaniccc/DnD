@@ -30,7 +30,21 @@ The spirit of [[Kalir Windguard]] and her people. Maybe they each have a magical
 
 
 
-# Section
+# Points of Interest
 ---
-Something else happens
+- Explore the missing cleric's chambers
+- Maybe below the church is an entry to the dungeons
+- Maybe there is a prisoner that is being "interrogated" by Canon
+- [[Lord Margit Tormon|Margit Tormon]] said he would have something for them
+- Armour collected in the morning
+- Magical fire arrows?
 
+# [[Gothrend Grinda]]'s Study
+---
+Within the chapel there exists the personal chambers of the head cleric of the order, [[Gothrend Grinda]]. He did not expect to leave, as most of his equipment is unpacked, yet his armour and weapons are gone.
+
+# The Prisoner
+---
+
+# The [[Dungeon of Castle Sungrand]]
+---

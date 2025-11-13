@@ -4,202 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ee7c6f3acda308",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
-        "dimension": 47.896213183730715,
         "children": [
           {
-            "id": "4197be4e659ef1fd",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "be715f8a455bacc5",
+            "id": "4ffd6c1018f8ed29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session 12 - The Clock Strikes Twelve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Session 12 - The Clock Strikes Twelve"
             }
           },
           {
-            "id": "b570b995d66a4f2d",
+            "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Item Pricing and Crafting.md",
+                "file": "Dungeon of Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic Item Pricing and Crafting"
+              "title": "Dungeon of Castle Sungrand"
             }
           },
           {
-            "id": "0ab9e66bd4bc3e62",
+            "id": "39a1207e74aca9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Castle Sungrand"
             }
           },
           {
-            "id": "351ba7ee58d63144",
+            "id": "ddf34ada6d3af480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "World of Helodaria/Estravia.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Red Hand of Doom.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Estravia"
-            }
-          },
-          {
-            "id": "4ca1da7fca7de73b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
+              "icon": "lucide-file-text",
+              "title": "Red Hand of Doom"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "ad403f483996d6ec",
-        "type": "tabs",
-        "dimension": 52.103786816269285,
-        "children": [
-          {
-            "id": "f1c9f02a19a2f78e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Nightfall, the Hand that Feeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nightfall, the Hand that Feeds"
-            }
-          },
-          {
-            "id": "84838bb556769568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Anathema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anathema"
-            }
-          },
-          {
-            "id": "11b6ea251f0a840c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 88 - Duergar Sunblighters"
-            }
-          },
-          {
-            "id": "83e18f2777238384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 999 - Dragonfire"
-            }
-          },
-          {
-            "id": "78d24c09a1aeee5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Oriothar the Monarch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oriothar the Monarch"
-            }
-          },
-          {
-            "id": "7b9b594f89c9a941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dragons of Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dragons of Helodaria"
-            }
-          },
-          {
-            "id": "ee9f669c1145f507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "King Dharn the Blacklock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "King Dharn the Blacklock"
-            }
-          }
-        ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,7 +120,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -256,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -288,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
             }
           },
           {
@@ -307,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81 -.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -334,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+                "file": "Session 12 - The Clock Strikes Twelve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 999 - Dragonfire"
+              "title": "Outline of Session 12 - The Clock Strikes Twelve"
             }
           },
           {
@@ -357,8 +233,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -394,34 +269,39 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "be715f8a455bacc5",
+  "active": "c5fed135f8b54827",
   "lastOpenFiles": [
-    "Magic Item Pricing and Crafting.md",
+    "Session 12 - The Clock Strikes Twelve.md",
+    "Dungeon of Castle Sungrand.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Attachments/Red Hand of Doom.pdf",
+    "Deathwatch.md",
+    "Gothrend Grinda.md",
+    "Saint Windguard.md",
+    "Disaton Revelre Capitulum.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Magic Item Pricing and Crafting.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Steinwalde.md",
     "Session Notes/Vanguard/Session 999 - Dragonfire.md",
     "World of Helodaria/Oriothar the Monarch.md",
     "Statblocks/Adult Red Dragon.md",
-    "Session 12 - The Clock Strikes Twelve.md",
-    "Attachments/Red Hand of Doom.pdf",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
     "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
     "King Dharn the Blacklock.md",
@@ -429,16 +309,10 @@
     "World of Helodaria/Frostcleaver.md",
     "Divine Fetish of the Avatar of Lathander.md",
     "Fetishes of the Resurgence.md",
-    "Disaton Revelre Capitulum.md",
     "Divine Fetish of the Avatar of the Raven Queen.md",
     "Duvan'ahr the Sleeping Odium.md",
     "World of Helodaria/Dwarf.md",
     "Great Houses RENAME.md",
-    "Guidelines.md",
-    "Items/Hoardfeller's Cudgel.md",
-    "World of Helodaria/Anaroth the Sun Mountains.md",
-    "Imvaernarhro.md",
-    "Junk 1.md",
     "Attachments/Pasted image 20251101141017.png",
     "Attachments/Pasted image 20251101140935.png",
     "Attachments/Pasted image 20251101122230.png",

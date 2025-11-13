@@ -74,8 +74,16 @@ Now with Nethendell under seige, the survivors fled to a forgotten mine in a mou
 - [[Conclave Temple]] - location where the sehanine conclave sit
 - [[Tower of Yierdur]]
 - [[Pallidmoore]]
+# Act 2
+---
+Having made it to [[Castle Sungrand]], the party must convince [[Lord Margit Tormon]] to send aide to [[Tira Stone]] and the refugees from [[Nethendell]]. They will uncover the treachery of [[Canon Valaris]] and learn of the
+### Sessions
+Presented in reverse chronological order
+- [[Session 12 - The Clock Strikes Twelve]]
+
 
 # Act 1
+---
 The group start in a ransacked town and fight their way out, looking to find some kind of bearing on the world. This act will have them escaping [[Nethendell]] and finding [[Tira Stone]] and helping the refugees get set up, and maybe holding off against a seige. They will need to petition [[Lord Margit Tormon]] for shelter. Use the black iron pact stats for [[Lord Eskel Tormon]] and friends.
 
 - Escape
@@ -84,7 +92,6 @@ The group start in a ransacked town and fight their way out, looking to find som
 
 ### Sessions
 Presented in reverse chronological order
-- [[Session 12 - The Clock Strikes Twelve]]
 - [[Session 11 - Castle Sungrand]]
 - [[Session 10 - A New Ally (hit level 6)]]
 - [[Session 9 - Vraath Keep]]
@@ -97,9 +104,8 @@ Presented in reverse chronological order
 - [[Session 2 - Webs in the Sewers]]
 - [[Session 1 - Stirring in the Darkness]]
 
----
-# Act 2
+# Act 3
 The group are pointed in a direction to face a dungeon/group of people
 
-# Act 3
+# Act 4
 The group are betrayed/have to fight back INTO the city? Idk where we are going with this.
