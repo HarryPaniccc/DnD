@@ -1,15 +1,19 @@
-**Previous Session:** [[Session 11 - Castle Sungrand]]
-**Subsequent Session:** [[Session 13 - ]]
+**Previous Session:** [[Session 12 - The Clock Strikes Twelve]]
+**Subsequent Session:** [[Session 14 -]]
 ## Post Mortem
 ---
-**Vanadrahs 16th**
-- The [[Borderlands Inn]] is attacked, and a large amount of patrons and staff are slaughtered, including [[Esme Stumpstride]].
-- [[Lord Margit Tormon]] has the party stay within guest rooms in the keep of [[Castle Sungrand]].
+
+## Introduction
+> "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
+> 
+> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
+
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
 - Last session these things happened
 - This is important because
 - And then this
+
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 
@@ -18,18 +22,7 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 > The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
 
 # Session TODO
-- Investigate the cleric's office
-- Attack from wraiths
-- Realize one of the Wraiths is the deceased cleric 
-- [[Ealendar]]'s Splint Armor at Dusk from the blacksmith
-- Fire arrows for [[Cened]]
-- Cloaked figure in the night?
-
-# The Darkness Bites Back
 ---
-##### **ENCOUNTER**: Wraiths in the night
-The spirit of [[Kalir Windguard]] and her people. Maybe they each have a magical item that identifies them?
-
 
 
 # Points of Interest

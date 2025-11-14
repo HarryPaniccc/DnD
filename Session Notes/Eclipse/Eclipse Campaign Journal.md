@@ -22,9 +22,9 @@ Organ
 - [[Armour of Sehanine]] (mistcloak invisibility thing)
 - [[Jewel of Sehanine or somesuch shit]]
 - [[Ring of Protection +1]]
+- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 - [[Scrying Eye]]
 - [[Blood Spear]] (CoS item)
-- [[Arrow-Catching Shield]]
 - [[Instrument of the Bards]]
 - [[Ring of Jumping]]
 - [[Leather Armor of the Eclipse]]
