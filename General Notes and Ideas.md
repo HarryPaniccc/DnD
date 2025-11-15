@@ -8,6 +8,8 @@ tags:
 
 ### Miniatures
 - [ ] Stone Arches
+- [ ] Cages x 2
+	- [ ] Sewer grate 
 - [ ] Human Knaves
 - [ ] Kobolds
 - [x] Wraiths
