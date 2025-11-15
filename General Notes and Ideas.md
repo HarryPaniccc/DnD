@@ -7,14 +7,15 @@ tags:
 >### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
+- [ ] Stone Arches
+- [ ] Human Knaves
 - [ ] Kobolds
-- [ ] Wraiths
+- [x] Wraiths
 - [ ] Hell Hounds
 - [ ] Rudolph von Richten
 - [ ] Portcullis
 - [ ] Owlbear
 - [ ] Goblins (Maybe like 2 or 3 more)
-- [ ] Stone Arches
 - [ ] Ladder(s)
 - [ ] Zombies
 - [ ] Skeletons
@@ -24,7 +25,6 @@ tags:
 - [ ] Bowman/crossbowman
 - [ ] Chests
 - [ ] Stone Railing
-- [ ] Human Knaves
 ### Normal Stuff
 - [ ] **ANATHEMA**
 - [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
