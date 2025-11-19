@@ -74,15 +74,16 @@ Now with Nethendell under seige, the survivors fled to a forgotten mine in a mou
 - [[Conclave Temple]] - location where the sehanine conclave sit
 - [[Tower of Yierdur]]
 - [[Pallidmoore]]
-# Act 2
+# Act 2 - The Real Enemy Revealed
 ---
 Having made it to [[Castle Sungrand]], the party must convince [[Lord Margit Tormon]] to send aide to [[Tira Stone]] and the refugees from [[Nethendell]]. They will uncover the treachery of [[Canon Valaris]] and learn of the
 ### Sessions
 Presented in reverse chronological order
+- [[Session 13 -]]
 - [[Session 12 - The Clock Strikes Twelve]]
 
 
-# Act 1
+# Act 1 - Traversal and Introductions
 ---
 The group start in a ransacked town and fight their way out, looking to find some kind of bearing on the world. This act will have them escaping [[Nethendell]] and finding [[Tira Stone]] and helping the refugees get set up, and maybe holding off against a seige. They will need to petition [[Lord Margit Tormon]] for shelter. Use the black iron pact stats for [[Lord Eskel Tormon]] and friends.
 
