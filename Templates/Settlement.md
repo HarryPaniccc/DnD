@@ -2,9 +2,11 @@
 tags: Settlement
 ---
 # Description
+# Society
+### Notable Factions and Characters
 
 # History
 
-# Notable Factions and Characters
+
 
 # Locations

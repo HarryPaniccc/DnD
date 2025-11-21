@@ -3,6 +3,13 @@ tags:
   - Core
 ---
 # To do list
+- [ ] Everyone's items
+	- [ ] Isilme
+	- [ ] Kanan
+	- [ ] Rylai
+	- [ ] Dusk
+	- [ ] Caede
+	- [ ] Silb
 >[!Idea]
 >### Oneshot where they play as the people who had the Blade of Despair
 
@@ -12,7 +19,6 @@ tags:
 - [ ] Sewer grate  
 - [ ] Human Knaves
 - [ ] Kobolds
-- [x] Wraiths
 - [ ] Hell Hounds
 - [ ] Rudolph von Richten
 - [ ] Portcullis

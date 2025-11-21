@@ -11,7 +11,7 @@ Begin, Endure, End. These are the edicts of the Apostles. Never fear starting an
 
 - [[Unnamed Avatar of the Bahamut]]
 - [[Unnamed Avatar of the Raven Queen]]
-- [[Unnamed Avatar of Lathander]]
+- [[Lathran, Avatar of Lathander]]
 
 ### [[Fetishes of the Resurgence]]
 Divine relics wielded by the gods against the forces of evil during [[The Fall]] in [[Eranulaid]]. When the god kings returned they were blessed with these weapons, either created by or blessed by the Gods. These relics act now as symbols of the Apostolate, worn by those who worship the avatars

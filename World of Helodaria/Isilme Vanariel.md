@@ -40,7 +40,7 @@ She joined the [[Vanguard]] and became a [[Dhampir]]
 - The [[Chisel of the Norns]]
 - A gnomecraft mechanical shield that can be worn as a bracer and equipped and unequipped as a bonus action
 - [[Mace of Disruption]]
-- [[Infernal Cuirass]]
+- [[Infernal Cuirass]], looted from [[Lucius]]
 ### Former Items
 # Relationships
 ---

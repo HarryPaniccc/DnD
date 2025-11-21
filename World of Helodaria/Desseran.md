@@ -23,7 +23,7 @@ Desseran is famously home to the seeds of [[Human|Humanity]].
 ### Founding of the [[Desseran Apostolate]]
 Some time during the [[Age of Wounds]], the three god avatars of the [[Desseran Apostolate]] were sent by their parents in their stead to watch over the holy birthplace of humanity. Under the rule of the avatars, the city grows and flourishes. Beneath [[Unnamed Avatar of the Bahamut]], the beginnings of the [[Silver Talon]] are formed.
 
-During the [[Age of Ascension]], [[Unnamed Avatar of Lathander]] and [[Unnamed Avatar of the Raven Queen]] leave the city under the rule of [[Unnamed Avatar of the Bahamut]].
+During the [[Age of Ascension]], [[Lathran, Avatar of Lathander]] and [[Unnamed Avatar of the Raven Queen]] leave the city under the rule of [[Unnamed Avatar of the Bahamut]].
 ### The [[Thay|Empire of Thay]]
 Some time during the [[Age of Ascension]], a cabal of spellcasters known as the [[Red Wizards of Thay]] used profane rituals to elicit the help of the demon lord [[Eltab]] to attack and betray Desseran's leadership, defeating [[Unnamed Avatar of the Bahamut]] and establishing rule over the city. Once control over Desseran was established, the Wizards imprisoned Eltab beneath [[Diredahl]] in [[Dun Murroc]] - a bastion controlled by Desseran at the time.
 

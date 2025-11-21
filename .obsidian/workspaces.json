@@ -122,63 +122,35 @@
                 }
               },
               {
-                "id": "db8606c84f00d28f",
+                "id": "49b934b9d79b95ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "file": "Timeline.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vanguard Arc 6 - The Golden Age"
+                  "title": "Timeline"
                 }
               },
               {
-                "id": "f17b1cb115a1de0a",
+                "id": "0f3ee23846ab1eb0",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Divine Fetish of the Avatar of the Raven Queen.md",
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Divine Fetish of the Avatar of the Raven Queen"
-                }
-              },
-              {
-                "id": "0054f9d005d45423",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Dragons of Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dragons of Helodaria"
-                }
-              },
-              {
-                "id": "7ba5a40af36aeadc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Julie's Dragon Ranger.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Julie's Dragon Ranger"
+                  "title": "Vanguard Campaign Journal"
                 }
               }
             ],
-            "currentTab": 11
+            "currentTab": 9
           }
         ],
         "direction": "vertical"
@@ -315,13 +287,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Julie's Dragon Ranger.md",
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Julie's Dragon Ranger"
+                  "title": "Outline of Vanguard Campaign Journal"
                 }
               },
               {
@@ -393,8 +365,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "7ba5a40af36aeadc",
-      "mtime": "2025-11-19T08:02:43+02:00"
+      "active": "0f3ee23846ab1eb0",
+      "mtime": "2025-11-20T13:01:38+02:00"
     },
     "Updating Character Notes": {
       "main": {
@@ -2625,7 +2597,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+                    "file": "World of Helodaria/Steinwalde.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -3665,17 +3637,31 @@
                 }
               },
               {
-                "id": "ca5fe06786311032",
+                "id": "78edd0f139636cdf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                    "file": "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
+                }
+              },
+              {
+                "id": "8ab6b2944c0336c9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Marthirion's Staff.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Marthirion's Staff"
                 }
               },
               {
@@ -3735,7 +3721,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -3792,7 +3778,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5
+        "width": 372.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3870,13 +3857,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                    "file": "World of Helodaria/Rylai Sweetsong.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Session 999 - Temple of Elemental Evil and Wind and Stuff"
+                  "title": "Outline of Rylai Sweetsong"
                 }
               },
               {
@@ -3956,8 +3943,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 365.5,
-        "collapsed": true
+        "width": 357.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3972,8 +3958,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "ca5fe06786311032",
-      "mtime": "2025-10-28T13:50:24+02:00"
+      "active": "55c5dc165ceb4577",
+      "mtime": "2025-11-20T13:35:09+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4066,7 +4052,8 @@
                   "title": "Red Hand of Doom"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -4274,9 +4261,340 @@
           "obsidian-5e-statblocks:Open Creature pane": false
         }
       },
-      "active": "25685d0a01d13bf7",
-      "mtime": "2025-11-19T08:00:58+02:00"
+      "active": "4c98c4069889e366",
+      "mtime": "2025-11-20T13:05:51+02:00"
+    },
+    "Steinwalde and other creation": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6ee7c6f3acda308",
+            "type": "tabs",
+            "dimension": 48.9051094890511,
+            "children": [
+              {
+                "id": "0ab9e66bd4bc3e62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Steinwalde.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Steinwalde"
+                }
+              },
+              {
+                "id": "5b863f237b98be08",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Settlement.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Settlement"
+                }
+              },
+              {
+                "id": "cfa206abefe37307",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Thran the Anvil.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Thran the Anvil"
+                }
+              },
+              {
+                "id": "3d0700da1d28ab5c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Lathran, Avatar of Lathander.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lathran, Avatar of Lathander"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ad403f483996d6ec",
+            "type": "tabs",
+            "dimension": 51.09489051094891,
+            "children": [
+              {
+                "id": "84838bb556769568",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Items/Anathema.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Anathema"
+                }
+              },
+              {
+                "id": "ee9f669c1145f507",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/King Dharn the Blacklock.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "King Dharn the Blacklock"
+                }
+              },
+              {
+                "id": "8dee337fc6c236a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Dragons of Helodaria.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dragons of Helodaria"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 261.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "dimension": 62.21153846153846,
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Session Notes/Session 81 -.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Session 81 -"
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "World of Helodaria/Steinwalde.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Steinwalde"
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "dimension": 37.78846153846154,
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
+                }
+              },
+              {
+                "id": "c68b5dcf4c07320d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 295.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "0ab9e66bd4bc3e62",
+      "mtime": "2025-11-20T10:44:53+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Rylai Downtime"
 }

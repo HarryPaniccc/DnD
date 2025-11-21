@@ -4,92 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "4ffd6c1018f8ed29",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 12 - The Clock Strikes Twelve.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12 - The Clock Strikes Twelve"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "4c98c4069889e366",
+            "id": "cd1493f91885a669",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 13 -.md",
+                "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13 -"
+              "title": "Session 87 - An Element of Truth"
             }
           },
           {
-            "id": "c5fed135f8b54827",
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon of Castle Sungrand.md",
+                "file": "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
+              "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
             }
           },
           {
-            "id": "39a1207e74aca9b0",
+            "id": "8ab6b2944c0336c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
+                "file": "Marthirion's Staff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Sungrand"
+              "title": "Marthirion's Staff"
             }
           },
           {
-            "id": "ddf34ada6d3af480",
+            "id": "2d8b02946de1be74",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Red Hand of Doom.pdf"
+                "file": "World of Helodaria/Vasspryg.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Red Hand of Doom"
+              "icon": "lucide-file",
+              "title": "Vasspryg"
+            }
+          },
+          {
+            "id": "4859a2c24bd1b882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trayfort Keep"
+            }
+          },
+          {
+            "id": "cf659896fed91343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Tharizdun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tharizdun"
+            }
+          },
+          {
+            "id": "55c5dc165ceb4577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -108,7 +153,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -121,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elemental",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +178,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -146,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 372.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -155,7 +200,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -177,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
+              "title": "Backlinks for Uldronos Council"
             }
           },
           {
@@ -196,12 +240,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -211,7 +255,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -223,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 12 - The Clock Strikes Twelve.md",
+                "file": "World of Helodaria/Rylai Sweetsong.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 12 - The Clock Strikes Twelve"
+              "title": "Outline of Rylai Sweetsong"
             }
           },
           {
@@ -251,7 +297,6 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -268,7 +313,35 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -278,59 +351,60 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c68b5dcf4c07320d",
+  "active": "55c5dc165ceb4577",
   "lastOpenFiles": [
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Julie's Dragon Ranger.md",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "Session 13 -.md",
-    "Session 12 - The Clock Strikes Twelve.md",
-    "Attachments/Red Hand of Doom.pdf",
-    "Dungeon of Castle Sungrand.md",
+    "Manticore.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "World of Helodaria/Lucius.md",
+    "Marthirion's Staff.md",
+    "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Silb Heft.md",
+    "World of Helodaria/Dusk.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Kanan Einzbern.md",
     "General Notes and Ideas.md",
+    "World of Helodaria/Vanguard.md",
+    "Session 13 -.md",
+    "Dungeon of Castle Sungrand.md",
+    "Session 12 - The Clock Strikes Twelve.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "World of Helodaria/Vasspryg.md",
+    "Timeline.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Battle of Strahldale.md",
+    "Primevals.md",
+    "Primordial of Hunger.md",
+    "World of Helodaria/Primordials.md",
+    "Timeline.base",
+    "Attachments/Red Hand of Doom.pdf",
     "Untitled.canvas",
-    "Items/Infernal Cuirass.md",
     "Attachments/dungeon scrawl/Unconfirmed 35407.crdownload",
     "Attachments/dungeon scrawl/Unconfirmed 472148.crdownload",
     "Attachments/dungeon scrawl/Castle Sungrand Dungeon.ds",
     "Attachments/dungeon scrawl/Unconfirmed 662446.crdownload",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "World of Helodaria/Bahamut.md",
-    "Items/Arrow-Catching Shield.md",
-    "Junk 1.md",
-    "Odessa.md",
-    "World of Helodaria/Deathwatch.md",
-    "World of Helodaria/Gothrend Grinda.md",
-    "Saint Windguard.md",
-    "Disaton Revelre Capitulum.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Magic Item Pricing and Crafting.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Statblocks/Adult Red Dragon.md",
-    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
     "Attachments/Pasted image 20251101141017.png",
     "Attachments/Pasted image 20251101140935.png",
     "Attachments/Pasted image 20251101122230.png",
@@ -339,7 +413,6 @@
     "Attachments/Nethendell Valley 2025-09-13T19_44_23.506Z.png",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Attachments/hextml/Unconfirmed 303177.crdownload",
-    "Attachments/hextml/Unconfirmed 131447.crdownload",
     "Attachments/Pasted image 20250910175914.png",
     "Attachments/Pasted image 20250906123642.png",
     "Attachments/Pasted image 20250906123637.png",

@@ -13,6 +13,8 @@ Organ
 - [[Chime of Opening]]
 - [[Dagger of Acid]] (Prejudice)
 - [[Thread of Deceit]]
+**Soon to be Awarded**
+- 
 **Unawarded**
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
