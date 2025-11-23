@@ -4,7 +4,7 @@ tags:
 aliases:
   - Skye
 ---
-- [[Fenrir]] Friend from [[Camroc]]
+ - [[Fenrir]] Friend from [[Camroc]]
 - Once known as [[Skye]]
 # Intro
 ---

@@ -55,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                "file": "Session Notes/Vanguard/Session 999 - Marthirion, Marred by Seeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
-            }
-          },
-          {
-            "id": "8ab6b2944c0336c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marthirion's Staff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Marthirion's Staff"
+              "title": "Session 999 - Marthirion, Marred by Seeing"
             }
           },
           {
@@ -134,7 +120,56 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
+      },
+      {
+        "id": "d34dfdf6726a2957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958b3273a6cc70bb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#mummy%20lord_mm",
+                "title": "Mummy Lord - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mummy Lord - 5etools"
+            }
+          },
+          {
+            "id": "8ab6b2944c0336c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Staff of the Void.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Staff of the Void"
+            }
+          },
+          {
+            "id": "f31eb8283e200c73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Synod of Elevation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synod of Elevation"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +226,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 372.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -355,7 +391,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -370,34 +407,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "55c5dc165ceb4577",
+  "active": "78edd0f139636cdf",
   "lastOpenFiles": [
-    "Manticore.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Lucius.md",
-    "Marthirion's Staff.md",
-    "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Silb Heft.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "Session Notes/Vanguard/Session 999 - Marthirion, Marred by Seeing.md",
     "World of Helodaria/Dusk.md",
+    "World of Helodaria/Silb Heft.md",
     "World of Helodaria/Caede.md",
+    "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Kanan Einzbern.md",
+    "Staff of the Void.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Vasspryg.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+    "World of Helodaria/Sirkonos.md",
+    "Disaton Revelre Capitulum.md",
+    "Items/Infernal Cuirass.md",
+    "Templates/Item template.md",
+    "Items/Spear of Damnation.md",
+    "Items/Scrying Eye.md",
+    "Items/Dagger of Acid.md",
+    "Manticore.md",
+    "World of Helodaria/Lucius.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
     "Session 13 -.md",
-    "Dungeon of Castle Sungrand.md",
-    "Session 12 - The Clock Strikes Twelve.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "World of Helodaria/Vasspryg.md",
-    "Timeline.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "World of Helodaria/Battle of Strahldale.md",
-    "Primevals.md",
-    "Primordial of Hunger.md",
-    "World of Helodaria/Primordials.md",
     "Timeline.base",
     "Attachments/Red Hand of Doom.pdf",
     "Untitled.canvas",

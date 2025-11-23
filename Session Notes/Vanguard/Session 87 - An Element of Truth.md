@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 86 - The Synod of Elevation]]
-**Subsequent Session:** [[Session 999 - Temple of Elemental Evil and Wind and Stuff]]
+**Subsequent Session:** [[Session 999 - Marthirion, Marred by Seeing]]
 ## Post Mortem
 ---
 **Antumbrahn 29th**

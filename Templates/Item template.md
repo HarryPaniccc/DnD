@@ -6,5 +6,11 @@ This item does a ton of stuff. Im guessing you want to read what it does but you
 
 ---
 Notes
->[!Additional Information]
->If an item has a spell to cast or some other feature that would be nice to have in details, put it here. For example, this template is really nice with the *Typewriter* theme in light mode
+>[!tip] Life Drain
+> *6th-level necromancy*
+> **Casting Time:** 1 action
+> **Range:**
+> **Components:**
+> **Duration:**
+> ---
+> Contents
