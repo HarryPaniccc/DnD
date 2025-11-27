@@ -1,5 +1,6 @@
 {
   "openExternalURLs": true,
   "enableAdblocking": true,
-  "homepage": "https://2014.5e.tools/"
+  "homepage": "https://2014.5e.tools/",
+  "searchEngine": "brave"
 }

@@ -20,6 +20,15 @@ Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to a wealthy n
 ## Quests
 ## Notable Items
 ### Current Items
+- Aidbringers Lute
+- Sapphire Compasse of the Old Orders
+- Elixir of Health
+- Elemental Essence Shard of Fire
+- Ion Stone of Leadership
+- Carpet of Flying
+- Bracers of Defence
+- Boon of Aerondite
+- Spear of Damnation
 ### Former Items
 # Relationships
 ---

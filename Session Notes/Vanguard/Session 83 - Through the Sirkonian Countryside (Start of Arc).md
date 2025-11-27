@@ -110,7 +110,6 @@ The manticores makes their lair in the [[Abandoned Clock Tower]] of [[Carlina]].
 >
 >If it misses a bite its target becomes grappled by the manticore, however the target loses access to their hands as it is forced on keeping the head at bay. The target can choose to end this grapple and free their hands, but allow the manticore to make another bite as a reaction that doesnt trigger this ability.
 
-
 # [[Ralia]]
 ---
 On route East he has to pass through Ralia and there is some kind of powerful evil concealed there. Ralia is plagued by rats and night creatures.

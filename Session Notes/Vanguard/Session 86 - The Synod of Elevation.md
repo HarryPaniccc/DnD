@@ -129,4 +129,4 @@ Temple of elemental chaos, Temple to the [[Tharizdun]]
 
 # [[Elemental Plane of Air]]
 ---
-- [[Sylphmade Scarf]]
+- [[Sylphmade Cloak]]

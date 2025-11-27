@@ -21,7 +21,10 @@ Dusk is a [[Changeling]] Wizard and member of the [[Vanguard]].
 ---
 ## Quests
 ## Notable Items
+
 ### Current Items
+- Hearthstone
+- Compasse of the Old Orders
 ### Former Items
 # Relationships
 ---

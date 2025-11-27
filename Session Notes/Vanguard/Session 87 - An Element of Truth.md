@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 86 - The Synod of Elevation]]
-**Subsequent Session:** [[Session 999 - Marthirion, Marred by Seeing]]
+**Subsequent Session:** [[Session 89 - Marthirion, Marred by Seeing]]
 ## Post Mortem
 ---
 **Antumbrahn 29th**
@@ -155,4 +155,4 @@ The Temple was constructed after the [[Age of Wounds]] to honour Tharizdun, but 
 
 # [[Elemental Plane of Air]]
 ---
-- [[Sylphmade Scarf]]
+- [[Sylphmade Cloak]]

@@ -1,4 +1,4 @@
-Male [[Manticore]]s are the ones that shoot spines and females are the ones with scorpion stingers. The following blocks are a modified combination of the default manticore from the monster manual.
+Male [[Manticore]]s are the ones that shoot spines and females are the ones with scorpion stingers. The following blocks are a modified combination of the default manticore from the monster manual combined with the flee mortals.
 # Male Manticore
 ```statblock
 name: Manticore (Male)

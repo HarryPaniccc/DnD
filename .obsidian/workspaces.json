@@ -3623,77 +3623,49 @@
                 }
               },
               {
-                "id": "cd1493f91885a669",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 87 - An Element of Truth"
-                }
-              },
-              {
                 "id": "78edd0f139636cdf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 999 - Temple of Elemental Evil and Wind and Stuff.md",
+                    "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 999 - Temple of Elemental Evil and Wind and Stuff"
+                  "title": "Session 89 - Marthirion, Marred by Seeing"
                 }
               },
               {
-                "id": "2d8b02946de1be74",
+                "id": "235b7f412e022cd8",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Vasspryg.md",
+                    "file": "Session 90 - The Temple of Elemental Evil.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vasspryg"
+                  "title": "Session 90 - The Temple of Elemental Evil"
                 }
               },
               {
-                "id": "4859a2c24bd1b882",
+                "id": "bafc2390e995629b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Trayfort Keep.md",
+                    "file": "Sylphmade Scarf.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Trayfort Keep"
+                  "title": "Sylphmade Scarf"
                 }
               },
               {
-                "id": "cf659896fed91343",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Tharizdun.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Tharizdun"
-                }
-              },
-              {
-                "id": "55c5dc165ceb4577",
+                "id": "5a2b7e514fd66f33",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -3704,6 +3676,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Rylai Sweetsong"
+                }
+              },
+              {
+                "id": "8474d2ea2e115997",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Vasspryg.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vasspryg"
                 }
               }
             ],
@@ -3719,26 +3705,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#mummy%20lord_mm",
-                    "title": "Mummy Lord - 5etools",
+                    "url": "https://2014.5e.tools/bestiary.html#kobold%20decanus_fleemortals",
+                    "title": "Kobold Decanus - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Mummy Lord - 5etools"
-                }
-              },
-              {
-                "id": "8ab6b2944c0336c9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Staff of the Void.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Staff of the Void"
+                  "title": "Kobold Decanus - 5etools"
                 }
               }
             ]
@@ -3980,7 +3952,7 @@
         }
       },
       "active": "958b3273a6cc70bb",
-      "mtime": "2025-11-22T08:35:48+02:00"
+      "mtime": "2025-11-23T22:47:20+02:00"
     },
     "Eclipse": {
       "main": {

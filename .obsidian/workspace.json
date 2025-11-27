@@ -36,77 +36,49 @@
             }
           },
           {
-            "id": "cd1493f91885a669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 87 - An Element of Truth"
-            }
-          },
-          {
             "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - Marthirion, Marred by Seeing.md",
+                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 999 - Marthirion, Marred by Seeing"
+              "title": "Session 89 - Marthirion, Marred by Seeing"
             }
           },
           {
-            "id": "2d8b02946de1be74",
+            "id": "235b7f412e022cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Session 90 - The Temple of Elemental Evil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vasspryg"
+              "title": "Session 90 - The Temple of Elemental Evil"
             }
           },
           {
-            "id": "4859a2c24bd1b882",
+            "id": "bafc2390e995629b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "Sylphmade Cloak.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "title": "Sylphmade Cloak"
             }
           },
           {
-            "id": "cf659896fed91343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Tharizdun.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tharizdun"
-            }
-          },
-          {
-            "id": "55c5dc165ceb4577",
+            "id": "5a2b7e514fd66f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -118,58 +90,23 @@
               "icon": "lucide-file",
               "title": "Rylai Sweetsong"
             }
+          },
+          {
+            "id": "8474d2ea2e115997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Vasspryg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vasspryg"
+            }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "d34dfdf6726a2957",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "958b3273a6cc70bb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#mummy%20lord_mm",
-                "title": "Mummy Lord - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mummy Lord - 5etools"
-            }
-          },
-          {
-            "id": "8ab6b2944c0336c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Staff of the Void.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Staff of the Void"
-            }
-          },
-          {
-            "id": "f31eb8283e200c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Synod of Elevation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synod of Elevation"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -407,34 +344,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "78edd0f139636cdf",
+  "active": "235b7f412e022cd8",
   "lastOpenFiles": [
-    "World of Helodaria/Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 999 - Marthirion, Marred by Seeing.md",
-    "World of Helodaria/Dusk.md",
-    "World of Helodaria/Silb Heft.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "Staff of the Void.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "Sylphmade Cloak.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
+    "Session 90 - The Temple of Elemental Evil.md",
     "World of Helodaria/Vasspryg.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
-    "World of Helodaria/Sirkonos.md",
-    "Disaton Revelre Capitulum.md",
-    "Items/Infernal Cuirass.md",
-    "Templates/Item template.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "Items/Anathema.md",
     "Items/Spear of Damnation.md",
-    "Items/Scrying Eye.md",
-    "Items/Dagger of Acid.md",
-    "Manticore.md",
-    "World of Helodaria/Lucius.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Vanguard.md",
-    "Session 13 -.md",
+    "Items/Infernal Cuirass.md",
+    "Items/Daybreakers.md",
+    "Items/+2 Green Dragon Scale Leather Armor.md",
+    "World of Helodaria/Sirkonos.md",
+    "Statblocks/Manticore Statblock.md",
+    "Items/Nightfall, the Hand that Feeds.md",
+    "World of Helodaria/Dragons of Helodaria.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "Staff of the Void.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Darius Nubide.md",
     "Timeline.base",
     "Attachments/Red Hand of Doom.pdf",
     "Untitled.canvas",

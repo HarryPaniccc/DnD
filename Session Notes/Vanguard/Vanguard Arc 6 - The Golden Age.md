@@ -147,13 +147,14 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 
 - [[Session 86 - The Synod of Elevation]]
 - [[Session 87 - An Element of Truth]]
+- [[Session 89 - Marthirion, Marred by Seeing]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
 Rylai shied away from the truth that she believes is likely - that she killed her parents - and, for fear of being harmed by it, has shut herself off and become cold, stifling her sorcerous powers. She must accept the truth and realize that [[Lina Sweetsong]] started the fire, a truth that does not hurt as much as the lie she has been telling herself.
 
 - Her research will lead her to understanding Magic and the connection of [[Ley Lines]] and the [[Elemental Plane of Air]]
-- [[Sylphmade Scarf]] (flying scarf thing like Serpico's cloak)
+- [[Sylphmade Cloak]] (flying scarf thing like Serpico's cloak)
 - [[Akadi]] the [[Primordials|Primordial]] of air
 
 
