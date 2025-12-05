@@ -41,31 +41,31 @@ This section documents the value of items and how it is determined. Largely, the
 ### Table of Item Values
 Calculate based on rarity, amount of uses, half modifier for single-use items, and for utility and power. Different locations have different values.
 
-| Name                                    | Rarity    | Value (Gp) | Notes or Components                                                                                         |
-| --------------------------------------- | --------- | ---------- | ----------------------------------------------------------------------------------------------------------- |
-| [[+2 Green Dragon Scale Leather Armor]] | Very Rare | 15 000     | Made using the scales of an adult green dragon. Other variants are doable. Value of scales is a lot though. |
-| [[Bag of Holding]]                      | Uncommon  | 400        |                                                                                                             |
-| [[Bloodwell Vial]] +1                   | Uncommon  | 300        | Bought by Woed for personal use                                                                             |
-| [[Boots of Haste]]                      | Rare      | 1500       |                                                                                                             |
-| [[Bracers of Defence]]                  | Rare      | 1200       | Bought by Woed for 300 Gp                                                                                   |
-| [[Dagger of Acid]]                      | Rare      | 1500<      | Ankheg claw                                                                                                 |
-| [[Dwarven Plate]]                       | Very Rare | 40000      | Bought by Silb in Mountreach                                                                                |
-| [[Elemental Gem]]                       | Uncommon  | 300        |                                                                                                             |
-| [[Elven Chain Shirt]]                   | Rare      | 1100       |                                                                                                             |
-| [[Frost Brand]] Greatsword              | Very Rare | 11500      | Woed's shop                                                                                                 |
-| [[Handy Haversack]]                     | Rare      | 550        |                                                                                                             |
-| [[Hat of Disguise]]                     | Uncommon  | 275        |                                                                                                             |
-| [[Hearthstone]]                         | Rare      | 3750       | User can cast *Word of Recall* once per day                                                                 |
-| [[Infernal Compass]]                    | Rare      | 750        | Made with the horn of a [[Cambion]] and [[Cold Iron]]                                                       |
-| [[Ioun Stone of Leadership]]            | Very Rare | 7850       |                                                                                                             |
-| [[Potion of Fire Giant Strength]]       | Rare      | 1500       |                                                                                                             |
-| [[Potion of Flying]]                    | Very Rare | 1200       | Made with griphon feathers                                                                                  |
-| [[Potion of Frost Giant Strength]]      | Rare      | 1100       |                                                                                                             |
-| [[Potion of Rage]]                      | Very Rare | 3100       | Can make with ground up horn of red dragon or smth                                                          |
-| [[Potion of Vampiric Sense]]            |           |            | Made with the eyes of a [[Vampire]]                                                                         |
-| [[Ring of Fire Resistance]]             | Rare      | 5300       |                                                                                                             |
-| [[Ring of Protection +1]]               | Rare      | 3000       | [[Mithral]] or [[Adamantine]] up to a third of the craft value                                              |
-| [[Ring of Psychic Resistance]]          | Rare      | 4200       |                                                                                                             |
-| [[Scrying Eye]]                         | Rare      | 3300       | User can cast Scry once per day for free DC 15                                                              |
-| Upgrade to [[Leviathan Axe]]            | Very Rare | 2500       |                                                                                                             |
+| Name                               | Rarity    | Value (Gp) | Notes or Components                                                                                         |
+| ---------------------------------- | --------- | ---------- | ----------------------------------------------------------------------------------------------------------- |
+| [[+2 Dragon Scale Leather Armor]]  | Very Rare | 10 000     | Made using the scales of an adult green dragon. Other variants are doable. Value of scales is a lot though. |
+| [[Bag of Holding]]                 | Uncommon  | 400        |                                                                                                             |
+| [[Bloodwell Vial]] +1              | Uncommon  | 300        | Bought by Woed for personal use                                                                             |
+| [[Boots of Haste]]                 | Rare      | 1500       |                                                                                                             |
+| [[Bracers of Defence]]             | Rare      | 1200       | Bought by Woed for 300 Gp                                                                                   |
+| [[Dagger of Acid]]                 | Rare      | 1500<      | Ankheg claw                                                                                                 |
+| [[Dwarven Plate]]                  | Very Rare | 40000      | Bought by Silb in Mountreach                                                                                |
+| [[Elemental Gem]]                  | Uncommon  | 300        |                                                                                                             |
+| [[Elven Chain Shirt]]              | Rare      | 1100       |                                                                                                             |
+| [[Frost Brand]] Greatsword         | Very Rare | 11500      | Woed's shop                                                                                                 |
+| [[Handy Haversack]]                | Rare      | 550        |                                                                                                             |
+| [[Hat of Disguise]]                | Uncommon  | 275        |                                                                                                             |
+| [[Hearthstone]]                    | Rare      | 3750       | User can cast *Word of Recall* once per day                                                                 |
+| [[Infernal Compass]]               | Rare      | 750        | Made with the horn of a [[Cambion]] and [[Cold Iron]]                                                       |
+| [[Ioun Stone of Leadership]]       | Very Rare | 7850       |                                                                                                             |
+| [[Potion of Fire Giant Strength]]  | Rare      | 1500       |                                                                                                             |
+| [[Potion of Flying]]               | Very Rare | 1200       | Made with griphon feathers                                                                                  |
+| [[Potion of Frost Giant Strength]] | Rare      | 1100       |                                                                                                             |
+| [[Potion of Rage]]                 | Very Rare | 3100       | Can make with ground up horn of red dragon or smth                                                          |
+| [[Potion of Vampiric Sense]]       |           |            | Made with the eyes of a [[Vampire]]                                                                         |
+| [[Ring of Fire Resistance]]        | Rare      | 5300       |                                                                                                             |
+| [[Ring of Protection +1]]          | Rare      | 3000       | [[Mithral]] or [[Adamantine]] up to a third of the craft value                                              |
+| [[Ring of Psychic Resistance]]     | Rare      | 4200       |                                                                                                             |
+| [[Scrying Eye]]                    | Rare      | 3300       | User can cast Scry once per day for free DC 15                                                              |
+| Upgrade to [[Leviathan Axe]]       | Very Rare | 2500       |                                                                                                             |
 

@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "f6ee7c6f3acda308",
         "type": "tabs",
+        "dimension": 47.896213183730715,
         "children": [
           {
-            "id": "770d2990c53200d2",
+            "id": "4197be4e659ef1fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +23,7 @@
             }
           },
           {
-            "id": "08389105e0321ab7",
+            "id": "be715f8a455bacc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,73 +37,193 @@
             }
           },
           {
-            "id": "78edd0f139636cdf",
+            "id": "b570b995d66a4f2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+                "file": "Magic Item Pricing and Crafting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 89 - Marthirion, Marred by Seeing"
+              "title": "Magic Item Pricing and Crafting"
             }
           },
           {
-            "id": "235b7f412e022cd8",
+            "id": "0ab9e66bd4bc3e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 90 - The Temple of Elemental Evil.md",
+                "file": "World of Helodaria/Steinwalde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 90 - The Temple of Elemental Evil"
+              "title": "Steinwalde"
             }
           },
           {
-            "id": "bafc2390e995629b",
+            "id": "351ba7ee58d63144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylphmade Cloak.md",
+                "file": "World of Helodaria/Estravia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sylphmade Cloak"
+              "title": "Estravia"
             }
           },
           {
-            "id": "5a2b7e514fd66f33",
+            "id": "4ca1da7fca7de73b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "file": "World of Helodaria/Sirkonos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rylai Sweetsong"
+              "title": "Sirkonos"
             }
           },
           {
-            "id": "8474d2ea2e115997",
+            "id": "b4829cf4ec1962f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vasspryg.md",
+                "file": "Maghlas Mountains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vasspryg"
+              "title": "Maghlas Mountains"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ad403f483996d6ec",
+        "type": "tabs",
+        "dimension": 52.103786816269285,
+        "children": [
+          {
+            "id": "f1c9f02a19a2f78e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Nightfall, the Hand that Feeds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nightfall, the Hand that Feeds"
+            }
+          },
+          {
+            "id": "84838bb556769568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Anathema.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anathema"
+            }
+          },
+          {
+            "id": "11b6ea251f0a840c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 88 - Duergar Sunblighters"
+            }
+          },
+          {
+            "id": "83e18f2777238384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 999 - Dragonfire"
+            }
+          },
+          {
+            "id": "78d24c09a1aeee5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Oriothar the Monarch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oriothar the Monarch"
+            }
+          },
+          {
+            "id": "7b9b594f89c9a941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Dragons of Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dragons of Helodaria"
+            }
+          },
+          {
+            "id": "ee9f669c1145f507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "King Dharn the Blacklock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "King Dharn the Blacklock"
+            }
+          },
+          {
+            "id": "361c3e828d7f2f2e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#fire%20giant_mm",
+                "title": "Fire Giant - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Fire Giant - 5etools"
             }
           }
         ],
@@ -125,7 +246,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -138,7 +259,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "elemental",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
+    "width": 261.5,
     "collapsed": true
   },
   "right": {
@@ -173,6 +294,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 62.21153846153846,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -194,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +326,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uldronos Council"
+              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -213,12 +335,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Session 81 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Session 81 -"
             }
           },
           {
@@ -242,13 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "file": "World of Helodaria/Steinwalde.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Rylai Sweetsong"
+              "title": "Outline of Session 999 - Dragonfire"
             }
           },
           {
@@ -270,6 +392,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
+        "dimension": 37.78846153846154,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -286,35 +409,7 @@
             }
           },
           {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
+            "id": "c68b5dcf4c07320d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -324,11 +419,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
+    "width": 315.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -344,34 +439,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "235b7f412e022cd8",
+  "active": "83e18f2777238384",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
-    "Sylphmade Cloak.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
+    "Theord Homestead.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Daurgi the Herdsman.md",
+    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
+    "Theord the Outlander.md",
+    "General Notes and Ideas.md",
+    "Magic Item Pricing and Crafting.md",
+    "World of Helodaria/Steinwalde.md",
+    "Items/+2 Dragon Scale Leather Armor.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Estravia.md",
+    "World of Helodaria/Sirkonos.md",
+    "Maghlas Mountains.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Dularen.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
     "Session 90 - The Temple of Elemental Evil.md",
     "World of Helodaria/Vasspryg.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "Items/Anathema.md",
-    "Items/Spear of Damnation.md",
-    "Items/Infernal Cuirass.md",
-    "Items/Daybreakers.md",
-    "Items/+2 Green Dragon Scale Leather Armor.md",
-    "World of Helodaria/Sirkonos.md",
-    "Statblocks/Manticore Statblock.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Session Notes/Vanguard/Session 999 - Dragonfire.md",
-    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "Ophelia the Sylph.md",
+    "Temple of Elemental Evil.md",
     "World of Helodaria/Synod of Elevation.md",
-    "Staff of the Void.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Darius Nubide.md",
+    "Items/Sylphmade Cloak.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
     "Timeline.base",
     "Attachments/Red Hand of Doom.pdf",
     "Untitled.canvas",

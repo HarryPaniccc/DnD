@@ -92,7 +92,7 @@ Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from t
 #### Gear Ideas
 One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing and Crafting]] document too.
 
-- [[+2 Green Dragon Scale Leather Armor]]
+- [[+2 Dragon Scale Leather Armor]]
 - [[Infernal Compass]]
 - [[Potion of Vampiric Sense]]
 - [[Repeating Crossbow]]

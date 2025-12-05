@@ -13,17 +13,33 @@
 - Before leaving the faults, the pair, accompanied by the legendary monster hunter [[Rudolph van Richten]], found a small dwarven travelling company, making friends with members of the [[Battlehammer Clan]].
 - Alongside the dwarves, the battled their way through the forward fortification of a Duergar fortress of some kind, where they learned that a clan known as the [[Sunblight Clan|Sunblighters]] have been mining a material known as [[Black Ice]].
 - After parting ways with the dwarven prospectors, the pair found their way, led by Kanan's visions, into and through the cursed chasms of the land. It was there that they came across the remains of an ancestor of Kanan's, and reclaimed his remains and the remains of those he was protecting, as well as his staff, for a proper burial.
+- Now, the group ventures ever onwards north, as the darkness of winter sets in around them, and the temperature drops lower and lower.
+
+Have them roll and see who is highest, highest roll goes first as Theord.
 
 ### Opening Monologue
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+> Your name is [[Theord the Outlander]]. For years you and your homestead have endured harsh winters and a difficult life here in the Western Plateaus of [[Maghlas Mountains]]. But despite the dangers, it is home, and you love it here. You love the life living among the villages of the surrounds. As a logger you have work year-round, and you are strong by virtue of your trade and the difficult life you live.
 > 
-> The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
+> The day is the 13th of *Dul'ussahn*, 813, and you are shaken awake by shouting outside of your home.
 
 # Session Start
 - Travel through wilderness. Maybe save an outlander from a giant or something.
 - Meet the flamebrands.
 - Steinwalde siege
 - Meet the Steinwaldi
+
+# Giant Raid on [[Theord Homestead]]
+---
+[[Theord the Outlander]], a level 3 barbarian, and his nieghbour [[Daurgi the Herdsman]], a level 3 ranger, are awoken in the night when their goats and beasts of burden are startled by a raid of giants, aiming to steal their winter stores from them.
+
+##### **ENCOUNTER** — Ogres x 2 and frost giant
+The pair of outlanders will need to defend their home from a pair of ogres that are trying to steal goats from a pen beside the two A-frame houses during a **blizzard**.
+
+As combat grows dire, a frost giant will lumber into view, then either Kanan or Caede will appear and save the two.
+
+### [[Theord Homestead]]
+
+
 
 # Warcry of the [[Flamebrands]]
 ---

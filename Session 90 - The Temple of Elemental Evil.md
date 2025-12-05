@@ -24,24 +24,29 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 # Session TODO
 Rylai pushes into the sealed [[Temple of Elemental Evil]], hoping to acquire access to the [[Ley Nexus]] present there that will allow her to access her magic more directly and purge her sorcerous powers.
 
+Recall that the guardian outside warned of a great evil contained within the temple, something that he could allow no one to pass who would let it escape. Something eternal.
+
 - Flashback for Rylai's Past
 - Combat encounter x 2?
 - Sneaking around maybe?
 - Talk with Ophelia about what she wants/knows
 - [[Sylphmade Cloak]]
+- Note about her size making her harder to spot
 
 ### Encounters/Monsters Ideas
 > Want to use aberrations, fiends and elementals
 - Gibbering Mouther (FM! Seems more fun), or modify it to Daze
 - Earth elemental of some kind, maybe a Xorn or with the earth elemental companion abilities
-- 
+- **ABOLETH**
 
-# Section
+# [[Ophelia the Sylph|Ophelia]]
+---
+
+
+# Antechamber
 ---
 Something happens
 
 
-# Section
+# The [[Elemental Plane of Air]] (Halfway Point)
 ---
-Something else happens
-
