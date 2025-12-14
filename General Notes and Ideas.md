@@ -4,11 +4,11 @@ tags:
 ---
 # To do list
 - [ ] Everyone's items
-	- [ ] Isilme
-	- [ ] Kanan
-	- [ ] Rylai
+	- [x] Isilme
+	- [x] Kanan
+	- [x] Rylai
 	- [ ] Dusk
-	- [ ] Caede
+	- [x] Caede
 	- [ ] Silb
 >[!Idea]
 >### Oneshot where they play as the people who had the Blade of Despair
@@ -35,6 +35,7 @@ tags:
 - [ ] Stone Railing
 ### Normal Stuff
 - [ ] **ANATHEMA**
+- [ ] Come up with a name for the [[Convocatio of Mages]]
 - [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
@@ -44,11 +45,8 @@ tags:
 - [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
 	- [ ] Thayan wizard woman with the vampires and stuff
-	- [ ] [[General Isaac]]
 - [ ] NPCs of importance to the vanguard
 - [ ] Caede's Necromantia contents
-- [ ] Magic Item Shops and inventory
-	- [ ] Thri-Kreen shop run in [[Brocia]]
 - [ ] **MAPS**
 	- [ ] Digital maps?
 	- [ ] Ruina regional map

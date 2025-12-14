@@ -2,7 +2,7 @@
 tags: Lore, Core
 ---
 # [[History of Helodaria]]
-Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Ascension, The Fall, and The Modern Age. The Vanguard started in the year 812 PF, or Post Fall.
+Helodaria has existed for many thousands of years, the ages being divided into distinct periods: The Eternity of Before, The Unknowable Age, The Age of Wounds, The Age of Ascension, The Fall, and The Modern Age. The Vanguard started in the year 812 PF, or Post Fall.
 
 # [[Helodarian Calendar]]
 The [[Helodaria|Helodarian]] Calendar is one that is derived from a North-Zitrumean Elvish Calendar, depicting the year in 13 months, with a total of 380 days. 

@@ -2,8 +2,7 @@
 tags:
   - Lore
 ---
-An ancient order predating [[The Fall]], the 
-Not to be confused with the bardy guild(?)
+The [[Convocatio of Mages]] is an ancient order of spellcasters that act as neutral arbiters 
 
 
 # Brainstorming

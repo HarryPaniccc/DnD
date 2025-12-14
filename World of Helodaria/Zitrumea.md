@@ -15,7 +15,7 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 >- Mountain range dividing the [[Armoured Lands]] from the West that wraps around the north of the main Zitrumean Lands
 >- Pyleas to the south
 
-- [[Baylan's Rest]]
+- [[Baylan's Rest]], the great capital city of the Zitrumean empire.
 
 - [[Camroc]], an independent city-state in the #TODO north of Pyleas' northern mountain range. It is ruled by King #TODO . Camroc is within 20 miles of a shoreline
 
@@ -26,6 +26,8 @@ The united islands, coasts and mountainous forests of Pyleas form a beautiful, d
 - [[Redwall]] is a small walled town
 
 - [[Mithral Hall]] is an ancient important dwarf hall in the north of Zitrumea
+
+- [[Large Central Zitrumean Lake]]
 
 ## [[Qel-Annura]]
 High elf home city

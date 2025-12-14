@@ -1,5 +1,18 @@
 **Previous Session:** [[Session 89 - Marthirion, Marred by Seeing]]
 **Subsequent Session:**
+
+# Planning
+Rylai goes in to the temple and its derelict. The power present in the region that has been tainted by corruption brings life to elementals of evil inclinations. Rylai will need to make her way through a ruined temple and eventually make her way to the planar crossing at the centre of the temple.
+
+Along the way she will speak with Ophelia about the region and its history as well as what Ophelia really sees within her. Ophelia sense Rylai's elemental inclination and is annoyingly pushing her to reclaim that connection.
+
+She will meet a few fodder elemental creatures that will be fighting one another. As she enters deeper into the temple the power of the [[Ley Nexus]] will begin to react to her inherent power, and ice spirits will form.
+
+
+
+
+
+
 ## Post Mortem
 ---
 
@@ -39,13 +52,27 @@ Recall that the guardian outside warned of a great evil contained within the tem
 - Earth elemental of some kind, maybe a Xorn or with the earth elemental companion abilities
 - **ABOLETH**
 
-# [[Ophelia the Sylph|Ophelia]]
+# Flashback
 ---
 
+
+
+# [[Ophelia the Sylph|Ophelia]]
+---
+Ophelia understands the history of the temple of elements before [[Tharizdun]] fell to the influence of the [[Seed of the Abyss]].
+
+>[!Note] Why did she come with?
+>Ophelia can understand the wound that Rylai has inflicted on herself, and she does not want her to continue to suffer. She believes that the only way for her to interact with her connection to the elemental planes is to understand her pain. You can't cut out a tumour if you dont understand it.
+>
+>Ophelia truly wants Rylai to embrace her connection to the elemental plane of air.
 
 # Antechamber
 ---
-Something happens
+> I can feel the movements of the stones beneath you, tiny one. My siblings are blind, and the wind conceals your movement, but the stones do not lie. You are new here, and of the new world.
+
+A particularly evil earth elemental notices Rylai's presence with his tremorsense, but he will not alert the rest of the temple, as he believes that if he kills her he can use the power of her blood to escape his confinement. Rylai holds the power to open a sealed rift to the elemental planes, and can also step through the veil of the temple's imprisonment.
+
+##### **ENCOUNTER:** 3 x Gargoyles and 
 
 
 # The [[Elemental Plane of Air]] (Halfway Point)

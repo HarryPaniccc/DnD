@@ -38,7 +38,7 @@ The entrance is guarded by two well-armed men allied with [[General Den'rael]], 
 [[Hadran]] and [[Atara]] make their camp on one of the apexes overlooking the mine, in the cool air of the evening.
 
 **What the elves know**
-- During the wars of the fall, it is known that the elves of the city of [[Qel-Annura]] formed an alliance with the men of the north, the modern day [[Unnamed Stark House Equivalent]], in order to protect battle back the evils that plagued the region at the time. They are a member of a conclave that have acted as guardians of holy sites to [[Sehanine]] in the area. Most are well hidden, and if only they could offer more protection to the people than they can currently afford, but the secrets of their location cannot be revealed.
+- During the wars of the fall, it is known that the elves of the city of [[Qel-Annura]] formed an alliance with the men of the north, the modern day [[House Ralenroth]], in order to protect battle back the evils that plagued the region at the time. They are a member of a conclave that have acted as guardians of holy sites to [[Sehanine]] in the area. Most are well hidden, and if only they could offer more protection to the people than they can currently afford, but the secrets of their location cannot be revealed.
 - The [[Mirror of Liraleth]] is hidden somewhere in the valley. The pair worry that the enemy is trying to find it.
 - They are departing in the morning.
 

@@ -66,7 +66,7 @@ Eskel and Mehron seek the [[Mirror of Liraleth]], a source of power said once to
 
 Now with Nethendell under seige, the survivors fled to a forgotten mine in a mountain overlooking the valley. Related, a small sect of [[Sehanine]] worshipper elves stalk the land in hiding, maintaining small temples and such to ensure that the mirror remains hidden.
 
-> Lesser house under [[Unnamed Stark House Equivalent]] are vassals of this region, and lord 
+> Lesser house under [[House Ralenroth]] are vassals of this region, and lord 
 
 ### Further Notes
 **Points of Interest**:

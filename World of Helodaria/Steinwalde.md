@@ -34,6 +34,8 @@ Long stone road leading through many large statues and battlements cut square in
 ### Entryhall
 A long highway stretching along the face of the southern mountain, decorated by hundreds of series grand arches. Theree grand, primary entrance doors miles away from one another connect the Entryhall to the outside world, and act as the primary highways to the surrounding southern [[Maghlas Mountains]] ranges. The entryhall stretches from south west to north east, with the largest of the gates at the centre of it.
 
+[[Infernoguard Tower|Infernoguard Towers]] have been used in the last few months to reinforce the defences around the entryhall gates — the first of them being used to reinforce **Khaldron's Gate**.
+
 - **Khaldron's Gate** is the largest and most central of the three entrances, a massive set of stone doors cut into the mountain, flanked by a ring of fortresses joined by walls and guarded constantly.
 - **Morinan's Gate** is the southemost of the entryhall's entrances, and has remained undiscovered for thousands of years. In contrast to the other gates, whose locations are known by the enemies of Steinwalde, and thus are more proud and loud in their fortifications, Morinan's Gate hides invisibly in the stonework of the mountains.
 - **[[Zundulkhar]], the Molten Hall** is the northmost fortress and gate to the entryhall, and was lost centuries ago to the forces of the [[Duvan'ahr the Sleeping Odium|Bane of Steinwalde]].

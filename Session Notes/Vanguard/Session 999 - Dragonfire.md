@@ -63,11 +63,13 @@ If the battle begins to go south, Oriothar will realize that the obsession that 
 
 # Hike to the Battle
 ---
-Flamebrands will be hauling their things on a large ornate bridge which allows them
+Flamebrands will be hauling their things on a large ornate bridge which allows them to move wounded and their weapons all at once.
 # Seige
 ---
 Maybe a ballista, a fire giant, the arkhan mini and something else? 
 >[!Idea]
 >Maybe there is like a tower that gives resistance to fire damage in a large AOE, and they must defend that?
+### [[Infernoguard Tower]]
+
 # [[Steinwalde]] at Last
 ---

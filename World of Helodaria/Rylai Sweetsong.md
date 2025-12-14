@@ -14,7 +14,13 @@ Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to a wealthy n
 # Biography
 ---
 ## Before the Campaign
+When Rylai was young it was discovered that she was a powerful sorcerer and posessed significant attunement to the [[Elemental Plane of Air]]. During this early period of her life, [[Darius Nubide]] would tutor her in her power. She would never be able to control fire.
+
+One night, while trying to create a flame, she accidentally created a great blaze that would consume her family home in [[Midvale]], killing her parents [[Lin Sweetsong]] and [[Nathaniel Sweetsong]].
+
+She would shut off her connection to the elemental plane of air by freezing her heart and sundering her ability to cast sorcerer magics. She would still become a powerful bard.
 ## Campaign One: Vanguard
+Rylai would find [[Caede]] very early after he rose from his long slumber near the town of [[Splitmount]] on her way to [[Ironbase]]. 
 # Character Information
 ---
 ## Quests

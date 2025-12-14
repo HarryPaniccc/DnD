@@ -134,7 +134,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 
 # [[Rylai Sweetsong|Rylai]]
 ---
-- [ ] Perform magic ritual thing
+- [x] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
 - [ ] Places for her to perform - [[Uldronos Council]] member parties and such
@@ -148,6 +148,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 - [[Session 86 - The Synod of Elevation]]
 - [[Session 87 - An Element of Truth]]
 - [[Session 89 - Marthirion, Marred by Seeing]]
+- [[Session 90 - The Temple of Elemental Evil]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
