@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -372,13 +372,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f9f8bc01ae6e5083",
+  "active": "277ca92ca4747921",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20251214190732.png",
+    "Ophelia the Sylph.md",
     "Items/Sylphmade Cloak.md",
     "Sylph Companion.md",
+    "Attachments/Pasted image 20251214191012.png",
+    "Attachments/Pasted image 20251214190957.png",
+    "Attachments/Pasted image 20251214190732.png",
     "Session 90 - The Temple of Elemental Evil.md",
-    "Ophelia the Sylph.md",
     "Temple of Elemental Evil.md",
     "World of Helodaria/Vasspryg.md",
     "World of Helodaria/Dusk.md",
@@ -418,9 +420,6 @@
     "Attachments/hextml/Unconfirmed 303177.crdownload",
     "Attachments/Pasted image 20250910175914.png",
     "Attachments/Pasted image 20250906123642.png",
-    "Attachments/Pasted image 20250906123637.png",
-    "Attachments/Pasted image 20250823201221.png",
-    "Attachments/Estravia perfect.png",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
