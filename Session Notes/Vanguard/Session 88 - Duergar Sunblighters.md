@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 85 - Estravian Brigands]] and [[Session 85.5 - The North Estravian Faults]]
-**Subsequent Session:** [[Session 999 - Dragonfire]]
+**Subsequent Session:** [[Session 90 - Dragonfire]]
 ## Post Mortem
 ---
 **Dulussahn 4th**

@@ -79,7 +79,7 @@ The PC's are going to be accumulating allies throughout this period.
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
-- [[Session 999 - Dragonfire]]
+- [[Session 90 - Dragonfire]]
 - [[Session 88 - Duergar Sunblighters]]
 - [[Session 85.5 - The North Estravian Faults]]
 - [[Session 84 - Travel to Steinwalde]]
@@ -148,7 +148,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 - [[Session 86 - The Synod of Elevation]]
 - [[Session 87 - An Element of Truth]]
 - [[Session 89 - Marthirion, Marred by Seeing]]
-- [[Session 90 - The Temple of Elemental Evil]]
+- [[Session 999 - The Temple of Elemental Evil]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 

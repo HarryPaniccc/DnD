@@ -27,9 +27,9 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 ## Sessions
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
-- [[Session 999 - Dragonfire]]
-- [[Session 90 - The Temple of Elemental Evil]]
+- [[Session 999 - The Temple of Elemental Evil]]
 
+- [[Session 90 - Dragonfire]]
 - [[Session 89 - Marthirion, Marred by Seeing]] - Rylai + Isilme + Dusk
 - [[Session 88 - Duergar Sunblighters]] - Kanan + Caede
 - [[Session 87 - An Element of Truth]] - Rylai + Isilme + Dusk

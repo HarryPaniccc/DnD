@@ -1,7 +1,21 @@
 **Previous Session:** [[Session 88 - Duergar Sunblighters]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 999 - Steinwalde]]
 ## Post Mortem
 ---
+**Dul'ussahn 13th**
+- Around midnight [[Theord the Outlander]] and [[Daurgi the Herdsman]] are awoken to defend their goats from Ogres and a Frost giant, being saved by [[Kanan Einzbern]]
+
+**Dul'ussahn 14th**
+- [[Caede]] spends the day helping repair the damage to the homestead, and attunes the [[Hearthstone]] to [[Theord Homestead]].
+
+**Dul'ussahn 16th**
+- Kanan and Caede and Van Richten arrive to aid [[Gaz the Branded]] and his [[Flamebrands]] in facing a young red dragon
+- They battle with and survive an attack from [[Oriothar the Monarch]].
+- The group arrives at Khaldrons Gate in [[Steinwalde]] and defend an [[Infernoguard Tower]] from attack from the orc hordes and draconic forces beset upon it.
+- Kanan and Caede are buffed with Beacon of Hope and Death Ward.
+
+>[!Note]
+>Do better describing. Things felt off because you didn't really put any weight into anything.
 
 ## Introduction
 ---
@@ -27,6 +41,13 @@ Have them roll and see who is highest, highest roll goes first as Theord.
 - Meet the flamebrands.
 - Steinwalde siege
 - Meet the Steinwaldi
+## Prep TODO
+- [ ] Encounters mini count check
+- [ ] Stat the staff and [[Black Ice Half Plate]]
+- [x] Tower
+- [ ] Print the card
+- [x] Fire Giant
+- [ ] Stats for Theord and Daurgi
 
 # Giant Raid on [[Theord Homestead]]
 ---
@@ -38,9 +59,9 @@ The pair of outlanders will need to defend their home from a pair of ogres that 
 As combat grows dire, a frost giant will lumber into view, then either Kanan or Caede will appear and save the two.
 
 ### [[Theord Homestead]]
+Loggers village. In a blizzard and there are a few smaller houses as well as pens for animals.
 
-
-
+The valley ahead is far gentler than the [[Faults of North Estravia]], with rises and dips along hillsides, and fir tree forests stretching around the regions. The frigid winds only get stronger as Winter sets her roots in the bones of the land.
 # Warcry of the [[Flamebrands]]
 ---
 > The sounds of... singing of some kind echo through the valley. A war chant, slow, simple. But then from over the ridge, a streak of vibrant crimson flows, trailing ember and smoke. Cutting the sky with a roar like thunder. A lean body of muscle, unscarred, a beautiful, vibrant red the likes of which you're unsure you've seen before, and rows of teeth. 
@@ -49,27 +70,33 @@ As combat grows dire, a frost giant will lumber into view, then either Kanan or 
 
 On a plateau covered in snow in a clearing within a small forest of fir trees [[Gaz the Branded]] and his [[Flamebrands]] have set a trap in order to trap the [[Young Red Dragon]] [[Bloodmaw]]. What Gaz is hoping for, and what he has not yet told his soldiers, is that he hopes this will draw out [[Oriothar the Monarch]].
 ##### **Encounter** - Young Red Dragon and [[Oriothar the Monarch|Old Whitehorn]]
-**Oriothar** has 768 hit points, as well as greatwyrm scales -2 per damage instance, and the **young red dragon** has 445 hit points, or 534 if its going too fast.
+**Oriothar** has 768 hit points, as well as greatwyrm scales -4 per damage instance, and the **young red dragon** has 445 hit points, or 534 if its going too fast.
 
 If the battle begins to go south, Oriothar will realize that the obsession that [[Gaz the Branded|Gaz]] has with him will lead to more deaths than he can inflict here, so he will allow the dwarf to survive. Worst case scenario, Oriothar will flee with his life.
 
 **Initiatives:**
-- [[Gaz the Branded]], statblock of Thwad Underbrew modified
-- [[Borthi son of Tingor]], War priest will play a supportive role with spells like Crusader's Mantle and hold monster
-- 9 x [[Flamebrands Statblock|Flamebrands]] Are the grunts 
-- Young red dragon
-- [[Oriothar the Monarch|Old Whitehorn]]
+- (4) [[Gaz the Branded]], statblock of Thwad Underbrew modified
+- (10 [[Borthi son of Tingor]], War priest will play a supportive role with spells like Crusader's Mantle and hold monster
+- (7, 5 and 13) 9 x [[Flamebrands Statblock|Flamebrands]] Are the grunts 
+- (13) Young red dragon
+- (17) [[Oriothar the Monarch|Old Whitehorn]]
 - Van Richten - Protect the horses
 
 # Hike to the Battle
 ---
-Flamebrands will be hauling their things on a large ornate bridge which allows them to move wounded and their weapons all at once.
-# Seige
+Flamebrands will be hauling their things on a large ornate bridge which allows them to move wounded and their weapons all at once. Dur
+# Siege
 ---
-Maybe a ballista, a fire giant, the arkhan mini and something else? 
->[!Idea]
->Maybe there is like a tower that gives resistance to fire damage in a large AOE, and they must defend that?
 ### [[Infernoguard Tower]]
+The Infernoguard Tower has 18 HP and 150 hit points, with the "greater toughness" condition, meaning it takes no damage from sources of 50 or less. Once it prevents 100 points of fire damage it can cast disintegrate on the biggest problem on the field, but its more flavoured like a big thingy.
 
+##### **ENCOUNTER** - Oriothar's Forces
+- (9) Fire Giant
+- (21) 15 x Orc Blitzers (minions) - *up to five in one group attack*
+- (6) 5 x orc war chiefs
+- (13) Dragonborn of Tiamat (21 AC, 120 HP) (Cloak of protection, shield, +1 battleaxe, FIRE DAMAGE)
+- (20) 2d4 more blitzers spawn up to 15 maximum
+- (6) Manticore mount for Dborne
+SACRIFICE AN OGRE FROM THE BEAM
 # [[Steinwalde]] at Last
 ---
