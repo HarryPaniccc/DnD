@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 88 - Duergar Sunblighters]]
-**Subsequent Session:** [[Session 999 - Steinwalde]]
+**Subsequent Session:** [[Session 91 - Steinwalde]]
 ## Post Mortem
 ---
 **Dul'ussahn 13th**

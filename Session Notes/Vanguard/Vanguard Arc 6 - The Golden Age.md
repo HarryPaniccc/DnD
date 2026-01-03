@@ -24,18 +24,24 @@ tags:
 - (17th) Doing [[Session 84 - Travel to Steinwalde|Kanan + Caede to Maglahs Session]]. They clear [[Vorciln Castle]], meet [[Odessa]] and claim a lot of arms for their soldiers.
 - (21st) [[Darius Nubide]] appears to Rylai in her rooms
 
-
 **Week 5 (Antumbrahn 23rd)**
 - (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
 - Caede and Kanan make it to the first village of [[Estravia]], and later Valeria, where they meet [[Belle Nierhund]]
-- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and begin doing the Synod Dungeon
+- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and find and delve into the [[Synod of Elevation]], facing and defeating [[Marthirion]]
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
 - Kanan and Caede make it to the base of the North Estravian Faults where they face winter wolves, frost giants, blizzards, and meet the [[Battlehammer Clan]] scouts
 - They attack a Duergar watchtower in trying to pass through them
+- (30th) Rylai, Isilme and Dusk, having recruited [[Maurice the Flameskull|Kran]] and [[Ophelia the Sylph]], return to and pay the mercenaries for their troubles.
+- (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
 
 **Week 7 (Dulussahn 7th)**
-- Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
+- (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
+- (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
+
+**Week 8 (Dulussahn 14th)**
+- (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
+- 
 # Things to Remember
 
 Kanan spends minimum time in Brocia (like one day of prep)

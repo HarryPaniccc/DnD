@@ -9,10 +9,6 @@ Along the way she will speak with Ophelia about the region and its history as we
 She will meet a few fodder elemental creatures that will be fighting one another. As she enters deeper into the temple the power of the [[Ley Nexus]] will begin to react to her inherent power, and ice spirits will form.
 
 
-
-
-
-
 ## Post Mortem
 ---
 
