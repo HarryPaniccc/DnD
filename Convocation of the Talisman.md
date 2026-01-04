@@ -2,8 +2,7 @@
 tags:
   - Lore
 ---
-The [[Convocatio of Mages]] is an ancient order of spellcasters that act as neutral arbiters 
-
+The [[Convocation of the Talisman]] is an ancient order of spellcasters that act as neutral arbiters 
 
 # Brainstorming
 - Order that exists across [[Zitrumea]], mainly existing within the [[Zitrumean Empire]]

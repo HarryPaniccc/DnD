@@ -106,7 +106,6 @@ One of the primary objectives too is for Kanan to sort out some of his gear on t
 #### Dragon Problem in Steinwalde
 [[Dragons of Helodaria|Dragon]] season has come early to Steinwalde this generation. The dragons and their usual politics are being fought by the dwarven forces, and the hunt for red dragons is being led by the [[Flamebrands]].
 - [[Oriothar the Monarch]] is currently attempting to take Steinwalde, believing to be pretending to be loyal to [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] with the goal of steal her place.
-- 
 
 ### Count Einzbern
 Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**.
@@ -128,6 +127,8 @@ Something certainly happens in [[Ralia]].
 ---
 ### Repair the [[Leviathan Axe]]
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
+
+The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled.
 ### Defences and Staff of [[Trayfort Keep]]
 The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
 

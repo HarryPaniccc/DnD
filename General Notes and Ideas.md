@@ -35,7 +35,7 @@ tags:
 - [ ] Stone Railing
 ### Normal Stuff
 - [ ] **ANATHEMA**
-- [ ] Come up with a name for the [[Convocatio of Mages]]
+- [ ] Come up with a name for the [[Convocation of the Talisman]]
 - [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.

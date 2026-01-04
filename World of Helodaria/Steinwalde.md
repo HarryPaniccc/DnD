@@ -43,3 +43,5 @@ A long highway stretching along the face of the southern mountain, decorated by 
 A large, cavernous hallway with massive stalagmite pillars that have joined the ceiling and floor of the cavern millenia ago. Many of these pillars have been carved into and connected with stone bridges, creating a winding network of buildings, shops, residences and neighbourhoods.
 
 ### 
+
+### Hot Green Area?

@@ -31,8 +31,8 @@ The Zitrumean Empire, also known as Zitrumea, the Imperium, or a host of other s
 The Zitrumean Empire is headed by the sovereign of [[House Zitrum]]. During the wars of [[The Fall]] on [[Zitrumea]], the champion of [[Tyr]], [[Baylan Zitrum]], united the armies of Zitrumea against the forces of [[Gruumsh]] and his dark allegiance #TODO, fighting against the threat of the East.
 ## The [[Great Houses]]
 The great houses are seats of power that make up the rulers of various regions and nations within Zitrumea under the Imperium. They are the noble houses and banners that rallied under [[Baylan Zitrum]] during [[The Fall]], and have secured themselves as the holders of control over the Empire.
-## [[Convocatio of Mages]]
-Formally a neutral entity, the [[Convocatio of Mages]] is an organisation of magic practitioners and spellcasters
+## [[Convocation of the Talisman]]
+Formally a neutral entity, the [[Convocation of the Talisman]] is an organisation of magic practitioners and spellcasters
 
 ## Military
 - [[The Sovereign's Cruelty]] is the big ship. The zitrumean navy is notably very powerful and interacts with the [[Sundance Isles]]

@@ -22,14 +22,16 @@
 - Complete giant battle
 - **TODO**: work on Steinwalde
 	- What is [[Rudolph van Richten]] doing?
-
-
-# Section
+	- 
+- 
+# Slaying the Giant
 ---
-Something happens
+Need to defeat the fire giant and the manticore and whatever else remains. Maybe [[Rudolph van Richten]] will arrive to assist on horseback, bringing gaz on the back of his horse too.
 
-
-# Section
+# Entry to Steinwalde
 ---
-Something else happens
+Big old descritption of the main region. 
 
+# Objectives
+---
+- Repair the Leviathan Axe
