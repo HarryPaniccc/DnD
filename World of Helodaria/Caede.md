@@ -16,6 +16,12 @@ During the wars of the fall on Eranulaid, Caede and his brothers and sisters of 
 ## Campaign One: Vanguard
 # Character Information
 ---
+
+> [!Caede's Oaths] Caede's Oaths
+>*Caede has one unknown oath. He cannot recall its details.*
+>"I will slay undead."
+>"I will redeem those who are undeserving of death."
+
 ## Quests
 ## Notable Items
 ### Current Items

@@ -3,8 +3,6 @@
 
 Runic weapon (battle axe), requires attunement, Legendary
 
-  
-
 # Stats:  
 The Leviathan axe is a magical battle axe with the thrown property, with a range of 30/90. As a bonus action, while attuned, the wielder can cause the axe to fly back into their hand. The axe will not return if under an effect such as an area of no magic, or if the wielder is on another plane of existence.
 

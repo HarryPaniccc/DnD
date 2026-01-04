@@ -28,10 +28,19 @@
 ---
 Need to defeat the fire giant and the manticore and whatever else remains. Maybe [[Rudolph van Richten]] will arrive to assist on horseback, bringing gaz on the back of his horse too.
 
-# Entry to Steinwalde
+# Steinwalde
 ---
-Big old descritption of the main region. 
+## Characters and their goals and knowledge
+##### [[Prince Boryg the Brash]]
+- Boryg will welcome the fighters after having heard the battle report of how they defended an [[Infernoguard Tower]]. Should the pair fail to defend the tower, Boryg will not think highly of them.
+- Boryg will be able to introduce everyone to [[Thran the Anvil]] and to [[Grelchar the Keen]]
 
+##### [[Gaz the Branded]]
+- Gaz will want to pull Caede aside at some point and speak to him about his abilities and how he might be helpful.
+
+## The City
+- **Oldhall** is the entrance area
+- Leads to the **Stone Forest**
 # Objectives
 ---
 - Repair the Leviathan Axe
