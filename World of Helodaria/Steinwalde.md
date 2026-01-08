@@ -77,10 +77,16 @@ From the balcony-like landing of the exit of the [[#Oldhall]] one can take a bri
 - **Barracks** for the soldiers on standby exist as a tiered series of rooms cut into the Southwest walls, overhanging as a series of balconies which each extend further than the last. **Usually one thousand troops are available at one time, mostly spread through the city, while another six hundred usually guard the entryhall and its surroundings.** Should the city need, it can field four thousand troops, or, in dire circumstances, closer to ten thousand can be called on.
 - **Watercourse Market** is a large marketplace stretching along the North Eastern floor of the Stone forest, some distance underneath the main level walkways. It sits next to a natural underground lake with various rivers and streams leading into the mineral rich water.
 - **Huntsman's Halls** are a series of wooden hallways that stick out like a thumb against the northmost side of the mountain. Well known as the chief providers of game for the city, they often send hunters out north of the city and to the mountain on which it was built.
-### 
-## Forge Throne
+### Forge Throne
+- Wyrmthrone Hall is the main hall in the building.
 At the heart of the city, where the magma runs thick and hot, the forgethrone sits above the greatforges. Here, the king of Steinwalde holds his council. Grand bridges built into what was an even grander mine with huge statues of dwarves surrounded by sharp rocks stand watch, surrounded by balconies aplenty.
+
+### Hall of Carved Memories
+> We write our histories in stone. That which is not set in stone or metal can be changed. That which is changed is forgotten. That which is not forgotten, strengthens us.
+
+A grand network of passageways lined with books, stretching outwards from a central pillar in a circular motion, the hall of carved memories has a great share of books and histories carved in stone tablets and murals and paintings. It is watched in chief by [[Elmsier the Keeper]].
 ## The Crucible
+Where [[Thran the Anvil]] trains the greatest of soldiers. Pits of fine gravel and floors heated greatly.
 ## The Greatforges
 ![[Pasted image 20260104200221.png]]
 Big forge and lots of lava tf you want from me. Outside is a great number of titanically scaled forges where hundreds of dwarves toil day in and day out in metal working.
@@ -92,11 +98,7 @@ A balcony sits over a great pool of lava, accessible through various chains and 
 
 Here, [[Lathran, Avatar of Lathander|Lathran]] and [[Grelchar the Keen]] toil on new creations.
 
-## Hall of Carved Memories
-> We write our histories in stone. That which is not set in stone or metal can be changed. That which is changed is forgotten. That which is not forgotten, strengthens us.
-
-A grand network of passageways lined with books, stretching outwards from a central pillar in a circular motion, the hall of carved memories has a great share of books and histories carved in stone tablets and murals and paintings. It is watched in chief by [[Elmsier the Keeper]].
 ## Eternal Mines
-The wealth of Steinwalde is in its unbelievable richness of the stones 
+The wealth of Steinwalde is in its unbelievable richness of the stones.
 ## Fungal Glade
 A vast network of fungas covered caverns, the shallower of which are often foraged in for the city people.
