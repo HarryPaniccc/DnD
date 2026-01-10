@@ -13,6 +13,8 @@ One night, during a ritual in which he and his brother's eyes were cut into, Tev
 ---
 ## Appearance
 >*So i think at the start of the campign he was kind of on the skinnier side of things, and far less scars on his body than what he has now and his hair is like a mid tone brown with a streak of white above where his left eye was carved. He has sharp facial features with very light blue eyes that hold a very intense glare at times. By now hes definitely bulked up a lot and hes got a lot of scars accross his forearms and torso, and his previously intense glare would be replaced by something more complacent and contempt, but always calculating*
+
+Kanan has white hair.
 ## Personality
 Kanan's warm upbringing raised him to be a kind and competitive boy, but the traumatic years of his life prior to joining the [[Vanguard]] left him colder, unempathetic, and quiet. His previous empathy was replaced by a capacity for cruelty.
 
@@ -62,3 +64,4 @@ Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on th
 - [[Isolde Einzbern]], Kanan's mother
 - [[Lucius]], Kanan's greatest foe and prey. The Vampire is the cause of Kanan's suffering
 - [[Erin Einzbern]], Jarren Ward's reanimated skeleton and Kanan's friend
+- [[Lady Leah Luthrand]] seems to be a prospective love interest for Kanan

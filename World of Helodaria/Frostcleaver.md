@@ -15,11 +15,11 @@ The below statblock is simply an [[Adult White Dragon]] modified. Frostcleaver i
 > **HP** 600 (48d12 + 288)
 > **Speed** 40 ft., burrow 30 ft. fly 80 ft., swim 40 ft.
 > 
-> |         |     | MOD | SAVE |         |     | MOD | SAVE |     |
-> | :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: | --- |
-> | **STR** | 22  | +6  |  +6  | **INT** |  8  | -1  |  -1  |     |
-> | **DEX** | 10  | +0  |  +5  | **WIS** | 12  | +1  |  +6  |     |
-> | **CON** | 22  | +6  | +11  | **CHA** | 12  | +1  |  +6  |     |
+> |         |     | MOD | SAVE |         |     | MOD | SAVE |
+> | :-----: | :-: | :-: | :--: | :-----: | :-: | :-: | :--: |
+> | **STR** | 22  | +6  |  +6  | **INT** |  8  | -1  |  -1  |
+> | **DEX** | 10  | +0  |  +5  | **WIS** | 12  | +1  |  +6  |
+> | **CON** | 22  | +6  | +11  | **CHA** | 12  | +1  |  +6  |
 > **Skills** Perception +11 Stealth +5
 > **Resistances** Nonmagical weapon damage
 > **Immunities** Cold

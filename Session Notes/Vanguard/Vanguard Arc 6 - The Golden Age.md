@@ -12,7 +12,7 @@ tags:
 
 **Week 2 (Antumbrahn 2nd)**
 - Ulfric starts
-- Kanan leaves for [[Session 83 - Through the Sirkonian Countryside (Start of Arc)|Kanan Solo Session]]
+- Kanan leaves for [[Session 83 - Through the Sirkonian Countryside (Start of Arc)|Kanan Solo Session]] from [[Luthrand Manor]]
 - Rylai and Dusk start performing in upper society of Dularen and researching magic.
 
 **Week 3 (Antumbrahn 9th)**
@@ -42,12 +42,11 @@ tags:
 **Week 8 (Dulussahn 14th)**
 - (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
+- (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]
 
 **Week 9 Dulussahn 21st**
 - 
 # Things to Remember
-
-Kanan spends minimum time in Brocia (like one day of prep)
 
 ### Gold at the start of downtime
 I'm not going to track each gold piece but its a good idea to get an idea of funds right now.
@@ -55,7 +54,7 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - [[Kanan Einzbern]] - 10070 Gp
 - [[Caede]] - 18Pp 1500Gp 113Sp
 - [[Rylai Sweetsong]] - 10Pp 309Gp 1Sp 4Cp
-- [[Silb Heft]] - 
+- [[Silb Heft]] - ?
 - [[Isilme Vanariel]] - 203Gp
 - [[Dusk]] - 101Pp 26Sp
 
@@ -116,7 +115,7 @@ Kanan will also need to be introduced to the courts of the [[Nobility of Sirkono
 - Spy [[Doppelganger|Doppelganger]]
 - [[Thayan Orthodoxy]] Steward
 
-In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]. 
+In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]. Tevis is spending significant effort trying to find patronage for [[Einzberns]], and build up the house allies.
 
 He will be asked to kill [[Lord Malgus Kraber]].
 
@@ -134,11 +133,12 @@ Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can rep
 The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled.
 ##### [[Duergar Sunblight Stronghold]]
 White dragon lair has what he needs.
+
 ### Defences and Staff of [[Trayfort Keep]]
 The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
 
 ### Herald of the [[Deathwatch]]
-
+Caede will fill more into his role as the sword of the raven queen.
 
 ### Dungeon Delving
 Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]. The castle has been claimed, and the supplies need only be transported back to Ruina.
@@ -169,7 +169,6 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 - Her research will lead her to understanding Magic and the connection of [[Ley Lines]] and the [[Elemental Plane of Air]]
 - [[Sylphmade Cloak]] (flying scarf thing like Serpico's cloak)
 - [[Akadi]] the [[Primordials|Primordial]] of air
-
 
 
 ### [[Darius Nubide]]

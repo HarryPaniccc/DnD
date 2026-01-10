@@ -2,10 +2,24 @@
 tags:
   - Character
 ---
+[[Tevis Einzbern]] is the young patriarch of the [[Einzberns|Einzbern Clan]] and one of the few survivors of the clan following the attack on the [[Einzbern Hold]] by the [[Vorciln]]. He is [[Kanan Einzbern]]'s older brother.
 
 - Values family and close bonds
 - Annoyed when people don't listen to his warnings
 - Tevis is acquainted with [[Shrute]]
+
+# Description
+---
+Tevis has long black bair with piercing, cold blue eyes
+# Biography
+---
+Tevis was captured by [[Lucius]] and transformed into the Vorciln Enforcer, where he played the head role in hunting down the stragglers of Einzberns who escaped at the same time as Kanan.
+
+### [[Vanguard Arc 6 - The Golden Age]]
+Tevis is spending significant efforts to rebuild the [[Einzberns]] capabilities. He is consolodating how much wealth the estate still has. During this time he lived in [[Luthrand Manor]] as a guest to [[Baron Owen Luthrand]].
+# Stats
+---
+
 # Statblock
 ---
 Tevis is the [[Einzberns]] heir and the [[Vorciln]] enforcer.
