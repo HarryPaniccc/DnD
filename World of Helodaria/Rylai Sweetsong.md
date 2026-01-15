@@ -6,7 +6,7 @@ aliases:
 ---
 # Intro
 ---
-Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to a wealthy noble family, and a founding member of the [[Vanguard]].
+Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to the wealthy [[Sweetsong Family]], and a founding member of the [[Vanguard]].
 # Description
 ---
 ## Appearance

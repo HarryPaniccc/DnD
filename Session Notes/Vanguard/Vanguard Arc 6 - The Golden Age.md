@@ -115,7 +115,7 @@ Kanan will also need to be introduced to the courts of the [[Nobility of Sirkono
 - Spy [[Doppelganger|Doppelganger]]
 - [[Thayan Orthodoxy]] Steward
 
-In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]. Tevis is spending significant effort trying to find patronage for [[Einzberns]], and build up the house allies.
+In addition, [[Tevis Einzbern]] desires to rebuild the Einzbern house and Kanan will need to help him find allies. See [[House Luthrand]]. Tevis is spending significant effort trying to find patronage for [[Einzberns]], and build up the house allies. The finance stuff is in the [[Einzberns]] document.
 
 He will be asked to kill [[Lord Malgus Kraber]].
 

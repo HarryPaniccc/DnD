@@ -3,7 +3,7 @@
 > *Tiny Elemental (Air, Retainer), Chaotic Good*
 > 
 > ---
-> **AC** 13 (Light Armour) **Initiative** 
+> **AC** 13 (Light Armour) 
 > **HP** 6 times their level (number of d6 Hit Dice equal to their level)
 > **Speed** 10 ft., fly 45 ft. (hover)
 > 
@@ -20,7 +20,7 @@
 > **Languages** common, auran, something racist
 > **CR** —
 > ---
-> **As the Wind.** The Sylph can become as invisible as the wind at no cost, appearing only to those it wishes to be visible to. When it takes an action, its location is revealed due to bizarre shifting of the wind of a room, regardless if she is invisible or not.
+> **As the Wind.** The Sylph can become as invisible as the wind at no cost, appearing only to those it wishes to be visible to. When it takes an action, its location is revealed until the start of its next turn due to bizarre shifting of the wind of a room, regardless if she is invisible or not. Outside of combat, its location might not be revealed.
 > 
 > **Flyby.** Opportunity attacks made against the Sylph are made with disadvantage.
 >  ---

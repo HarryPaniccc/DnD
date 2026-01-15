@@ -25,7 +25,13 @@ The group of knights that make up the seven founding members of the Einzberns ma
 - Syr [[Jerrit Marlow]]. Dwarf of maul-wielding stature. He has extremely long black hair and a very well adorned beard. He has a tired air about how he speaks.
 - Syr [[Siegfried Einzbern]]. Short, tamed hair. Middle age. Longsword at his back and armoured pauldrons atop hard leather fittings and chainmail and metal. His right pauldron is adorned with a wolf’s head insignia. He often also uses a maul in combat.
 
+# Allies and Assets
+---
+The Einzberns owned a number of assets and properties around [[Sirkonos]], as well as having allies. During [[Vanguard Arc 7 - Unnamed]], [[Tevis Einzbern]] had to put considerable effort into consolodating and liquidating some assets after the family fell to ruin.
 
+- The [[Einzbern Hold]] remains in the familiy's name indefinetly, and is a "Keep or Small Castle", costing around 100Gp per DAY to keep running, reacing around 2900 Gp per month.
+- Use the [[Magic Item Pricing and Crafting]] CR Cost/rarity table to ballpark how much can be earned from monster bounties.
+- 
 # Schools and Training
 ---
 The Einzberns practice various combat forms as well as magics and arts that aid them in their hunts. Three specializations take shape, representing different forms of hunting expertise and a focus of study for initiates.

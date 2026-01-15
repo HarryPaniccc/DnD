@@ -78,6 +78,18 @@
             }
           },
           {
+            "id": "60cd31269e5d1c90",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "b3693309f4564384",
             "type": "leaf",
             "state": {
@@ -125,16 +137,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sylph Companion.md",
+                "file": "Statblocks/Sylph Companion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Sylph Companion"
             }
+          },
+          {
+            "id": "a2fb9606c831bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -221,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uldronos Council"
+              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
             }
           },
           {
@@ -292,7 +318,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "92400877833113eb",
@@ -371,34 +398,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "277ca92ca4747921",
+  "active": "60cd31269e5d1c90",
   "lastOpenFiles": [
-    "World of Helodaria/Tevis Einzbern.md",
-    "Sylph Companion.md",
-    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
-    "Timeline.md",
+    "Ophelia the Sylph.md",
     "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Sirkonos.md",
-    "Duergar Sunblight Stronghold.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+    "Statblocks/Sylph Companion.md",
+    "World of Helodaria/Rylai Sweetsong.md",
     "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
-    "Grelchar the Keen.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Luthrand Manor.md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Lady Leah Luthrand.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Borovik of Ellish.md",
+    "Ellish.md",
     "World of Helodaria/Kanan Einzbern.md",
-    "Magic Item Pricing and Crafting.md",
-    "House Luthrand.md",
-    "World of Helodaria/Keldmire.md",
-    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
-    "Session 999 - Hammer to Anvil.md",
-    "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
     "Session Notes/Vanguard/Session 90 - Dragonfire.md",
-    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-    "World of Helodaria/Roshuldra the Ivy Horror.md",
-    "World of Helodaria/Dragons of Helodaria.md",
+    "World of Helodaria/Vanguard.md",
+    "Magic Item Pricing and Crafting.md",
+    "Items/+2 Dragon Scale Leather Armor.md",
+    "Items/Nightfall, the Hand that Feeds.md",
+    "Session 999 - Hammer to Anvil.md",
+    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
+    "World of Helodaria/Keldmire.md",
+    "World of Helodaria/Luthrand Manor.md",
+    "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Einzbern Hold.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Tevis Einzbern.md",
+    "Timeline.md",
     "Attachments/Pasted image 20260104191726.png",
     "Attachments/Pasted image 20260104200221.png",
     "Attachments/Pasted image 20260103162132.png",

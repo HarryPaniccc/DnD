@@ -2278,34 +2278,6 @@
                 }
               },
               {
-                "id": "46127329c7c3ccc9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Luthrand Manor.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Luthrand Manor"
-                }
-              },
-              {
-                "id": "507af0c93e0f85ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Keldmire.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Keldmire"
-                }
-              },
-              {
                 "id": "a75602818ecbfd11",
                 "type": "leaf",
                 "state": {
@@ -2402,9 +2374,23 @@
                   "icon": "lucide-file",
                   "title": "Sirkonos"
                 }
+              },
+              {
+                "id": "9234f490f856b4da",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Einzberns.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Einzberns"
+                }
               }
             ],
-            "currentTab": 10
+            "currentTab": 4
           },
           {
             "id": "ad403f483996d6ec",
@@ -2509,8 +2495,7 @@
                   "title": "Adult White Dragon - 5etools"
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical"
@@ -2599,7 +2584,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Duergar Sunblight Stronghold.md",
+                    "file": "Items/Nightfall, the Hand that Feeds.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2609,7 +2594,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Duergar Sunblight Stronghold"
+                  "title": "Backlinks for Nightfall, the Hand that Feeds"
                 }
               },
               {
@@ -2647,13 +2632,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Duergar Sunblight Stronghold.md",
+                    "file": "Items/Nightfall, the Hand that Feeds.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Duergar Sunblight Stronghold"
+                  "title": "Outline of Nightfall, the Hand that Feeds"
                 }
               },
               {
@@ -2671,7 +2656,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
@@ -2723,8 +2708,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "70bc8c302a9636cb",
-      "mtime": "2026-01-09T21:50:13+02:00"
+      "active": "f1c9f02a19a2f78e",
+      "mtime": "2026-01-11T11:08:03+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3763,16 +3748,30 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sylph Companion.md",
+                    "file": "Statblocks/Sylph Companion.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Sylph Companion"
                 }
+              },
+              {
+                "id": "a2fb9606c831bfe9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Rylai Sweetsong.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rylai Sweetsong"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -3859,7 +3858,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Uldronos Council.md",
+                    "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -3869,7 +3868,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Uldronos Council"
+                  "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
                 }
               },
               {
@@ -3930,7 +3929,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "92400877833113eb",
@@ -4009,8 +4009,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "08389105e0321ab7",
-      "mtime": "2026-01-03T16:02:59+02:00"
+      "active": "3b2a6831c271b3d7",
+      "mtime": "2026-01-12T10:18:15+02:00"
     },
     "Eclipse": {
       "main": {
