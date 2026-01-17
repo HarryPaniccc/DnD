@@ -68,7 +68,6 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - Tournament hosted by the Vanguard to find those willing to fight for them
 
 # Units per Character
----
 The PC's are going to be accumulating allies throughout this period.
 ### Communal
 - Whatever is added to [[Trayfort Keep]]
@@ -83,7 +82,6 @@ The PC's are going to be accumulating allies throughout this period.
 - Maybe a tailor? idfk
 
 # [[Kanan Einzbern|Kanan]]
----
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]

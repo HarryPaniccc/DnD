@@ -1,6 +1,6 @@
 {
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
@@ -9,5 +9,8 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Attachments",
   "promptDelete": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "livePreview": true
 }

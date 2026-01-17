@@ -1,8 +1,16 @@
 {
-  "accentColor": "#4085ba",
+  "accentColor": "",
   "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "baseFontSize": 16,
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons"
+  ]
 }

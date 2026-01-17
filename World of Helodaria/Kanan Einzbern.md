@@ -2,15 +2,20 @@
 tags:
   - PC
 ---
+>[!infobox|right lp wsm-med]
+>![[Kanan_Casual.png|300]]
+># Character Information
+>| | |
+>| - | - |
+>|Class| Blood Hunter (Order of the Lycan), Monk (Way of the Kensei)|
+>|Race| Human (Dhampir)|
 # Intro
----
-Kanan Einzbern is a [[Human]] blood hunter-monk born of the [[Sirkonos]] and a member of the [[Vanguard]]. He is one of the few remaining [[Einzberns]].
+Kanan Einzbern is a [[Human]] blood hunter-monk born of [[Sirkonos]] and a member of the [[Vanguard]]. He is one of the few remaining [[Einzberns]].
 
 Kanan was born in the [[Einzbern Hold]] in [[Keldmire]]. He was raised in the ways of monster hunting by his clan, trained by his father [[Mikael Einzbern]] alongside his brother [[Tevis Einzbern]]. His life would be turned upside down when his home and family were attacked by a vampire-lead cult who would keep him captive for two years.
 
 One night, during a ritual in which he and his brother's eyes were cut into, Tevis would, with the help of the remaining clan who were made to watch the torture, create an opening for Kanan to flee the ordeal. By an incredible stroke of luck, Kanan would run into the legendary vampire hunter [[Jarren Ward]] wandering the halls of the cult's castle. With Jarren's help, he and Kanan would escape the cult. After Jarren's death by a necrotic wound sustained in the escape, Kanan would assume Jarren's identity and go into hiding in the [[Ruina]].
 # Description
----
 ## Appearance
 >*So i think at the start of the campign he was kind of on the skinnier side of things, and far less scars on his body than what he has now and his hair is like a mid tone brown with a streak of white above where his left eye was carved. He has sharp facial features with very light blue eyes that hold a very intense glare at times. By now hes definitely bulked up a lot and hes got a lot of scars accross his forearms and torso, and his previously intense glare would be replaced by something more complacent and contempt, but always calculating*
 
@@ -22,7 +27,6 @@ After the defeat of the [[Vorciln]] and the death of [[Lucius]] during the [[Bat
 
 Kanan is \_\_\_\_\_\_\_\_\_\_\_
 # Biography
----
 ## Before the Campaign
 Kanan was born in the year 793 PF in the [[Einzbern Hold]] in [[Keldmire]] on the day of Winter's Valley (Danudrei 7th). He spent the majority of his early life training and preparing for his Einzbern trials
 ## Campaign One: Vanguard

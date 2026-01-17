@@ -2,22 +2,26 @@
 tags:
   - Settlement
 ---
+>[!infobox|wm-sm]+
+># Steinwalde
+>![[Pasted image 20260104191726.png]]
+># General Information
+>| | |
+>| - | - |
+>| Population| < 60 000|
+
+
 # Description
-Steinwalde, the forest of stone, was a grand and secret dwarven city hidden deep within the mountains of the [[Maghlas Mountains|Maghlas Mountain Range]]. For many thousands of years, [[Dwarf]] culture has thrived there, as wealth and industry and innovation foulrished.
+Steinwalde, the forest of stone, is a grand and secret dwarven city hidden deep within the mountains of the [[Maghlas Mountains|Maghlas Mountain Range]]. For many thousands of years, [[Dwarf]] culture has thrived there, as wealth and industry and innovation foulrished.
 
 A centre for craftsmanship, Steinwalde was home to many dwarven clans, all of which harbouring a healthy spirit of competition with one another. The grand halls and sections of the tunnel-city are home to countless artisans and markets.
 
 Steinwalde is not hidden due to a desire for solitude, but rather because of its remoteness. To access Steinwalde, travellers must brave an extreme pilgrimmage through the Maghlas Mountains north of [[Sirkonos]], contending with Dragons and Giants.
-##### Population
-The population of the city is a bit short of sixty thousand.
-![[Pasted image 20260104191726.png]]
 
 # History
----
 Sometime during the [[Age of Ascension]], the city was founded by [[Urthir Stonehand]] as a refuge and fortress. At some point during [[The Fall]] it became a safe haven, its inhabitants concealing themselves from the wars above and focussing on only themselves.
 
 # Notable Factions and Characters
----
 - [[Prince Boryg the Brash]] - Prince of Steinwalde and accomplished warrior.
 - [[King Dharn the Blacklock]] - King of steinwalde, father of [[Prince Boryg the Brash]]
 - [[Lathran, Avatar of Lathander|Lathran]] - A human sorcerer of notable power, fled to Steinwalde to hide from the world. He uses his immense power in the forging of magical items, and has a mysterious past.
@@ -88,8 +92,9 @@ At the heart of the city, where the magma runs thick and hot, the forgethrone si
 A grand network of passageways lined with books, stretching outwards from a central pillar in a circular motion, the hall of carved memories has a great share of books and histories carved in stone tablets and murals and paintings. It is watched in chief by [[Elmsier the Keeper]].
 ## The Crucible
 Where [[Thran the Anvil]] trains the greatest of soldiers. Pits of fine gravel and floors heated greatly.
+
 ## The Greatforges
-![[Pasted image 20260104200221.png]]
+![[Pasted image 20260104200221.png|right|500]]
 Big forge and lots of lava tf you want from me. Outside is a great number of titanically scaled forges where hundreds of dwarves toil day in and day out in metal working.
 
 ### [[Steinwalde Heart-Kiln]]

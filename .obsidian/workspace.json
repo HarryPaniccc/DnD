@@ -8,27 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49b934b9d79b95ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "0f3ee23846ab1eb0",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,49 +22,147 @@
             }
           },
           {
-            "id": "fd1b2e2c9990a35f",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statblocks/Adult White Dragon.md",
-                "mode": "source",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adult White Dragon"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "4e4220ca3a52b4e8",
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junk 1.md",
+                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Junk 1"
+              "title": "Session 89 - Marthirion, Marred by Seeing"
             }
           },
           {
-            "id": "791c1b7ad82933ab",
+            "id": "235b7f412e022cd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 91 - Steinwalde.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 91 - Steinwalde"
+              "title": "Session 999 - The Temple of Elemental Evil"
+            }
+          },
+          {
+            "id": "f9f8bc01ae6e5083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ophelia the Sylph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ophelia the Sylph"
+            }
+          },
+          {
+            "id": "b3693309f4564384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temple of Elemental Evil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temple of Elemental Evil"
+            }
+          },
+          {
+            "id": "bafc2390e995629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Sylphmade Cloak.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sylphmade Cloak"
+            }
+          },
+          {
+            "id": "277ca92ca4747921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Sylph Companion.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sylph Companion"
+            }
+          },
+          {
+            "id": "a2fb9606c831bfe9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
+            }
+          },
+          {
+            "id": "e81b5ba4f9f52d0b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#salamander_mm",
+                "title": "Salamander - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Salamander - 5etools"
+            }
+          },
+          {
+            "id": "40f12a6cf3e169e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Kanan Einzbern.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kanan Einzbern"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "elemental",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 306.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -144,7 +228,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 64.23076923076924,
+        "dimension": 64.42307692307693,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -166,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
+                "file": "Statblocks/Sylph Companion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 5 - A Den of Chitin"
+              "title": "Backlinks for Sylph Companion"
             }
           },
           {
@@ -185,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -214,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Session 91 - Steinwalde.md",
+                "file": "Statblocks/Sylph Companion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 91 - Steinwalde"
+              "title": "Outline of Sylph Companion"
             }
           },
           {
@@ -243,7 +327,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 35.76923076923077,
+        "dimension": 35.57692307692308,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -272,17 +356,41 @@
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -292,34 +400,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "791c1b7ad82933ab",
+  "active": "277ca92ca4747921",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
-    "Session Notes/Vanguard/Session 90 - Dragonfire.md",
-    "Timeline.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Junk 1.md",
-    "Statblocks/Adult White Dragon.md",
-    "Guidelines.md",
-    "Human.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "World of Helodaria/Primordials.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Link.md",
-    "Statblocks/Adult Red Dragon.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
-    "Ophelia the Sylph.md",
-    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "Items/Sylphmade Cloak.md",
+    "House Luthrand.md",
     "Statblocks/Sylph Companion.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "Temple of Elemental Evil.md",
-    "Items/Sylphmade Cloak.md",
-    "World of Helodaria/Vasspryg.md",
-    "Statblocks/Manticore Statblock.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+    "Attachments/Kanan_Casual.png",
+    "World of Helodaria/Steinwalde.md",
+    "World of Helodaria/Caede.md",
+    "Administration and Other Notes/Theme Testing.md",
+    "Templates/Settlement.md",
+    "Templates/Statblock Template.md",
+    "Templates/Item template.md",
+    "Templates/Deity Template.md",
+    "Templates/Nation Template.md",
+    "Templates/Organization Template.md",
+    "Templates/PC Template.md",
+    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
+    "Attachments/Pasted image 20260117175530.png",
+    "Attachments/Caede_art.png",
+    "World of Helodaria/Dularen.md",
+    "Statblocks/Adult White Dragon.md",
+    "Timeline.md",
+    "Junk 1.md",
+    "World of Helodaria/Olunt.md",
+    "Administration and Other Notes",
+    "Guidelines.md",
     "Attachments/Pasted image 20260104191726.png",
     "Attachments/Pasted image 20260104200221.png",
     "Attachments/Pasted image 20260103162132.png",
@@ -334,13 +446,9 @@
     "Attachments/dungeon scrawl/Unconfirmed 472148.crdownload",
     "Attachments/dungeon scrawl/Castle Sungrand Dungeon.ds",
     "Attachments/dungeon scrawl/Unconfirmed 662446.crdownload",
-    "Attachments/Pasted image 20251101141017.png",
-    "Attachments/Pasted image 20251101140935.png",
-    "Attachments/Pasted image 20251101122230.png",
     "Attachments/5E_CharacterSheet_Fillable.pdf",
     "Attachments/Unconfirmed 466187.crdownload",
     "Attachments/hextml/Unconfirmed 830062.crdownload",
-    "Attachments/hextml/Unconfirmed 303177.crdownload",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"

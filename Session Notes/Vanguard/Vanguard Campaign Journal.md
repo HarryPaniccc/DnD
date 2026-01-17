@@ -25,10 +25,12 @@ Things begin to take root. The heart beats once again.
 In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]], the [[Vanguard]] go seperate ways, persuing personal goals and adventures across [[Eranulaid]].
 
 ## Sessions
+#### Future Sessions
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
 - [[Session 999 - The Temple of Elemental Evil]]
 
+#### Past Sessions
 - [[Session 90 - Dragonfire]]
 - [[Session 89 - Marthirion, Marred by Seeing]] - Rylai + Isilme + Dusk
 - [[Session 88 - Duergar Sunblighters]] - Kanan + Caede

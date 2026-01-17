@@ -10,10 +10,10 @@ I think for races now, maybe just use singular like [[Human]], [[Changeling]] an
 ## [[Deity Template]]
 ## [[Item template]]
 ## [[Settlement]]
-## [[Session Notes Template]]
-## [[PC]]
+## [[Session Template]]
+## [[PC Template]]
 ## [[Settlement]]
-## [[Statblock]]
+## [[Statblock Template]]
 ## [[Continent]]
 - Societies are most important
 - General large regions

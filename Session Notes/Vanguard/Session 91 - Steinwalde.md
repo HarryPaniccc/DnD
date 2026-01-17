@@ -1,7 +1,8 @@
 **Previous Session:** [[Session 90 - Dragonfire]]
 **Subsequent Session:** [[Session 999 - Hammer to Anvil]]
+
 ## Post Mortem
----
+
 **Dul'ussahn 16th**
 - 22:00 Caede and Kanan and [[Prince Boryg the Brash]] successfully defend an [[Infernoguard Tower]] from assault by a fire giant and orc horde.
 - The group completes introductions with Boryg and makes their way into the [[Steinwalde]] Entryhall, enjoying an incredible meal with the prince of the Steinwaldie.
@@ -55,3 +56,6 @@ Need to defeat the fire giant and the manticore and whatever else remains. Maybe
 # Objectives
 ---
 - Repair the Leviathan Axe
+
+
+**Bold test**

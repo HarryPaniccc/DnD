@@ -2,15 +2,19 @@
 tags:
   - PC
 ---
+>[!infobox|right lp wsm-med]
+>![[Caede_art.png|300]]
+># Character Information
+>| | |
+>| - | - |
+>|Class| Paladin (Oath of Redemption), Barbarian (Path of the Zealot)|
+>|Race| Aasimar ()
 # Intro
----
 Caede is an aasimar paladin/barbarian who was born an angel of [[The Raven Queen]], and a member of the [[Vanguard]].
 # Description
----
 ## Appearance
 ## Personality
 # Biography
----
 ## Before the Campaign
 During the wars of the fall on Eranulaid, Caede and his brothers and sisters of the [[Valkuur]] aided in conflict against a sorcerer king that ruled over a splinter section of the [[Thay]] in the East of [[Eranulaid]]. During the war
 ## Campaign One: Vanguard
