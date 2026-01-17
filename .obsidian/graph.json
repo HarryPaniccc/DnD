@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:Statblocks -path:Templates  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Core  ",
@@ -64,16 +64,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.21015625,
-  "lineSizeMultiplier": 0.508333333333333,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.390625,
-  "repelStrength": 13.6979166666667,
+  "centerStrength": 0.4495841995842,
+  "repelStrength": 10.4209101915818,
   "linkStrength": 1,
-  "linkDistance": 95,
-  "scale": 0.10637665740285326,
+  "linkDistance": 132,
+  "scale": 0.1982762976584814,
   "close": true
 }

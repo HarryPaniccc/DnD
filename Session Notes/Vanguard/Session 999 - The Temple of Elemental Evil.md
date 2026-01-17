@@ -1,16 +1,6 @@
 **Previous Session:** [[Session 89 - Marthirion, Marred by Seeing]]
 **Subsequent Session:**
 
-# Planning
-Rylai goes in to the temple and its derelict. The power present in the region that has been tainted by corruption brings life to elementals of evil inclinations. Rylai will need to make her way through a ruined temple and eventually make her way to the planar crossing at the centre of the temple.
-
-Along the way she will speak with Ophelia about the region and its history as well as what Ophelia really sees within her. Ophelia sense Rylai's elemental inclination and is annoyingly pushing her to reclaim that connection.
-
-She will meet a few fodder elemental creatures that will be fighting one another. As she enters deeper into the temple the power of the [[Ley Nexus]] will begin to react to her inherent power, and ice spirits will form.
-
-- Small earth elemental encounter
-- The sense that this realm was once huge and Ophelia will tell her about how it was a place of love before she lost her father
-
 ## Post Mortem
 ---
 
@@ -54,7 +44,7 @@ Recall that the guardian outside warned of a great evil contained within the tem
 ### 5-room dungeon
 
 
-# The Descent
+# The Descent | Entrance and Guardian
 ---
 ### Flashback
 > You are 
@@ -64,6 +54,15 @@ Recall that the guardian outside warned of a great evil contained within the tem
 > 
 > One lined with upright stone figures.
 
+The chamber is vast, some fourty feet square with a pair of giant stone doors at the end, rimmed by a chain-like mechanism. In front of the door, lining to floors.
+
+- The remains bear a resemblance to humans in height. There are maybe 50 of them will be clustered together in the centre of the room. 
+
+##### Balconies
+There is a balcony at the top left wall facing inwards, and a second that has collapsed along the right wall. 
+
+- **Investigation 15** on the collapsed balcony's rubble will reveal a chamber beyond will reveal something
+- The top left balcony leads to a small square chamber
 
 
 # [[Ophelia the Sylph|Ophelia]]
@@ -77,11 +76,11 @@ Ophelia understands the history of the temple of elements before [[Tharizdun]] f
 
 # Antechamber
 ---
-> I can feel the movements of the stones beneath you, tiny one. My siblings are blind, and the wind conceals your movement, but the stones do not lie. You are new here, and of the new world.
+> I can feel the movements of the stones beneath you, tiny one. My siblings are blind, and slumber, and the wind conceals your movement, but the stones do not lie. You are new here, and of the new world.
 
 A particularly evil earth elemental notices Rylai's presence with his tremorsense, but he will not alert the rest of the temple, as he believes that if he kills her he can use the power of her blood to escape his confinement. Rylai holds the power to open a sealed rift to the elemental planes, and can also step through the veil of the temple's imprisonment.
 
-##### **ENCOUNTER:** 3 x Gargoyles and 
+##### **ENCOUNTER:** 3 x Gargoyles
 
 
 # The [[Elemental Plane of Air]] (Halfway Point)

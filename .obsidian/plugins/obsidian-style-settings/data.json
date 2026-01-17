@@ -37,5 +37,8 @@
   "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-yellow",
   "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-sapphire",
   "catppuccin-heading-settings@@ctp-h4": "var(--ctp-yellow)",
-  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-sky)"
+  "catppuccin-heading-settings@@ctp-h3": "var(--ctp-sky)",
+  "blue-topaz-theme@@callout-style-settings": "admonition-bg-color-same",
+  "blue-topaz-theme@@full-width-callout": false,
+  "blue-topaz-theme@@admonition-bg-color-same": false
 }

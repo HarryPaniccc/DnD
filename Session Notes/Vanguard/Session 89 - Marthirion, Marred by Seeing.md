@@ -23,6 +23,7 @@
 - The group reaches the entrance to the temple and encounters [[Unnamed Storm Giant Quintessant]] guarding the region.
 - He allows Rylai to enter, and armed with magical wards *invisibility*, *fire shield*, *true seeing* and *protection against evil and good*, she enters the darkness of the chamber
 - Ophelia joins her.
+
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.
 

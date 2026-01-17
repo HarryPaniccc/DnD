@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "accentColor": "#4085ba",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
   "baseFontSize": 16,
   "nativeMenus": true,

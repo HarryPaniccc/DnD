@@ -2494,8 +2494,23 @@
                   "icon": "globe-2",
                   "title": "Adult White Dragon - 5etools"
                 }
+              },
+              {
+                "id": "b6054952e48df156",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Statblocks/Adult White Dragon.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Adult White Dragon"
+                }
               }
-            ]
+            ],
+            "currentTab": 7
           }
         ],
         "direction": "vertical"
@@ -2552,8 +2567,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5,
-        "collapsed": true
+        "width": 276.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2708,8 +2722,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "f1c9f02a19a2f78e",
-      "mtime": "2026-01-11T11:08:03+02:00"
+      "active": "b6054952e48df156",
+      "mtime": "2026-01-17T12:02:54+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -3729,20 +3743,6 @@
                 }
               },
               {
-                "id": "8474d2ea2e115997",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Vasspryg.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vasspryg"
-                }
-              },
-              {
                 "id": "277ca92ca4747921",
                 "type": "leaf",
                 "state": {
@@ -3769,9 +3769,23 @@
                   "icon": "lucide-file",
                   "title": "Rylai Sweetsong"
                 }
+              },
+              {
+                "id": "e81b5ba4f9f52d0b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/bestiary.html#salamander_mm",
+                    "title": "Salamander - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Salamander - 5etools"
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -4009,8 +4023,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "3b2a6831c271b3d7",
-      "mtime": "2026-01-12T10:18:15+02:00"
+      "active": "235b7f412e022cd8",
+      "mtime": "2026-01-17T11:38:23+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4645,7 +4659,402 @@
       },
       "active": "0ab9e66bd4bc3e62",
       "mtime": "2025-12-09T18:54:26+02:00"
+    },
+    "Messing With Themes": {
+      "main": {
+        "id": "e3ca7fd74647b9f6",
+        "type": "split",
+        "children": [
+          {
+            "id": "ad403f483996d6ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae475d42e120be2e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 6 - The Golden Age"
+                }
+              },
+              {
+                "id": "18ba83968f35c37d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Oriothar the Monarch.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Oriothar the Monarch"
+                }
+              },
+              {
+                "id": "3db5b6b934640375",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Vanguard.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard"
+                }
+              },
+              {
+                "id": "1c14b96219db292f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Isilme Vanariel.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Isilme Vanariel"
+                }
+              },
+              {
+                "id": "7eb9e5f3f76f7347",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Primordials.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Primordials"
+                }
+              },
+              {
+                "id": "d26a1d76887754db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Primordial of Hunger.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Primordial of Hunger"
+                }
+              },
+              {
+                "id": "85502860378e5ee7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Primevals.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Primevals"
+                }
+              },
+              {
+                "id": "e840f11b0df225eb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 7 - Unnamed"
+                }
+              },
+              {
+                "id": "49b934b9d79b95ec",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timeline.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Timeline"
+                }
+              },
+              {
+                "id": "0f3ee23846ab1eb0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              },
+              {
+                "id": "fd1b2e2c9990a35f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Statblocks/Adult White Dragon.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Adult White Dragon"
+                }
+              },
+              {
+                "id": "4e4220ca3a52b4e8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Junk 1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Junk 1"
+                }
+              }
+            ],
+            "currentTab": 11
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d7ebda78c129d618",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ca0f1d486588d8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b2a6831c271b3d7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "ee81b9515bf62e4a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "990cb2f371a0b860",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268.5
+      },
+      "right": {
+        "id": "ea35a9a317969db7",
+        "type": "split",
+        "children": [
+          {
+            "id": "5ece3774c37e9648",
+            "type": "tabs",
+            "dimension": 64.23076923076924,
+            "children": [
+              {
+                "id": "4cb96e6d4287e8a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "General Notes and Ideas.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "General Notes and Ideas"
+                }
+              },
+              {
+                "id": "b3c79ccde858898a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Session 5 - A Den of Chitin"
+                }
+              },
+              {
+                "id": "e26a69bedfa5e5f1",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+                }
+              },
+              {
+                "id": "dfa8baabc6155b2d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "f913bfe3e075c876",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Junk 1.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Junk 1"
+                }
+              },
+              {
+                "id": "c21e89a76f4631bf",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "92400877833113eb",
+            "type": "tabs",
+            "dimension": 35.76923076923077,
+            "children": [
+              {
+                "id": "bf82f9f28d38c15b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Guidelines.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Guidelines"
+                }
+              },
+              {
+                "id": "fc6e4fe2893dcbd8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Campaign Journal"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "4e4220ca3a52b4e8",
+      "mtime": "2026-01-17T12:17:56+02:00"
     }
   },
-  "active": "Rylai Downtime"
+  "active": "Messing With Themes"
 }
