@@ -124,7 +124,6 @@ Something certainly happens in [[Ralia]].
 [[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]]. Also maybe send him to stifle some kind of dissent against the Sirkonian line Game of Thrones style.
 
 # [[Caede]]
----
 ### Repair the [[Leviathan Axe]]
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 
@@ -143,7 +142,6 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 
 
 # [[Rylai Sweetsong|Rylai]]
----
 - [x] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
@@ -158,7 +156,7 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 - [[Session 86 - The Synod of Elevation]]
 - [[Session 87 - An Element of Truth]]
 - [[Session 89 - Marthirion, Marred by Seeing]]
-- [[Session 999 - The Temple of Elemental Evil]]
+- [[Session 92 - The Temple of Elemental Evil]]
 
 Rylai desires some kind of way to expel her sorcerous magic, rejecting who she was trying to be and becoming who she really is. Swallow and take what you thought you were meant to be. Reconcile it with who you are. Type shit.
 
@@ -190,14 +188,12 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 
 
 # [[Silb Heft|Silb]]
----
 
 ### Lord Stormshield's Trial + [[Hommlet]]
 
 - [[Session 999 - The Trial of Silb Heft]]
 
 # [[Isilme Vanariel|Isilme]]
----
 ### [[Minra Vanariel]]
 
 ### [[Ulrandir Vanariel]]
@@ -206,7 +202,7 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 # [[Dusk]]
 ---
 - [ ] Practice blade singing
-	- [ ] Level 2
+	- [x] Level 2
 	- [ ] Level 6
 	- [ ] Level 10
 	- [ ] Level 14

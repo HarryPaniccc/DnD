@@ -39,4 +39,5 @@
  **7th Level: Chosen of the Currents (1/day).** As an action the Sylph summons intangible, lesser air elemental spirits. Up to PB chosen creatures within 30 ft. of the Sylph gain a lesser air elemental companion. For 10 minutes, each of those creatures gain a flying speed equal to their walking speed and can hover.
 
 
+
 ![[Pasted image 20251214190957.png|600]]
