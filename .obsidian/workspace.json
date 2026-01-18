@@ -139,30 +139,44 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#salamander_mm",
-                "title": "Salamander - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#chuul_mm",
+                "title": "Chuul - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Salamander - 5etools"
+              "title": "Chuul - 5etools"
             }
           },
           {
-            "id": "40f12a6cf3e169e6",
+            "id": "a1573f6e89f7ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Kanan Einzbern.md",
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rylai Sweetsong"
+            }
+          },
+          {
+            "id": "4258db38d7a48db8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Ruina.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanan Einzbern"
+              "title": "Ruina"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 293.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -228,7 +242,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 64.42307692307693,
+        "dimension": 64.42307692307692,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -250,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statblocks/Sylph Companion.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +274,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sylph Companion"
+              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
             }
           },
           {
@@ -298,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statblocks/Sylph Companion.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sylph Companion"
+              "title": "Outline of Session 999 - The Temple of Elemental Evil"
             }
           },
           {
@@ -327,7 +341,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 35.57692307692308,
+        "dimension": 35.57692307692307,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -386,7 +400,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -400,17 +414,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "277ca92ca4747921",
+  "active": "235b7f412e022cd8",
   "lastOpenFiles": [
+    "World of Helodaria/Elemental Plane of Air.md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+    "World of Helodaria/Ruina.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Ophelia the Sylph.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Bahamut.md",
+    "World of Helodaria/Lathander.md",
+    "World of Helodaria/Tharizdun.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "Templates/Session Template.md",
+    "Statblocks/Sylph Companion.md",
     "Items/Sylphmade Cloak.md",
     "House Luthrand.md",
-    "Statblocks/Sylph Companion.md",
-    "World of Helodaria/Rylai Sweetsong.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "General Notes and Ideas.md",
-    "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
     "Attachments/Kanan_Casual.png",
     "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Caede.md",
@@ -418,20 +443,9 @@
     "Templates/Settlement.md",
     "Templates/Statblock Template.md",
     "Templates/Item template.md",
-    "Templates/Deity Template.md",
-    "Templates/Nation Template.md",
-    "Templates/Organization Template.md",
-    "Templates/PC Template.md",
-    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
     "Attachments/Pasted image 20260117175530.png",
     "Attachments/Caede_art.png",
-    "World of Helodaria/Dularen.md",
-    "Statblocks/Adult White Dragon.md",
-    "Timeline.md",
-    "Junk 1.md",
-    "World of Helodaria/Olunt.md",
     "Administration and Other Notes",
-    "Guidelines.md",
     "Attachments/Pasted image 20260104191726.png",
     "Attachments/Pasted image 20260104200221.png",
     "Attachments/Pasted image 20260103162132.png",

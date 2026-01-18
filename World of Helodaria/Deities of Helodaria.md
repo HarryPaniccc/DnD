@@ -7,7 +7,6 @@ The deities of [[Helodaria]] are extremely powerful entities, worshipped by larg
 
 Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed away or banished from the [[Material Plane]] imposed upon themselves an exile, in which their true forms were not able to return to the Materium for the safety of the celestial order. The gods now reside in their homes, and prisons, in the outer planes, and other locations in the [[Multiverse]].
 # The [[Founding Gods]]
----
 The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are usually replaceable to them.
 ## The [[Creation Gods]]
 | Name                                  | Portfolio                          | Symbol                                      | Domains                       |
@@ -42,12 +41,14 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Tharizdun]], Void Eternal - God of Madness and the Depths. (CE)
 - [[Tiamat]], the Five Hungers - God of Greed, Destruction and Dragonkind. (CE)
 
+Probably deleting this guy
 - [[Das Moge]], Betrayal's Muse (No Alignment)
 # The [[Primordials]]
----
 The Primordials are ancient forces of nature and the universe. Some say they existed before time, others say they were born of the personification of the forces of the world as it was percieved.
+# The [[Elder Evils]]
+
+
 # Other Gods
----
 - [[Vecna]], Hoarder of Secrets (NE)
 - [[Ioun]], the Mistress of Sight - Goddess of Knowledge, Prophecy and Skill. (NG)
 - [[Boldrei]], the Hearth Maker - Goddess of Community and Kindness. (LG)

@@ -2,7 +2,7 @@
 **Subsequent Session:**
 
 ## Post Mortem
----
+
 
 ## Introduction
 > Swallow and take what you thought you were meant to be. Reconcile it with who you are. Another lesson learned in time. But oh, you'll find.
@@ -22,51 +22,8 @@
 > 
 > The day is the 3rd of *Dul'ussahn*, 813, and you feel almost abuzz with magic, covered head to toe in wards and protection.
 
-# Session TODO
-Rylai pushes into the sealed [[Temple of Elemental Evil]], hoping to acquire access to the [[Ley Nexus]] present there that will allow her to access her magic more directly and purge her sorcerous powers.
-
-Recall that the guardian outside warned of a great evil contained within the temple, something that he could allow no one to pass who would let it escape. Something eternal.
-
-- Flashback for Rylai's Past
-- Combat encounter x 2?
-- Sneaking around maybe?
-- [[Sylphmade Cloak]]
-
-### Encounters/Monsters Ideas
-> Want to use aberrations, fiends and elementals
-- Gibbering Mouther (FM! Seems more fun), or modify it to Daze
-- Earth elemental of some kind, maybe a Xorn or with the earth elemental companion abilities
-- **ABOLETH**
-
->[!Idea] Mirroring
->Flashbacks should mirror/give some hint as to what each room should be?
-
-### 5-room dungeon
-
-
-# The Descent | Entrance and Guardian
----
-### Flashback
-> You are 
-
-### Descent through Darkness
-> Pushing through a miasma of shadow, light from Ophelia barely illuminating your way, the pathway finally smoothes out. Rocky crags morph into ramped cave floor, and eventually again into mostly ruined masonry. After stepping carefully through the darkness of a crevasse that would be tight for someone of greater stature, a chamber is revealed.
-> 
-> One lined with upright stone figures.
-
-The chamber is vast, some fourty feet square with a pair of giant stone doors at the end, rimmed by a chain-like mechanism. In front of the door, lining to floors.
-
-- The remains bear a resemblance to humans in height. There are maybe 50 of them will be clustered together in the centre of the room. 
-
-##### Balconies
-There is a balcony at the top left wall facing inwards, and a second that has collapsed along the right wall. 
-
-- **Investigation 15** on the collapsed balcony's rubble will reveal a chamber beyond will reveal something
-- The top left balcony leads to a small square chamber
-
 
 # [[Ophelia the Sylph|Ophelia]]
----
 Ophelia understands the history of the temple of elements before [[Tharizdun]] fell to the influence of the [[Seed of the Abyss]].
 
 >[!Note] Why did she come with?
@@ -74,13 +31,74 @@ Ophelia understands the history of the temple of elements before [[Tharizdun]] f
 >
 >Ophelia truly wants Rylai to embrace her connection to the elemental plane of air.
 
+# Five-Room Dungeon | Planning
+
+- **Entrance and Guardian**: The Descent, giant door and gargoyles (vericality)
+- **Roleplay or Puzzle**: Recently returned gargoyle and chuul
+- **Setback**: Magma elementals guard the
+- **Climax**: The [[Ley Nexus]] has come alive
+- **Reward**: 
+
+# The Descent | Entrance and Guardian
+The first chamber is the stone lined hallway, and a set of stone doors lined with holy seals. The chamber is solemn and feels desperate.
+
+### Flashback
+> You are young. Running down a stream that eventually leads into the [[Eithval River]] some distance north of [[Midvale]]. The spring air is still frigid, and you are bundled up against the cold, nose red and slightly too small for your boots.
+
+The waters of the stream are still frozen over from the winter. As a young halfling of maybe twelve years old, your peers already tower over you, so they run ahead of you as you struggle to keep up.
+
+- You have lost them through the woods up ahead. There is a clear path. She has run this route before, but every time she gets left further and further behind.
+- The group is running towards a small lake. You are left alone. Your sister isnt even there.
+- Over your shoulder, your first instrument is heavy and weighing you down, but you are determined to carry it. **Have Ember describe what the instrument is and how she got it.**
+- She must **roll Dexterity 11** to continue running through the slippery terrain using a commoner's statblock (plus zero to the roll).
+	- Success = push forwads and cut through the forest using her nible form
+	- Fail = slip and fall and ask Ember to react as she would
+- Regardless, a young human boy will run back and check on her. Does she accept his help? Or forge on alone?
+
+At the end of the sequence, she is pushing through a tight wall of brush which seqways to the real world
+
+### Descent through Darkness
+> Pushing through a miasma of shadow, light from Ophelia barely illuminating your way, the pathway finally smoothes out. Rocky crags morph into ramped cave floor, and eventually again into mostly ruined masonry. After stepping carefully through the darkness of a crevasse that would be tight for someone of greater stature, a chamber is revealed.
+> 
+> One lined with upright stone figures.
+
+The chamber is vast, some fourty feet square with a pair of giant stone doors at the end, rimmed by a chain-like mechanism. In front of the door are figures.
+
+- The remains bear a resemblance to humans in height. There are maybe 50 of them will be clustered together in the centre of the room. 
+- The chains are steel and are guarded against attack
+
+
+##### Door
+The large set of doors in the chamber appear to be warded with prayers.
+
+- **15 Religion** reveals them to be script of [[Lathander]]ian writings, prayers of sealing that warn against entering such a place.
+- The wording on the door reads in the Common Tongue: 
+
+>"Here is a place devoid of light. Here is a place devoid of love. Here is a place devoid of honor. Those servants of wrath that would see all undone are forgotten within. The [[Elder Evils]] have failed, and we mark their defeat here, as we do each time we start a new day."
+
+>[!infobox|right]
+> |Encounter|
+> | - |
+>|3 x [[Gargoyle]]s appear once the door has opened and fly to attack Rylai. If she is still invisible when the door opens, they will instead be locked in combat with a [[Fire Elemental]]|
+
+
+##### Balconies
+There is a balcony at the top left wall facing inwards, and a second that has collapsed along the right wall. 
+
+- **Investigation 15** on the collapsed balcony's rubble on the ground floor will reveal a chamber beyond. The room barely resembles what it used to. Mossy and fungas, 4 **Giant Fire Beetles** shed light in this room, one on the bones of a **troglodyte**. 
+	- **Loot**: Ruined armory. Ancient rusted helmets and shields. Gems set in a rusted gauntlet catch your eye.
+- The top left balcony leads to a small square chamber. The exit to the chamber is blocked by a portcullis, beyond which the tunnel has collapsed. Scorch marks are on the walls showing it was intentional.
+	- Three eyeballs stare into the center of the room from the walls opposite the entrance. Destroying the eyeballs send screeches through the dungeon. Once all three are destroyed or closed, three runes flash and a lever appears at the center. Pulling the level **opens the door**.
+	- Mechanically, the door will re-seal in one minute after it has opened all the way.
+
+> From this point you will be hidden from me small one. Tread carefully, for you enter the **temple of elemental evil**. Long have the spirits within raged against their bonds, and though many slumber now, many shall stir at your entrance.
+
+
 # Antechamber
----
+
 > I can feel the movements of the stones beneath you, tiny one. My siblings are blind, and slumber, and the wind conceals your movement, but the stones do not lie. You are new here, and of the new world.
 
 A particularly evil earth elemental notices Rylai's presence with his tremorsense, but he will not alert the rest of the temple, as he believes that if he kills her he can use the power of her blood to escape his confinement. Rylai holds the power to open a sealed rift to the elemental planes, and can also step through the veil of the temple's imprisonment.
-
-##### **ENCOUNTER:** 3 x Gargoyles
 
 
 # The [[Elemental Plane of Air]] (Halfway Point)

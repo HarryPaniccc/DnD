@@ -8,7 +8,6 @@ A young and prosperous republic, forged with the combined efforts of patrons hai
 
 The Republic’s access to a rich landscape of excellent natural resources and varied environments have made obvious that it has a strong foothold as a major centrepiece of the modern world order, even though there are rising tensions on whether or not the Uldronos Council should continue to operate as it always has within its own government.
 # History
----
 ### Pre-settlement and Settlement (Circa 0 P.F.)
 The shores of the [[Allhaven]] port were first settled near the end of the Fall, but for a long time the settlement was little more than just a port from which the spoils of the [[Platinum Highroad]] were shipped, supplying platinum to a large portion of [[Zitrumea]].
 
@@ -20,7 +19,6 @@ For a few years, a patchwork government protected trade routes and mostly kept t
 Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]].
 
 # Geography
----
 The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the [[Shard Foothills]]. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
 
 ### [[Mungandr Lake]]

@@ -1,7 +1,7 @@
 **Previous Session:**
 **Subsequent Session:**
 ## Post Mortem
----
+
 
 ## Introduction
 > "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
@@ -27,11 +27,9 @@ Ideas for what should happen
 
 
 # Section
----
 Something happens
 
 
 # Section
----
 Something else happens
 
