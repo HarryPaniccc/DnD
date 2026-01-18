@@ -8,7 +8,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 # Active Plot Points/Quests/Things to Remember
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
-- Teleportation Helm: [[Caede]]
+- Teleportation Helm: [[Kanan Einzbern]]
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
@@ -16,6 +16,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th) - quest for the ransacked village
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
+- Repair [[Lathran's Staff]]
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]
 Things begin to take root. The heart beats once again.

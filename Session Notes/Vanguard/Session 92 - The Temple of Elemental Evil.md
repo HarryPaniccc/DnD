@@ -42,7 +42,7 @@ Ophelia understands the history of the temple of elements before [[Tharizdun]] f
 # The Descent | Entrance and Guardian
 The first chamber is the stone lined hallway, and a set of stone doors lined with holy seals. The chamber is solemn and feels desperate.
 
-### Flashback
+### Flashback 1
 > You are young. Running down a stream that eventually leads into the [[Eithval River]] some distance north of [[Midvale]]. The spring air is still frigid, and you are bundled up against the cold, nose red and slightly too small for your boots.
 
 The waters of the stream are still frozen over from the winter. As a young halfling of maybe twelve years old, your peers already tower over you, so they run ahead of you as you struggle to keep up.
@@ -66,7 +66,6 @@ The chamber is vast, some fourty feet square with a pair of giant stone doors at
 
 - The remains bear a resemblance to humans in height. There are maybe 50 of them will be clustered together in the centre of the room. 
 - The chains are steel and are guarded against attack
-
 
 ##### Door
 The large set of doors in the chamber appear to be warded with prayers.
@@ -96,12 +95,18 @@ There is a balcony at the top left wall facing inwards, and a second that has co
 # Antechamber | Puzzle and RP encounter
 The doors open up onto the top of an obsidian monolithic structure overlooking a vast chasm. Darkness stretches outwards, and what few instances of fire and magma and other, stranger sources of light dot the chamber outline a monolithic temple like space. One without the limitations of sanity being considered during its design. Shapes move in the darkness below, and the sound of skittering and flowing ooze echoes periodically through the chamber.
 
+>[!Infobox|left]
+># Important
+>From the balcony, Rylai can see the locked pathway to the **howling caverns ahead**.
+
 - [[Ophelia the Sylph|Ophelia]] will be hurt by how the temple looks. She will explain it was once a place of shared learning and song. But long ago something horrible happened and it became corrupted.
 - Darkness beyond her vision.
 
 > I can feel the movements of the stones beneath you, tiny one. My siblings are blind, and slumber, and the wind conceals your movement, but the stones do not lie. You are new here, and of the new world.
 
 A particularly evil earth elemental notices Rylai's presence with his tremorsense, but he will not alert the rest of the temple, as he believes that if he kills her he can use the power of her blood to escape his confinement. Rylai holds the power to open a sealed rift to the elemental planes, and can also step through the veil of the temple's imprisonment.
+
+### Flashback 2
 
 ### Worship Chamber
 
@@ -127,13 +132,60 @@ By rotating the statues to align with their correct symbols will open a rotating
 
 # Chuul Doorkeeper | Setback
 
-# Air Portal | Resolution
+### Flashback 3
+
+
+### Air Door
+After diving into the water and swimming through her flashback, the opening to a monolithic base of one part of the temple is available to her.
+
+>[!infobox|left]
+># Important
+>Rylai must make it to a wing of the temple known as the **Howling Cavern**. The temple's regions have been sealed off, but accessing the cavern is possible. One of the chambers ahead has a **Chuul** who guards a wall with histories and a song that can open the door ahead.
+>
+>|Reward|
+>|-|
+>|The **Song of Currents** effectively allows Rylai to use her voice to attune to the elemental plane of air, requiring no tuning fork for the purposes of casting the *plane shift* spell.|
+
+- Light blue dancing lights in sconses on either side of a door made of what appears to be flowing, wrathful wind energy. Attempting to pass through it will force a **15 Dex Save** vs taking 4d10 thunder damage, then 8d10 lightning damage, then 5d10 of both. It can be pushed past, but only after taking immense damage, and the door is deep and obscures vision.
+- She must find and play the **song of currents** from a chamber ahead.
+
+
+### Chuul Guardian
+
+- On the opposite end of a pool of water surrounded by a path of stone, illuminated by burning braziers, appears a stone mural.
+- On the mural appears to be the notes to a song: **Song of the Currents**.
+- Inside of the water of the chamber is a **chuul**, one of the main guardians and upholders of the temple.
+- In order for Rylai to get a good reading of the song details she must investigate it up close, which could mean being detected by the Chuul **note the chuul's detect magic feature.** When she goes over to the mural the water begins to ripple and move.
+- She can hide from the chuul depending on **multiple fail states**.
 
 >[!infobox]
+>|Encounter|
+>|-|
+>|A chuul in a gloopy water pool defends the song of currents|
+
+---
+
+
+# Air Portal of the Howling Cavern | Resolution
+By singing the **Song of Currents**, Rylai will both open the door to the **Howling Cavern** and also will awaken the minds of the primordial forces sealed in the temple.
+
+>[!infobox]
+>|Encounter|
+>|-|
+>|Elemental cultist formed from ash will be the first to hear her song. The cultist is a manifestation from a number of ruined cultist forms of a primordial evil fire elemental that does not want her to leave.|
+>After a short combat wind elementals will come to her aid
+
+- For a moment, the wind spirits of the temple will side with her song and **Air Elementals** will appear to defend her from the wills of the primordials that form from thin air, and the chuuls that rise from the depths to her left.
+- [[Eelax the Gargoyle]] will laugh and join in, letting darkness consume him.
+
+
+
+### The Air Portal Chamber
+>[!infobox|left]
 ># The Air Portal Chamber
 >![[Pasted image 20260118163629.png|300]]
 
+- [[Air Elemental Myrmidon]]s greet her, but do not attack. They ward against intruders, and for now are unable to decide whether she is or is not.
+- 
 
-
-# The [[Elemental Plane of Air]] (Halfway Point)
-
+# The [[Elemental Plane of Air]]
