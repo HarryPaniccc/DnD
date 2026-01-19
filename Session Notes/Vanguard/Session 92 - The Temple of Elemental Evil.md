@@ -107,6 +107,7 @@ The doors open up onto the top of an obsidian monolithic structure overlooking a
 A particularly evil earth elemental notices Rylai's presence with his tremorsense, but he will not alert the rest of the temple, as he believes that if he kills her he can use the power of her blood to escape his confinement. Rylai holds the power to open a sealed rift to the elemental planes, and can also step through the veil of the temple's imprisonment.
 
 ### Flashback 2
+Enter lake, need to help person stuck on ice. Ends **right before** a plunge into the ice.
 
 ### Worship Chamber
 
@@ -133,7 +134,7 @@ By rotating the statues to align with their correct symbols will open a rotating
 # Chuul Doorkeeper | Setback
 
 ### Flashback 3
-
+Plunge into the water below, feel coldness begin to overtake her.
 
 ### Air Door
 After diving into the water and swimming through her flashback, the opening to a monolithic base of one part of the temple is available to her.
@@ -161,18 +162,18 @@ After diving into the water and swimming through her flashback, the opening to a
 >[!infobox]
 >|Encounter|
 >|-|
->|A chuul in a gloopy water pool defends the song of currents|
+>|A **chuul** in a gloopy water pool defends the song of currents|
 
 ---
 
 
-# Air Portal of the Howling Cavern | Resolution
+# Air Portal of the Howling Cavern | Climax
 By singing the **Song of Currents**, Rylai will both open the door to the **Howling Cavern** and also will awaken the minds of the primordial forces sealed in the temple.
 
 >[!infobox]
 >|Encounter|
 >|-|
->|Elemental cultist formed from ash will be the first to hear her song. The cultist is a manifestation from a number of ruined cultist forms of a primordial evil fire elemental that does not want her to leave.|
+>|**Elemental cultist** formed from ash will be the first to hear her song. The cultist is a manifestation from a number of ruined cultist forms of a primordial evil fire elemental that does not want her to leave.|
 >After a short combat wind elementals will come to her aid
 
 - For a moment, the wind spirits of the temple will side with her song and **Air Elementals** will appear to defend her from the wills of the primordials that form from thin air, and the chuuls that rise from the depths to her left.
@@ -182,10 +183,20 @@ By singing the **Song of Currents**, Rylai will both open the door to the **Howl
 
 ### The Air Portal Chamber
 >[!infobox|left]
-># The Air Portal Chamber
 >![[Pasted image 20260118163629.png|300]]
 
 - [[Air Elemental Myrmidon]]s greet her, but do not attack. They ward against intruders, and for now are unable to decide whether she is or is not.
-- 
+- Giant elemental air face hovering overhead. Smiles at her. "You are welcome to enter as you wish. You have aided me, and so you may pass little one."
 
-# The [[Elemental Plane of Air]]
+# The [[Elemental Plane of Air]] | Resolution
+
+- Thrown into a land of bright blue skies and beautiful clouds.
+- Open expanse, Aarakocra fly by
+- Plunge through the skies, caught by [[Ophelia the Sylph|Ophelia]]
+
+### Falling
+
+### Island
+> Clouds steretch ahead of you like rolling, silver planes. Birds, winged creatures and spirits of wind take flight along a hundred different gust. Floating motes of earth rich in lush green vegetation create clusters of gardens held aloft in the expanse of nothingness you find yourself in. You think you can even see a castle of white stone far in the distance and far above you.
+
+****
