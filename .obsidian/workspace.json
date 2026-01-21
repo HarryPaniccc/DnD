@@ -148,21 +148,7 @@
             }
           },
           {
-            "id": "61f9053551897951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "63cfcb09e0ecdf61",
+            "id": "df8c815939f97c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,9 +160,35 @@
               "icon": "lucide-file",
               "title": "Ruina"
             }
+          },
+          {
+            "id": "0c75db7e87b0981c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trayfort Keep"
+            }
+          },
+          {
+            "id": "b6d254c268fdac6e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Pasted image 20260121094334.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260121094334"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -233,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -312,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Ruina.md",
+                "file": "Attachments/Pasted image 20260121094334.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ruina"
+              "title": "Outline of Pasted image 20260121094334"
             }
           },
           {
@@ -375,7 +388,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,8 +403,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "63cfcb09e0ecdf61",
+  "active": "b6d254c268fdac6e",
   "lastOpenFiles": [
+    "Attachments/hextml/Unconfirmed 368891.crdownload",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Attachments/Pasted image 20260121094334.png",
+    "World of Helodaria/Ruina.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Attachments/hextml/game icons net/hill-fort.png",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "World of Helodaria/Sirkonos.md",
+    "Attachments/hextml/game icons net/stone-tower.png",
+    "Attachments/hextml/Unconfirmed 371866.crdownload",
+    "Attachments/hextml/Unconfirmed 575833.crdownload",
+    "World of Helodaria/Splitmount.md",
     "Attachments/hextml/ruina.html.gz",
     "Attachments/hextml/Unconfirmed 268531.crdownload",
     "Attachments/hextml/ruina.gz",
@@ -400,18 +429,10 @@
     "Attachments/hextml/game icons net/Unconfirmed 814305.crdownload",
     "Attachments/hextml/game icons net/village.png",
     "Attachments/hextml/game icons net/Unconfirmed 636657.crdownload",
-    "Attachments/Pasted image 20260121094334.png",
-    "World of Helodaria/Ruina.md",
     "Attachments/hextml/game icons net/castle.png",
     "Attachments/hextml/game icons net/Unconfirmed 436827.crdownload",
-    "Attachments/hextml/game icons net",
-    "Attachments/hextml/icons",
-    "Attachments/hextml/New folder",
-    "World of Helodaria/Sirkonos.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil.md",
     "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Caede.md",
     "World of Helodaria/Elemental Plane of Air.md",
     "World of Helodaria/Kanan Einzbern.md",
@@ -427,16 +448,9 @@
     "World of Helodaria/Eelax the Gargoyle.md",
     "Attachments/Pasted image 20260118163629.png",
     "General Notes and Ideas.md",
-    "World of Helodaria/House Luthrand.md",
-    "Human.md",
-    "Manticore.md",
-    "Guidelines.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "Attachments/Kanan_Casual.png",
     "Attachments/Pasted image 20260117175530.png",
     "Attachments/Caede_art.png",
-    "Attachments/Pasted image 20260104191726.png",
-    "Attachments/Pasted image 20260104200221.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
