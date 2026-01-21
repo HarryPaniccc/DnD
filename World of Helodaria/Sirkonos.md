@@ -8,7 +8,7 @@ Old woods, teeming with older magics and eldritch curses. Walled towns, owned by
 
 Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous social-scape in order to study the innate darkness of the land.
 ### Map
-![[Pasted image 20231217153118.png]]
+![[Pasted image 20231217153118.png|650]]
 >[!Note]
 >Brocia should be further south, a liitle bit, so that [[Rokbaur Castle]] can be more isolated.
 

@@ -8,7 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "770d2990c53200d2",
+            "id": "ae475d42e120be2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 6 - The Golden Age"
+            }
+          },
+          {
+            "id": "18ba83968f35c37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Oriothar the Monarch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Oriothar the Monarch"
+            }
+          },
+          {
+            "id": "3db5b6b934640375",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Vanguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard"
+            }
+          },
+          {
+            "id": "1c14b96219db292f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Isilme Vanariel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Isilme Vanariel"
+            }
+          },
+          {
+            "id": "7eb9e5f3f76f7347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Primordials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primordials"
+            }
+          },
+          {
+            "id": "d26a1d76887754db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primordial of Hunger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primordial of Hunger"
+            }
+          },
+          {
+            "id": "85502860378e5ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primevals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primevals"
+            }
+          },
+          {
+            "id": "e840f11b0df225eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 7 - Unnamed"
+            }
+          },
+          {
+            "id": "49b934b9d79b95ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,133 +148,35 @@
             }
           },
           {
-            "id": "08389105e0321ab7",
+            "id": "61f9053551897951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "78edd0f139636cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+                "file": "World of Helodaria/Sirkonos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 89 - Marthirion, Marred by Seeing"
+              "title": "Sirkonos"
             }
           },
           {
-            "id": "235b7f412e022cd8",
+            "id": "63cfcb09e0ecdf61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 92 - The Temple of Elemental Evil"
-            }
-          },
-          {
-            "id": "181dfa8713f7fbcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Elemental Plane of Air.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elemental Plane of Air"
-            }
-          },
-          {
-            "id": "b3693309f4564384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Temple of Elemental Evil.md",
+                "file": "World of Helodaria/Ruina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temple of Elemental Evil"
-            }
-          },
-          {
-            "id": "f9f8bc01ae6e5083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Ophelia the Sylph.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ophelia the Sylph"
-            }
-          },
-          {
-            "id": "e81b5ba4f9f52d0b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#gargoyle_mm",
-                "title": "Gargoyle - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Gargoyle - 5etools"
-            }
-          },
-          {
-            "id": "a1573f6e89f7ff6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Rylai Sweetsong.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rylai Sweetsong"
-            }
-          },
-          {
-            "id": "5c3ed0ba72e3a1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Caede.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caede"
+              "title": "Ruina"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -167,7 +195,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -205,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 268.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -214,7 +242,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 64.42307692307692,
+        "dimension": 64.23076923076924,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -236,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +274,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -255,12 +283,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
             }
           },
           {
@@ -270,7 +298,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -284,13 +312,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil.md",
+                "file": "World of Helodaria/Ruina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 92 - The Temple of Elemental Evil"
+              "title": "Outline of Ruina"
             }
           },
           {
@@ -313,7 +341,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 35.57692307692307,
+        "dimension": 35.76923076923077,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -342,37 +370,12 @@
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,23 +389,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "235b7f412e022cd8",
+  "active": "63cfcb09e0ecdf61",
   "lastOpenFiles": [
+    "Attachments/hextml/ruina.html.gz",
+    "Attachments/hextml/Unconfirmed 268531.crdownload",
+    "Attachments/hextml/ruina.gz",
+    "Attachments/hextml/Unconfirmed 413174.crdownload",
+    "Attachments/hextml/game icons net/peaks.png",
+    "Attachments/hextml/game icons net/Unconfirmed 493961.crdownload",
+    "Attachments/hextml/game icons net/Unconfirmed 814305.crdownload",
+    "Attachments/hextml/game icons net/village.png",
+    "Attachments/hextml/game icons net/Unconfirmed 636657.crdownload",
+    "Attachments/Pasted image 20260121094334.png",
+    "World of Helodaria/Ruina.md",
+    "Attachments/hextml/game icons net/castle.png",
+    "Attachments/hextml/game icons net/Unconfirmed 436827.crdownload",
+    "Attachments/hextml/game icons net",
+    "Attachments/hextml/icons",
+    "Attachments/hextml/New folder",
+    "World of Helodaria/Sirkonos.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil.md",
     "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Caede.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil.md",
-    "Session Notes/Vanguard/Session 80 - A Flame Rekindled.md",
     "World of Helodaria/Elemental Plane of Air.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "Session Notes/Vanguard/Session 80 - A Flame Rekindled.md",
     "World of Helodaria/Planes of Existence.md",
     "World of Helodaria/Ophelia the Sylph.md",
     "World of Helodaria/Temple of Elemental Evil.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Items/Sylphmade Cloak.md",
     "Statblocks/Sylph Companion.md",
-    "World of Helodaria/Ruina.md",
     "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
     "Junk 1.md",
     "World of Helodaria/Eelax the Gargoyle.md",
@@ -413,28 +432,12 @@
     "Manticore.md",
     "Guidelines.md",
     "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Bahamut.md",
-    "World of Helodaria/Lathander.md",
     "Attachments/Kanan_Casual.png",
     "Attachments/Pasted image 20260117175530.png",
     "Attachments/Caede_art.png",
-    "Administration and Other Notes",
     "Attachments/Pasted image 20260104191726.png",
     "Attachments/Pasted image 20260104200221.png",
-    "Attachments/Pasted image 20260103162132.png",
-    "Attachments/Pasted image 20251214191012.png",
-    "Attachments/Pasted image 20251214190957.png",
-    "Attachments/Pasted image 20251214190732.png",
-    "Timeline.base",
-    "Attachments/Red Hand of Doom.pdf",
     "Untitled.canvas",
-    "Attachments/dungeon scrawl/Unconfirmed 35407.crdownload",
-    "Attachments/dungeon scrawl/Unconfirmed 472148.crdownload",
-    "Attachments/dungeon scrawl/Castle Sungrand Dungeon.ds",
-    "Attachments/dungeon scrawl/Unconfirmed 662446.crdownload",
-    "Attachments/5E_CharacterSheet_Fillable.pdf",
-    "Attachments/Unconfirmed 466187.crdownload",
-    "Attachments/hextml/Unconfirmed 830062.crdownload",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
