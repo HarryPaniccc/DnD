@@ -164,8 +164,6 @@ After diving into the water and swimming through her flashback, the opening to a
 >|-|
 >|A **chuul** in a gloopy water pool defends the song of currents|
 
----
-
 
 # Air Portal of the Howling Cavern | Climax
 By singing the **Song of Currents**, Rylai will both open the door to the **Howling Cavern** and also will awaken the minds of the primordial forces sealed in the temple.
