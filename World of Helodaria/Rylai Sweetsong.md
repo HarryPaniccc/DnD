@@ -4,6 +4,14 @@ tags:
 aliases:
   - Rylai
 ---
+>[!infobox]
+>![[RylaiPFPCrop.jpg]]
+>
+>| | |
+>|-|-|
+>|Class|Sorcerer (Storm Bloodline)|
+>|Race | Lightfoot Halfling|
+
 # Intro
 Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to the wealthy [[Sweetsong Family]], and a founding member of the [[Vanguard]].
 # Description
