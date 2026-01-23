@@ -8,16 +8,14 @@ Old woods, teeming with older magics and eldritch curses. Walled towns, owned by
 
 Sirkonos is a realm of uncertainty, made of swamps, wastelands, and wilderness, protected by guilds of monster hunters and the forces of local sheriffs. Criminal organisations orchestrate murders and thefts while lonely wizard towers shy away from the dangerous social-scape in order to study the innate darkness of the land.
 ### Map
-![[Pasted image 20231217153118.png|650]]
+![[Pasted image 20231217153118.png|750]]
 >[!Note]
 >Brocia should be further south, a liitle bit, so that [[Rokbaur Castle]] can be more isolated.
 
 # History
----
 Before the apparent Sirkon royal lineage, the region where Sirkonos now sits was ruled by the [[Thay]].
 
 # Geography
----
 The kingdom is situated west of the [[Nightshade Peaks]]. The [[Maghlas Mountains]] have foothills that stretch down into the borders of the Sirkonos, and from the north to the south shore of the eastern third of the kingdom there stretches a vast region of wasteland and mire, the [[Eastern Wastes]]; a scar on the land left behind from [[The Fall]]. [[Banespear Mountain]] stands proudly at the south of the Wastes, [[Mount Ethris]] sits in the center of the built-up region of the land, and dark forests dot the landscape. #TODO 
 
 ### [[Aldwyn Highlands]]

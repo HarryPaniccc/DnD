@@ -29,7 +29,7 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 #### Future Sessions
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
-- [[Session 92 - The Temple of Elemental Evil]]
+- [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 
 #### Past Sessions
 - [[Session 91 - Steinwalde]]

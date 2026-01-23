@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 87 - An Element of Truth]]
-**Subsequent Session:** [[Session 92 - The Temple of Elemental Evil]]
+**Subsequent Session:** [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 ## Post Mortem
 **Antumbrahn 29th**
 - The group consisting of [[Isilme Vanariel]], [[Dusk]] and [[Rylai Sweetsong|Rylai]] have awoken [[Marthirion]] in his study, and do battle with the reconstituted archminister, slaying him

@@ -2,7 +2,12 @@
 **Subsequent Session:**
 
 ## Post Mortem
-
+**Dul'ussahn 3rd**
+- Rylai delves into the temple, faces gargoyles and slays the rug, newly animated by an evil air elemental
+- She meets with [[Eelax the Gargoyle]], and learns that the temple is a place of worship for [[Tharizdun]]
+- She defeats a chuul guardian of a wall of song, and she learns the [[Song of the Currents]]
+- She opens the door to the Howling Caverns, making it to the [[Elemental Plane of Air]]
+- There she accepts her sorcerous connection to the [[Elemental Planes]], and learns the truth of that night, that [[Lina Sweetsong]] killed her parents and that she was carrying the guilt around for nothing
 
 ## Introduction
 > Swallow and take what you thought you were meant to be. Reconcile it with who you are. Another lesson learned in time. But oh, you'll find.
