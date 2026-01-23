@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Diredahl.md",
+                "file": "World of Helodaria/Sirkonos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diredahl"
+              "title": "Sirkonos"
             }
           },
           {
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Diredahl.md",
+                "file": "World of Helodaria/Sirkonos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diredahl"
+              "title": "Outline of Sirkonos"
             }
           },
           {
@@ -362,6 +362,7 @@
   },
   "active": "44592e20beb912c9",
   "lastOpenFiles": [
+    "World of Helodaria/Diredahl.md",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
     "World of Helodaria/Sirkonos.md",
     "World of Helodaria/Carlina.md",
@@ -398,7 +399,6 @@
     "Attachments/Pasted image 20260118163629.png",
     "Statblocks/Sylph Companion.md",
     "Attachments/hextml/Unconfirmed 704848.crdownload",
-    "Attachments/hextml/Unconfirmed 222257.crdownload",
     "Attachments/hextml/game icons net/black square.png",
     "World of Helodaria/Trayfort Keep.md",
     "Attachments/hextml/game icons net/hill-fort.png",
