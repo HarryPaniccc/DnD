@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -298,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Caede.md",
+                "file": "World of Helodaria/Ruina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Caede"
+              "title": "Outline of Ruina"
             }
           },
           {
@@ -400,14 +400,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8e1de7d15cb07a15",
+  "active": "dc27bb7097ff930f",
   "lastOpenFiles": [
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
-    "Items/Spear of Damnation.md",
-    "World of Helodaria/Ruina.md",
     "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Caede.md",
+    "Items/Spear of Damnation.md",
+    "World of Helodaria/Ruina.md",
     "Attachments/RylaiPFPCrop.jpg",
     "Attachments/Worldographer/Ruina-autosave.wxx",
     "Attachments/Worldographer/Ruina.wxx",

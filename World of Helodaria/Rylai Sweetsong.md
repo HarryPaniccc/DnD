@@ -18,7 +18,6 @@ Rylei Sweetsong is a halfling bard-sorcerer born of the [[Ruina]] to the wealthy
 ## Appearance
 ## Personality
 # Biography
----
 ## Before the Campaign
 When Rylai was young it was discovered that she was a powerful sorcerer and posessed significant attunement to the [[Elemental Plane of Air]]. During this early period of her life, [[Darius Nubide]] would tutor her in her power. She would never be able to control fire.
 
@@ -28,7 +27,6 @@ She would shut off her connection to the elemental plane of air by freezing her 
 ## Campaign One: Vanguard
 Rylai would find [[Caede]] very early after he rose from his long slumber near the town of [[Splitmount]] on her way to [[Ironbase]]. 
 # Character Information
----
 ## Quests
 ## Notable Items
 ### Current Items
@@ -41,6 +39,7 @@ Rylai would find [[Caede]] very early after he rose from his long slumber near t
 - Bracers of Defence
 - Boon of Aerondite
 - Spear of Damnation
+- [[Sylphmade Cloak]]
 ### Former Items
 # Relationships
 ---
