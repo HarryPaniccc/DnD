@@ -38,7 +38,7 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 - [[Session 88 - Duergar Sunblighters]] - Kanan + Caede
 - [[Session 87 - An Element of Truth]] - Rylai + Isilme + Dusk
 - [[Session 86 - The Synod of Elevation]] - Rylai + Isilme + Dusk
-- [[Session 85.5 - The North Estravian Faults]] - Kanan and Caede Whatsapp
+- [[Session 85.5 - The North Estravian Faults (Online)]] - Kanan and Caede Whatsapp
 - [[Session 85 - Estravian Brigands]] - Kanan + Caede
 - [[Session 84 - Travel to Steinwalde]] - Kanan + Caede
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]] - Kanan solo

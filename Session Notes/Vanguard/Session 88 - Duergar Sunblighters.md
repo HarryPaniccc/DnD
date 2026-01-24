@@ -1,4 +1,4 @@
-**Previous Session:** [[Session 85 - Estravian Brigands]] and [[Session 85.5 - The North Estravian Faults]]
+**Previous Session:** [[Session 85 - Estravian Brigands]] and [[Session 85.5 - The North Estravian Faults (Online)]]
 **Subsequent Session:** [[Session 90 - Dragonfire]]
 ## Post Mortem
 ---

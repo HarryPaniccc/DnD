@@ -8,7 +8,7 @@ tags:
 ># General Information
 >| | |
 >| - | - |
->| Population| < 60 000|
+>| Population| < 30 000|
 
 
 # Description
@@ -42,7 +42,6 @@ They field roughly four hundred warriors in total, with hunting parties being di
 ### Steinwaldie Guard
 Steinwalde's military guard consists of soldiers from many contesting houses all allied under the king's banner. At any one time, roughly two thousand soldiers are armed and actively patrol the city and the entryhall. Four thousand can be martialled to defend the city should they need greater numbers, and in dire circumstances, conscriptions can reach around ten thousand should they need the men.
 # Locations
----
 
 >[!Important] Visible Regions
 > From the entryhall there is a long, grand cavernous hallway which leads to Steinwalde proper. From there a grand bridge connects a huge balcony to a rockface populated with homes and buildings. On either side, stairs lead down to a lower level, and up to a series of multiple levels of balconies and pathways suspended by chains. Spiral staircases are cut into great pillars allowing passageway between the levels, and grand stairways are cut into the sides of the mountain.

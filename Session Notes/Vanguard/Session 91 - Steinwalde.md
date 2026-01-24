@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 90 - Dragonfire]]
-**Subsequent Session:** [[Session 999 - Hammer to Anvil]]
+**Subsequent Session:** [[Session 91.5 - Hammer to Anvil (Online)]]
 
 ## Post Mortem
 

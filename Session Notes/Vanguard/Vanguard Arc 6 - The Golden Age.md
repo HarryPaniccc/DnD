@@ -88,7 +88,7 @@ The PC's are going to be accumulating allies throughout this period.
 ### Pilgrimage to [[Steinwalde]]
 - [[Session 90 - Dragonfire]]
 - [[Session 88 - Duergar Sunblighters]]
-- [[Session 85.5 - The North Estravian Faults]]
+- [[Session 85.5 - The North Estravian Faults (Online)]]
 - [[Session 84 - Travel to Steinwalde]]
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]]
 
