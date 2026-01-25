@@ -2,6 +2,11 @@
 tags:
   - Rules
 ---
+# Bounties
+I need to track how much money monsters are worth.
+- Young red dragon had a bounty of 6000 gp in [[Steinwalde]]
+
+
 # Crafting
 Crafting and item by DMG rules and Xanathars takes incredibly long. The sell price of an item is roughly double that of the crafting cost. The crafting time in the DMG gives 25gp per day increment, which is ridiculously slow. *The idea is to quarter or eighth the crafting time.*
 
@@ -25,7 +30,6 @@ Magical items can be crafted using the components found in the environment or ha
 | Phase Spider Venom  | [[Phase Spider Poison]]                 | https://www.thievesguild.cc/harvest/creature.php?id=470                                                         |
 | Adult Dragon Scales | Armour, shields                         | Sufficient dragon scales and leather can potentially **exceed** half the value of the armour they are made into |
 # Item Pricing
----
 This section documents the value of items and how it is determined. Largely, the rarity determine's an item's value using the [[#DMG Pricing Table]]. In some cases, mostly potions, the price of an item falls widely outside of the rarity's expected value range.
 ### DMG Pricing Table
 - Xanathar's has a magic item ingredients table: Item rarity connected to component CR https://2014.5e.tools/book.html#xge,2,awarding%20magic%20items

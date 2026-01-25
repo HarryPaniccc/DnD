@@ -30,7 +30,7 @@ The group of knights that make up the seven founding members of the Einzberns ma
 The Einzberns owned a number of assets and properties around [[Sirkonos]], as well as having allies. During [[Vanguard Arc 7 - Unnamed]], [[Tevis Einzbern]] had to put considerable effort into consolodating and liquidating some assets after the family fell to ruin.
 
 - The [[Einzbern Hold]] remains in the familiy's name indefinetly, and is a "Keep or Small Castle", costing around 100Gp per DAY to keep running, reacing around 2900 Gp per month.
-- Use the [[Magic Item Pricing and Crafting]] CR Cost/rarity table to ballpark how much can be earned from monster bounties.
+- Use the [[Pricing and Crafting]] CR Cost/rarity table to ballpark how much can be earned from monster bounties.
 - 
 # Schools and Training
 ---

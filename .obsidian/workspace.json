@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ee7c6f3acda308",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 51.7531556802244,
         "children": [
           {
-            "id": "4197be4e659ef1fd",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +22,7 @@
             }
           },
           {
-            "id": "be715f8a455bacc5",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,225 +36,49 @@
             }
           },
           {
-            "id": "a75602818ecbfd11",
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 91.5 - Hammer to Anvil (Online)"
+              "title": "Session 89 - Marthirion, Marred by Seeing"
             }
           },
           {
-            "id": "f1c9f02a19a2f78e",
+            "id": "f9f8bc01ae6e5083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Nightfall, the Hand that Feeds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nightfall, the Hand that Feeds"
-            }
-          },
-          {
-            "id": "84838bb556769568",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Anathema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anathema"
-            }
-          },
-          {
-            "id": "8c43bf6f18e64ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Leviathan Axe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leviathan Axe"
-            }
-          },
-          {
-            "id": "bc3c835be2e913fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Duergar Sunblight Stronghold.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duergar Sunblight Stronghold"
-            }
-          },
-          {
-            "id": "70bc8c302a9636cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "9234f490f856b4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Einzberns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einzberns"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ad403f483996d6ec",
-        "type": "tabs",
-        "dimension": 48.2468443197756,
-        "children": [
-          {
-            "id": "b570b995d66a4f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Item Pricing and Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magic Item Pricing and Crafting"
-            }
-          },
-          {
-            "id": "699713deba4e83f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lady Leah Luthrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lady Leah Luthrand"
-            }
-          },
-          {
-            "id": "64865fe6e781d3bd",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/book.html#xge,2,awarding%20magic%20items",
-                "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools"
-            }
-          },
-          {
-            "id": "0ab9e66bd4bc3e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Ophelia the Sylph.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Ophelia the Sylph"
             }
           },
           {
-            "id": "1b0bd1cf7a6f75a5",
+            "id": "a1573f6e89f7ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grelchar the Keen.md",
-                "mode": "source",
+                "file": "World of Helodaria/Rylai Sweetsong.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grelchar the Keen"
-            }
-          },
-          {
-            "id": "7b9b594f89c9a941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Frostcleaver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frostcleaver"
-            }
-          },
-          {
-            "id": "bf10959d1bcca8fb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#adult%20white%20dragon_mm",
-                "title": "Adult White Dragon - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Adult White Dragon - 5etools"
-            }
-          },
-          {
-            "id": "b6054952e48df156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Adult White Dragon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adult White Dragon"
+              "title": "Rylai Sweetsong"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,7 +111,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -312,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 275.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -321,7 +144,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 64.42307692307692,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -343,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Steinwalde"
+              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
             }
           },
           {
@@ -362,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 81 -.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -377,7 +200,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -391,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statblocks/Adult White Dragon.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adult White Dragon"
+              "title": "Outline of Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -420,7 +243,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 35.57692307692307,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -437,7 +260,35 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -447,11 +298,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -465,12 +316,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b6054952e48df156",
+  "active": "08389105e0321ab7",
   "lastOpenFiles": [
-    "World of Helodaria/Gaz the Branded.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Caede.md",
+    "World of Helodaria/Ophelia the Sylph.md",
+    "World of Helodaria/Temple of Elemental Evil.md",
+    "World of Helodaria/Elemental Plane of Air.md",
     "World of Helodaria/Steinwalde.md",
+    "Pricing and Crafting.md",
     "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+    "Statblocks/Adult White Dragon.md",
+    "World of Helodaria/Gaz the Branded.md",
     "Session Notes/Vanguard/Session 91 - Steinwalde.md",
     "Items/Nightfall, the Hand that Feeds.md",
     "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults (Online).md",
@@ -478,7 +337,6 @@
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Zeb.md",
     "World of Helodaria/Battlehammer Clan.md",
-    "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Sirkonos.md",
     "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
@@ -487,17 +345,10 @@
     "World of Helodaria/Ruina.md",
     "Attachments/Worldographer/Sirkonos-autosave.wxx",
     "Attachments/Worldographer/Sirkonos.wxx",
-    "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted image 20260121094334.png",
     "World of Helodaria/Isilme Vanariel.md",
-    "Session Notes/Vanguard/Session 999 - Tournament of Trayfort Hold.md",
-    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
-    "World of Helodaria/Ophelia the Sylph.md",
-    "World of Helodaria/Temple of Elemental Evil.md",
-    "World of Helodaria/Elemental Plane of Air.md",
-    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/RylaiPFPCrop.jpg",

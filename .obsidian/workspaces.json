@@ -2283,26 +2283,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 91 - Steinwalde.md",
+                    "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 91 - Steinwalde"
-                }
-              },
-              {
-                "id": "3ebba501bfdf1dde",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session 999 - Hammer to Anvil.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 999 - Hammer to Anvil"
+                  "title": "Session 91.5 - Hammer to Anvil (Online)"
                 }
               },
               {
@@ -2390,7 +2376,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           },
           {
             "id": "ad403f483996d6ec",
@@ -2403,12 +2389,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Magic Item Pricing and Crafting.md",
+                    "file": "Pricing and Crafting.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Magic Item Pricing and Crafting"
+                  "title": "Pricing and Crafting"
                 }
               },
               {
@@ -2446,7 +2432,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "World of Helodaria/Steinwalde.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -2510,7 +2496,7 @@
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -2529,7 +2515,7 @@
                 "state": {
                   "type": "file-explorer",
                   "state": {
-                    "sortOrder": "alphabetical",
+                    "sortOrder": "alphabeticalReverse",
                     "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
@@ -2567,7 +2553,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 276.5
+        "width": 276.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2598,7 +2585,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Items/Nightfall, the Hand that Feeds.md",
+                    "file": "World of Helodaria/Steinwalde.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -2608,7 +2595,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Nightfall, the Hand that Feeds"
+                  "title": "Backlinks for Steinwalde"
                 }
               },
               {
@@ -2646,13 +2633,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Items/Nightfall, the Hand that Feeds.md",
+                    "file": "World of Helodaria/Steinwalde.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Nightfall, the Hand that Feeds"
+                  "title": "Outline of Steinwalde"
                 }
               },
               {
@@ -2712,7 +2699,6 @@
       "left-ribbon": {
         "hiddenItems": {
           "bases:Create new base": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -2722,8 +2708,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b6054952e48df156",
-      "mtime": "2026-01-17T12:02:54+02:00"
+      "active": "0ab9e66bd4bc3e62",
+      "mtime": "2026-01-25T19:30:28+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -5028,5 +5014,5 @@
       "mtime": "2026-01-17T18:15:57+02:00"
     }
   },
-  "active": "Kanan Downtime"
+  "active": "Rylai Downtime"
 }

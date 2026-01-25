@@ -13,11 +13,9 @@
 
 
 # Vessel of Avarice
----
 Something happens
 
 
 # Shopping! :P
----
 Something else happens
 

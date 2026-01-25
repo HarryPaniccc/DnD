@@ -43,7 +43,7 @@ tags:
 **Week 8 (Dulussahn 14th)**
 - (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
-- (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]
+- (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 
 **Week 9 Dulussahn 21st**
 - 
@@ -97,7 +97,7 @@ Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from t
 - Overload the chalice and maybe go to the hells?
 
 #### Gear Ideas
-One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Magic Item Pricing and Crafting]] document too.
+One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Pricing and Crafting]] document too.
 
 - [[+2 Dragon Scale Leather Armor]]
 - [[Infernal Compass]]
