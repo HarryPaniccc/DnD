@@ -7,14 +7,14 @@ tags:
 	- [x] Isilme
 	- [x] Kanan
 	- [x] Rylai
-	- [ ] Dusk
+	- [x] Dusk
 	- [x] Caede
 	- [ ] Silb
 >[!Idea]
 >### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
-- [ ] Stone Arches
+- [x] Stone Arches
 - [ ] Cages x 2
 - [ ] Sewer grate  
 - [ ] Human Knaves
@@ -86,16 +86,12 @@ tags:
 - [x] Zakuul motivations
 - [x] Sirkon motivations
 # Scratch Notes
----
 - Wood elf warriors
 - Spirit type stuff
 - Talking with no one
 - Kitsune fox totem
 - Westenra (Woman lead of Dracula) is a cool name for a Sirkonian Town
 
-# Rylai
----
-Clone stuff - how does that make sense (Joshi talk)
 # [[Zakuul]]
 Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceaseless]], and has found
 - [[Zakuul]] is raging a war against the Drow of the [[City of the Glass Moon]], forcing them out of the underdark and into [[Ruina|Ruina]]
@@ -103,7 +99,6 @@ Zakuul has taken lair in an ancient fortress that once belonged to [[The Ceasele
 - He has laired in an ancient fortress that once belonged to the sorcerer king of old Ruina in the mountains south of Splitmount
 - [[Harrix]] becomes a rival of his in the area
 # Final Campaign Planning
----
 ## Wishlist
 - Demon boat fight
 - Renslayer death knight army in a fortress in the nightshade peaks

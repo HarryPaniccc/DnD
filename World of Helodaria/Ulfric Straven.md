@@ -14,3 +14,4 @@ Looking for a more permanent position while also desiring to leave the city, Ulf
 
 # Statblock
 
+Maybe the flee mortals human mercenary? Yeah... [[Human Mercenary]]

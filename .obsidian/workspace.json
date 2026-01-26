@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "770d2990c53200d2",
+            "id": "b6df2faaa5471b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,63 @@
             }
           },
           {
-            "id": "78edd0f139636cdf",
+            "id": "2d8b02946de1be74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+                "file": "World of Helodaria/Dularen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 89 - Marthirion, Marred by Seeing"
+              "title": "Dularen"
             }
           },
           {
-            "id": "f9f8bc01ae6e5083",
+            "id": "4859a2c24bd1b882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Ophelia the Sylph.md",
-                "mode": "preview",
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ophelia the Sylph"
+              "title": "Trayfort Keep"
             }
           },
           {
-            "id": "a1573f6e89f7ff6e",
+            "id": "85104b17518aa359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Rylai Sweetsong.md",
-                "mode": "preview",
+                "file": "World of Helodaria/Ulfric Straven.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rylai Sweetsong"
+              "title": "Ulfric Straven"
+            }
+          },
+          {
+            "id": "f8a1b136e54311f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Duergar Sunblight Stronghold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Duergar Sunblight Stronghold"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dungeon  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 280.50418853759766
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -144,7 +158,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 64.42307692307692,
+        "dimension": 63.74999999999999,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
+              "title": "Backlinks for Uldronos Council"
             }
           },
           {
@@ -200,9 +214,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -214,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline of Vanguard Arc 6 - Downtime"
             }
           },
           {
@@ -237,13 +249,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 35.57692307692307,
+        "dimension": 36.25,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -302,7 +313,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,13 +327,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08389105e0321ab7",
+  "active": "0b6a92f621642cae",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Duergar Sunblight Stronghold.md",
+    "World of Helodaria/Ulfric Straven.md",
+    "World of Helodaria/Lucius.md",
+    "Statblocks/Human Mercenary.md",
+    "Statblocks/Kronesguard Ranger.md",
+    "Statblocks/Manticore Statblock.md",
+    "Statblocks/Sylph Companion.md",
+    "Statblocks/Vampire.md",
+    "Statblocks/Suc(In)cubus Willbreaker.md",
+    "Statblocks/Roc.md",
+    "Attachments/Pasted image 20260125223436.png",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Dularen.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Vanguard.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Caede.md",
     "World of Helodaria/Ophelia the Sylph.md",
+    "World of Helodaria/Caede.md",
     "World of Helodaria/Temple of Elemental Evil.md",
     "World of Helodaria/Elemental Plane of Air.md",
     "World of Helodaria/Steinwalde.md",
@@ -330,25 +356,11 @@
     "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Gaz the Branded.md",
-    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults (Online).md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Zeb.md",
-    "World of Helodaria/Battlehammer Clan.md",
-    "World of Helodaria/Sirkonos.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
-    "World of Helodaria/Diredahl.md",
-    "World of Helodaria/Carlina.md",
-    "World of Helodaria/Ruina.md",
     "Attachments/Worldographer/Sirkonos-autosave.wxx",
     "Attachments/Worldographer/Sirkonos.wxx",
-    "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted image 20260121094334.png",
-    "World of Helodaria/Isilme Vanariel.md",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/RylaiPFPCrop.jpg",
@@ -363,7 +375,6 @@
     "Attachments/hextml/game icons net/stone-tower.png",
     "Attachments/hextml/game icons net/peaks.png",
     "Attachments/hextml/game icons net/village.png",
-    "Attachments/hextml/game icons net/castle.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
