@@ -9,7 +9,7 @@
 - [[Kanan Einzbern]] doing [[Vessel of Avarice]] stuff
 
 # Leviathan Axe
-- [[Duergar Sunblight Stronghold]] Dungeon
+- [[Sunblight Stronghold]] Dungeon
 
 
 # Vessel of Avarice

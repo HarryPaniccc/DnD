@@ -2,6 +2,15 @@
 tags:
   - PC
 ---
+>[!infobox|right lp wsm-med]
+> ![[Pasted image 20260126170022.png|300]]
+># Character Information
+>| | |
+>| - | - |
+>|Class| Echo Knight Fighter|
+>|Race| Half Elf (Dhampir)|
+
+
 # Intro
 Isilme Vanariel is a half-elf echo knight fighter and a member of the [[Vanguard]].
 

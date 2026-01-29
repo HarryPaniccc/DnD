@@ -129,7 +129,7 @@ Something certainly happens in [[Ralia]].
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 
 The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled.
-##### [[Duergar Sunblight Stronghold]]
+##### [[Sunblight Stronghold]]
 White dragon lair has what he needs.
 
 ### Defences and Staff of [[Trayfort Keep]]

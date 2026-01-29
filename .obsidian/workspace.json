@@ -83,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duergar Sunblight Stronghold.md",
+                "file": "Sunblight Stronghold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duergar Sunblight Stronghold"
+              "title": "Sunblight Stronghold"
+            }
+          },
+          {
+            "id": "9de7c36705f91567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Adult White Dragon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adult White Dragon"
             }
           }
         ],
@@ -226,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+                "file": "Sunblight Stronghold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - Downtime"
+              "title": "Outline of Sunblight Stronghold"
             }
           },
           {
@@ -249,7 +263,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
@@ -327,10 +342,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0b6a92f621642cae",
+  "active": "f8a1b136e54311f8",
   "lastOpenFiles": [
-    "Duergar Sunblight Stronghold.md",
     "World of Helodaria/Ulfric Straven.md",
+    "Statblocks/Adult White Dragon.md",
+    "Sunblight Stronghold.md",
+    "World of Helodaria/Faults of North Estravia.md",
+    "World of Helodaria/Nalaziegel.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Attachments/Pasted image 20260126170022.png",
+    "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Lucius.md",
     "Statblocks/Human Mercenary.md",
     "Statblocks/Kronesguard Ranger.md",
@@ -341,8 +364,6 @@
     "Statblocks/Roc.md",
     "Attachments/Pasted image 20260125223436.png",
     "World of Helodaria/Trayfort Keep.md",
-    "World of Helodaria/Dularen.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
@@ -351,11 +372,6 @@
     "World of Helodaria/Caede.md",
     "World of Helodaria/Temple of Elemental Evil.md",
     "World of Helodaria/Elemental Plane of Air.md",
-    "World of Helodaria/Steinwalde.md",
-    "Pricing and Crafting.md",
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
-    "Statblocks/Adult White Dragon.md",
-    "World of Helodaria/Gaz the Branded.md",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
     "Attachments/Worldographer/Sirkonos-autosave.wxx",
     "Attachments/Worldographer/Sirkonos.wxx",
@@ -374,7 +390,6 @@
     "Attachments/hextml/game icons net/hill-fort.png",
     "Attachments/hextml/game icons net/stone-tower.png",
     "Attachments/hextml/game icons net/peaks.png",
-    "Attachments/hextml/game icons net/village.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
