@@ -6,4 +6,4 @@ Ulrandir Vanariel is [[Isilme Vanariel]]'s grandfather, and cast out from the [[
 
 Son of [[Uldrinea]]
 
-As of **Antumbrahn 28th, 813 PF**, Ulrandir or his simulacrum are being held below the [[Hall of Verdicts]] in [[Dularen]]
+As of **Antumbrahn 28th, 813 PF**, Ulrandir or his simulacrum are being held below the [[Court of Verdicts]] in [[Dularen]]

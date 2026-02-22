@@ -34,7 +34,7 @@ tags:
 - They attack a Duergar watchtower in trying to pass through them
 - (30th) Rylai, Isilme and Dusk, having recruited [[Maurice the Flameskull|Kran]] and [[Ophelia the Sylph]], return to and pay the mercenaries for their troubles.
 - (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
-- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]].
+- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]].
 
 **Week 7 (Dulussahn 7th)**
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later

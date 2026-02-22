@@ -37,6 +37,7 @@ The Outer-City fields is the name of the region south of the city. The richest o
 
 - [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. It is within an hour's ride from the city.
 - [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (3 hour normal travel). 
+- 
 ## Silver-Strewn Quarter
 The Silver-Sewn Quarter is a walled-off, central part of the City, and it is where the prominent nobles and richer houses live, other than those who choose to live outside in the Outer-City fields. The District is well guarded and gated off, with a garrison of guards dedicated entirely to the watching of its walls.
 

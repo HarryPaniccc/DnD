@@ -3,7 +3,7 @@
 - The vanguard is in the **ransacked armory** in [[Kenifria]]
 - They have spent 4 hours adventuring through the [[Ethfalian Caverns]] and Kenifria
 
-**SKYE is finishing the conjuring of a teleportation circle to the [[Hall of Verdicts]] in Dularen**
+**SKYE is finishing the conjuring of a teleportation circle to the [[Court of Verdicts]] in Dularen**
 
 > It is widely regarded as taboo to draw power from blood magic. As you trace your sigils on the ground, absolute quiet in you're head, Skye, despite the violent ending of the battle surrounding you, you feel this murky warmth fading into your touch, as your sigilcraft becomes melded with the blood of your fallen ally.
 > 

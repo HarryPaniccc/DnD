@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Uldronos Council"
+              "title": "Backlinks for Trayfort Keep"
             }
           },
           {
@@ -213,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Trayfort Keep"
             }
           },
           {
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sunblight Stronghold.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sunblight Stronghold"
+              "title": "Outline of Trayfort Keep"
             }
           },
           {
@@ -342,15 +342,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f8a1b136e54311f8",
+  "active": "4859a2c24bd1b882",
   "lastOpenFiles": [
+    "World of Helodaria/Dularen.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Court of Verdicts.md",
+    "Hall of Verdicts.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Sunblight Stronghold.md",
     "World of Helodaria/Ulfric Straven.md",
     "Statblocks/Adult White Dragon.md",
-    "Sunblight Stronghold.md",
     "World of Helodaria/Faults of North Estravia.md",
     "World of Helodaria/Nalaziegel.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Dularen.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Attachments/Pasted image 20260126170022.png",
     "World of Helodaria/Kanan Einzbern.md",
@@ -363,15 +367,11 @@
     "Statblocks/Suc(In)cubus Willbreaker.md",
     "Statblocks/Roc.md",
     "Attachments/Pasted image 20260125223436.png",
-    "World of Helodaria/Trayfort Keep.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Ophelia the Sylph.md",
     "World of Helodaria/Caede.md",
-    "World of Helodaria/Temple of Elemental Evil.md",
-    "World of Helodaria/Elemental Plane of Air.md",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
     "Attachments/Worldographer/Sirkonos-autosave.wxx",
     "Attachments/Worldographer/Sirkonos.wxx",

@@ -42,6 +42,16 @@ Guards = 15gp per month or 5sp per day
 Cooks = 15gp per month or 5sp per day
 Staff = 6gp per month or 2sp per day
 
+| Station         | Daily Wage | Number in Station | Monthly Cost (30 day month) |
+| --------------- | ---------- | ----------------- | --------------------------- |
+| Ulfric, Steward |            | 1                 | 180 gp                      |
+| Guards (Normal) | 5sp        | 10                | 150 gp                      |
+| Cooks           | 5sp        | 2                 | 30 gp                       |
+| Staff           | 2sp        | 6                 | 36 gp                       |
+| TOTAL           |            |                   |                             |
+
+
+
 # [[Strongholds and Followers Notes|Strongholds and Followers]] mechanics
 ### Carpenter's Shop (1st Level)
 With a carpenter's shop, the following are decreased by 10% per level of the carpenter's shop: cost and time of upgrading your stronghold, and cost to build and upkeep siege engines.
