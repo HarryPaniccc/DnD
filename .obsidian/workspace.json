@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+                "file": "World of Helodaria/Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10 - A New Ally (hit level 6)"
+              "title": "Castle Sungrand"
             }
           },
           {
@@ -117,8 +117,7 @@
               "title": "Red Hand of Doom"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 12 - The Clock Strikes Twelve.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 12 - The Clock Strikes Twelve"
+              "title": "Outline of Eclipse Campaign Journal"
             }
           },
           {
@@ -275,7 +274,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
@@ -325,13 +325,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5d0566214f940cfa",
+  "active": "974533f0d4f50feb",
   "lastOpenFiles": [
+    "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
+    "World of Helodaria/Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Nethendell Valley Map Notes.md",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
     "Session Notes/Eclipse/Helodaria Player Handout.md",
-    "Nethendell Valley Map Notes.md",
     "Attachments/Red Hand of Doom.pdf",
     "World of Helodaria/Dragons of Helodaria.md",
     "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
@@ -340,8 +344,6 @@
     "Session Notes/Eclipse/Session 6 - Ambushes in the Dark.md",
     "Session Notes/Eclipse/Session 5 - Into the Mines.md",
     "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
     "World of Helodaria/Nethendell.md",
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Zitrumea.md",
@@ -353,7 +355,6 @@
     "Dungeon of Castle Sungrand.md",
     "World of Helodaria/Trayfort Keep.md",
     "World of Helodaria/Dularen.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Attachments/Pasted image 20260126170022.png",
     "Attachments/Pasted image 20260125223436.png",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
