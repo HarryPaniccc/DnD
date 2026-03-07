@@ -1,7 +1,7 @@
 **Previous Session:** [[Session 12 - The Clock Strikes Twelve]]
 **Subsequent Session:** [[Session 14 -]]
 ## Post Mortem
----
+
 
 ## Introduction
 > "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.

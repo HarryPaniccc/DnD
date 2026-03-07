@@ -29,7 +29,6 @@
 - Meet the refugees
 
 # Travel to the Mines
----
 ### Encounter: Ghouls
 - 11 x Ghouls (MM25)
 ### Refugee Corpses
@@ -42,7 +41,6 @@ You count a family of 6, plus two more who appear to be unrelated. Cut down and 
 ### Encounter: Specters in the night if I feel like it (5 max) REMEMBER they need to make it to the mine this session.
 
 # Refugee Camp
----
 The entrance is guarded by two well-armed men allied with [[General Den'rael]], overseeing valunteer guards on shifts. Not soldiers, these men are standing watch as a necessity.
 ### Bug's Nest
 - There are nests of Ankhegs in the mines.

@@ -2,6 +2,8 @@
 tags:
   - Core
 ---
+Useful links:
+- [[Nethendell Valley Map Notes]]
 # Planning
 Organ
 ### Items
@@ -31,6 +33,7 @@ Organ
 - [[Ring of Jumping]]
 - [[Leather Armor of the Eclipse]]
 - [[Boots of the Resolute]]
+
 ### Jana's Ideas
 - Cute talking animal (baby lamb) becomes part of group at some point it sacrifices itself (masculine urge last stand, gruesome death) (Respawnable lamb): The murderer did it not out of hunger, but malice
 - Small pond (unassuming from outside) if someone goes in its deep as hell and it leads to stuff on the sides. Little dudes/magical light. Vertical water fight. Something sireny
@@ -45,17 +48,20 @@ Organ
 # Player Characters
 ### Tristyn - [[Cened]]
 
-### Tim - [[Rosmary (and Thyme)]]
 ### Francois - [[Togwae]] (Helf Druid)
-### Ryan - [[Ignis]]
-### Rob - [[Ealendar]]
-### Reid - [[Douglas Dier]] (Human wizard)
-### Khavish - [[Parcival Grimbourne]] (Blue Dragonborn Cleric)
-- [[Heathcliff Grimbourne]], Squire is a blue dragonborn related no him
-- [[Alfred Pickleworth]], gnome servant and "Butt-ler"
-- [[Tom 'Tomato' De'cuare]], human groom
+
+### Rob - [[Ealendar]] (Horc Paladin)
 
 ### Si Teng - [[Swift]] (Wood Elf Mercy Monk)
+
+### Previous Characters
+- Tim - [[Rosmary (and Thyme)]]
+- Reid - [[Douglas Dier]] (Human wizard)
+- Khavish - [[Parcival Grimbourne]] (Blue Dragonborn Cleric)
+	- [[Heathcliff Grimbourne]], Squire is a blue dragonborn related no him
+	- [[Alfred Pickleworth]], gnome servant and "Butt-ler"
+	- [[Tom 'Tomato' De'cuare]], human groom
+- Ryan - [[Ignis]] (Tiefling Bard)
 
 # Plot Summary
 The town of [[Nethendell]] sits on the southern side of the pass that separates the northern [[Zitrumea]] regions from the central. Living in the shadow of the [[Tower of Yierdur]], the people of Nethendell have lived a peaceful life. The town is built above an ancient temple to [[Sehanine]].

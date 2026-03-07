@@ -1,7 +1,6 @@
 **Previous Session:** [[Session 11 - Castle Sungrand]]
 **Subsequent Session:** [[Session 13 - ]]
 ## Post Mortem
----
 **Vanadrahs 16th**
 - The [[Borderlands Inn]] is attacked, and a large amount of patrons and staff are slaughtered, including [[Esme Stumpstride]].
 - [[Lord Margit Tormon]] has the party stay within guest rooms in the keep of [[Castle Sungrand]].

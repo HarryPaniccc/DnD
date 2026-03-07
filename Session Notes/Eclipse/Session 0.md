@@ -22,7 +22,7 @@ Player vs DM
 
 - I am not your enemy
 - DMs are players too
-- We are all in the car, I just choose the music
+- We are all in the same car, I just choose the music
 
 Notes: This leads on to a dangerous misconception that I wanted to adress before we get playing. The DM is not your enemy, Im not an opponent to be beaten. Believe me, if I wanted to kill your characters, it would be unfathomably easy. But it wouldn't be fun. Or rewarding. Im here to help you tell a good story. I won't try to kill you, but Vecna, the lich god of secrets? He will try. Its my job to make his attempt entertaining.
 

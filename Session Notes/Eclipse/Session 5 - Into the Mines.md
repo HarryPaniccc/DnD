@@ -25,7 +25,6 @@
 - [[Parcival Grimbourne]]'s retinue finds him
 
 # Refugee Camp
----
 The entrance is guarded by two well-armed men allied with [[General Den'rael]], overseeing valunteer guards on shifts. Not soldiers, these men are standing watch as a necessity.
 
 ### [[Parcival Grimbourne|Parcival's]] Retinue

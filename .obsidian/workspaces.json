@@ -3378,9 +3378,37 @@
                   "icon": "lucide-file",
                   "title": "Ulfric Straven"
                 }
+              },
+              {
+                "id": "f8a1b136e54311f8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sunblight Stronghold.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Sunblight Stronghold"
+                }
+              },
+              {
+                "id": "9de7c36705f91567",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Statblocks/Adult White Dragon.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Adult White Dragon"
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -3412,7 +3440,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "castle",
+                    "query": "tag:#Dungeon  ",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -3433,13 +3461,11 @@
                   "title": "Bookmarks"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 280.50418853759766,
-        "collapsed": true
+        "width": 280.50418853759766
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3448,7 +3474,7 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 49.1421568627451,
+            "dimension": 63.74999999999999,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -3470,7 +3496,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Uldronos Council.md",
+                    "file": "World of Helodaria/Trayfort Keep.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -3480,7 +3506,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Uldronos Council"
+                  "title": "Backlinks for Trayfort Keep"
                 }
               },
               {
@@ -3489,12 +3515,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "World of Helodaria/Uldronos Council.md",
+                    "file": "World of Helodaria/Trayfort Keep.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Uldronos Council"
+                  "title": "Outgoing links from Trayfort Keep"
                 }
               },
               {
@@ -3516,13 +3542,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session Notes/Vanguard/Vanguard Arc 6 - Downtime.md",
+                    "file": "World of Helodaria/Trayfort Keep.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Vanguard Arc 6 - Downtime"
+                  "title": "Outline of Trayfort Keep"
                 }
               },
               {
@@ -3539,12 +3565,13 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
             "type": "tabs",
-            "dimension": 50.857843137254896,
+            "dimension": 36.25,
             "children": [
               {
                 "id": "bf82f9f28d38c15b",
@@ -3608,7 +3635,6 @@
       "left-ribbon": {
         "hiddenItems": {
           "bases:Create new base": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -3618,8 +3644,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "85104b17518aa359",
-      "mtime": "2026-01-06T10:27:17+02:00"
+      "active": "4859a2c24bd1b882",
+      "mtime": "2026-03-07T10:00:39+02:00"
     },
     "Rylai Downtime": {
       "main": {
@@ -3971,7 +3997,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 12 - The Clock Strikes Twelve.md",
+                    "file": "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
                     "mode": "source",
                     "source": false
                   },
@@ -3985,7 +4011,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 13 -.md",
+                    "file": "Session Notes/Eclipse/Session 13 -.md",
                     "mode": "source",
                     "source": false
                   },
@@ -4238,12 +4264,11 @@
           "daily-notes:Open today's daily note": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false,
-          "obsidian-5e-statblocks:Open Creature pane": false
+          "workspaces:Manage workspace layouts": false
         }
       },
       "active": "4c98c4069889e366",
-      "mtime": "2025-11-20T13:05:51+02:00"
+      "mtime": "2026-03-07T10:01:04+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -4944,5 +4969,5 @@
       "mtime": "2026-01-17T18:15:57+02:00"
     }
   },
-  "active": "Caede Downtime"
+  "active": "Eclipse"
 }
