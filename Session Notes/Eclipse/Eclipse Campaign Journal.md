@@ -54,6 +54,10 @@ Organ
 
 ### Si Teng - [[Swift]] (Wood Elf Mercy Monk)
 
+### Sarah - [[Unnamed Sarah Character]]
+
+### Charles - [[Unnamed Charles Character]]
+
 ### Previous Characters
 - Tim - [[Rosmary (and Thyme)]]
 - Reid - [[Douglas Dier]] (Human wizard)

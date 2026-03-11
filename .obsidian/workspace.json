@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "764bf7f102cce3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnamed Charles Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnamed Charles Character"
+            }
+          },
+          {
+            "id": "c3c33d22082af7e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unnamed Sarah Character.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unnamed Sarah Character"
+            }
+          },
+          {
             "id": "5d0566214f940cfa",
             "type": "leaf",
             "state": {
@@ -41,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Helodaria Player Handout.md",
+                "file": "Session Notes/Eclipse/Eclipse Player Handout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helodaria Player Handout"
+              "title": "Eclipse Player Handout"
+            }
+          },
+          {
+            "id": "31212340890cd3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Great Houses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Houses"
             }
           },
           {
@@ -117,7 +159,57 @@
               "title": "Red Hand of Doom"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d176f29153a06ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1fb6f43579aa32",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
+                "title": "Quick Reference - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Quick Reference - 5etools"
+            }
+          },
+          {
+            "id": "acc446d1a215fa24",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:ishideoutline=b1",
+                "title": "Ranger - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ranger - 5etools"
+            }
+          },
+          {
+            "id": "6a1f271af5b452ee",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/races.html#dwarf_phb",
+                "title": "Dwarf - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Dwarf - 5etools"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +266,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -251,13 +344,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Unnamed Sarah Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eclipse Campaign Journal"
+              "title": "Outline of Unnamed Sarah Character"
             }
           },
           {
@@ -311,7 +404,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -325,18 +419,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "974533f0d4f50feb",
+  "active": "c3c33d22082af7e6",
   "lastOpenFiles": [
+    "Unnamed Charles Character.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Unnamed Sarah Character.md",
+    "Attachments/Red Hand of Doom.pdf",
+    "House Kiranos.md",
+    "World of Helodaria/Togwae.md",
+    "Session Notes/Eclipse/Eclipse Player Handout.md",
+    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
+    "Nethendell Valley Map Notes.md",
+    "Convocation of the Talisman.md",
+    "World of Helodaria/Tira Stone.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "World of Helodaria/Great Houses.md",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
     "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
-    "Nethendell Valley Map Notes.md",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Helodaria Player Handout.md",
-    "Attachments/Red Hand of Doom.pdf",
     "World of Helodaria/Dragons of Helodaria.md",
     "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
     "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
@@ -347,14 +449,7 @@
     "World of Helodaria/Nethendell.md",
     "World of Helodaria/Zitrumean Empire.md",
     "World of Helodaria/Zitrumea.md",
-    "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
     "Junk 1.md",
-    "General Notes and Ideas.md",
-    "Session Notes/Eclipse/Session 0.md",
-    "Session Notes/Eclipse/Session 13 -.md",
-    "Dungeon of Castle Sungrand.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "World of Helodaria/Dularen.md",
     "Attachments/Pasted image 20260126170022.png",
     "Attachments/Pasted image 20260125223436.png",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
@@ -367,7 +462,6 @@
     "Attachments/RylaiPFPCrop.jpg",
     "Attachments/Worldographer/Ruina-autosave.wxx",
     "Attachments/Worldographer/Ruina.wxx",
-    "Attachments/Worldographer",
     "Attachments/Pasted image 20260118163629.png",
     "Attachments/hextml/game icons net/black square.png",
     "Attachments/hextml/game icons net/hill-fort.png",
