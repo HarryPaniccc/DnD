@@ -34,17 +34,6 @@ Organ
 - [[Leather Armor of the Eclipse]]
 - [[Boots of the Resolute]]
 
-### Jana's Ideas
-- Cute talking animal (baby lamb) becomes part of group at some point it sacrifices itself (masculine urge last stand, gruesome death) (Respawnable lamb): The murderer did it not out of hunger, but malice
-- Small pond (unassuming from outside) if someone goes in its deep as hell and it leads to stuff on the sides. Little dudes/magical light. Vertical water fight. Something sireny
-- Exclaimed "Ooh" At gibbering mouther
-- Disappearing cathedral(?)
-- Magic sword that makes the cut curl up/warp what it is cutting
-
-### Si Teng's Ideas
-- Ki Rin pair (chinese mythology gate guardians that bless and cure curses)
-- Cleaver (slows on hit, heavy af)
-
 # Player Characters
 ### Tristyn - [[Cened]]
 

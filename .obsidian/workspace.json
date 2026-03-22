@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "8251815e2aea9a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nethendell Valley Map Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nethendell Valley Map Notes"
+            }
+          },
+          {
             "id": "d5a4c7dec38ffd5a",
             "type": "leaf",
             "state": {
@@ -131,7 +145,8 @@
               "title": "Pricing and Crafting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da764f8cfebf1c31",
@@ -145,7 +160,7 @@
               "state": {
                 "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
                 "title": "+1 Ammunition - 5etools",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "+1 Ammunition - 5etools"
@@ -178,9 +193,19 @@
               "icon": "lucide-file",
               "title": "Pricing and Crafting"
             }
+          },
+          {
+            "id": "a8fc172ea8cbb15b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -389,17 +414,24 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "acf3c725e5ecc46e",
+  "active": "a8fc172ea8cbb15b",
   "lastOpenFiles": [
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
+    "General Notes and Ideas.md",
+    "Nethendell Valley Map Notes.md",
+    "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
     "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session Notes/Eclipse/Session 13 -.md",
     "World of Helodaria/House Ralenroth.md",
     "World of Helodaria/Great Houses.md",
-    "Session Notes/Eclipse/Session 13 -.md",
     "World of Helodaria/Castle Sungrand.md",
     "Pricing and Crafting.md",
     "World of Helodaria/Helodarian Firearms.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
     "Dungeon of Castle Sungrand.md",
     "World of Helodaria/Steinwalde.md",
     "Melgron the Smith.md",
@@ -411,15 +443,7 @@
     "World of Helodaria/Togwae.md",
     "Session Notes/Eclipse/Eclipse Player Handout.md",
     "Session Notes/Eclipse/Session 1 - Stirring in the Darkness.md",
-    "Nethendell Valley Map Notes.md",
     "Convocation of the Talisman.md",
-    "World of Helodaria/Tira Stone.md",
-    "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
-    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
-    "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
-    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
     "Attachments/Pasted image 20260126170022.png",
     "Attachments/Pasted image 20260125223436.png",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
