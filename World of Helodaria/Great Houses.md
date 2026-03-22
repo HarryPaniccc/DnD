@@ -6,7 +6,7 @@ tags:
 - [[House Zitrum]], the emperial royalty
 - [[House Kiranos]], the dragonborn dynasty closest to Zitrum, living around the fjord that leads to [[Baylan's Rest]].
 	- [[House Grimborne]] is a lesser house beneath Kiranos
-- [[House Ralenroth]]
+- [[House Ralenroth]], Stark house equivalent
 - [[House Kimberlan]] (Maybe change)
 - 
 - Need at least 5 other than Zitrum

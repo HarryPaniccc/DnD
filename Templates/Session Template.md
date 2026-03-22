@@ -4,8 +4,6 @@
 
 
 ## Introduction
-> "This is the legend of the Vanguard" or some kind of blurb. MAYBE do sequential lyrics to the sun the moon the stars or something.
-> 
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
 
 ## Recap

@@ -1,11 +1,12 @@
 ---
 tags:
   - Rules
+aliases:
+  - Magic Item Pricing
 ---
 # Bounties
 I need to track how much money monsters are worth.
 - Young red dragon had a bounty of 6000 gp in [[Steinwalde]]
-
 
 # Crafting
 Crafting and item by DMG rules and Xanathars takes incredibly long. The sell price of an item is roughly double that of the crafting cost. The crafting time in the DMG gives 25gp per day increment, which is ridiculously slow. *The idea is to quarter or eighth the crafting time.*
@@ -50,6 +51,8 @@ Calculate based on rarity, amount of uses, half modifier for single-use items, a
 
 | Name                               | Rarity    | Value (Gp) | Notes or Components                                                                                                               |
 | ---------------------------------- | --------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| [[+1 Arrows]]                      | Uncommon  | 25 each    | Sane magical item pricing makes this reasonable.                                                                                  |
+| [[Flame Arrows]]                   |           |            |                                                                                                                                   |
 | [[+2 Dragon Scale Leather Armor]]  | Very Rare | 10 000     | Made using the scales of an adult dragon. Other variants are doable. Value of scales is a lot though, so crafting cost is 3000 gp |
 | [[Bag of Holding]]                 | Uncommon  | 400        |                                                                                                                                   |
 | [[Bloodwell Vial]] +1              | Uncommon  | 300        | Bought by Woed for personal use                                                                                                   |

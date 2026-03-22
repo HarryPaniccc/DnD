@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "974533f0d4f50feb",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,73 +22,17 @@
             }
           },
           {
-            "id": "764bf7f102cce3b5",
+            "id": "d5a4c7dec38ffd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Charles Character.md",
+                "file": "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unnamed Charles Character"
-            }
-          },
-          {
-            "id": "c3c33d22082af7e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unnamed Sarah Character.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unnamed Sarah Character"
-            }
-          },
-          {
-            "id": "5d0566214f940cfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nethendell Valley Map Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
-            }
-          },
-          {
-            "id": "25685d0a01d13bf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Eclipse/Eclipse Player Handout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eclipse Player Handout"
-            }
-          },
-          {
-            "id": "31212340890cd3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Great Houses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Great Houses"
+              "title": "Session 11 - Castle Sungrand"
             }
           },
           {
@@ -97,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
+                "file": "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Sungrand"
+              "title": "Session 12 - The Clock Strikes Twelve"
             }
           },
           {
@@ -120,6 +64,20 @@
             }
           },
           {
+            "id": "2e21cc4aa9a67160",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Castle Sungrand.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Castle Sungrand"
+            }
+          },
+          {
             "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
@@ -134,20 +92,6 @@
             }
           },
           {
-            "id": "39a1207e74aca9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castle Sungrand"
-            }
-          },
-          {
             "id": "ddf34ada6d3af480",
             "type": "leaf",
             "state": {
@@ -158,54 +102,81 @@
               "icon": "lucide-file-text",
               "title": "Red Hand of Doom"
             }
+          },
+          {
+            "id": "1b58fca3d64ea556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Session Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Template"
+            }
+          },
+          {
+            "id": "c54545dfdf88db6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing and Crafting.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pricing and Crafting"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "d176f29153a06ef0",
+        "id": "da764f8cfebf1c31",
         "type": "tabs",
         "children": [
           {
-            "id": "2e1fb6f43579aa32",
+            "id": "fcc7aa709e415a66",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                "title": "Quick Reference - 5etools",
-                "mode": "webview"
+                "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
+                "title": "+1 Ammunition - 5etools",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Quick Reference - 5etools"
+              "title": "+1 Ammunition - 5etools"
             }
           },
           {
-            "id": "acc446d1a215fa24",
+            "id": "acf3c725e5ecc46e",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#ranger_phb,state:ishideoutline=b1",
-                "title": "Classes - 5etools",
+                "url": "https://2014.5e.tools/spells.html#flame%20arrows_xge",
+                "title": "Flame Arrows - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Classes - 5etools"
+              "title": "Flame Arrows - 5etools"
             }
           },
           {
-            "id": "6a1f271af5b452ee",
+            "id": "3001c4ba6406b7b4",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://2014.5e.tools/races.html#dwarf_phb",
-                "title": "Dwarf - 5etools",
-                "mode": "webview"
+                "file": "Pricing and Crafting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Dwarf - 5etools"
+              "icon": "lucide-file",
+              "title": "Pricing and Crafting"
             }
           }
         ],
@@ -266,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
+    "width": 227.5,
     "collapsed": true
   },
   "right": {
@@ -344,13 +315,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unnamed Sarah Character.md",
+                "file": "Session 12 - The Clock Strikes Twelve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unnamed Sarah Character"
+              "title": "Outline of Session 12 - The Clock Strikes Twelve"
             }
           },
           {
@@ -367,8 +338,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -419,10 +389,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c3c33d22082af7e6",
+  "active": "acf3c725e5ecc46e",
   "lastOpenFiles": [
-    "Unnamed Charles Character.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "World of Helodaria/House Ralenroth.md",
+    "World of Helodaria/Great Houses.md",
+    "Session Notes/Eclipse/Session 13 -.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/Helodarian Firearms.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "Dungeon of Castle Sungrand.md",
+    "World of Helodaria/Steinwalde.md",
+    "Melgron the Smith.md",
+    "Templates/Session Template.md",
+    "Unnamed Charles Character.md",
     "Unnamed Sarah Character.md",
     "Attachments/Red Hand of Doom.pdf",
     "House Kiranos.md",
@@ -432,24 +414,12 @@
     "Nethendell Valley Map Notes.md",
     "Convocation of the Talisman.md",
     "World of Helodaria/Tira Stone.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
-    "World of Helodaria/Great Houses.md",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
-    "World of Helodaria/Castle Sungrand.md",
     "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
     "World of Helodaria/Dragons of Helodaria.md",
     "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
     "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
-    "Session Notes/Eclipse/Session 7 - A Den of Chitin.md",
-    "Session Notes/Eclipse/Session 6 - Ambushes in the Dark.md",
-    "Session Notes/Eclipse/Session 5 - Into the Mines.md",
-    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
-    "World of Helodaria/Nethendell.md",
-    "World of Helodaria/Zitrumean Empire.md",
-    "World of Helodaria/Zitrumea.md",
-    "Junk 1.md",
     "Attachments/Pasted image 20260126170022.png",
     "Attachments/Pasted image 20260125223436.png",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",

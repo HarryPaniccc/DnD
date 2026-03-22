@@ -6,7 +6,7 @@ tags:
 ># Steinwalde
 >![[Pasted image 20260104191726.png]]
 ># General Information
->| | |
+>| | |a
 >| - | - |
 >| Population| < 30 000|
 
