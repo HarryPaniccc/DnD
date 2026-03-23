@@ -3992,6 +3992,34 @@
                 }
               },
               {
+                "id": "8251815e2aea9a57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Nethendell Valley Map Notes.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Nethendell Valley Map Notes"
+                }
+              },
+              {
+                "id": "d5a4c7dec38ffd5a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Session 9 - Vraath Keep"
+                }
+              },
+              {
                 "id": "4ffd6c1018f8ed29",
                 "type": "leaf",
                 "state": {
@@ -4020,6 +4048,20 @@
                 }
               },
               {
+                "id": "2e21cc4aa9a67160",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Castle Sungrand.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Castle Sungrand"
+                }
+              },
+              {
                 "id": "c5fed135f8b54827",
                 "type": "leaf",
                 "state": {
@@ -4031,20 +4073,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Dungeon of Castle Sungrand"
-                }
-              },
-              {
-                "id": "39a1207e74aca9b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Castle Sungrand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Castle Sungrand"
                 }
               },
               {
@@ -4060,7 +4088,66 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
+          },
+          {
+            "id": "da764f8cfebf1c31",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fcc7aa709e415a66",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
+                    "title": "+1 Ammunition - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "+1 Ammunition - 5etools"
+                }
+              },
+              {
+                "id": "acf3c725e5ecc46e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/spells.html#flame%20arrows_xge",
+                    "title": "Flame Arrows - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Flame Arrows - 5etools"
+                }
+              },
+              {
+                "id": "3001c4ba6406b7b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pricing and Crafting.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pricing and Crafting"
+                }
+              },
+              {
+                "id": "a8fc172ea8cbb15b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -4117,7 +4204,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 227.5
+        "width": 227.5,
+        "collapsed": true
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4253,7 +4341,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 293.5
+        "width": 293.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4267,8 +4356,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4c98c4069889e366",
-      "mtime": "2026-03-07T10:01:04+02:00"
+      "active": "8251815e2aea9a57",
+      "mtime": "2026-03-23T14:59:46+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -5143,25 +5232,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                    "title": "Character Creation - Quick Reference - 5etools",
+                    "title": "Quick Reference - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Character Creation - Quick Reference - 5etools"
-                }
-              },
-              {
-                "id": "acc446d1a215fa24",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/classes.html#ranger_phb,state:ishideoutline=b1",
-                    "title": "Ranger - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Ranger - 5etools"
+                  "title": "Quick Reference - 5etools"
                 }
               },
               {
@@ -5170,15 +5245,44 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/races.html#dwarf_phb",
-                    "title": "Dwarf - 5etools",
+                    "url": "https://2014.5e.tools/races.html#dragonborn_phb",
+                    "title": "Dragonborn - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Dwarf - 5etools"
+                  "title": "Dragonborn - 5etools"
+                }
+              },
+              {
+                "id": "acc446d1a215fa24",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/classes.html#barbarian_phb,state:ishideoutline=b1~sub_zealot_xge=b1",
+                    "title": "Barbarian - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Barbarian - 5etools"
+                }
+              },
+              {
+                "id": "15a08b095a748e2d",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/backgrounds.html#guild%20artisan_phb",
+                    "title": "Guild Artisan - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Guild Artisan - 5etools"
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -5389,7 +5493,7 @@
         }
       },
       "active": "764bf7f102cce3b5",
-      "mtime": "2026-03-21T16:09:32+02:00"
+      "mtime": "2026-03-23T15:45:58+02:00"
     }
   },
   "active": "Eclipse"

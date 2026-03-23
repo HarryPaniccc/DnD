@@ -113,7 +113,7 @@ Deep in the forest lay the ruins of an elven town. Beautifully wrought stone sta
 **Thick Forest**
 [[Vraath Keep]] stits atop a hill in this forested hex. Pathways criss cross surrounding the keep, from which you can see [[Castle Sungrand]] clearly in the fields beyond [[Arden's Vale]].
 
-#### 12 08 | Soldier's Camp
+#### 12 11 | Soldier's Camp
 **Forest**
 Near the entrance to the forest in this region sits a soldier's camp, a guard base for [[Castle Sungrand]] soldiers. A large number of tents, supplies, and maps are laid out. From here, rangings into the forest to resist the invasion are sent out.
 
