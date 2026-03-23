@@ -78,7 +78,7 @@ Now with Nethendell under seige, the survivors fled to a forgotten mine in a mou
 # Act 2 - The Enemy Revealed
 Having made it to [[Castle Sungrand]], the party must convince [[Lord Margit Tormon]] to send aide to [[Tira Stone]] and the refugees from [[Nethendell]]. They will uncover the treachery of [[Canon Valaris]] and learn of that the factions at play are more dangerous than they could have hoped for.
 
-Sungrand becomes a base of operations. They will need to mount expiditions and reclaim territory, or to find the elven conclave base.
+Sungrand becomes a base of operations. They will need to mount expiditions and reclaim territory, or to find the elven conclave base. The [[Goldrend Bandits]] become an issue too.
 ### Sessions
 Presented in reverse chronological order
 - [[Session 13 -]]
