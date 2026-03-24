@@ -45,7 +45,7 @@ Organ
 
 ### Sarah - [[Unnamed Sarah Character]]
 
-### Charles - [[Unnamed Charles Character]]
+### Charles - [[Unnamed Charles Dragonborn Barbarian]]
 
 ### Previous Characters
 - Tim - [[Rosmary (and Thyme)]]

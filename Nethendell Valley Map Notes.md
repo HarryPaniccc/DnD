@@ -19,8 +19,8 @@ Steps to determining the encounter
 | -------------------- | ---------------- | ---------------- | --------- | ---------------- | ---------- |
 | Column Shift, Reroll | 1                | 1                | 1         | 1                | -          |
 | No Encounter         | 2 - 11           | 2 - 11           | 2 - 11    | 2 - 10           | 1 - 7      |
-| Civilised Encounter  | 12 -19           | 11 - 17          | 11 - 14   | 11 - 14          | 8 - 10     |
-| Monster Encounter    | 20               | 18               | 15 - 17   | 15 - 17          | 11 - 18    |
+| Civilised Encounter  | 12 -19           | 11 - 17          | 11 - 14   | 11 - 14          | -          |
+| Monster Encounter    | 20               | 18               | 15 - 17   | 15 - 17          | 8 - 18     |
 | Dangerous Terrain    | -                | 19               | 18 - 19   | 18               | 19         |
 | Valuable Terrain     | -                | 20               | 20        | 19               | 10         |
 | Unique Terrain       | -                |                  |           | 20               | 20         |
@@ -28,24 +28,49 @@ Steps to determining the encounter
 ## Civilised Encounters
 Civilised encounters are unlikely to be dependent on the terrain type. The nature of the encounter will be determined by where they are encountered, but otherwise it makes sense to only have one table. The encounter can be with any of the organized groups of the area.
 
-
+| (1D6) | Civilised Encounter |
+| ----- | ------------------- |
+| 1     | Patrolling Regiment |
+| 2     | Refugees            |
+| 3     | Adventurers         |
+| 4     | High Elves          |
+| 5     | Conflict            |
+| 6     | Prisoner Transport  |
+|       |                     |
 ## Monster Encounters
 Roaming monsters often are dependent on the region they inhabit. Members of the [[Khalar'hok]] are monsters, but bands of them are also 'civilised'. These tables will contain monsters unaligned with the war in addition to the Khalarok forces.
 ### Grassland Encounters
+
+| (1D6) | Grassland Monster Encounters |
+| ----- | ---------------------------- |
+| 1     | Hobgoblin Regiment           |
+| 2     | Marauding Gnolls             |
+| 3     | Bulette                      |
+| 4     | Giant Wolf Spider Nest       |
+| 5     | Ankhegs                      |
+| 6     | Undead                       |
+| 7     | [[Goldrend Bandits]] Slavers |
+| 8     | Chimera                      |
+
 ### Forest Encounters
-| (Dn) | Monster Encounter                     |
-| ---- | ------------------------------------- |
-| 1    | Hobgoblin Rangers and a Worg          |
-| 2    | Orc Marauders                         |
-| 3    | Ogres                                 |
-| 4    | Bugbear Ambushers                     |
-| 5    |                                       |
-|      | [[Breathtaker]] \| Young Green Dragon |
+| (1D6) | Forest Monster Encounter              |
+| ----- | ------------------------------------- |
+| 1     | Hobgoblin Rangers and a Worg          |
+| 2     | Orc Marauders                         |
+| 3     | Ogres                                 |
+| 4     | Bugbear Ambushers                     |
+| 5     | Wolves                                |
+| 6     | [[Breathtaker]] \| Young Green Dragon |
 ### Deep Forest Encounters
+
+| (1D6) |              |
+| ----- | ------------ |
+| 1     | Will o Wisps |
+| 2     |              |
+| 3     |              |
+
 ### Hill Encounters
 ### Mountain Encounters
-
-
 
 
 
@@ -90,8 +115,17 @@ Locations that wind up being boons to the players.
 
 **Ore**: Jutting from a ravine, a rocky outcrop, the side of a road, or a river, there is a natural ore of some kind that can either be mined now (like a singular gem) or returned to for future profits.
 
- 
+**Ruin**: A destroyed location of somekind, whether that be a windmill, a farmhouse, an old bastion, or an inn. The structure has been abandoned by its original owners, and has changed hands a number of times. It may act as shelter, and might contain hidden valuables or someone already present.
 
+**Safe Haven**:
+
+**Shortcut**:
+
+**Useful Herbs:**
+
+**Vista:**
+
+**Double:** ???
 ## Unique Terrains
 Not sure how unique I should go, maybe a list of terrains that are fun and can go anywhere? Reroll for now
 

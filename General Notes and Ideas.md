@@ -16,6 +16,8 @@ tags:
 ### Miniatures
 - [x] Stone Arches
 - [ ] Cages x 2
+- [ ] Zombies
+- [ ] Gnolls
 - [ ] Sewer grate  
 - [ ] Human Knaves
 - [ ] Kobolds
