@@ -12,7 +12,6 @@ Steps to determining the encounter
 2. Roll on the associated table for a specific terrain type to determine what encounter you will get.
 3. Roll on any subsequent tables to determine the nature of the encounter.
 
-
 ## Wilderness Encounter by Territory Classification
 
 | (1D20)               | Protected + Road | Contested + Road | Contested | Enemy Controlled | Wilderness |
