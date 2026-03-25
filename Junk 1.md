@@ -2,6 +2,19 @@
 tags:
 ---
 
+
+Stuff for Map making (vimmed)
+HEX KEY:
+1 hex = 6 miles
+Grassland
+Forest
+Dense Forest
+Hills
+Mountains
+Fen
+
+
+
 >[!infobox|wfull]
 ># Sylphmade Cloak
 > ***Wondrous Item (Cloak), Very Rare, Requires Attunement***
