@@ -35,7 +35,6 @@ Civilised encounters are unlikely to be dependent on the terrain type. The natur
 | 4     | High Elves          |
 | 5     | Conflict            |
 | 6     | Prisoner Transport  |
-|       |                     |
 ## Monster Encounters
 Roaming monsters often are dependent on the region they inhabit. Members of the [[Khalar'hok]] are monsters, but bands of them are also 'civilised'. These tables will contain monsters unaligned with the war in addition to the Khalarok forces.
 ### Grassland Encounters

@@ -2,7 +2,6 @@
 **Subsequent Session:** [[Session 12 - The Clock Strikes Twelve]]
 
 ## Post Mortem
----
 **Vanadrahs 15th**
 - Met with a patrol and healed a group of soldiers. Togwae made friends with a dwarf after healing his head wound
 - Swift checked the surrounds
@@ -65,10 +64,7 @@ The walls of the castle stand some 15 feet tall at most places, with an inner ba
 The inner walls are taller, as the outer appears to have been erected to surround the homes in recent years. The inner keep is impressive and entirely stone, with a steel portcullis that can fall over large wooden doors. The small size of the fortress makes it clear to anyone that it is very defensible, especially given the mounted soldiers and those running formation.
 
 # Spies Within the Walls
----
 [[Canon Valaris]] is acting as an advisor to [[Lord Margit Tormon|Margit Tormon]]'s army
 
 ##### **ENCOUNTER**: Wraith assasins - 3 X Wraiths in the night
 The wraiths are [[Kalir Windguard]] and her followers. She still wears her [[Ring of Protection +1]], making her harder to slay. The wraiths will attack at midnight.
-
-

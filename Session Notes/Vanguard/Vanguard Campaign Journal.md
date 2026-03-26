@@ -6,17 +6,26 @@ aliases:
 ---
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc? Links to the [[Vanguard]].
 # Active Plot Points/Quests/Things to Remember
+## Status Tracker
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
 - Teleportation Helm: [[Kanan Einzbern]]
+## Active Threads and Goals
 - [[Isilme Vanariel]]'s Dhampirism consequences
+- [[Ulrandir Vanariel]] has not been executed. Why?
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
-- Retrieve Silb's [[Dwarven Plate]] (Banahras 17th) - quest for the ransacked village
+- Follow up with [[Darius Nubide]] following [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
+- Retrieve Silb's [[Dwarven Plate]] (Banahras 17th)
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
+	- Acquire the required materials and hunt an [[Adult White Dragon]]
 - Repair [[Lathran's Staff]]
+- Kanan must head the [[Battalion of the Silver Arrow]]
+- Something fishy is happening around [[Rokbaur Castle]] and [[Lord Malgus Kraber]]
+## Threads to Introduce
+
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]
 Things begin to take root. The heart beats once again.
