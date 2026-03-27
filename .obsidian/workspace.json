@@ -106,12 +106,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#rogue_phb,state:ishideoutline=b1~sub_phantom_tce=b1",
-                "title": "Rogue - 5etools",
+                "url": "https://2014.5e.tools/adventure.html#idrotf",
+                "title": "Welcome to the Far North - Icewind Dale: Rime of the Frostmaiden - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Rogue - 5etools"
+              "title": "Welcome to the Far North - Icewind Dale: Rime of the Frostmaiden - 5etools"
             }
           },
           {
@@ -383,15 +383,16 @@
   "lastOpenFiles": [
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Nethendell Valley Map Notes.md",
-    "Dungeon of Castle Sungrand.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/The Raven Queen.md",
     "World of Helodaria/Deities of Helodaria.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session 14 -.md",
     "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Dungeon of Castle Sungrand.md",
     "Blackhand Tower.md",
     "World of Helodaria/Castle Sungrand.md",
     "Pallax.md",
-    "Pricing and Crafting.md",
     "Flame Arrows.md",
     "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
     "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
@@ -407,7 +408,6 @@
     "Ferro.md",
     "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
     "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
-    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
