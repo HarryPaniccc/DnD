@@ -165,6 +165,10 @@ Castle = fortification
 #### 09 14 | Blackhand Tower
 Visible from two hexes away, [[Blackhand Tower]] is another decrepit structure of stone that has been occupied by the [[Goldrend Bandits]]. They operate their slaving operation from this location. It is well defended.
 
+#### 10 07 | Orc Logger Camp
+**Forest**
+A large group of orcs have been tasked with felling logs from the forest in this region for the [[Khalar'hok]]'s construction projects. Black smoke rises from this area. 
+
 #### 10 10 | Breathtaker's Lair
 **Thick Forested Hills**
 This region is coated in a thick fog. This is the main hunting ground of the young green [[Dragons of Helodaria|Dragon]] [[Breathtaker]]. His lair is a decrepit elven mausoleum for the dead who fought in this area during [[The Fall]]. Breathtaker hunts in the valleys where water has pooled from the hills in wide rivers.
@@ -183,3 +187,6 @@ The blighted grove of the druid master [[Bayaz]] and his acolytes, now under con
 **Forest**
 Near the entrance to the forest in this region sits a soldier's camp, a guard base for [[Castle Sungrand]] soldiers. A large number of tents, supplies, and maps are laid out. From here, rangings into the forest to resist the invasion are sent out.
 
+#### 15 07 | Sorcerer Ruins
+**Mountain**
+Hidden in the face of this mountain is a meeting ground for the conclave of sorcerers from the [[Cult of the Dragon]].
