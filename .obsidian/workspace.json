@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+                "file": "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9 - Vraath Keep"
+              "title": "Session 3 - Fleeing the City (hit level 5)"
             }
           },
           {
@@ -98,11 +98,25 @@
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Castle Sungrand"
+            }
+          },
+          {
+            "id": "3001c4ba6406b7b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing and Crafting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pricing and Crafting"
             }
           },
           {
@@ -132,78 +146,8 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "da764f8cfebf1c31",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcc7aa709e415a66",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
-                "title": "+1 Ammunition - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "+1 Ammunition - 5etools"
-            }
-          },
-          {
-            "id": "acf3c725e5ecc46e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/spells.html#flame%20arrows_xge",
-                "title": "Flame Arrows - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Flame Arrows - 5etools"
-            }
-          },
-          {
-            "id": "3001c4ba6406b7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing and Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pricing and Crafting"
-            }
-          },
-          {
-            "id": "a8fc172ea8cbb15b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ad0d2bcc4c712b4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Nethendell Valley Export 1 A1"
-            }
-          }
-        ],
-        "currentTab": 4
+        "currentTab": 7,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -338,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Pricing and Crafting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nethendell Valley Map Notes"
+              "title": "Outline of Pricing and Crafting"
             }
           },
           {
@@ -398,8 +342,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -413,16 +356,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8251815e2aea9a57",
+  "active": "3001c4ba6406b7b4",
   "lastOpenFiles": [
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "Session Notes/Eclipse/Session 13 -.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Pricing and Crafting.md",
     "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "Dungeon of Castle Sungrand.md",
+    "Attachments/Red Hand of Doom.pdf",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Nethendell Valley Map Notes.md",
+    "Unnamed Charles Dragonborn Barbarian.md",
+    "World of Helodaria/Elizabeth Curte.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
+    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
+    "Session Notes/Eclipse/Session 5 - Into the Mines.md",
+    "Session Notes/Eclipse/Session 6 - Ambushes in the Dark.md",
+    "Session Notes/Eclipse/Session 7 - A Den of Chitin.md",
+    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Session Notes/Eclipse/Session 13 -.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Dularen.md",
@@ -431,18 +385,7 @@
     "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
     "Session Notes/Vanguard/Session 67 - Through the Labyrinth.md",
     "General Notes and Ideas.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Sunblight Stronghold.md",
-    "Session Notes/Vanguard/Session 90 - Dragonfire.md",
-    "Session Notes/Vanguard/Session 91 - Steinwalde.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Pricing and Crafting.md",
-    "Unnamed Sarah Character.md",
-    "Unnamed Charles Dragonborn Barbarian.md",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
-    "Unnamed Charles Character.md",
-    "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
     "Attachments/Pasted image 20260126170022.png",
     "Attachments/Pasted image 20260125223436.png",
@@ -455,7 +398,6 @@
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/RylaiPFPCrop.jpg",
     "Attachments/Worldographer/Ruina-autosave.wxx",
-    "Attachments/Worldographer/Ruina.wxx",
     "Attachments/Pasted image 20260118163629.png",
     "Attachments/hextml/game icons net/black square.png",
     "Attachments/hextml/game icons net/hill-fort.png",

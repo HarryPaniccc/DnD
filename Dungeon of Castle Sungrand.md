@@ -9,7 +9,6 @@ Beneath [[Castle Sungrand]], connected to both the dungeons below the keep of th
 - Entrance in the keep dungeon
 - Entrance behind a cracked wall at the temple
 # Level 1
----
 ### Entry Hall
 The first of the entrances to the dungeon is below the keep of castle sungrand. Down a dark staircase, on either side is a drop into a deep pit, there sits a door that is locked and barred from the outside.
 - Hallway with **iron grate** on the floor leading to aquaduct on level 2
@@ -19,3 +18,4 @@ The first of the entrances to the dungeon is below the keep of castle sungrand. 
 >Test
 
 ### Torture Chambers
+Still a part of the larger prison above, the torture chamber is where Canon is holding a hostage that he has disguised as a [[Khalar'hok]].
