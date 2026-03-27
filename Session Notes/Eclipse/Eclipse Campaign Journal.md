@@ -6,7 +6,16 @@ Useful links:
 - [[Nethendell Valley Map Notes]]
 # Planning
 Organ
-### Items
+## Threads
+- [[Gothrend Grinda]] has disappeared in a hurry after meeting [[Kalir Windguard]], who also disappeared.
+- [[Canon Valaris]] has a prisoner in the dungeon below [[Castle Sungrand]]
+- The [[Goldrend Bandits]] slavers held up in [[Blackhand Tower]]
+- Vraath Keep is now undefended
+#### TODO
+- Barrows of fallen [[House Ralenroth]]
+- [[Cult of the Dragon]] sorcerers activity (guy in the dungeon)
+- 
+## Items
 **Awarded**
 - [[Portable Hole]]
 - [[Wastehunter]]
@@ -15,6 +24,8 @@ Organ
 - [[Chime of Opening]]
 - [[Dagger of Acid]] (Prejudice)
 - [[Thread of Deceit]]
+- [[Ring of Protection +1]]
+- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 **Soon to be Awarded**
 - 
 **Unawarded**
@@ -25,8 +36,6 @@ Organ
 - [[Dual Shortswords]]
 - [[Armour of Sehanine]] (mistcloak invisibility thing)
 - [[Jewel of Sehanine or somesuch shit]]
-- [[Ring of Protection +1]]
-- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 - [[Scrying Eye]]
 - [[Blood Spear]] (CoS item)
 - [[Instrument of the Bards]]
@@ -43,9 +52,9 @@ Organ
 
 ### Si Teng - [[Swift]] (Wood Elf Mercy Monk)
 
-### Sarah - [[Unnamed Sarah Character]]
+### Sarah - [[Ferro]]
 
-### Charles - [[Unnamed Charles Dragonborn Barbarian]]
+### Charles - [[Pallax]]
 
 ### Previous Characters
 - Tim - [[Rosmary (and Thyme)]]
@@ -81,7 +90,7 @@ Having made it to [[Castle Sungrand]], the party must convince [[Lord Margit Tor
 Sungrand becomes a base of operations. They will need to mount expiditions and reclaim territory, or to find the elven conclave base. The [[Goldrend Bandits]] become an issue too.
 ### Sessions
 Presented in reverse chronological order
-- [[Session 13 -]]
+- [[Session 13 - Suspicion Sows its Seeds]]
 - [[Session 12 - The Clock Strikes Twelve]]
 
 

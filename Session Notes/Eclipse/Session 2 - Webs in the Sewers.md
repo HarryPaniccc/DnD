@@ -24,7 +24,6 @@ End the fight from last session. Depending on who joins, throw them into one of 
 - [[Douglas Dier]] needs to be included
 
 # Prison Cistern
----
 > The chamber ahead is lit with a warm torchlight, moving swiftly, probably many torches carried by different creatures. The room is divided into two levels: An open level on the ground with various doors facing inwards on either side. At the back a pair of two stairways lead to the same raised platform which wraps around one end overlooking the center. A small river of sewer water flows form a grate at the back of the top level, down as a waterfall and into a collection at the bottom level, before flowing into a grate on the floor. 
 
 In a room with a raised platform with rows of prison doors on either side, at the center a grate of sewerage flows through which leads to a passageway out of town.

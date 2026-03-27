@@ -3976,6 +3976,7 @@
           {
             "id": "6eff3c0b43ee9101",
             "type": "tabs",
+            "dimension": 54.22535211267606,
             "children": [
               {
                 "id": "25685d0a01d13bf7",
@@ -3992,45 +3993,17 @@
                 }
               },
               {
-                "id": "8251815e2aea9a57",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Nethendell Valley Map Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Nethendell Valley Map Notes"
-                }
-              },
-              {
-                "id": "d5a4c7dec38ffd5a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 9 - Vraath Keep"
-                }
-              },
-              {
                 "id": "4ffd6c1018f8ed29",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+                    "file": "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 12 - The Clock Strikes Twelve"
+                  "title": "Session 11 - Castle Sungrand"
                 }
               },
               {
@@ -4048,7 +4021,7 @@
                 }
               },
               {
-                "id": "2e21cc4aa9a67160",
+                "id": "4da08dbd4a5cacce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -4059,6 +4032,18 @@
                   },
                   "icon": "lucide-file",
                   "title": "Castle Sungrand"
+                }
+              },
+              {
+                "id": "8e413d660a8e5c60",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Attachments/Pasted image 20251101122230.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20251101122230"
                 }
               },
               {
@@ -4074,80 +4059,72 @@
                   "icon": "lucide-file",
                   "title": "Dungeon of Castle Sungrand"
                 }
-              },
-              {
-                "id": "ddf34ada6d3af480",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Attachments/Red Hand of Doom.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Red Hand of Doom"
-                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 5
           },
           {
-            "id": "da764f8cfebf1c31",
+            "id": "b18234b4126352c0",
             "type": "tabs",
+            "dimension": 45.774647887323944,
             "children": [
               {
-                "id": "fcc7aa709e415a66",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/items.html#%2b1%20ammunition_dmg",
-                    "title": "+1 Ammunition - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "+1 Ammunition - 5etools"
-                }
-              },
-              {
-                "id": "acf3c725e5ecc46e",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/spells.html#flame%20arrows_xge",
-                    "title": "Flame Arrows - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Flame Arrows - 5etools"
-                }
-              },
-              {
-                "id": "3001c4ba6406b7b4",
+                "id": "8251815e2aea9a57",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Pricing and Crafting.md",
+                    "file": "Nethendell Valley Map Notes.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Pricing and Crafting"
+                  "title": "Nethendell Valley Map Notes"
                 }
               },
               {
-                "id": "a8fc172ea8cbb15b",
+                "id": "e0f42a9e678e0b1e",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/classes.html#druid_phb,state:ishideoutline=b1",
+                    "title": "Druid - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Druid - 5etools"
+                }
+              },
+              {
+                "id": "eef4a496481cf954",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Deities of Helodaria.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deities of Helodaria"
+                }
+              },
+              {
+                "id": "f754cf26ab278e18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/The Raven Queen.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The Raven Queen"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical"
@@ -4282,13 +4259,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Session 12 - The Clock Strikes Twelve.md",
+                    "file": "Dungeon of Castle Sungrand.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Session 12 - The Clock Strikes Twelve"
+                  "title": "Outline of Dungeon of Castle Sungrand"
                 }
               },
               {
@@ -4305,7 +4282,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           },
           {
             "id": "92400877833113eb",
@@ -4341,8 +4319,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 293.5,
-        "collapsed": true
+        "width": 286.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4356,8 +4333,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8251815e2aea9a57",
-      "mtime": "2026-03-26T00:40:00+02:00"
+      "active": "c5fed135f8b54827",
+      "mtime": "2026-03-27T15:05:47+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -5056,444 +5033,6 @@
       },
       "active": "cc07f8f6989593ae",
       "mtime": "2026-01-17T18:15:57+02:00"
-    },
-    "Sarah + Charles Onboarding": {
-      "main": {
-        "id": "e3ca7fd74647b9f6",
-        "type": "split",
-        "children": [
-          {
-            "id": "6eff3c0b43ee9101",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "974533f0d4f50feb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Eclipse Campaign Journal"
-                }
-              },
-              {
-                "id": "764bf7f102cce3b5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unnamed Charles Character.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unnamed Charles Character"
-                }
-              },
-              {
-                "id": "c3c33d22082af7e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Unnamed Sarah Character.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Unnamed Sarah Character"
-                }
-              },
-              {
-                "id": "5d0566214f940cfa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Nethendell Valley Map Notes.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Nethendell Valley Map Notes"
-                }
-              },
-              {
-                "id": "25685d0a01d13bf7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Eclipse Player Handout.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Eclipse Player Handout"
-                }
-              },
-              {
-                "id": "31212340890cd3c7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Great Houses.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Great Houses"
-                }
-              },
-              {
-                "id": "4ffd6c1018f8ed29",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Castle Sungrand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Castle Sungrand"
-                }
-              },
-              {
-                "id": "4c98c4069889e366",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 13 -.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 13 -"
-                }
-              },
-              {
-                "id": "c5fed135f8b54827",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dungeon of Castle Sungrand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Dungeon of Castle Sungrand"
-                }
-              },
-              {
-                "id": "39a1207e74aca9b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Castle Sungrand.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Castle Sungrand"
-                }
-              },
-              {
-                "id": "ddf34ada6d3af480",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Attachments/Red Hand of Doom.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Red Hand of Doom"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "d176f29153a06ef0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2e1fb6f43579aa32",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/quickreference.html#bookref-quick,0,step-by-step%20characters",
-                    "title": "Quick Reference - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Quick Reference - 5etools"
-                }
-              },
-              {
-                "id": "6a1f271af5b452ee",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/races.html#dragonborn_phb",
-                    "title": "Dragonborn - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Dragonborn - 5etools"
-                }
-              },
-              {
-                "id": "acc446d1a215fa24",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/classes.html#barbarian_phb,state:ishideoutline=b1~sub_zealot_xge=b1",
-                    "title": "Barbarian - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Barbarian - 5etools"
-                }
-              },
-              {
-                "id": "15a08b095a748e2d",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/backgrounds.html#guild%20artisan_phb",
-                    "title": "Guild Artisan - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Guild Artisan - 5etools"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "d7ebda78c129d618",
-        "type": "split",
-        "children": [
-          {
-            "id": "8ca0f1d486588d8e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3b2a6831c271b3d7",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "Files"
-                }
-              },
-              {
-                "id": "ee81b9515bf62e4a",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "Search"
-                }
-              },
-              {
-                "id": "60144437ebeeb8fa",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "Bookmarks"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 333.5,
-        "collapsed": true
-      },
-      "right": {
-        "id": "ea35a9a317969db7",
-        "type": "split",
-        "children": [
-          {
-            "id": "5ece3774c37e9648",
-            "type": "tabs",
-            "dimension": 62.21153846153846,
-            "children": [
-              {
-                "id": "4cb96e6d4287e8a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "General Notes and Ideas.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "General Notes and Ideas"
-                }
-              },
-              {
-                "id": "b3c79ccde858898a",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
-                }
-              },
-              {
-                "id": "e26a69bedfa5e5f1",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from Eclipse Campaign Journal"
-                }
-              },
-              {
-                "id": "dfa8baabc6155b2d",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  },
-                  "icon": "lucide-tags",
-                  "title": "Tags"
-                }
-              },
-              {
-                "id": "f913bfe3e075c876",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Unnamed Sarah Character.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline of Unnamed Sarah Character"
-                }
-              },
-              {
-                "id": "c21e89a76f4631bf",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "dimension": 37.78846153846154,
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Guidelines"
-                }
-              },
-              {
-                "id": "c68b5dcf4c07320d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 293.5,
-        "collapsed": true
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "bases:Create new base": false,
-          "switcher:Open quick switcher": false,
-          "graph:Open graph view": false,
-          "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
-          "templates:Insert template": false,
-          "command-palette:Open command palette": false,
-          "workspaces:Manage workspace layouts": false
-        }
-      },
-      "active": "764bf7f102cce3b5",
-      "mtime": "2026-03-23T15:45:58+02:00"
     }
   },
   "active": "Eclipse"

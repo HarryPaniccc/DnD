@@ -11,7 +11,7 @@
 - They meet with [[Lord Margit Tormon|Margit Tormon]] and [[Canon Valaris]], they say they cannot aide the refugees, but Margit has second thoughts
 - They do a lot of trading/shopping, buying drinks for a large contingent of soldiers in the [[Borderlands Inn]]. They rent 4 of the rooms between the 7 of them
 - Cened meets with [[Belle the Acolyte]] and arranges to investigate the missing cleric's room
-- As midnight arrives, the group is attacked in the inn
+- As midnight arrives, the group is attacked in the inn.
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
 - Having almost completely traversed through the forest of [[Arden's Vale]], our group of heroes now finds themselves camping for what should be their final night at the edge of the woods before making their approach to their destination: [[Castle Sungrand]]

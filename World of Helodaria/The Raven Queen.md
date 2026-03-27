@@ -6,7 +6,6 @@ tags:
 
 The Raven Queen is one of the deities in the pantheon of the [[Founding Gods]]. She is the God of death and Fate, her domain encompasses those whose lives are ending or have come to an end, and she is the patron to those who would seek to destroy undead creatures.
 # Details
----
 Residing in the [[Fortress of Memories]] within the [[Shadowfell]], the Raven Queen tends to and protects the souls of the departed. She collects other, interesting things that represent personality, such as memories, things that bring her once-shattered mind comfort. She holds dominion over souls and death, and is worshipped by those who have lost someone or wish for serenity that comes with less attachment. Her association with death and the conclusion of life often leads people to have a stigma against her.
 
 Her [[Fortress of Memories]] is a place of solemnness, containing countless memories that have been taken into her care. She believes that souls should be cared for after death, and that as your life ends you should be given the rest that you deserve. Her goals are to collect essence and memories of these souls, also collecting other trinkets from throughout the multiverse, all of them held and carefully tended to by her ravens. This is not to gain power, but is rather an almost childish fascination, and desire to protect and care for them.
@@ -26,13 +25,11 @@ During the Fall, a powerful Elven Sorceress Queen, in an attempt to unite the ho
 ### [[Orcus]]
 The Raven Queen despises undeath. Because of this, she is a fierce enemy of Orcus. He desires to wrest control of her domain in the [[Shadowfell]].
 # Tenets and Teachings
----
 >[!Tenets]
 > - The natural progression of all life is death the soul to peacefully move on. To hold on to your soul unnaturally is perverse and evil.
 > - Undeath is a plague on this world. Destroy these malformations so that their souls may find peace, should they deserve it.
 > - Love those nearing the end of their lives. Do not be sorrowful, for their soul will be tended to in its transition from life.
 # Worship
----
 ## Symbols
 Her symbol is a raven's head in profile.
 ## Places of Worship

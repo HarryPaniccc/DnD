@@ -162,14 +162,18 @@ Triangle = special interest location
 Cross/X = dungeon
 Castle = fortification
 
-#### 09 14 | Blackhand Fortress
-Visible from two hexes away, [[Blackhand Fortress]] is another decrepit structure of stone that has been occupied by the [[Goldrend Bandits]]. They operate their slaving operation from this location. It is well defended.
+#### 09 14 | Blackhand Tower
+Visible from two hexes away, [[Blackhand Tower]] is another decrepit structure of stone that has been occupied by the [[Goldrend Bandits]]. They operate their slaving operation from this location. It is well defended.
 
-#### 11 10 | Breathtaker's Lair
-**Thick Forest**
-This region is coated in a thick fog. This is the main hunting ground of the young green [[Dragons of Helodaria|Dragon]] [[Breathtaker]]. His lair is a decrepit druid's grove that has been built on the elven mausoleum for the dead who fought in this area during [[The Fall]].
+#### 10 10 | Breathtaker's Lair
+**Thick Forested Hills**
+This region is coated in a thick fog. This is the main hunting ground of the young green [[Dragons of Helodaria|Dragon]] [[Breathtaker]]. His lair is a decrepit elven mausoleum for the dead who fought in this area during [[The Fall]]. Breathtaker hunts in the valleys where water has pooled from the hills in wide rivers.
 
 Deep in the forest lay the ruins of an elven town. Beautifully wrought stone statues, centred around a courtyard act as the centrepiece of the now overgrown ruins. Here, the corpses of some of the [[Breathtaker]]'s victims have been left to stew.
+
+#### 11 10 | Blighted Grove
+**Thick Forest**
+The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces
 
 #### 11 12 | Vraath Keep
 **Thick Forest**

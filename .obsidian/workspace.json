@@ -6,6 +6,7 @@
       {
         "id": "6eff3c0b43ee9101",
         "type": "tabs",
+        "dimension": 49.60629921259843,
         "children": [
           {
             "id": "25685d0a01d13bf7",
@@ -22,59 +23,31 @@
             }
           },
           {
-            "id": "8251815e2aea9a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nethendell Valley Map Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
-            }
-          },
-          {
-            "id": "d5a4c7dec38ffd5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 3 - Fleeing the City (hit level 5)"
-            }
-          },
-          {
-            "id": "4ffd6c1018f8ed29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11 - Castle Sungrand"
-            }
-          },
-          {
             "id": "4c98c4069889e366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 13 -.md",
+                "file": "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13 -"
+              "title": "Session 13 - Suspicion Sows its Seeds"
+            }
+          },
+          {
+            "id": "671a32e02c955620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 14 -.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 14 -"
             }
           },
           {
@@ -92,34 +65,6 @@
             }
           },
           {
-            "id": "2e21cc4aa9a67160",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castle Sungrand"
-            }
-          },
-          {
-            "id": "3001c4ba6406b7b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing and Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pricing and Crafting"
-            }
-          },
-          {
             "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
@@ -134,20 +79,97 @@
             }
           },
           {
-            "id": "ddf34ada6d3af480",
+            "id": "8251815e2aea9a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nethendell Valley Map Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nethendell Valley Map Notes"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "b18234b4126352c0",
+        "type": "tabs",
+        "dimension": 50.39370078740157,
+        "children": [
+          {
+            "id": "e0f42a9e678e0b1e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/classes.html#rogue_phb,state:ishideoutline=b1~sub_phantom_tce=b1",
+                "title": "Rogue - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Rogue - 5etools"
+            }
+          },
+          {
+            "id": "eef4a496481cf954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deities of Helodaria"
+            }
+          },
+          {
+            "id": "f754cf26ab278e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/The Raven Queen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Raven Queen"
+            }
+          },
+          {
+            "id": "855ffa8f84d2430d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pricing and Crafting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pricing and Crafting"
+            }
+          },
+          {
+            "id": "c039babc81b71b46",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Attachments/Red Hand of Doom.pdf"
+                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Red Hand of Doom"
+              "title": "Nethendell Valley Export 1 A1"
             }
           }
         ],
-        "currentTab": 7,
-        "stacked": true
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,13 +304,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pricing and Crafting.md",
+                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pricing and Crafting"
+              "title": "Outline of Nethendell Valley Export 1 A1"
             }
           },
           {
@@ -342,7 +364,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,35 +379,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3001c4ba6406b7b4",
+  "active": "c039babc81b71b46",
   "lastOpenFiles": [
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "Pricing and Crafting.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Dungeon of Castle Sungrand.md",
-    "Attachments/Red Hand of Doom.pdf",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Nethendell Valley Map Notes.md",
-    "Unnamed Charles Dragonborn Barbarian.md",
-    "World of Helodaria/Elizabeth Curte.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 3 - Fleeing the City (hit level 5).md",
-    "Session Notes/Eclipse/Session 4 - Corpses and Refugees.md",
-    "Session Notes/Eclipse/Session 5 - Into the Mines.md",
-    "Session Notes/Eclipse/Session 6 - Ambushes in the Dark.md",
-    "Session Notes/Eclipse/Session 7 - A Den of Chitin.md",
-    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
-    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
-    "Session Notes/Eclipse/Session 13 -.md",
+    "Dungeon of Castle Sungrand.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "Session 14 -.md",
+    "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Blackhand Tower.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Pallax.md",
+    "Pricing and Crafting.md",
+    "Flame Arrows.md",
     "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Dularen.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Attachments/Pasted image 20251101122230.png",
     "Statblocks/Adult White Dragon.md",
-    "World of Helodaria/Sirkonos.md",
-    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
-    "Session Notes/Vanguard/Session 67 - Through the Labyrinth.md",
-    "General Notes and Ideas.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Timeline.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Primordials.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Ferro.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Session Notes/Eclipse/Session 8 - Trembling Earth.md",
+    "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
     "Attachments/Pasted image 20260126170022.png",
@@ -402,7 +426,6 @@
     "Attachments/hextml/game icons net/black square.png",
     "Attachments/hextml/game icons net/hill-fort.png",
     "Attachments/hextml/game icons net/stone-tower.png",
-    "Attachments/hextml/game icons net/peaks.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

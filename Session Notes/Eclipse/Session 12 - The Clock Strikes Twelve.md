@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 11 - Castle Sungrand]]
-**Subsequent Session:** [[Session 13 - ]]
+**Subsequent Session:** [[Session 13 - Suspicion Sows its Seeds]]
 ## Post Mortem
 **Vanadrahs 16th**
 - The [[Borderlands Inn]] is attacked, and a large amount of patrons and staff are slaughtered, including [[Esme Stumpstride]].

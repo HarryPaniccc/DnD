@@ -6,8 +6,10 @@ tags:
 The deities of [[Helodaria]] are extremely powerful entities, worshipped by large temples or cults. The most powerful and oldest of these beings are the [[Founding Gods]]. These deities were the first beings to find their way to Helodaria, ending the [[History of Helodaria#The Eternity of Before|Eternity of Before]], and enforcing order over the collapsing elemental chaos. Younger Gods found their way among the pantheons of Helodaria. Godly children of the Founding Gods took hold of their respective domains, and demigods ascended and fell over history.
 
 Near the end of [[The Fall]], the Gods of Helodaria that were yet to be sealed away or banished from the [[Material Plane]] imposed upon themselves an exile, in which their true forms were not able to return to the Materium for the safety of the celestial order. The gods now reside in their homes, and prisons, in the outer planes, and other locations in the [[Multiverse]].
+
 # The [[Founding Gods]]
 The Founding Gods are divided into two categories: The [[Creation Gods]], Gods of good and of life that sided with the beings of the material and of creation during the wars of [[The Fall]], and the [[Destroyer Gods]], Gods of evil, of destruction and selfishness, of torture and violence, who bare no care for beings other than themselves and their direct followers - and even then their followers are usually replaceable to them.
+
 ## The [[Creation Gods]]
 | Name                                  | Portfolio                          | Symbol                                      | Domains                       |
 | ------------------------------------- | ---------------------------------- | ------------------------------------------- | ----------------------------- |
@@ -57,7 +59,6 @@ The Primordials are ancient forces of nature and the universe. Some say they exi
 - [[Cyric]], prince of the dark sun
 - 
 # Lesser Idols and Deities
----
 ## Archdevils
 Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
 ## Demon Lords
@@ -67,7 +68,8 @@ Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. Th
 - [[Athelstan]], the Bloodfey
 ## Celestials
 - [[Aerondite]], Saint of the Dawn
-### Details
+### Details (Old)
+
 | Name                       | Deity of                                    | Symbol                                                                               | Domains          |
 | -------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- |
 | Asmodeus, Ninth Imprisoned | Evil, Hunger for Power, Manipulation,       | Horned Crown                                                                         | Trickery         |

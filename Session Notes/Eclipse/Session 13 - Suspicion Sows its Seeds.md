@@ -1,10 +1,20 @@
 **Previous Session:** [[Session 12 - The Clock Strikes Twelve]]
 **Subsequent Session:** [[Session 14 -]]
 ## Post Mortem
-
+**Vanadrahs 17th**
+- The group speak with [[Canon Valaris]] and try and organize a meeting with [[Lord Margit Tormon]]. They agree to have breakfast with him
+- [[Ealendar]] notices [[Ferro]] paying respects to the fallen of the massacre at the [[Borderlands Inn]].
+- The group meet Margit for breakfast, ask him about his health, and confront Ferro
+- She agrees to follow them
+- The group decide to follow the thread and speak with [[Belle the Acolyte]], meeting [[Pallax]]
+- Investigating [[Gothrend Grinda]]'s office, they find he left in a hurry, and that he disappeared after speaking with [[Kalir Windguard]].
+- They investigate below the chapel with the [[Ilmater]] worship chamber, and the tomb of [[Saint Windguard]].
+- [[Ealendar]] gets the feeling of someone being held hostage in the castle, and the group reasons it must be [[Canon Valaris]]' bugbear prisoner or someone related in the dungeon
+- [[Togwae]] and [[Ferro]] look around and discover the entrance to the [[Dungeon of Castle Sungrand]]
+- The group decides to go investigating the goblinoids that have been held hostage, noting the Sorcerer and ogre that are imprisoned in the dungeon.
 
 ## Recap
-**Much has happened** these past months, too much to tell now, but here is what is most important.
+**Much has happened** this past week, too much to tell now, but here is what is most important.
 - Our group of unlikely heroes managed to fight their way out of the besieged city of [[Nethendell]], through the forest known as [[Arden's Vale]], defeat the monsters holding [[Vraath Keep]], and eventually make their way to the last bastion in the Nethendell Valley, [[Castle Sungrand]].
 - They set down a few roots in the keep, seeing to their gear and lodgings, as well as buying drinks for a large contingent of soldiers, and eventually met with the lord of the fortress, [[Lord Margit Tormon|Margit Tormon]] and his military advisor, a paladin by the name of [[Canon Valaris]].
 - Their request to aid the refugees, however, was denied. Advice from Canon prevents the defensive perimeter around the castle from expanding, so for the time being, the party continued seeing to their gear. 
@@ -25,14 +35,13 @@
 - How to lead them below the castle?
 - At some point water becomes an issue?
 
-
 # Points of Interest
 - Explore the missing cleric's chambers
 - Maybe below the church is an entry to the dungeons
 - Maybe there is a prisoner that is being "interrogated" by Canon
 - [[Lord Margit Tormon|Margit Tormon]] said he would have something for them
 - Armour collected in the morning
-- Magical fire arrows?
+- Magical fire arrows? [[Flame Arrows]] (dont need a card)
 
 # Party Withdrawls
 ## [[Parcival Grimbourne]]
@@ -41,8 +50,23 @@ Is happy to stick around this chapel and heal as best he can.
 ## [[Douglas Dier]]
 Couldn't handle the wraith thing. That was fucked up. Sticking to the books, this castle seems safe.
 
-# [[Gothrend Grinda]]'s Study
+## [[Ignis]]
+He was inclined to stay put seeing as everyone keeps wanting to commit themselves to fighting bugs all of the time.
+
+# New Additions
+## [[Ferro]] 
+- Ardee has been following the party since they found the dead bodies that night in hex 11 10.
+
+
+## [[Pallax]]
+- 
+
+# [[Gothrend Grinda]]
+### Study
 Within the chapel there exists the personal chambers of the head cleric of the order, [[Gothrend Grinda]]. He did not expect to leave, as most of his equipment is unpacked, yet his armour and weapons are gone. [[Belle the Acolyte]] will be willing to show the chapel's office space, as well as the basement shrine to [[Saint Windguard]] where Gothrend spends his time in prayer.
+### 
+
+
 
 # The Prisoner
 
