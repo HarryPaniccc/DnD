@@ -25,8 +25,10 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - [[Gothrend Grinda]] - Head cleric at the chapel of [[Ilmater]] and friend to [[Kalir Windguard]]
 - [[Kalir Windguard]] - Fighter hero of castle sungrand. She went missing some time before the attack of [[Pallidmoore]].
 # Locations
+
 ### Inner Keep
 - **Meeting Chamber**. The dark, spacious, stone room where [[Lord Margit Tormon]] holds his councils and assemblies. The chamber is supported by four thick pillars and exists after an antechamber into the keep itself. The ceiling is around 10ft tall so the room does not sacrifice efficiency for grandiosity.
+
 ### Central Wall
 - **Smithy and Armorer** - At the entrance to the keep sits a two storied structure with a forge at the bottom that is backed up with repairing weapons. Master smith **half orc** [[Melgron the Smith]] has taken on half a dozen apprentices along with his usual labourers to make up for the additional work. 
 	  *Services*: Not much magical work can be done, but they have seen a few in their day. Masterworked weapons can be repaired or appraised.
@@ -38,7 +40,7 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 		- 5 Greater healing potions (125 Gp)
 		- [[Potion of Hill Giant Strength]] (350 Gp)
 
-Other services:
+Other services can be found on a table, randomly every two days
 
 | Roll 3 x 2d6 per 2 days | Service                     | Cost               |
 | ----------------------- | --------------------------- | ------------------ |
@@ -58,5 +60,6 @@ Other services:
 Below the castle once sprawled a vast dungeon and prison, constructed ages ago when the castle was first built. In the ages since it has been forgotten, only the portion of it below the [[#Inner Keep]] remain for the prisoners of the lord.
 - **Entrance Gap** - to enter the deeper dungeons from the dungeon below the keep, one must cross a dark stairway with a terrible drop on either side into darkness and into an aquaduct below.
 - **Broken Wall** - in the chapel, near the [[Saint Windguard]] statue in the crypt below there is a broken wall that leads to the dungeon below.
+
 ### Outer Village
 - 

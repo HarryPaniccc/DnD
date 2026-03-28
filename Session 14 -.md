@@ -19,6 +19,7 @@
 ## TODO:
 - [[Dungeon of Castle Sungrand]]
 - Sorcerer/Ogre in the dungeon
+- Rumour sources (tavern in Castle)
 - What is happening in [[Pallidmoore]]?
 - Bugbear in the dungeon
 - Fountain (healing place) in the **chapel** of [[Castle Sungrand]]
