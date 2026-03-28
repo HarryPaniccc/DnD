@@ -28,5 +28,6 @@ The first of the entrances to the dungeon is below the keep of castle sungrand. 
 - **Iron Bar Gate**. Unlocked and leads onwards. Often used by Canon.
 - **Cracked Wall**. The middle cell second from the bottom on the right has a wall with a large crack in it.
 
+## 4. 
 
 ## ?. Lever Mimic
