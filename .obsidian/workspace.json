@@ -4,192 +4,147 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 47.180851063829785,
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "4c98c4069889e366",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13 - Suspicion Sows its Seeds"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "671a32e02c955620",
+            "id": "18ba83968f35c37d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 14 -.md",
+                "file": "World of Helodaria/Oriothar the Monarch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 14 -"
+              "title": "Oriothar the Monarch"
             }
           },
           {
-            "id": "4da08dbd4a5cacce",
+            "id": "3db5b6b934640375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castle Sungrand"
-            }
-          },
-          {
-            "id": "c5fed135f8b54827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dungeon of Castle Sungrand.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
+              "title": "Vanguard"
             }
           },
           {
-            "id": "8251815e2aea9a57",
+            "id": "1c14b96219db292f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "World of Helodaria/Isilme Vanariel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
+              "title": "Isilme Vanariel"
             }
           },
           {
-            "id": "e379855e20d4ecf0",
+            "id": "7eb9e5f3f76f7347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
+                "file": "World of Helodaria/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theme Testing"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "b18234b4126352c0",
-        "type": "tabs",
-        "dimension": 52.819148936170215,
-        "children": [
-          {
-            "id": "e0f42a9e678e0b1e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#mimic_mm",
-                "title": "Mimic - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mimic - 5etools"
+              "title": "Primordials"
             }
           },
           {
-            "id": "eef4a496481cf954",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deities of Helodaria"
-            }
-          },
-          {
-            "id": "f754cf26ab278e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/The Raven Queen.md",
+                "file": "Primordial of Hunger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Raven Queen"
+              "title": "Primordial of Hunger"
             }
           },
           {
-            "id": "855ffa8f84d2430d",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing and Crafting.md",
+                "file": "Primevals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing and Crafting"
+              "title": "Primevals"
             }
           },
           {
-            "id": "c039babc81b71b46",
+            "id": "e840f11b0df225eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Nethendell Valley Export 1 A1"
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 7 - Unnamed"
             }
           },
           {
-            "id": "6137444c7c650409",
+            "id": "49b934b9d79b95ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
             }
           }
         ]
@@ -236,7 +191,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -249,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -259,7 +213,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 64.23076923076924,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -281,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -300,12 +254,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
             }
           },
           {
@@ -315,7 +269,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -327,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nethendell Valley Map Notes"
+              "title": "Outline of Vanguard Campaign Journal"
             }
           },
           {
@@ -356,7 +312,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 35.76923076923077,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -373,22 +329,24 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -402,8 +360,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5fed135f8b54827",
+  "active": "0f3ee23846ab1eb0",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 78 - Whispers and Revelry.md",
+    "Session Notes/Vanguard/Session 70 - Let Sleeping Gods Lie.md",
+    "Session Notes/Vanguard/Session 67 - Through the Labyrinth.md",
+    "Session Notes/Vanguard/Session 68 - The Birthplace of the Einzberns.md",
+    "Session Notes/Vanguard/Session 69 - Some Other Time.md",
     "Dungeon of Castle Sungrand.md",
     "Nethendell Valley Map Notes.md",
     "Administration and Other Notes/Theme Testing.md",
@@ -423,15 +389,7 @@
     "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
     "Attachments/Pasted image 20251101122230.png",
     "Statblocks/Adult White Dragon.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Timeline.md",
-    "World of Helodaria/Primordials.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Ferro.md",
-    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
-    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
