@@ -8,9 +8,11 @@ Beneath [[Castle Sungrand]], connected to both the dungeons below the keep of th
 
 - Entrance in the keep dungeon
 - Entrance behind a cracked wall at the temple
-- 
+- Yellow Mold
 # Level 1: Rooms 1 - 
 A small zone that acts as a transition from prison to true dungeon.
+>**Summaries**. Two large and one medium **Ochre Jellies**. Large patch of **Yellow Mold**.
+
 
 ## 1. Entry Hall
 The first of the entrances to the dungeon is below the keep of castle sungrand. Down a dark staircase, on either side is a drop into a deep pit, as well as a slow moving, mostly blocked aquaduct, there sits a door that is locked and barred from the outside.
@@ -29,5 +31,18 @@ The first of the entrances to the dungeon is below the keep of castle sungrand. 
 - **Cracked Wall**. The middle cell second from the bottom on the right has a wall with a large crack in it.
 
 ## 4. 
+
+## 5. Mold Infested Hall
+**Stench**. The smell of mold is incredibly intense in this hallway.
+>[!infobox| right]
+># Yellow Mold
+>Touching the mold ejects a 10-foot cube of spores originating from the it. 15 CON save or **2D10 poison and become poisoned for 1 minute save ends at end of turn. While poisoned take 1d10 poison damage at the start of each turn.** Sunlight or any amount of fire damage destroys the mold.
+
+- **Yellow Mold.** A patch grows out of a long dead skeleton and a series of dead rats out of the westmost cell.
+- 
+
+# Level 1: Rooms n - m
+Dilapidated part of the keep itself. This area is the ground of restless spirits and a dungeon ecology.
+>**Summaries**.
 
 ## ?. Lever Mimic

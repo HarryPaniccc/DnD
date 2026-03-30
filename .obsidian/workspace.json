@@ -120,12 +120,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/index.html",
-                "title": "5etools",
+                "url": "https://2014.5e.tools/bestiary.html#mimic_mm",
+                "title": "Mimic - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "5etools"
+              "title": "Mimic - 5etools"
             }
           },
           {
@@ -192,8 +192,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
+    "width": 279.5,
     "collapsed": true
   },
   "right": {
@@ -405,12 +404,12 @@
   },
   "active": "c5fed135f8b54827",
   "lastOpenFiles": [
+    "Dungeon of Castle Sungrand.md",
+    "Nethendell Valley Map Notes.md",
+    "Administration and Other Notes/Theme Testing.md",
     "World of Helodaria/Castle Sungrand.md",
     "Session 14 -.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Dungeon of Castle Sungrand.md",
-    "Administration and Other Notes/Theme Testing.md",
-    "Nethendell Valley Map Notes.md",
     "Pricing and Crafting.md",
     "World of Helodaria/The Raven Queen.md",
     "World of Helodaria/Deities of Helodaria.md",
