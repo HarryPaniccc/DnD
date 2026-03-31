@@ -6,21 +6,8 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
+        "dimension": 55.8041958041958,
         "children": [
-          {
-            "id": "0f3ee23846ab1eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
           {
             "id": "ae475d42e120be2e",
             "type": "leaf",
@@ -64,21 +51,7 @@
             }
           },
           {
-            "id": "1c14b96219db292f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Isilme Vanariel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isilme Vanariel"
-            }
-          },
-          {
-            "id": "7eb9e5f3f76f7347",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,26 +65,12 @@
             }
           },
           {
-            "id": "d26a1d76887754db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Primordial of Hunger.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primordial of Hunger"
-            }
-          },
-          {
             "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Primevals.md",
+                "file": "World of Helodaria/Primevals.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,8 +105,129 @@
               "icon": "lucide-file",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "0f3ee23846ab1eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "63ceb731a9172f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "0c524ea09f852add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Severa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa"
+            }
+          },
+          {
+            "id": "f7959fe287d59db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Severa Statblock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa Statblock"
+            }
           }
-        ]
+        ],
+        "currentTab": 10
+      },
+      {
+        "id": "b24b6c3fef78da9f",
+        "type": "tabs",
+        "dimension": 44.19580419580419,
+        "children": [
+          {
+            "id": "ea4155bcd1c76744",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/races.html#human_phb",
+                "title": "Human - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Human - 5etools"
+            }
+          },
+          {
+            "id": "fd8a4e7685be9ff0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#archmage_mm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
+            }
+          },
+          {
+            "id": "e8f1a9f6aa5cb12d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/items.html#mantle%20of%20spell%20resistance_dmg",
+                "title": "Mantle of Spell Resistance - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mantle of Spell Resistance - 5etools"
+            }
+          },
+          {
+            "id": "e7a0cba678b1f23e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#archmage_xmm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -283,13 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Severa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Campaign Journal"
+              "title": "Outline of Severa"
             }
           },
           {
@@ -306,8 +387,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -346,7 +426,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -360,36 +441,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f3ee23846ab1eb0",
+  "active": "e8f1a9f6aa5cb12d",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Session 78 - Whispers and Revelry.md",
-    "Session Notes/Vanguard/Session 70 - Let Sleeping Gods Lie.md",
-    "Session Notes/Vanguard/Session 67 - Through the Labyrinth.md",
-    "Session Notes/Vanguard/Session 68 - The Birthplace of the Einzberns.md",
-    "Session Notes/Vanguard/Session 69 - Some Other Time.md",
-    "Dungeon of Castle Sungrand.md",
-    "Nethendell Valley Map Notes.md",
-    "Administration and Other Notes/Theme Testing.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session 14 -.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Pricing and Crafting.md",
-    "World of Helodaria/The Raven Queen.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
-    "Blackhand Tower.md",
-    "Pallax.md",
-    "Flame Arrows.md",
-    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
-    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
-    "Attachments/Pasted image 20251101122230.png",
+    "Statblocks/Severa Statblock.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "Templates/Statblock Template.md",
+    "Severa.md",
     "Statblocks/Adult White Dragon.md",
+    "Statblocks/Basilisk.md",
+    "Statblocks/Adult Red Dragon.md",
+    "Dungeon of Castle Sungrand.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Timeline.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Primevals.md",
+    "World of Helodaria/Primordials.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Windcarrier Guild.md",
+    "World of Helodaria/Odessa.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "Session 92.5 - Uldrinea's Bane (Online).md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Alfred Gundrei.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "Attachments/Pasted image 20251101122230.png",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",

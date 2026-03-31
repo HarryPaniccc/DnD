@@ -10,8 +10,6 @@ tags:
 	- [x] Dusk
 	- [x] Caede
 	- [ ] Silb
->[!Idea]
->### Oneshot where they play as the people who had the Blade of Despair
 
 ### Miniatures
 - [x] Stone Arches
@@ -37,7 +35,8 @@ tags:
 - [ ] Stone Railing
 ### Normal Stuff
 - [ ] **ANATHEMA**
-- [ ] Come up with a name for the [[Convocation of the Talisman]]
+- [ ] Timeline
+- [x] Come up with a name for the [[Convocation of the Talisman]]
 - [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
@@ -46,7 +45,7 @@ tags:
 - [ ] Name the mountains that Vasspryg is on
 - [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
-	- [ ] Thayan wizard woman with the vampires and stuff
+	- [ ] [[Severa]]
 - [ ] NPCs of importance to the vanguard
 - [ ] Caede's Necromantia contents
 - [ ] **MAPS**

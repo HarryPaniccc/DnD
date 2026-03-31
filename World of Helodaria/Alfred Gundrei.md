@@ -1,6 +1,9 @@
 ---
 tags:
   - Character
+aliases:
+  - Alfred
+  - Gundrei
 ---
 Lord Alfred Gundrei is the human lord and sovereign of [[Dularen]] and a member of the [[Uldronos Council]] of the [[Ruina]].
 # Description

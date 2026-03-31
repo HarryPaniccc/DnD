@@ -35,9 +35,11 @@ tags:
 - (30th) Rylai, Isilme and Dusk, having recruited [[Maurice the Flameskull|Kran]] and [[Ophelia the Sylph]], return to and pay the mercenaries for their troubles.
 - (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
 - (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]].
+- (6th) [[Rylai Sweetsong|Rylai]], [[Isilme Vanariel|Isilme]] send an invitation to [[Alfred Gundrei]] for him to join them at Trayfort for dinner.
 
 **Week 7 (Dulussahn 7th)**
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
+- (8th) [[Alfred Gundrei|Gundrei]] accepts the invitation.
 - (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
 
 **Week 8 (Dulussahn 14th)**
@@ -125,11 +127,14 @@ Something certainly happens in [[Ralia]].
 [[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]]. Also maybe send him to stifle some kind of dissent against the Sirkonian line Game of Thrones style.
 
 # [[Caede]]
-### Repair the [[Leviathan Axe]]
+## Repair the [[Leviathan Axe]]
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 
 The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled.
-##### [[Sunblight Stronghold]]
+- [[Session 91.5 - Hammer to Anvil (Online)]]
+- [[Session 91 - Steinwalde]]
+
+### [[Sunblight Stronghold]]
 White dragon lair has what he needs.
 
 ### Defences and Staff of [[Trayfort Keep]]

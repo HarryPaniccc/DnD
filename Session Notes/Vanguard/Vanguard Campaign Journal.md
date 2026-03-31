@@ -6,6 +6,9 @@ aliases:
 ---
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc? Links to the [[Vanguard]].
 # Active Plot Points/Quests/Things to Remember
+## Next Sessions (Working on)
+- **Caede, Kanan** [[Session 91.5 - Hammer to Anvil (Online)]]
+- **Dusk, Isilme, Rylai** [[Session 92.5 - Uldrinea's Bane (Online)]]
 ## Status Tracker
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
@@ -13,6 +16,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ## Active Threads and Goals
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - [[Ulrandir Vanariel]] has not been executed. Why?
+	- [[Alfred Gundrei]] must respond to the letter sent by Isilme and Rylai. Dinner
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
@@ -38,9 +42,11 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 #### Future Sessions
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
-- [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 
 #### Past Sessions
+- [[Session 92.5 - Uldrinea's Bane (Online)]]
+- [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
+- [[Session 91.5 - Hammer to Anvil (Online)]]
 - [[Session 91 - Steinwalde]]
 - [[Session 90 - Dragonfire]]
 - [[Session 89 - Marthirion, Marred by Seeing]] - Rylai + Isilme + Dusk

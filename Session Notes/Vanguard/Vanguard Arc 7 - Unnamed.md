@@ -2,19 +2,14 @@ There are a lot of things that need to be cleared up before I can specify exactl
 
 
 # Planning Reset
----
 >[!Simple Questions]
 >1. **BBEG**: [[King Sirkon|Sirkon]]. Desires rule of [[Eranulaid]] and command of the [[Abyss]] through the [[Heart of the Abyss]], but his physical form requires [[Prince Artorius Sirkon]] to be his physical avatar.
 >2. **High Tower Surprise**: The Betrayal. The game was rigged from the start. 
 >3. **Lieutenants**: [[Syr Bayle Renslayer|Bayle]]. Bayle is the most loyal of the lieutenants, acting as the primary organizer of the armies under his command. It is Bayle's work that causes the war in [[Desseran]].
 >   [[Zakuul]]. Manipulated yet unpredictable, Zakuul is an agent for Sirkon, but not extremely loyal. His vengeance is an easy route to the weakening of Ruina, as well as allowing Sirkon to get to whatever is in the [[City of the Glass Moon]].
 >   [[Ulrandir Vanariel]]. He wants vengeance on the [[Uldronos Council]], and something to do with [[Smudge]].
->   
-
-
 
 # Outline
----
 The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in flames. War is brewing in every corner. The dark corners of the world are responding to the coming of a messiah that has long been foretold.
 
 - Sirkon needs what's in the city of the glass moon
