@@ -27,7 +27,7 @@ Organ
 - [[Ring of Protection +1]]
 - [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 **Soon to be Awarded**
-- 
+- [[Resolve]]
 **Unawarded**
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
@@ -44,7 +44,7 @@ Organ
 - [[Boots of the Resolute]]
 
 # Player Characters
-### Tristyn - [[Cened]]
+### Tristyn - [[Cened]] (Helf Rogue)
 
 ### Francois - [[Togwae]] (Helf Druid)
 
@@ -52,9 +52,9 @@ Organ
 
 ### Si Teng - [[Swift]] (Wood Elf Mercy Monk)
 
-### Sarah - [[Ferro]]
+### Sarah - [[Ferro]] (Wood Elf Spores Druid)
 
-### Charles - [[Pallax]]
+### Charles - [[Pallax]] (Red Dragonborn Zealot Barbarian)
 
 ### Previous Characters
 - Tim - [[Rosmary (and Thyme)]]

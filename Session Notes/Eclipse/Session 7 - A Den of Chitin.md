@@ -38,6 +38,7 @@ The chamber looks to be a central mining shaft, with collapsed tunnels once used
 
 **Loot**: 
 - A small chest that looks as though it was being transported by a small caravan of guards. DC 15 lockpicking to open. Within, lying on a bed of 84 gold pieces, sits a masterworked, carved of chitin ivory, [[Dagger of Acid]]. The handle is ivory, and runes decorate the cutting edge.
+
 ## 5. Bulette Hunting Ground
 > Reward, Revelation, Twist
 

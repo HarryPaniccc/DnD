@@ -12,7 +12,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ## Status Tracker
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
-- Teleportation Helm: [[Kanan Einzbern]]
+- [[Helm of Teleportation]]: [[Kanan Einzbern]]
 ## Active Threads and Goals
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - [[Ulrandir Vanariel]] has not been executed. Why?

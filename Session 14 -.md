@@ -38,3 +38,7 @@ Something happens
 # Section
 Something else happens
 
+
+
+
+![[Pasted image 20260331220411.png]]
