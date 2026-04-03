@@ -93,20 +93,6 @@
             }
           },
           {
-            "id": "31906db5a536ce52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theme Testing"
-            }
-          },
-          {
             "id": "9d3ca1641c6365d5",
             "type": "leaf",
             "state": {
@@ -134,12 +120,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#vampire_mm",
-                "title": "Vampire - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#giant%20rat_mm",
+                "title": "Giant Rat - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Vampire - 5etools"
+              "title": "Giant Rat - 5etools"
             }
           },
           {
@@ -416,15 +402,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5fed135f8b54827",
+  "active": "e0f42a9e678e0b1e",
   "lastOpenFiles": [
+    "Dungeon of Castle Sungrand.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/Deities of Helodaria.md",
     "Nethendell Valley Map Notes.md",
     "Statblocks/Yellow Mold Skeleton.md",
     "Administration and Other Notes/Theme Testing.md",
-    "World of Helodaria/Deities of Helodaria.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "World of Helodaria/Castle Sungrand.md",
     "Session 14 -.md",
-    "Dungeon of Castle Sungrand.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "Session Notes/Vanguard/Session 77 - Lucius.md",
     "Session Notes/Vanguard/Session 78 - Whispers and Revelry.md",
@@ -442,8 +430,6 @@
     "World of Helodaria/Einzberns.md",
     "World of Helodaria/Maurice the Flameskull.md",
     "World of Helodaria/Caede.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20260331220411.png",
