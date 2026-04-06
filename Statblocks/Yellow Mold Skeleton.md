@@ -32,7 +32,7 @@
 
 **Shortbow.** +4 to hit, range 80/320 ft. *Hit:* (1d6 + 2 piercing damage).
 
-**Poison Spores (Recharge 6).** The mold colony ejects a 10-foot cube of spores originating from it. 14 CON save or 2d10 poison damage and become poisoned for 1 minute (save ends at end of turn). While poisoned this way, take 1d10 poison damage at the start of each of your turns.
+**Poison Spores (Recharge 6).** The mold colony ejects a 10-foot cube of spores originating from it. 15 CON save or 2d10 poison damage and become poisoned for 1 minute (save ends at end of turn). While poisoned this way, take 1d10 poison damage at the start of each of your turns.
 
 
 
