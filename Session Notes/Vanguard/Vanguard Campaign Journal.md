@@ -31,6 +31,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ## Threads to Introduce
 
 
+
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]
 Things begin to take root. The heart beats once again.
 

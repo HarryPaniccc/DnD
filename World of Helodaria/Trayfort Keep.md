@@ -48,7 +48,8 @@ Staff = 6gp per month or 2sp per day
 | Guards (Normal) | 5sp        | 10                | 150 gp                      |
 | Cooks           | 5sp        | 2                 | 30 gp                       |
 | Staff           | 2sp        | 6                 | 36 gp                       |
-| TOTAL           |            |                   |                             |
+| TOTAL           |            |                   | 396 gp/month                |
+|                 |            |                   |                             |
 
 
 

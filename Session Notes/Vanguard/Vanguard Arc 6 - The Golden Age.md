@@ -6,8 +6,8 @@ tags:
 > Summaries of important events from session post-mortems and from out of session interactions.
 
 **Week 1 (Banahras 24th)**
-- return to Dularen
-- add Skoldr
+- The [[Vanguard]] return to [[Dularen]] from [[Sirkonos]], [[Kanan Einzbern]] remains in [[Sirkonos]]
+- [[Skoldr Wittlewood]] begins work as the keep carpenter
 - ask around for stewards.
 
 **Week 2 (Antumbrahn 2nd)**
@@ -34,15 +34,17 @@ tags:
 - They attack a Duergar watchtower in trying to pass through them
 - (30th) Rylai, Isilme and Dusk, having recruited [[Maurice the Flameskull|Kran]] and [[Ophelia the Sylph]], return to and pay the mercenaries for their troubles.
 - (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
-- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]].
+- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]]. Dusk has nightmares about [[Dagon]] and the [[Heart of the Abyss]] for seven nights.
 - (6th) [[Rylai Sweetsong|Rylai]], [[Isilme Vanariel|Isilme]] send an invitation to [[Alfred Gundrei]] for him to join them at Trayfort for dinner.
 
 **Week 7 (Dulussahn 7th)**
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
 - (8th) [[Alfred Gundrei|Gundrei]] accepts the invitation.
+- (9th) [[Ulfric Straven]] asks for more funds for the keep.
 - (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
 
 **Week 8 (Dulussahn 14th)**
+- (14th) [[Skoldr Wittlewood]] concludes repairs on the keep.
 - (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
@@ -50,6 +52,10 @@ tags:
 **Week 9 Dulussahn 21st**
 - 
 # Things to Remember
+## Expenses
+### [[Trayfort Keep]]
+- Per month people need to be paid. Payment of 400 gp sustained until Dulussahn 9th.
+- Cost to repair from Skoldr's efforts is 2gp per day as a skilled hireling for 50 days, as well as the 2 days of unskilled assistance he needed from his father. Total = 200 gp
 
 ### Gold at the start of downtime
 I'm not going to track each gold piece but its a good idea to get an idea of funds right now.
@@ -200,13 +206,13 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 - [[Session 999 - The Trial of Silb Heft]]
 
 # [[Isilme Vanariel|Isilme]]
-### [[Minra Vanariel]]
 
-### [[Ulrandir Vanariel]]
+## [[Minra Vanariel]]
 
+## [[Ulrandir Vanariel]]
+- [[Session 92.5 - Uldrinea's Bane (Online)]]
 
 # [[Dusk]]
----
 - [ ] Practice blade singing
 	- [x] Level 2
 	- [ ] Level 6

@@ -4,206 +4,228 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 47.553191489361694,
+        "dimension": 46.170212765957444,
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "0f3ee23846ab1eb0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "4c98c4069889e366",
+            "id": "3db5b6b934640375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 13 - Suspicion Sows its Seeds"
+              "title": "Trayfort Keep"
             }
           },
           {
-            "id": "671a32e02c955620",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 14 -.md",
+                "file": "World of Helodaria/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 14 -"
+              "title": "Primordials"
             }
           },
           {
-            "id": "4da08dbd4a5cacce",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
+                "file": "World of Helodaria/Primevals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primevals"
+            }
+          },
+          {
+            "id": "e840f11b0df225eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 7 - Unnamed"
+            }
+          },
+          {
+            "id": "49b934b9d79b95ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "63ceb731a9172f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Sungrand"
+              "title": "Red Wizards of Thay"
             }
           },
           {
-            "id": "c5fed135f8b54827",
+            "id": "0c524ea09f852add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon of Castle Sungrand.md",
+                "file": "Severa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
+              "title": "Severa"
             }
           },
           {
-            "id": "8251815e2aea9a57",
+            "id": "f7959fe287d59db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Statblocks/Severa Statblock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
-            }
-          },
-          {
-            "id": "31906db5a536ce52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theme Testing"
-            }
-          },
-          {
-            "id": "9d3ca1641c6365d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Yellow Mold Skeleton.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yellow Mold Skeleton"
+              "title": "Severa Statblock"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
-        "id": "b18234b4126352c0",
+        "id": "b24b6c3fef78da9f",
         "type": "tabs",
-        "dimension": 52.446808510638306,
+        "dimension": 53.829787234042556,
         "children": [
           {
-            "id": "e0f42a9e678e0b1e",
+            "id": "ea4155bcd1c76744",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#vampire_mm",
-                "title": "Vampire - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#relentless%20juggernaut_vrgr",
+                "title": "Relentless Juggernaut - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Vampire - 5etools"
+              "title": "Relentless Juggernaut - 5etools"
             }
           },
           {
-            "id": "eef4a496481cf954",
+            "id": "fd8a4e7685be9ff0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "preview",
-                "source": false
+                "url": "https://2014.5e.tools/bestiary.html#archmage_mm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Deities of Helodaria"
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
             }
           },
           {
-            "id": "f754cf26ab278e18",
+            "id": "e8f1a9f6aa5cb12d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/items.html#mantle%20of%20spell%20resistance_dmg",
+                "title": "Mantle of Spell Resistance - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Mantle of Spell Resistance - 5etools"
+            }
+          },
+          {
+            "id": "e7a0cba678b1f23e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#archmage_xmm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
+            }
+          },
+          {
+            "id": "a96c0631f16c2d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/The Raven Queen.md",
+                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Raven Queen"
-            }
-          },
-          {
-            "id": "855ffa8f84d2430d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing and Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pricing and Crafting"
-            }
-          },
-          {
-            "id": "c039babc81b71b46",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Nethendell Valley Export 1 A1"
-            }
-          },
-          {
-            "id": "6137444c7c650409",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Strongholds and Followers Notes"
             }
           }
         ]
@@ -250,7 +272,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -263,7 +285,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -273,7 +295,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 62.21153846153846,
+        "dimension": 64.23076923076924,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -295,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +327,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -314,12 +336,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
             }
           },
           {
@@ -329,7 +351,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -341,13 +365,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nethendell Valley Map Notes"
+              "title": "Outline of Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -370,7 +394,7 @@
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 37.78846153846154,
+        "dimension": 35.76923076923077,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -387,21 +411,24 @@
             }
           },
           {
-            "id": "c68b5dcf4c07320d",
+            "id": "fc6e4fe2893dcbd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
+    "width": 268.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -416,34 +443,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5fed135f8b54827",
+  "active": "ae475d42e120be2e",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Session 92.5 - Uldrinea's Bane (Online).md",
+    "Timeline.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Primevals.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "Severa.md",
+    "Statblocks/Severa Statblock.md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "Items/Staff of the Void.md",
+    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "World of Helodaria/Synod of Elevation.md",
+    "Administration and Other Notes/Strongholds and Followers Notes.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
+    "Dungeon of Castle Sungrand.md",
     "Nethendell Valley Map Notes.md",
     "Statblocks/Yellow Mold Skeleton.md",
-    "Administration and Other Notes/Theme Testing.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session 14 -.md",
-    "Dungeon of Castle Sungrand.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Session Notes/Vanguard/Session 77 - Lucius.md",
-    "Session Notes/Vanguard/Session 78 - Whispers and Revelry.md",
-    "World of Helodaria/Chiaross.md",
-    "World of Helodaria/History of Helodaria.md",
-    "Timeline.md",
-    "World of Helodaria/Desseran Apostolate.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Desseran.md",
-    "World of Helodaria/Thayan Orthodoxy.md",
-    "World of Helodaria/Eranulaid History.md",
-    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
-    "Session Notes/Vanguard/Session 75 - Laying Siege.md",
-    "Session Notes/Vanguard/Session 74 - The Battle of Strahldale.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Maurice the Flameskull.md",
-    "World of Helodaria/Caede.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-    "Session Notes/Vanguard/Session 85 - Estravian Brigands.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20260331220411.png",
