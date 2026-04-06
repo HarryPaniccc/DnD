@@ -6,7 +6,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 46.170212765957444,
+        "dimension": 46.17021276595744,
         "children": [
           {
             "id": "0f3ee23846ab1eb0",
@@ -156,7 +156,7 @@
       {
         "id": "b24b6c3fef78da9f",
         "type": "tabs",
-        "dimension": 53.829787234042556,
+        "dimension": 53.82978723404256,
         "children": [
           {
             "id": "ea4155bcd1c76744",
@@ -443,10 +443,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ae475d42e120be2e",
+  "active": "ea4155bcd1c76744",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Trayfort Keep.md",
     "Session 92.5 - Uldrinea's Bane (Online).md",
     "Timeline.md",
