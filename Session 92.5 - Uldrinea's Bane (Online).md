@@ -4,13 +4,11 @@
 
 
 ## Introduction
-> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
+> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.
 
 ## Recap
-**Much has happened** these past months, too much to tell now, but here is what is most important.
-- Last session these things happened
-- This is important because
-- And then this
+**Much has happened** these past weeks, too much to tell now, but here is what is most important.
+- Two years ago, when the home of [[House Vanariel]], [[Castle Anavar]], was assaulted by [[Alfred Gundrei|Lord Gundrei]] and [[General Isaac]] of the [[Boreal Conclave]], 
 
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
@@ -24,8 +22,8 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 Ideas for what should happen
 
 
-# Section
-Something happens
+# What Gundrei Knows
+Gundrei loves Ruina, and in Ulrandir he sees a clear danger to his control.
 
 
 # Section

@@ -34,13 +34,14 @@ tags:
 - They attack a Duergar watchtower in trying to pass through them
 - (30th) Rylai, Isilme and Dusk, having recruited [[Maurice the Flameskull|Kran]] and [[Ophelia the Sylph]], return to and pay the mercenaries for their troubles.
 - (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
-- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]]. Dusk has nightmares about [[Dagon]] and the [[Heart of the Abyss]] for seven nights.
+- (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]]. 
+- (3rd - 9th) Dusk has nightmares about [[Dagon]] and the [[Heart of the Abyss]] for seven nights.
 - (6th) [[Rylai Sweetsong|Rylai]], [[Isilme Vanariel|Isilme]] send an invitation to [[Alfred Gundrei]] for him to join them at Trayfort for dinner.
 
 **Week 7 (Dulussahn 7th)**
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
 - (8th) [[Alfred Gundrei|Gundrei]] accepts the invitation.
-- (9th) [[Ulfric Straven]] asks for more funds for the keep.
+- (9th) [[Ulfric Straven]] asks for more funds for the keep. Rylai and Dusk pay a total of 450 gp to him.
 - (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
 
 **Week 8 (Dulussahn 14th)**
@@ -50,7 +51,8 @@ tags:
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 
 **Week 9 Dulussahn 21st**
-- 
+
+
 # Things to Remember
 ## Expenses
 ### [[Trayfort Keep]]

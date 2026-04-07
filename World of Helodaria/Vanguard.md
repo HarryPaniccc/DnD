@@ -26,3 +26,10 @@ The Vanguard have their permanent stronghold in [[Trayfort Keep]] in the Outer-c
 - [[Brindor Shieldwall]]
 ## Kanan
 - [[Tevis Einzbern]]
+## Isilme
+- [[Smudge]]
+- [[Maurice the Flameskull|Kran]]
+## Rylai
+- [[Ophelia the Sylph]]
+## Caede
+- [[Veylan Glovir]]

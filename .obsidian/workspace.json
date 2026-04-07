@@ -6,10 +6,9 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 46.17021276595744,
         "children": [
           {
-            "id": "0f3ee23846ab1eb0",
+            "id": "770d2990c53200d2",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,8 +24,9 @@
             }
           },
           {
-            "id": "ae475d42e120be2e",
+            "id": "08389105e0321ab7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,201 +34,69 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "3db5b6b934640375",
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "Session 92.5 - Uldrinea's Bane (Online).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "title": "Session 92.5 - Uldrinea's Bane (Online)"
             }
           },
           {
-            "id": "d26a1d76887754db",
+            "id": "dd5cdd2b889deb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primordials"
+              "title": "Vanguard"
             }
           },
           {
-            "id": "85502860378e5ee7",
+            "id": "24668aff673104c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primevals.md",
+                "file": "Administration and Other Notes/Theme Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primevals"
+              "title": "Theme Testing"
             }
           },
           {
-            "id": "e840f11b0df225eb",
+            "id": "f1ee3f4289dbeb18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "file": "World of Helodaria/Desseran Apostolate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 7 - Unnamed"
-            }
-          },
-          {
-            "id": "49b934b9d79b95ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "63ceb731a9172f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
-            }
-          },
-          {
-            "id": "0c524ea09f852add",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Severa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severa"
-            }
-          },
-          {
-            "id": "f7959fe287d59db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Severa Statblock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severa Statblock"
+              "title": "Desseran Apostolate"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "b24b6c3fef78da9f",
-        "type": "tabs",
-        "dimension": 53.82978723404256,
-        "children": [
-          {
-            "id": "ea4155bcd1c76744",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#relentless%20juggernaut_vrgr",
-                "title": "Relentless Juggernaut - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Relentless Juggernaut - 5etools"
-            }
-          },
-          {
-            "id": "fd8a4e7685be9ff0",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#archmage_mm",
-                "title": "Archmage - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Archmage - 5etools"
-            }
-          },
-          {
-            "id": "e8f1a9f6aa5cb12d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/items.html#mantle%20of%20spell%20resistance_dmg",
-                "title": "Mantle of Spell Resistance - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Mantle of Spell Resistance - 5etools"
-            }
-          },
-          {
-            "id": "e7a0cba678b1f23e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://5e.tools/bestiary.html#archmage_xmm",
-                "title": "Archmage - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Archmage - 5etools"
-            }
-          },
-          {
-            "id": "a96c0631f16c2d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strongholds and Followers Notes"
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,7 +115,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -285,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -295,7 +162,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 64.23076923076924,
+        "dimension": 64.42307692307692,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -317,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
+                "file": "World of Helodaria/Desseran Apostolate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +194,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 5 - A Den of Chitin"
+              "title": "Backlinks for Desseran Apostolate"
             }
           },
           {
@@ -336,12 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+              "title": "Outgoing links from Vanguard"
             }
           },
           {
@@ -351,7 +218,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -365,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline of Vanguard"
             }
           },
           {
@@ -389,12 +256,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 35.76923076923077,
+        "dimension": 35.57692307692307,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -423,13 +290,37 @@
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 272.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -443,34 +334,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ea4155bcd1c76744",
+  "active": "f1ee3f4289dbeb18",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Desseran Apostolate.md",
+    "Administration and Other Notes/Theme Testing.md",
     "Session 92.5 - Uldrinea's Bane (Online).md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Boreal Conclave.md",
+    "World of Helodaria/Steinwalde.md",
+    "stein].md",
+    "Attachments/Pasted image 20260406222552.png",
+    "Attachments/Pasted image 20260406222501.png",
+    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Ophelia the Sylph.md",
+    "Statblocks/Severa Statblock.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Trayfort Keep.md",
     "Timeline.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "World of Helodaria/Primevals.md",
     "World of Helodaria/Red Wizards of Thay.md",
     "Severa.md",
-    "Statblocks/Severa Statblock.md",
-    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
     "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Caede.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Items/Staff of the Void.md",
     "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
-    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
-    "World of Helodaria/Synod of Elevation.md",
-    "Administration and Other Notes/Strongholds and Followers Notes.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Oriothar the Monarch.md",
-    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
-    "Dungeon of Castle Sungrand.md",
-    "Nethendell Valley Map Notes.md",
-    "Statblocks/Yellow Mold Skeleton.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20260331220411.png",
@@ -489,8 +382,6 @@
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/RylaiPFPCrop.jpg",
     "Attachments/Worldographer/Ruina-autosave.wxx",
-    "Attachments/Pasted image 20260118163629.png",
-    "Attachments/hextml/game icons net/black square.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

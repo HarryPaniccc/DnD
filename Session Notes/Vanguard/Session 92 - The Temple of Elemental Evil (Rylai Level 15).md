@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 89 - Marthirion, Marred by Seeing]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 92.5 - Uldrinea's Bane (Online)]]
 
 ## Post Mortem
 **Dul'ussahn 3rd**
