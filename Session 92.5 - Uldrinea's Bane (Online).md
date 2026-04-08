@@ -18,8 +18,8 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 > The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
 
 
-# Session Start
-Ideas for what should happen
+# Dusk's Dream Research
+Using XGE rules for researching.
 
 
 # What Gundrei Knows

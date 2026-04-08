@@ -55,8 +55,10 @@ Staff = 6gp per month or 2sp per day
 # [[Strongholds and Followers Notes|Strongholds and Followers]] mechanics
 ### Carpenter's Shop (1st Level)
 With a carpenter's shop, the following are decreased by 10% per level of the carpenter's shop: cost and time of upgrading your stronghold, and cost to build and upkeep siege engines.
+
 ### Captain's Barracks (1st Level)
 Barracks temporarily upgrade the experience level of some number of units by one: Green units become Regular, etc. The barracks can upgrade a number of units equal to its level. Upgraded units are chosen at the start of a battle.
+
 ## Units
 [See here for unit card generation](https://freddybushboy.github.io/unit-cards/)
 ### Guards

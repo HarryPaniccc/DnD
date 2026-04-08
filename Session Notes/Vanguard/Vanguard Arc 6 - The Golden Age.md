@@ -36,6 +36,7 @@ tags:
 - (3rd) The group reach the [[Temple of Elemental Evil]] and Rylai plunges into the darkness with [[Ophelia the Sylph|Ophelia]].
 - (3rd) [[Rylai Sweetsong|Rylai]] reaches level 15 and changes her class to **storm sorcerer** exclusively, after travelling to the [[Elemental Plane of Air]]. Rylai, Isilme, Dusk, [[Maurice the Flameskull|Kran]] and Ophelia return to [[Trayfort Keep]]. 
 - (3rd - 9th) Dusk has nightmares about [[Dagon]] and the [[Heart of the Abyss]] for seven nights.
+- (4th) [[Dusk]] begins research on her nightmares
 - (6th) [[Rylai Sweetsong|Rylai]], [[Isilme Vanariel|Isilme]] send an invitation to [[Alfred Gundrei]] for him to join them at Trayfort for dinner.
 
 **Week 7 (Dulussahn 7th)**
@@ -50,7 +51,8 @@ tags:
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 
-**Week 9 Dulussahn 21st**
+**Week 9 (Dulussahn 21st)**
+
 
 
 # Things to Remember

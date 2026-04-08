@@ -4,8 +4,8 @@ tags:
 ---
 **Sehanine, the Moonsong** is the Elven God of love, freedom, and the Moon. She embodies creativity and expression. She is one of the [[Creation Gods]] of the [[Deities of Helodaria]].
 # Details
----
 Sehanine is often found within the plane of [[Arborea]] or wandering the [[Feywild]]. She is as nomadic as the moon she urged into existence, with her moods shifting as the phases.
+
 ## Titles
 - The Moon Song
 - The Moon Heart
@@ -19,12 +19,10 @@ Her avatar shapes, however, are as varied as the phases of the moon. Her appeara
 ## Relationships to Other Deities
 ### God
 # Tenets and Teachings
----
 >[!Tenets]
 > - Tenet 1
 > - Tenet 2
 # Worship
----
 ## Symbols
 - [[Armour of Sehanine]]
 
