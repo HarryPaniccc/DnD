@@ -49,7 +49,6 @@ Staff = 6gp per month or 2sp per day
 | Cooks           | 5sp        | 2                 | 30 gp                       |
 | Staff           | 2sp        | 6                 | 36 gp                       |
 | TOTAL           |            |                   | 396 gp/month                |
-|                 |            |                   |                             |
 
 
 

@@ -1,4 +1,5 @@
-The [[Gilded Resolution]] is a magic shop owned and run by Human Enchanter [[Belon Hafton]] and Gnome Enchanter [[Byron Honeystone]] well crafted, beautiful structure with three storeys. They are one of, if not the largest magic shop outside of [[Allhaven]]. They sell a far greater range than merely weapons. The first floor is open, with a balcony second floor filled with books. The third floor is the private workshop. Items in their inventory are displayed well around the area. The rooms are lit with glowing gems.
+The [[Gilded Resolution]] is a magic shop owned and run by Human Enchanter [[Belon Hafton]] and Gnome Enchanter [[Byron Honeystone]]. A well crafted, beautiful structure with three storeys. They are one of, if not the largest magic shop outside of [[Allhaven]]. They sell a far greater range than merely weapons. The first floor is open, with a balcony second floor filled with books. The third floor is the private workshop. Items in their inventory are displayed well around the area. The rooms are lit with glowing gems.
+
 # Inventory
 - [[Elemental Gem]]s (Earth, Yellow Diamond and Water, Emerald) - 300 Gp each
 - [[Boots of Haste]] - 1500 Gp
@@ -9,4 +10,4 @@ The [[Gilded Resolution]] is a magic shop owned and run by Human Enchanter [[Bel
 - [[Hearthstone]] - 3750 Gp
 - [[Bag of Holding]] - 400 Gp
 - [[Bracers of Defence]] - 1300 Gp
-- 
+

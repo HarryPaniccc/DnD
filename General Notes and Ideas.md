@@ -36,6 +36,7 @@ tags:
 ### Normal Stuff
 - [ ] **ANATHEMA**
 - [ ] Timeline
+- [ ] Magic item shops and spells specifically
 - [x] Come up with a name for the [[Convocation of the Talisman]]
 - [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff

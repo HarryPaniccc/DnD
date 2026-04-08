@@ -10,7 +10,6 @@
           {
             "id": "770d2990c53200d2",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +17,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
@@ -26,7 +24,6 @@
           {
             "id": "08389105e0321ab7",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -34,7 +31,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Vanguard Arc 6 - The Golden Age"
             }
@@ -45,22 +41,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 92.5 - Uldrinea's Bane (Online).md",
+                "file": "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 92.5 - Uldrinea's Bane (Online)"
+              "title": "Session 89 - Marthirion, Marred by Seeing"
             }
           },
           {
-            "id": "dd5cdd2b889deb85",
+            "id": "f9f8bc01ae6e5083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Ophelia the Sylph.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ophelia the Sylph"
+            }
+          },
+          {
+            "id": "a1573f6e89f7ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Vanguard.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -68,35 +78,77 @@
             }
           },
           {
-            "id": "24668aff673104c9",
+            "id": "d1e81e80d2a662c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
+                "file": "World of Helodaria/Gilded Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theme Testing"
+              "title": "Gilded Resolution"
             }
           },
           {
-            "id": "f1ee3f4289dbeb18",
+            "id": "07e4dcccee5c1684",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran Apostolate.md",
+                "file": "Pricing and Crafting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran Apostolate"
+              "title": "Pricing and Crafting"
+            }
+          },
+          {
+            "id": "d48399534c885ef2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/book.html#xge,2,downtime%20revisited",
+                "title": "Xanathar's Guide to Everything - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Xanathar's Guide to Everything - 5etools"
+            }
+          },
+          {
+            "id": "a95264df5124b252",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,3,mounted%20combat",
+                "title": "Combat - Quick Reference - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Combat - Quick Reference - 5etools"
+            }
+          },
+          {
+            "id": "d15d65b1af37a005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trayfort Keep"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -153,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -184,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Desseran Apostolate.md",
+                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Desseran Apostolate"
+              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
             }
           },
           {
@@ -203,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Vanguard.md",
+                "file": "World of Helodaria/Uldronos Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vanguard"
+              "title": "Outgoing links from Uldronos Council"
             }
           },
           {
@@ -232,13 +285,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Vanguard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard"
+              "title": "Outline"
             }
           },
           {
@@ -255,8 +307,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -334,9 +385,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f1ee3f4289dbeb18",
+  "active": "d15d65b1af37a005",
   "lastOpenFiles": [
+    "General Notes and Ideas.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/Gilded Resolution.md",
+    "World of Helodaria/Dularen.md",
     "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Einzberns.md",
     "World of Helodaria/Desseran Apostolate.md",
     "Administration and Other Notes/Theme Testing.md",
     "Session 92.5 - Uldrinea's Bane (Online).md",
@@ -359,11 +415,6 @@
     "World of Helodaria/Red Wizards of Thay.md",
     "Severa.md",
     "World of Helodaria/Rylai Sweetsong.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "Items/Staff of the Void.md",
-    "Session Notes/Vanguard/Session 87 - An Element of Truth.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20260331220411.png",
