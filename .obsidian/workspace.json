@@ -6,6 +6,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
+        "dimension": 49.790209790209786,
         "children": [
           {
             "id": "770d2990c53200d2",
@@ -134,11 +135,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       },
       {
         "id": "c69a76bc41882942",
         "type": "tabs",
+        "dimension": 50.20979020979021,
         "children": [
           {
             "id": "d48399534c885ef2",
@@ -147,11 +149,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/book.html#xge,2,adamantine%20weapons",
-                "title": "Xanathar's Guide to Everything - 5etools",
-                "mode": "blank"
+                "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Xanathar's Guide to Everything - 5etools"
+              "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools"
             }
           }
         ]
@@ -377,7 +379,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,9 +394,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d48399534c885ef2",
+  "active": "08389105e0321ab7",
   "lastOpenFiles": [
     "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Holidays.md",
     "World of Helodaria/Trayfort Keep.md",
     "Session 92.5 - Uldrinea's Bane (Online).md",
     "World of Helodaria/Dragons of Helodaria.md",
@@ -418,7 +422,6 @@
     "Gunslinger Fighter Archetype.md",
     "World of Helodaria/Underfoot Tollhouse.md",
     "World of Helodaria/Zitrumean Empire.md",
-    "World of Helodaria/Zitrumea.md",
     "Attachments/Pasted image 20260406222552.png",
     "Attachments/Pasted image 20260406222501.png",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",

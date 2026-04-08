@@ -38,6 +38,7 @@ tags:
 - (3rd - 9th) Dusk has nightmares about [[Dagon]] and the [[Heart of the Abyss]] for seven nights.
 - (4th) [[Dusk]] begins research on her nightmares
 - (6th) [[Rylai Sweetsong|Rylai]], [[Isilme Vanariel|Isilme]] send an invitation to [[Alfred Gundrei]] for him to join them at Trayfort for dinner.
+- (6th) Isilme and Dusk midnight time
 
 **Week 7 (Dulussahn 7th)**
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
