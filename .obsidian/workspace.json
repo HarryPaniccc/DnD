@@ -177,11 +177,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/book.html#xge,2,downtime%20revisited",
-                "title": "Xanathar's Guide to Everything - 5etools",
+                "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Xanathar's Guide to Everything - 5etools"
+              "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools"
             }
           }
         ]
@@ -321,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "General Notes and Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline of General Notes and Ideas"
             }
           },
           {
@@ -344,8 +344,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "92400877833113eb",
@@ -423,12 +422,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f913bfe3e075c876",
+  "active": "4cb96e6d4287e8a5",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/King Sirkon.md",
     "World of Helodaria/Desseran.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Helodarian Calendar.md",
     "World of Helodaria/Holidays.md",
     "World of Helodaria/Trayfort Keep.md",

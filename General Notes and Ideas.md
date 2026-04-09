@@ -25,7 +25,6 @@ tags:
 - [ ] Owlbear
 - [ ] Goblins (Maybe like 2 or 3 more)
 - [ ] Ladder(s)
-- [ ] Zombies
 - [ ] Skeletons
 - [ ] Barrels + Boxes
 - [ ] New tables
