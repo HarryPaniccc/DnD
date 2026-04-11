@@ -44,6 +44,7 @@ tags:
 - (7th) Kanan and Caede part ways with the battlehammer. They enter the chasms of the [[Faults of North Estravia]] and claim [[Staff of Lathran's Descendent]]. [[Siegfried the Horse]] is slain. They leave the chasms 3 days later
 - (8th) [[Alfred Gundrei|Gundrei]] accepts the invitation.
 - (9th) [[Ulfric Straven]] asks for more funds for the keep. Rylai and Dusk pay a total of 450 gp to him.
+- (11th) [[Dusk]] finishes her research and attracts a group of archers.
 - (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
 
 **Week 8 (Dulussahn 14th)**

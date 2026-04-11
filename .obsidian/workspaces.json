@@ -3460,7 +3460,7 @@
           {
             "id": "6eff3c0b43ee9101",
             "type": "tabs",
-            "dimension": 47.553191489361694,
+            "dimension": 59.72027972027972,
             "children": [
               {
                 "id": "25685d0a01d13bf7",
@@ -3477,45 +3477,31 @@
                 }
               },
               {
-                "id": "4c98c4069889e366",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Session 13 - Suspicion Sows its Seeds"
-                }
-              },
-              {
                 "id": "671a32e02c955620",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 14 -.md",
+                    "file": "Session 14 - Mold and Rats.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 14 -"
+                  "title": "Session 14 - Mold and Rats"
                 }
               },
               {
-                "id": "4da08dbd4a5cacce",
+                "id": "9ad8247b91b7e549",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Castle Sungrand.md",
-                    "mode": "preview",
+                    "file": "Session 15 -.md",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Castle Sungrand"
+                  "title": "Session 15 -"
                 }
               },
               {
@@ -3533,6 +3519,20 @@
                 }
               },
               {
+                "id": "4da08dbd4a5cacce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Castle Sungrand.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Castle Sungrand"
+                }
+              },
+              {
                 "id": "8251815e2aea9a57",
                 "type": "leaf",
                 "state": {
@@ -3545,19 +3545,27 @@
                   "icon": "lucide-file",
                   "title": "Nethendell Valley Map Notes"
                 }
-              },
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "b18234b4126352c0",
+            "type": "tabs",
+            "dimension": 40.27972027972028,
+            "children": [
               {
-                "id": "31906db5a536ce52",
+                "id": "e0f42a9e678e0b1e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "webviewer",
                   "state": {
-                    "file": "Administration and Other Notes/Theme Testing.md",
-                    "mode": "source",
-                    "source": false
+                    "url": "https://2014.5e.tools/bestiary.html#gargoyle_mm",
+                    "title": "Gargoyle - 5etools",
+                    "mode": "webview"
                   },
-                  "icon": "lucide-file",
-                  "title": "Theme Testing"
+                  "icon": "globe-2",
+                  "title": "Gargoyle - 5etools"
                 }
               },
               {
@@ -3573,91 +3581,19 @@
                   "icon": "lucide-file",
                   "title": "Yellow Mold Skeleton"
                 }
-              }
-            ],
-            "currentTab": 4
-          },
-          {
-            "id": "b18234b4126352c0",
-            "type": "tabs",
-            "dimension": 52.446808510638306,
-            "children": [
+              },
               {
-                "id": "e0f42a9e678e0b1e",
+                "id": "1cbbe344ded93290",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#vampire_mm",
-                    "title": "Vampire - 5etools",
+                    "url": "https://5e.tools/book.html#xdmg,9",
+                    "title": "Maps - Dungeon Master's Guide (2024) - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Vampire - 5etools"
-                }
-              },
-              {
-                "id": "eef4a496481cf954",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Deities of Helodaria.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Deities of Helodaria"
-                }
-              },
-              {
-                "id": "f754cf26ab278e18",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/The Raven Queen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "The Raven Queen"
-                }
-              },
-              {
-                "id": "855ffa8f84d2430d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Pricing and Crafting.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Pricing and Crafting"
-                }
-              },
-              {
-                "id": "c039babc81b71b46",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Nethendell Valley Export 1 A1"
-                }
-              },
-              {
-                "id": "6137444c7c650409",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Maps - Dungeon Master's Guide (2024) - 5etools"
                 }
               }
             ]
@@ -3795,13 +3731,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Nethendell Valley Map Notes.md",
+                    "file": "Dungeon of Castle Sungrand.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Nethendell Valley Map Notes"
+                  "title": "Outline of Dungeon of Castle Sungrand"
                 }
               },
               {
@@ -3855,8 +3791,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 286.5,
-        "collapsed": true
+        "width": 286.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -3871,7 +3806,7 @@
         }
       },
       "active": "c5fed135f8b54827",
-      "mtime": "2026-04-03T21:38:49+02:00"
+      "mtime": "2026-04-11T16:13:07+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -4999,5 +4934,5 @@
       "mtime": "2026-04-09T19:44:05+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Trayfort Downtime (Formerly Rylai)"
 }

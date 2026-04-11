@@ -18,3 +18,6 @@ Rest for a season? Gives you charges of you class feature improvements
 # Stronghold NPCs
 ### Carpenter
 With a carpenter's shop, the following are decreased by 10% per level of the carpenter's shop: cost and time of upgrading your stronghold, and cost to build and upkeep siege engines.
+
+# Units
+I think the unit costs things doesnt make sense. Calculate the unit pricing per season based on quality of who you bought and their individual abilities

@@ -14,6 +14,8 @@ tags:
 ### Miniatures
 - [x] Stone Arches
 - [ ] Cages x 2
+- [ ] Giant rats
+- [ ] Oni
 - [ ] Zombies
 - [ ] Gnolls
 - [ ] Sewer grate  
