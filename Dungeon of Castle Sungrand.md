@@ -88,3 +88,5 @@ This zone is untravelled, save for Canon's trips down the main vector of the dun
 
 
 ## [[Yellow Mold Skeleton]]s
+
+# Level 2: Rooms

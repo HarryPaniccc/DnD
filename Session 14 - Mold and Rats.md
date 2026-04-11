@@ -1,7 +1,14 @@
 **Previous Session:** [[Session 13 - Suspicion Sows its Seeds]]
 **Subsequent Session:** [[Session 15 -]]
 ## Post Mortem
-
+**Vanadrahs 17th**
+- After [[Togwae]] and [[Ferro]] finish their scouting mission, the group takes an hour rest to wait for [[Lord Margit Tormon|Margit Tormon]] to meet them
+- They speak with Tormon and ask if he can allow them to investigate the prisoners within the dungeon
+- They got to the second layer and investigate [[Unnamed Imprisoned Sorcerer]], who saves vs the *Zone of Truth*
+- Tormon leads them to the Bugbear prisoner, and they ask if they can look around the deeper regions of the dungeon, hoping to find out how it loops back to the Chapel's crypt
+- The group goes through the [[Dungeon of Castle Sungrand]] in rooms order 1, 3, 6, 7, 8, 6
+- They fight giant rats
+- They find two bracelets and a severed arm, as well as learning how to burn away yellow mold
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.
@@ -33,7 +40,6 @@
 - (re)Print item cards
 	- [[Resolve]]
 	- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
-- 
 
 # Dungeon Interviews
 Soldiers in the dungeon know a bit about Canon's goings on
