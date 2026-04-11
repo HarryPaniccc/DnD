@@ -35,9 +35,9 @@
 	- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 - 
 
-# Section
-Something happens
+# Dungeon Interviews
+Soldiers in the dungeon know a bit about Canon's goings on
 
 
-# Section
-Something else happens
+# Bugbear in Chains
+Often left unguarded.

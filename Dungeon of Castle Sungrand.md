@@ -12,6 +12,7 @@ Beneath [[Castle Sungrand]], connected to both the dungeons below the keep of th
 
 
 # Level 1: Rooms 1 - 4
+**The Darkest Dungeon Used**.
 A small zone that acts as a transition from prison to true dungeon. Goes from prison space to the ruined keep.
 >**Summaries**. Four **giant rats** guarding treasure.
 
@@ -41,7 +42,8 @@ The first of the entrances to the dungeon is below the keep of castle sungrand. 
 - **Fearful Skeletons**. Nine skeletal remains of guards wearing long rusted chainmale. Spiders make homes from their chest cavities. Each has a pouch
 - **Storage Room**. Used for guard supplies. Shelves line the walls. Ruined items stored in ruined chests, but one chest contains confiscated wealth to a total of **145 gp**, minted with the face of an old [[House Ralenroth]] king, as well as **62 tarnished sp** (can be transferred to hacksilver for 1/3 value).
 
-# Level 1: Rooms 5 - 
+# Level 1: Rooms 5 - 11
+**Undisturbed Prison Ruins**.
 This zone is untravelled, save for Canon's trips down the main vector of the dungeon. Clear marks of his passage are visible to those who look.
 >**Summaries**: Wraith
 
@@ -59,20 +61,30 @@ This zone is untravelled, save for Canon's trips down the main vector of the dun
 - **Yellow Mold.** A patch grows out of a long dead skeleton and a series of dead rats out of the westmost cell blocking access to the corner, along the ground, stretching up the ceiling, along the wall. 
 - **Golden Bracelet**. The skeleton clutches a golden bracelet in its hands. Red gem dragon eyes in the decoration. Value of 150 gp.
 
-## 7. 
+## 7. Ruined Stores
+**Mold covers the room**. Ruined stores of grain. Remains of vermin are covered by the mold as well.
+- **Healing Potions**. On the shelf, covered by mold, are three [[Potion of Healing|potions of healing]].
 
-## 8. 
+## 8. Opening to Sewers
+**Crumbling Floor**. Leads to a water channel below. Entering causes the floor to give way below.
+
 
 ## 9. Dust and Bones
-**Bones**. The floor is littered with the remains of guards from eons ago. Something tore through these men. Spears are broken
-- **Pathway**. A path has been swept through them leading to the door.
-- **Balcony Overhead**. Watching down sit three gargoyles. Hiding around the corner is a spectator.
-- **Infultrator Guards.** To ensure no one seeks this path, Canon has installed a **spectator** and three **gargoyles** to lie motionless and watch.
+**Cavernous Once-Supply Room**.
+**Bones**. The floor is littered with the remains of guards from eons ago. Something tore through these men. Spears are broken. Gargoyles and a spectator with a key in its mouth.
+- **Pathway**. A path has been swept through the bones, leading to the door.
+- **Balcony Overhead**. Watching down sit three gargoyles. Hiding around the corner is a spectator. **Mental communication**.
+- **Infultrator Guards.** To ensure no one seeks this path, Canon has installed a **spectator** and three **gargoyles** to lie motionless and watch. The spectator has the key in its mouth.
+- **Double Doors**. Bar is moved to the side. Locked **DC 15**. 
 
-# Level 1: Rooms n - m 
-Ruined and rotted dungeon space. 
->**Summaries**.
+## 10. Ruined Tower Courtyard Antechamber
+**Moss and roots.** The chamber is alive with mold and moss. Roots cover the natural ceiling. Vines encase the structures, except one lever.
+- **Yellow Mold.** Growing over the graves and bones of skeletons. Patches in the corners of the rooms.
+- **Levers**. Two sit in the center of the room, one wrapped in vines, the other, suspiciously clean, is a mimic.
+- **Mold Skeletons**. 6 of the skeletons are inhabited by undead energies, and have also become home to a colony of mold. If the mimic attacks, the skeletons rise and join the action, looking to slay the PCs
 
-## ?. Lever Mimic
+
+## 11. Gallery
+
 
 ## [[Yellow Mold Skeleton]]s

@@ -11,10 +11,11 @@ Organ
 - [[Canon Valaris]] has a prisoner in the dungeon below [[Castle Sungrand]]
 - The [[Goldrend Bandits]] slavers held up in [[Blackhand Tower]]
 - Vraath Keep is now undefended
+
 #### TODO
 - Barrows of fallen [[House Ralenroth]]
 - [[Cult of the Dragon]] sorcerers activity (guy in the dungeon)
-- 
+
 ## Items
 **Awarded**
 - [[Portable Hole]]

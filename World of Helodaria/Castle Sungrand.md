@@ -24,8 +24,9 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - [[Emile Greenhill]] - Square jaw human man with a fanciful mustache. Emile is a provisions merchant.
 - [[Gothrend Grinda]] - Head cleric at the chapel of [[Ilmater]] and friend to [[Kalir Windguard]]
 - [[Kalir Windguard]] - Fighter hero of castle sungrand. She went missing some time before the attack of [[Pallidmoore]].
-# Locations
+- [[Belle the Acolyte]] - Black haired human acolyte of the chapel beneath [[Gothrend Grinda]].
 
+# Locations
 ### Inner Keep
 - **Meeting Chamber**. The dark, spacious, stone room where [[Lord Margit Tormon]] holds his councils and assemblies. The chamber is supported by four thick pillars and exists after an antechamber into the keep itself. The ceiling is around 10ft tall so the room does not sacrifice efficiency for grandiosity.
 
