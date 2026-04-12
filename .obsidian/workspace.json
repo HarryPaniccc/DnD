@@ -6,7 +6,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 55.8041958041958,
+        "dimension": 50.5859375,
         "children": [
           {
             "id": "ae475d42e120be2e",
@@ -204,13 +204,12 @@
               "title": "Steinwalde"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "b24b6c3fef78da9f",
         "type": "tabs",
-        "dimension": 44.19580419580419,
+        "dimension": 49.4140625,
         "children": [
           {
             "id": "ea4155bcd1c76744",
@@ -434,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Desseran"
+              "title": "Outline of Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -497,7 +496,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447.5
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -511,11 +510,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b61348b0f370b515",
+  "active": "ae475d42e120be2e",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Oriothar the Monarch.md",
+    "Statblocks/Sylph Companion.md",
+    "World of Helodaria/Ophelia the Sylph.md",
     "Templates/Settlement.md",
-    "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Desseran.md",
+    "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Dularen.md",
     "World of Helodaria/Brocia.md",
     "World of Helodaria/Diredahl.md",
@@ -533,13 +537,8 @@
     "World of Helodaria/Rylai Sweetsong.md",
     "World of Helodaria/Isilme Vanariel.md",
     "World of Helodaria/Kanan Einzbern.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Primordials.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "World of Helodaria/Primevals.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Timeline.md",
     "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20260406222552.png",
