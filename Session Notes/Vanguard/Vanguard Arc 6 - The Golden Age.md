@@ -52,6 +52,7 @@ tags:
 - (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
+- *(18th) Caede wants to go home TODO*
 
 **Week 9 (Dulussahn 21st)**
 

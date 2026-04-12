@@ -6,6 +6,7 @@ tags:
 The centre of the [[Ruina]], geologically and in terms of trade routes, the large, bustling city of Dularen is as varied as it is spacious. The streets of the city are worn, many traders pass through there on foot. Every major guild has footing in Dularen: the [[Ashen Legion]] holds a fortress for training, the [[Pantheons]] hold an entire districts for worship, and the [[Imperial Arcanists]] have a large records library within the centre of the city. Every trading guild works hard to keep their hold within Dularen.
 
 The city is not only a centre for the wealthy but also a utopia for thieves. All kinds of shady businesses are run by the various gangs. On every street, a bar, every district a brothel, Dularen seeks to offer services for anyone and everyone. Even the [[Devil's Hand]] has a den hidden in the Warrens.
+
 ### Districts
 The large city has to be divided into districts, otherwise there would be no order or getting around the place. The districts are as follows: the Warrens, upper and lower, the Silver-Sewn Quarter, the Outer-City fields, the Adulation District and the Blooming Run (or the Bloom for short).
 
@@ -15,8 +16,8 @@ The Outer-City fields is the name of the region south of the city. The richest o
 
 # Notable Characters
 
-- [[Alfred Gundrei]]
-- [[Veylan Glovir]]
+- [[Alfred Gundrei]], citylord of Dularen with [[Zitrumea|Zitrumean]] heritage
+- [[Veylan Glovir]], human cleric of [[The Raven Queen]] at the [[Grave Nest]]
 - [[Persephone Adamos]] is a beautiful [[Pyleas|Pylean]] woman and member of the [[Uldronos Council]]
 - [[Brindor Shieldwall]] Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent
 - [[Lorgar Thell]] is the High Walker Half-Elven Cleric of the raven queen. He wears simple black priestly robes with tight sleeves and a deep hood. He has cold brown and deepening grey hair. He is often tending to the Grave Nests more valuable mausoleum in the central temple. He sounds like Bill Nighy.
@@ -28,16 +29,19 @@ The Outer-City fields is the name of the region south of the city. The richest o
 - [[Dick Pemberton]] is a short black haired halfling man who runs the Laughing Deck. A slimy, greedy bastard who will do little to earn what he gets and everything to keep it.
 - [[Gilligan Eiselcrest]] is an illegal necromancer human man who owns the Dead Beat bar and fighting ring. He is a prominent buyer from [[The Devil's Hand]] as he need corpses and materials for his games.
 - [[Hesmas]] is a minotaur that offers his strength to Gilligan as a live force of defense. He has a Pylean Accent, and doesn't leave the bar much because of the stereotypes of his race
-- [[Ivar Wittlewood]] is a human past his prime with greying hair often tied into a braid. He owns  the **Parting Log**, and is the father of [[Skoldr Wittlewood]].
+- [[Ivar Wittlewood]] is a human past his prime with greying hair often tied into a braid. He owns the **Parting Log**, and is the father of [[Skoldr Wittlewood]].
 - [[Skoldr Wittlewood]] is a human in his late 20s with dark hair often cut short. He has strong hands and arms, and is quite burly. He is the carpenter of [[Trayfort Keep]].
 - [[Eduleth Hallowleaf]] is a half elf soldier and a captain of the [[Ashen Legion]] contingent in Dularen.
+- [[Arbiter Elend Mindfire]] works for [[Persephone Adamos]] as her steward and friend
+
 # Locations
 ## Outer-City Fields
 ### Locations
 
 - [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. It is within an hour's ride from the city.
-- [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (3 hour normal travel). 
-- 
+- [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (2ish hour normal travel). 
+
+
 ## Silver-Strewn Quarter
 The Silver-Sewn Quarter is a walled-off, central part of the City, and it is where the prominent nobles and richer houses live, other than those who choose to live outside in the Outer-City fields. The District is well guarded and gated off, with a garrison of guards dedicated entirely to the watching of its walls.
 
@@ -48,12 +52,15 @@ Notable interior features include well-kept gardens, rich houses and, interestin
 - The [[Court of Verdicts]], a large stone pillared structure, made with sections of dark, strong oak and stone, acting as the primary meeting place for the [[Uldronos Council]].
 - The [[Imperial Annals]] (I am going to regret this name) is a stark structure of marbled stone and various pillars. It contains an incredible collection of knowledge, and operates as both a library and a meeting place for the [[Imperial Arcanists]].
 - [[Adamos Estate]] is a large property with rich gardens and home to the [[Adamos Family]]. Now, [[Persephone Adamos]] is the sole owner and her entourage of advisors stay with her too. The central keep has far more windows than other structures of the district, and large mosaics adorn many of the outer and inner walls. 
+
 ## Adulation District
 The Adulation District is the district devoted solely to worship of the Gods, their temples taking up a large portion of the space in this district. There are temples devoted to [[Tyr]], the [[Bahamut]], [[Corellon]] and [[Moradin]], but the largest structures in the area are the greater of the temples: The [[Grave Nest]], the [[Dularen Heart-Kiln]], and the [[Spire of Radiance]]. Being an area of great holy value, there are [[Lawbearers]] that patrol the streets, vigilantly ensuring that the peace of worship is undisturbed.
+
 ### Locations
 - The [[Grave Nest]] is both a graveyard and a place of worship to the followers of the Raven Queen. The area is approximately 75 hectares surrounded by well kept metal and stone fences and gates, the main gate about double the size of the smaller ones. There are a total of 5 temple-structures within the Nest, the largest of which acting as a central worshiping location. The location is dotted with trees and a great variance in grave sizes and level of affluence. There are stone benches, small shrines and pathways throughout the entire area.
 - The [[Spire of Radiance]] is an incredibly tall, prism-like structure that is a temple dedicated to [[Lathander]], the Lord of Radiance. Its height penetrates the skyline of Dularen, easily being the tallest structure in the city. Its base is a sturdy, light grey stone structure with stained glass windows of light, warm colours.
 - The Great [[Dularen Heart-Kiln]] is a wide based structure with banners depicting Moradin flowing around it in the wind. Decorated with elements of deep red and gold. There is a mighty forge at the center of this temple in the lower levels, but it pales in comparison to its sister in Mountreach. Nevertheless weapons and armour adorn the walls, as well as the great anvil in the center of the communal room being used to forge weapons and crafts ceremoniously. It is a spiritual place of dwarvish and communal strength. One of three Heart-Kilns in Eranulaid.
+- 
 
 ## Blooming Run
 The Blooming Run takes up the most amount of space of the districts. It houses the center of trade, the majority of the guard force of the city, and many of the lower-middle to high-middle class citizens of Dularen. Much of the trade that passes through Dularen is done in this district, specifically in the Peddle.

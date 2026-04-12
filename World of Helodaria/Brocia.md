@@ -20,6 +20,7 @@ Brocia is situated north of the [[Unnamed Forest South of Brocia]].
 - [[Azim Krasis]], Thri-Kreen peddler of various magical artefacts and contraband. Sounds like Variks if Variks was sly and played by Matt Mercer. He runs the [[Underfoot Tollhouse]], a magic item shop that deals in various darker items.
 - [[Stauton Culber]], a short, blond man from [[Desseran]] with comfortable tastes in clothing but who has a keen eye about him at all times. Hes also a guard for the [[Underfoot Tollhouse]]
 - [[Rudolph van Richten]] often spends his time in [[Brocia]]
+
 # Locations
 - The [[Underfoot Tollhouse]] is a hidden away shop at the base of a building next to a bridge that crosses the primary canal. [[Azim Krasis]] runs the shop as an exotic spice shop with the front name of **Exotic Spices And Powders**, but to those who know Azim he peddles lots of contraband for many people West of [[Desseran]]. Worked by [[Stauton Culber]]
 - **Clocktower**

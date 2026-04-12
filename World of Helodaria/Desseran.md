@@ -3,8 +3,8 @@ tags:
   - Settlement
 ---
 # Description
----
 The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay|Empire of Thay]].
+
 ## Politics
 ### The council who runs the city, made up of leaders of various factions
 - Leader of the [[Thayan Orthodoxy]]
@@ -43,10 +43,13 @@ During this time the war for the [[Nightshade Peaks]] was fought which culminate
 ### Modern Day
 
 
+# Notable Characters
+- [[Severa]] - High mage of the red wizards and political figure.
+- 
 
 
-# Notable Factions and Characters
----
+# Factions
+
 ## Military
 
 ## Religion
@@ -55,9 +58,11 @@ The city has a rich history of religious conflict and various worships, many bei
 - The [[Silver Talon]]
 - The [[Desseran Apostolate]]
 - [[Thayan Orthodoxy]]
+
 ### The [[Silver Talon]]
 The order of the [[Silver Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
 
 ## The [[Red Wizards of Thay]] 
+
 
 # Locations

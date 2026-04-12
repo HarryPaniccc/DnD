@@ -8,7 +8,8 @@
 
 ## Recap
 **Much has happened** these past weeks, too much to tell now, but here is what is most important.
-- Two years ago, when the home of [[House Vanariel]], [[Castle Anavar]], was assaulted by [[Alfred Gundrei|Lord Gundrei]] and [[General Isaac]] of the [[Boreal Conclave]], 
+- Two years ago, when the home of [[House Vanariel]], [[Castle Anavar]], was assaulted by [[Alfred Gundrei|Lord Gundrei]] and [[General Isaac]] of the [[Boreal Conclave]]. Ulrandir was arrested, and the house was brought to ruin.
+- 
 
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
@@ -24,6 +25,9 @@ Using XGE rules for researching.
 
 # What Gundrei Knows
 Gundrei loves Ruina, and in Ulrandir he sees a clear danger to his control.
+
+## Why not execute Ulrandir?
+Monologue explain the history Ruina
 
 
 # Section

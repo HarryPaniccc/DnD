@@ -11,7 +11,7 @@ tags:
 	- [x] Caede
 	- [ ] Silb
 
-### Miniatures
+## Miniatures
 - [x] Stone Arches
 - [ ] Cages x 2
 - [ ] Giant rats
@@ -34,21 +34,14 @@ tags:
 - [ ] Bowman/crossbowman
 - [ ] Chests
 - [ ] Stone Railing
-### Normal Stuff
+## Must Work On
 - [ ] **ANATHEMA**
-- [ ] Timeline
-- [ ] Magic item shops and spells specifically
-- [x] Come up with a name for the [[Convocation of the Talisman]]
-- [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
-- [ ] Rage potion
 - [ ] [[Eranulaid History]]
 - [ ] Name the mountains that Vasspryg is on
-- [ ] Kidnap someone
 - [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
-	- [ ] [[Severa]]
-- [ ] NPCs of importance to the vanguard
+	- [ ] [[Severa]] notes and stats
 - [ ] Caede's Necromantia contents
 - [ ] **MAPS**
 	- [ ] Digital maps?
@@ -57,7 +50,6 @@ tags:
 	- [ ] Desseran Regional Map
 	- [ ] Sirkonos
 - [ ] Bring all notes over
-	- [x] Dularen
 	- [ ] Characters
 		- [ ] Isilme
 		- [ ] Kanan
@@ -73,6 +65,14 @@ tags:
 	- [ ] Free shores
 	- [ ] Etc
 	- [ ] [[Nightshade Peaks]]
+
+## New Ideas
+- [ ] Timeline
+- [ ] Magic item shops and spells specifically
+- [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
+- [ ] Rage potion
+- [ ] Kidnap someone
+- [ ] NPCs of importance to the vanguard
 - [ ] Zitrumean Kingdoms
 	- [ ] Solari + Doomfist Society in Armoured lands
 	- [ ] [[Pyleas]]
@@ -85,9 +85,8 @@ tags:
 - [ ] Zitrumea Thieves Guild
 - [ ] Fall History
 - [ ] Innkeepers guild on Zitrumea
- - [x] Have Darius assassinate the Stormshield clan
-- [x] Zakuul motivations
-- [x] Sirkon motivations
+
+
 # Scratch Notes
 - Wood elf warriors
 - Spirit type stuff

@@ -8,7 +8,6 @@ Her birth came knowledgeably after the birth of the other gods of the pantheon. 
 
 Centuria is the daughter of [[Lathander]] and
 # Details
----
 ### Titles
 - Holder of the Azure
 - Star Weaver

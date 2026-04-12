@@ -28,8 +28,8 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Repair [[Lathran's Staff]]
 - Kanan must head the [[Battalion of the Silver Arrow]]
 - Something fishy is happening around [[Rokbaur Castle]] and [[Lord Malgus Kraber]]
-## Threads to Introduce
 
+## Threads to Introduce
 
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]

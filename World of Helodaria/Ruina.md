@@ -12,12 +12,13 @@ The Republic’s access to a rich landscape of excellent natural resources and v
 ### Pre-settlement and Settlement (Circa 0 P.F.)
 The shores of the [[Allhaven]] port were first settled near the end of the Fall, but for a long time the settlement was little more than just a port from which the spoils of the [[Platinum Highroad]] were shipped, supplying platinum to a large portion of [[Zitrumea]].
 
-After the fall, investments of the surviving noble houses began to funnel into the beginnings of the republic, and for around 200 years, the platinum trade flourished under the control of foreign guilds. After a while, the locals, who at this point had developed family roots in the area, began to realize the value of the nation that was growing, and wanted to establish Ruina as its own governed nation. So, the citizens of the then New-Ruinan Republic elected families that would each represent a portion of the race to which they belonged, so to ensure fair word for all. This marked the formation of the hereditary Uldronos Council, who still govern the Republic over 600 years later. The council would be headed by and organized by [[Uldrinea]], an [[Eldar]].
+After the fall, investments of the surviving noble houses began to funnel into the beginnings of the republic, and for around 200 years, the platinum trade flourished under the control of foreign guilds.
+
+### The Formation War
+As Ruinan society grew and family roots and attachments to the realm took hold, political struggle inevitably followed. Who would rule is always a question on the minds of the powerful. Skirmishes over land and resources ignited throughout the region, and Ruina was almost brought to horrible conflict, if not for the intervention of [[Uldrinea]], an [[Eldar]]. Under her guidance, Ruina elected a council of noble houses to rule in collaboration, guided by the wisdom of one of the few remaining [[Eldar]].
 
 ### Founding of [[Uldronos Council]]
-For a few years, a patchwork government protected trade routes and mostly kept the peace. After some time, a council of 14 members were elected based on an equal representation-population ratio, in which the amount of members from a race seated in the council would be a fraction of the council that is equal to the fraction of the population that represents that race. The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death.
-
-Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]].
+The council seats were hereditary, and in case an heir would not be found, the next of kin within the noble house would take the seat upon their death. Over time, the council adapted its membership, and adopted a few new seats as larger factions grew to power. The non-hereditary seats include the Arch Mage of the [[Imperial Arcanists]] and the [[High Paladin of Tyr]] at the temple of the Pantheons.
 
 # Geography
 The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]]. To the north are the [[Maghlas Mountains]], just north past the [[Shard Foothills]]. To the west sits the [[Mungandr Lake]] which leads to the ocean. At the centre of the Republic sits the [[Amberloch]], connected via the [[Eithval River]] to the [[Oakrot Woods]]. The [[Dularen Plains]] makes up the core of the Republic's territory. The [[Ashen Peaks]] form a barrier between the plains and [[Ralengrad]]. At the centre of the republic sits the [[Cresting Peaks]].
@@ -26,6 +27,7 @@ The Republic is on the Eastern Shores of the northmost continent of [[Eranulaid]
 A massive lake that marks the western border of Ruina.
 
 - [[Ironbase]]: A small settlement of farmers built around an old fortress left to the elements and the ages.
+
 ### The [[Dularen Plains]] and [[Platinum Highroad]]
 The center of the Republic, the Dularen Plains is a region of great prosperity for the Republic's people.
 

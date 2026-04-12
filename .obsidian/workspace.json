@@ -6,24 +6,10 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 49.790209790209786,
+        "dimension": 55.8041958041958,
         "children": [
           {
-            "id": "770d2990c53200d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "08389105e0321ab7",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,41 +23,27 @@
             }
           },
           {
-            "id": "78edd0f139636cdf",
+            "id": "18ba83968f35c37d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 92.5 - Uldrinea's Bane (Online).md",
+                "file": "World of Helodaria/Oriothar the Monarch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 92.5 - Uldrinea's Bane (Online)"
+              "title": "Oriothar the Monarch"
             }
           },
           {
-            "id": "f9f8bc01ae6e5083",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Ophelia the Sylph.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ophelia the Sylph"
-            }
-          },
-          {
-            "id": "a1573f6e89f7ff6e",
+            "id": "3db5b6b934640375",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Vanguard.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -79,49 +51,133 @@
             }
           },
           {
-            "id": "d1e81e80d2a662c6",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Gilded Resolution.md",
+                "file": "World of Helodaria/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gilded Resolution"
+              "title": "Primordials"
             }
           },
           {
-            "id": "07e4dcccee5c1684",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing and Crafting.md",
+                "file": "World of Helodaria/Primevals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing and Crafting"
+              "title": "Primevals"
             }
           },
           {
-            "id": "d15d65b1af37a005",
+            "id": "e840f11b0df225eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "title": "Vanguard Arc 7 - Unnamed"
             }
           },
           {
-            "id": "4ff31011dc1e2e7e",
+            "id": "49b934b9d79b95ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "0f3ee23846ab1eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "63ceb731a9172f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "0c524ea09f852add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Severa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa"
+            }
+          },
+          {
+            "id": "f7959fe287d59db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Severa Statblock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa Statblock"
+            }
+          },
+          {
+            "id": "6f6ecb1df20b4fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Dularen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dularen"
+            }
+          },
+          {
+            "id": "b61348b0f370b515",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,113 +191,113 @@
             }
           },
           {
-            "id": "06223d780826e8f8",
+            "id": "5978ae87d4d083c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "source",
+                "file": "World of Helodaria/Steinwalde.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deities of Helodaria"
+              "title": "Steinwalde"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       },
       {
-        "id": "c69a76bc41882942",
+        "id": "b24b6c3fef78da9f",
         "type": "tabs",
-        "dimension": 50.20979020979021,
+        "dimension": 44.19580419580419,
         "children": [
           {
-            "id": "d48399534c885ef2",
+            "id": "ea4155bcd1c76744",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/quickreference.html#bookref-quick,1,expenses",
-                "title": "Quick Reference - 5etools",
+                "url": "https://2014.5e.tools/races.html#human_phb",
+                "title": "Human - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Quick Reference - 5etools"
+              "title": "Human - 5etools"
             }
           },
           {
-            "id": "4e706e3a073fd307",
+            "id": "fd8a4e7685be9ff0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "Templates/Unit Template.md",
-                "mode": "preview",
-                "source": false
+                "url": "https://2014.5e.tools/bestiary.html#archmage_mm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "Unit Template"
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
             }
           },
           {
-            "id": "2b1de527138cbd75",
+            "id": "e8f1a9f6aa5cb12d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "webviewer",
               "state": {
-                "file": "(Unit) Trayfort Archers.md",
-                "mode": "preview",
-                "source": false
+                "url": "https://2014.5e.tools/items.html#mantle%20of%20spell%20resistance_dmg",
+                "title": "Mantle of Spell Resistance - 5etools",
+                "mode": "webview"
               },
-              "icon": "lucide-file",
-              "title": "(Unit) Trayfort Archers"
+              "icon": "globe-2",
+              "title": "Mantle of Spell Resistance - 5etools"
             }
           },
           {
-            "id": "031bf2d885cd8377",
+            "id": "e7a0cba678b1f23e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://5e.tools/bestiary.html#archmage_xmm",
+                "title": "Archmage - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Archmage - 5etools"
+            }
+          },
+          {
+            "id": "383945bd2ecbb48f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
+                "file": "World of Helodaria/Brocia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strongholds and Followers Notes"
+              "title": "Brocia"
             }
           },
           {
-            "id": "9711064668c4ce1b",
+            "id": "8d4581191169f624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(Unit) Trayfort Guards.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(Unit) Trayfort Guards"
-            }
-          },
-          {
-            "id": "5c82a3c269ca14b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dularen.md",
+                "file": "Templates/Settlement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dularen"
+              "title": "Settlement"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -260,7 +316,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -298,7 +354,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
+    "width": 276.5,
     "collapsed": true
   },
   "right": {
@@ -308,7 +364,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 71.82692307692308,
+        "dimension": 64.23076923076924,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -330,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+                "file": "Session Notes/Eclipse/Session 5 - A Den of Chitin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -340,7 +396,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
+              "title": "Backlinks for Session 5 - A Den of Chitin"
             }
           },
           {
@@ -349,12 +405,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
             }
           },
           {
@@ -364,7 +420,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -378,13 +434,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "World of Helodaria/Desseran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Notes and Ideas"
+              "title": "Outline of Desseran"
             }
           },
           {
@@ -401,12 +457,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 28.173076923076923,
+        "dimension": 35.76923076923077,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -435,38 +492,12 @@
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -480,38 +511,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "2b1de527138cbd75",
+  "active": "b61348b0f370b515",
   "lastOpenFiles": [
-    "(Unit) Trayfort Guards.md",
-    "(Unit) Trayfort Archers.md",
-    "World of Helodaria/Dularen.md",
-    "Templates/Unit Template.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "World of Helodaria/Dragons of Helodaria.md",
-    "World of Helodaria/Ruina.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Administration and Other Notes/Strongholds and Followers Notes.md",
+    "Templates/Settlement.md",
+    "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Desseran.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "Session 92.5 - Uldrinea's Bane (Online).md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Brocia.md",
+    "World of Helodaria/Diredahl.md",
     "General Notes and Ideas.md",
-    "Dungeon of Castle Sungrand.md",
-    "Session 15 -.md",
-    "Session 14 - Mold and Rats.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Nethendell Valley Map Notes.md",
-    "World of Helodaria/Blackhand Tower.md",
-    "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
-    "Items/Resolve.md",
-    "Items/Arrow-Catching Shield.md",
-    "Statblocks/Yellow Mold Skeleton.md",
-    "Junk 1.md",
+    "Veylan Glovir.md",
+    "Statblocks/Severa Statblock.md",
+    "Attachments/Pasted image 20240320125108.png",
+    "World of Helodaria/Centuria.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Sehanine.md",
+    "World of Helodaria/Bahamut.md",
+    "World of Helodaria/Dusk.md",
+    "World of Helodaria/Silb Heft.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Rylai Sweetsong.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Primordials.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Primevals.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Timeline.md",
+    "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20260406222552.png",
     "Attachments/Pasted image 20260406222501.png",
-    "Attachments/Pasted image 20240320125108.png",
     "Attachments/Pasted image 20260331220411.png",
     "Attachments/Pasted image 20251101122230.png",
     "Attachments/Red Hand of Doom.pdf",
@@ -527,7 +559,6 @@
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/RylaiPFPCrop.jpg",
-    "Attachments/Worldographer/Ruina-autosave.wxx",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

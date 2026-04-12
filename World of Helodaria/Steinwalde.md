@@ -30,6 +30,7 @@ Sometime during the [[Age of Ascension]], the city was founded by [[Urthir Stone
 - [[Grelchar the Keen]] - Master craftsman, and one of the best smiths in Steinwalde.
 - [[Thran the Anvil]] - A monk with hands sown with steel, Thran is the prime authority on the conditioning of the greatest of Steinwalde's warriors.
 - [[Elmsier the Keeper]] - Head of the historians of Steinwalde, and keeper of the records of their great works.
+
 ### The [[Flamebrands]]
 A battalion of soldiers known particularly for their red dragon hunting tactics. Many bear scars, often their armour is molded to show them off as marks of pride, where it is practical. They always carry [[Potion of Fire Resistance|potions of fire resistance]], as well as thick armours, heavy crossbows made to bring down their prey, and bridges so that they might span gaps near where their hunt is.
 
