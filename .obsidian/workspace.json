@@ -353,8 +353,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -433,13 +432,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Templates/Settlement.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline of Settlement"
             }
           },
           {
@@ -510,10 +509,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ae475d42e120be2e",
+  "active": "8d4581191169f624",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "World of Helodaria/Oriothar the Monarch.md",
     "Statblocks/Sylph Companion.md",
     "World of Helodaria/Ophelia the Sylph.md",
