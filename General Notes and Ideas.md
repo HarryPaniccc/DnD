@@ -36,6 +36,7 @@ tags:
 - [ ] Stone Railing
 ## Must Work On
 - [ ] **ANATHEMA**
+- [ ] Notes on [[Uldrinea]]
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
 - [ ] [[Eranulaid History]]
