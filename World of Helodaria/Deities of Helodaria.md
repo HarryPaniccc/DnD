@@ -47,8 +47,9 @@ Probably deleting this guy
 - [[Das Moge]], Betrayal's Muse (No Alignment)
 # The [[Primordials]]
 The Primordials are ancient forces of nature and the universe. Some say they existed before time, others say they were born of the personification of the forces of the world as it was percieved.
-# The [[Elder Evils]]
 
+# The [[Elder Evils]]
+> NOTE: Distinguish between the [[Elder Evils]] and the [[Primevals]]? Should they be the same? What is their relation to the [[Seed of the Abyss]]?
 
 # Other Gods
 - [[Vecna]], Hoarder of Secrets (NE)
@@ -57,13 +58,16 @@ The Primordials are ancient forces of nature and the universe. Some say they exi
 - [[Mystra]], the Lady of the Weave
 ## Gods to add
 - [[Cyric]], prince of the dark sun
-- 
+
 # Lesser Idols and Deities
 ## Archdevils
 Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. They are often prayed to by cultists, and they, or their subordinates, often act as warlock patrons.
 ## Demon Lords
+>Note: Add [[Obyriths]] and the difference to the [[Tanar'ri]]
+
 - [[Orcus]], the Blood Lord
 - 
+
 ## Archfey
 - [[Athelstan]], the Bloodfey
 ## Celestials

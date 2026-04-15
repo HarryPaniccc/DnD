@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uldrinea.md",
+                "file": "World of Helodaria/Uldrinea.md",
                 "mode": "source",
                 "source": false
               },
@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -415,15 +415,19 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08389105e0321ab7",
+  "active": "78edd0f139636cdf",
   "lastOpenFiles": [
-    "Uldrinea.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session 92.5 - Uldrinea's Bane (Online).md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Dularen.md",
+    "World of Helodaria/Heart of the Abyss.md",
+    "Seed of the Abyss.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Tanar'ri.md",
+    "World of Helodaria/Uldrinea.md",
+    "Session 92.5 - Uldrinea's Bane (Online).md",
     "World of Helodaria/Ruina.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/Desseran.md",
     "Statblocks/Units/(Unit) Trayfort Guards.md",
     "World of Helodaria/Trayfort Keep.md",
@@ -432,7 +436,6 @@
     "World of Helodaria/Gilded Resolution.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Ophelia the Sylph.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "General Notes and Ideas.md",
     "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Primordials.md",
@@ -440,9 +443,6 @@
     "World of Helodaria/Steinwalde.md",
     "Statblocks/Severa Statblock.md",
     "Severa.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Timeline.md",
-    "World of Helodaria/Primevals.md",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
