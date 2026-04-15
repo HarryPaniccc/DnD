@@ -5,7 +5,7 @@ aliases:
 
 > [!infobox|left wm-sm static]
 > # TRAFORT ARCHERS
-> ### human regular medium archers
+> ### (*human regular medium archers*)
 >  | |
 >  | - |
 > Cost: 253

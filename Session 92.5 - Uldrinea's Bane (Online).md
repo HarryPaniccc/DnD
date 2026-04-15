@@ -26,6 +26,8 @@ Using XGE rules for researching.
 # What Gundrei Knows
 Gundrei loves Ruina, and in Ulrandir he sees a clear danger to his control.
 
+- History about [[Uldrinea]]
+
 ## Why not execute Ulrandir?
 Monologue explain the history Ruina
 

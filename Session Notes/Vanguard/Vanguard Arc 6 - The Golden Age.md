@@ -46,6 +46,7 @@ tags:
 - (9th) [[Ulfric Straven]] asks for more funds for the keep. Rylai and Dusk pay a total of 450 gp to him.
 - (11th) [[Dusk]] finishes her research and attracts a group of archers.
 - (13th) Caede and Kanan save [[Theord Homestead]] from a raid by giantkin
+- (13th) [[Dusk]] officially hires the archers
 
 **Week 8 (Dulussahn 14th)**
 - (14th) [[Skoldr Wittlewood]] concludes repairs on the keep.
@@ -53,6 +54,7 @@ tags:
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 - *(18th) Caede wants to go home TODO*
+- (20th) Gundrei dinner
 
 **Week 9 (Dulussahn 21st)**
 

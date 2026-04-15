@@ -8,6 +8,7 @@ Trayfort Keep is the home of the [[Vanguard]] located in the [[Ruina]], in the O
 - [[Meeek]] - A white [[Kobold]] rescued by the Vanguard from the mountain above [[Vasspryg]]
 - [[Skoldr Wittlewood]] - the Carpenter who Caede sought aid from in his personal projects and who he hired to fix the keep up a bit.
 - [[Ulfric Straven]] - Ex [[Ashen Legion]] captain. He acts as the master of house and steward of the Vanguard. He keeps the wages in check in a well organized ledger. **His wage is 180 gp per month.**
+- [[Kavvath]] - Light red tiefling lietenant of the archers
 ### Other Staff
 
 - 2 Cooks - 1gp per day or 30 gp per month
@@ -15,6 +16,7 @@ Trayfort Keep is the home of the [[Vanguard]] located in the [[Ruina]], in the O
 
 ### Treasury:
 Need to track the amount of money Ulfric has and who has been paid for when.
+Skye is managing the treasury
 
 |     | **Balance** | **Treasury** |
 | --- | ----------- | ------------ |
@@ -64,6 +66,7 @@ Barracks temporarily upgrade the experience level of some number of units by one
 [See here for unit card generation](https://freddybushboy.github.io/unit-cards/) Or just use the [[Unit Template]].
 ### Guards
 - [[(Unit) Trayfort Guards|Trayfort Guards]]
+- [[(Unit) Trayfort Archers]]
 
 # Layout
 ### Library

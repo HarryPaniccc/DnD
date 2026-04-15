@@ -12,5 +12,6 @@
   "spellcheck": false,
   "readableLineLength": false,
   "showLineNumber": false,
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }
