@@ -8,12 +8,12 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 # Active Plot Points/Quests/Things to Remember
 ## Next Sessions (Working on)
 - **Caede, Kanan** [[Session 91.5 - Hammer to Anvil (Online)]]
-- **Dusk, Isilme, Rylai** [[Session 92.5 - Uldrinea's Bane (Online)]]
+- **Dusk, Isilme, Rylai** [[Session 93 - Uldrinea's Bane]]
 
 ## Status Tracker
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
-- [[Helm of Teleportation]]: [[Kanan Einzbern]]. Soon to be [[Caede]] after [[Session 92.5 - Uldrinea's Bane (Online)]]
+- [[Helm of Teleportation]]: [[Kanan Einzbern]]. Soon to be [[Caede]] after [[Session 93 - Uldrinea's Bane]]
 
 ## Active Threads and Goals
 - [[Isilme Vanariel]]'s Dhampirism consequences
@@ -47,7 +47,7 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
 
 #### Past Sessions
-- [[Session 92.5 - Uldrinea's Bane (Online)]]
+- [[Session 93 - Uldrinea's Bane]]
 - [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 - [[Session 91.5 - Hammer to Anvil (Online)]]
 - [[Session 91 - Steinwalde]]

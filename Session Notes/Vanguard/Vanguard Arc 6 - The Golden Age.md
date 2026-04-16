@@ -219,7 +219,7 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 ## [[Minra Vanariel]]
 
 ## [[Ulrandir Vanariel]]
-- [[Session 92.5 - Uldrinea's Bane (Online)]]
+- [[Session 93 - Uldrinea's Bane]]
 
 # [[Dusk]]
 - [ ] Practice blade singing
