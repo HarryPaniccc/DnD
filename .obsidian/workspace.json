@@ -4,196 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "770d2990c53200d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "08389105e0321ab7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "78edd0f139636cdf",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Uldrinea.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uldrinea"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "a1573f6e89f7ff6e",
+            "id": "671a32e02c955620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vanguard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard"
-            }
-          },
-          {
-            "id": "d1e81e80d2a662c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Gilded Resolution.md",
+                "file": "Session 14 - Mold and Rats (Go Deeper, My King).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gilded Resolution"
+              "title": "Session 14 - Mold and Rats (Go Deeper, My King)"
             }
           },
           {
-            "id": "07e4dcccee5c1684",
+            "id": "9ad8247b91b7e549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pricing and Crafting.md",
+                "file": "Session 15 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing and Crafting"
+              "title": "Session 15 -"
             }
           },
           {
-            "id": "d15d65b1af37a005",
+            "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "Dungeon of Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "title": "Dungeon of Castle Sungrand"
             }
           },
           {
-            "id": "4ff31011dc1e2e7e",
+            "id": "4da08dbd4a5cacce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
+                "file": "World of Helodaria/Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran"
+              "title": "Castle Sungrand"
             }
           },
           {
-            "id": "06223d780826e8f8",
+            "id": "8251815e2aea9a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
+                "file": "Nethendell Valley Map Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deities of Helodaria"
-            }
-          },
-          {
-            "id": "031bf2d885cd8377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strongholds and Followers Notes"
-            }
-          },
-          {
-            "id": "16449398ed3dd38a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Ruina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruina"
-            }
-          },
-          {
-            "id": "5c82a3c269ca14b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dularen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dularen"
-            }
-          },
-          {
-            "id": "e39c8d40c0cfb3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 93 - Uldrinea's Bane.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 93 - Uldrinea's Bane"
+              "title": "Nethendell Valley Map Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -237,7 +136,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -245,12 +144,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "e0f42a9e678e0b1e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#water%20elemental_mm",
+                "title": "Water Elemental - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Water Elemental - 5etools"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 385.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -259,7 +173,6 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 67.6923076923077,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -281,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 999 - The Temple of Elemental Evil.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 999 - The Temple of Elemental Evil"
+              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
             }
           },
           {
@@ -300,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Uldronos Council.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Uldronos Council"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -315,9 +228,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -329,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes and Ideas.md",
+                "file": "Dungeon of Castle Sungrand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of General Notes and Ideas"
+              "title": "Outline of Dungeon of Castle Sungrand"
             }
           },
           {
@@ -353,71 +264,11 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "92400877833113eb",
-        "type": "tabs",
-        "dimension": 32.30769230769231,
-        "children": [
-          {
-            "id": "bf82f9f28d38c15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guidelines"
-            }
-          },
-          {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -432,10 +283,16 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "770d2990c53200d2",
+  "active": "c5fed135f8b54827",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session 15 -.md",
+    "Statblocks/Yellow Mold Skeleton.md",
+    "Session 14 - Mold and Rats (Go Deeper, My King).md",
+    "General Notes and Ideas.md",
+    "Guidelines.md",
+    "Dungeon of Castle Sungrand.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session 93 - Uldrinea's Bane.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Uldrinea.md",
@@ -453,13 +310,7 @@
     "Pricing and Crafting.md",
     "World of Helodaria/Gilded Resolution.md",
     "World of Helodaria/Ophelia the Sylph.md",
-    "General Notes and Ideas.md",
     "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Primordials.md",
-    "Bloodgate Keep.md",
-    "World of Helodaria/Steinwalde.md",
-    "Statblocks/Severa Statblock.md",
-    "Severa.md",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",

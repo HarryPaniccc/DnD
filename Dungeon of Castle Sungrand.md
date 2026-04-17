@@ -85,8 +85,18 @@ This zone is untravelled, save for Canon's trips down the main vector of the dun
 
 
 ## 11. Gallery
+**Long Hallway**
 
+# Level 2:
+## 1. Collection Cistern
+**Slow Flowing Water**. Grand room of almost still pool. Platform looks in, and gunk floats in the pool
+- **Exit Tunnel**. Water flows out of the tunnel ahead of the door. The walkway out is collapsed.
+- **Waterfall**. Water flows in to the chamber on the left.
 
-## [[Yellow Mold Skeleton]]s
+## 2. Dry Tunnel (Leads to F1A8)
 
-# Level 2: Rooms
+## 3. Elemental Tunnel
+
+## 4. Eel Den
+
+## 5. Dry Catchment Chamber

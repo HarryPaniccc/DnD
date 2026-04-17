@@ -4425,11 +4425,11 @@
           {
             "id": "ad403f483996d6ec",
             "type": "tabs",
-            "dimension": 49.790209790209786,
             "children": [
               {
                 "id": "770d2990c53200d2",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -4437,6 +4437,7 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Vanguard Campaign Journal"
                 }
@@ -4444,6 +4445,7 @@
               {
                 "id": "08389105e0321ab7",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -4451,6 +4453,7 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "Vanguard Arc 6 - The Golden Age"
                 }
@@ -4461,26 +4464,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session 92.5 - Uldrinea's Bane (Online).md",
+                    "file": "World of Helodaria/Uldrinea.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 92.5 - Uldrinea's Bane (Online)"
-                }
-              },
-              {
-                "id": "f9f8bc01ae6e5083",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Ophelia the Sylph.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ophelia the Sylph"
+                  "title": "Uldrinea"
                 }
               },
               {
@@ -4566,27 +4555,6 @@
                   "icon": "lucide-file",
                   "title": "Deities of Helodaria"
                 }
-              }
-            ]
-          },
-          {
-            "id": "c69a76bc41882942",
-            "type": "tabs",
-            "dimension": 50.20979020979021,
-            "children": [
-              {
-                "id": "d48399534c885ef2",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/quickreference.html#bookref-quick,1,expenses",
-                    "title": "Equipment - Quick Reference - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Equipment - Quick Reference - 5etools"
-                }
               },
               {
                 "id": "031bf2d885cd8377",
@@ -4600,6 +4568,20 @@
                   },
                   "icon": "lucide-file",
                   "title": "Strongholds and Followers Notes"
+                }
+              },
+              {
+                "id": "16449398ed3dd38a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Ruina.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ruina"
                 }
               },
               {
@@ -4617,21 +4599,20 @@
                 }
               },
               {
-                "id": "16449398ed3dd38a",
+                "id": "e39c8d40c0cfb3e9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Ruina.md",
-                    "mode": "source",
+                    "file": "Session 93 - Uldrinea's Bane.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ruina"
+                  "title": "Session 93 - Uldrinea's Bane"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical"
@@ -4688,8 +4669,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 275.5,
-        "collapsed": true
+        "width": 307.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -4791,7 +4771,8 @@
                   "title": "All properties"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "92400877833113eb",
@@ -4855,7 +4836,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 339.5
+        "width": 339.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -4869,9 +4851,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "4cb96e6d4287e8a5",
-      "mtime": "2026-04-12T11:55:32+02:00"
+      "active": "770d2990c53200d2",
+      "mtime": "2026-04-16T22:03:44+02:00"
     }
   },
-  "active": "Trayfort Downtime (Formerly Rylai)"
+  "active": "Eclipse"
 }

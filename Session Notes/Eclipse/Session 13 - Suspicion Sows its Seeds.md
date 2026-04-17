@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 12 - The Clock Strikes Twelve]]
-**Subsequent Session:** [[Session 14 - Mold and Rats]]
+**Subsequent Session:** [[Session 14 - Mold and Rats (Go Deeper, My King)]]
 ## Post Mortem
 **Vanadrahs 17th**
 - The group speak with [[Canon Valaris]] and try and organize a meeting with [[Lord Margit Tormon]]. They agree to have breakfast with him

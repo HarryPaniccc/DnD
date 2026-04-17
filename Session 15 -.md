@@ -1,4 +1,4 @@
-**Previous Session:** [[Session 14 - Mold and Rats]]
+**Previous Session:** [[Session 14 - Mold and Rats (Go Deeper, My King)]]
 **Subsequent Session:** [[Session 16 - ]]
 ## Post Mortem
 
@@ -31,9 +31,9 @@ The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
 	- Sewers
 
 # Battle with Spectator + Gargoyles
-Something happens
 
 
-# Section
+# Doppelganger
 Something else happens
 
+# Mimic Lever + [[Yellow Mold Skeleton]]s
