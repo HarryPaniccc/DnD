@@ -87,16 +87,51 @@ This zone is untravelled, save for Canon's trips down the main vector of the dun
 ## 11. Gallery
 **Long Hallway**
 
-# Level 2:
+# Level 2: Rooms 1 - 9 (South Path)
+**Abandoned Sewers**. Dirty water, but not horribly ruined. Mucky, algae. Some animal feces.
+>**Summaries**: 3 x **giant lightning eels**, **darkmantle**. **Water Elemental**.
+
 ## 1. Collection Cistern
 **Slow Flowing Water**. Grand room of almost still pool. Platform looks in, and gunk floats in the pool
 - **Exit Tunnel**. Water flows out of the tunnel ahead of the door. The walkway out is collapsed.
 - **Waterfall**. Water flows in to the chamber on the left.
 
 ## 2. Dry Tunnel (Leads to F1A8)
+**Long stagnant water.** Brick tunnel with no running water. Collapsed section heading south.
+- **Cave in**. The structure has failed leading to the catchment chamber, but can be squeezed through or dug out.
 
 ## 3. Elemental Tunnel
+**Calm flowing water**. Quiet, dripping sounds. Gentle trickle.
+- **Crossroads Elemental**. Water elemental attacks anyone who disturbes the water.
 
 ## 4. Eel Den
+**Waterfall into chamber below**. A connection chamber with a raised platform in the center.
+- **Eel Nest**. The water below houses three **Giant Lightning Eels**. Above the platform sits a **Darkmantle**
+
 
 ## 5. Dry Catchment Chamber
+idk what is in here
+
+## 6. Hidden Elven Passage
+**Submerged connector**. Tunnel needs to be swam through
+- **To Tombs**. This area leads up to floor 3.
+
+## 7. Corpse Stew
+**Blood drips into the water**. Corpses hang from hooks from grates along the wall. Dead guards, recent. Entrails stretch below some. Farmers and corpses. Runes carved in the foreheads of some. Rats and maggots.
+
+## 8. Water Cavern
+**Clean Water**. Fish swim within. Small ecosystem.
+
+## 9. Well to Above
+**Natural light** gleams down from the opening well during the day
+
+## 10. Primary Channel
+## 11. Entrance Catchment Area
+- **Loot**. Under the water is a large collection of dropped keys, ruined pikes, and a **Perception 15** lets you 
+
+## 12. Filtration Room
+- **Hidden Corpse**. Dead goblin surrounded by effigies and 14 platinum pieces.
+
+## 13. Conspiracy Chamber
+Where [[Malphur]] meets with the goblin messangers. Firelight from within.
+- Thee **bugbears**

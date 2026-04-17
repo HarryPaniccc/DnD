@@ -4,91 +4,161 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "671a32e02c955620",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 14 - Mold and Rats (Go Deeper, My King).md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 14 - Mold and Rats (Go Deeper, My King)"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "9ad8247b91b7e549",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 15 -.md",
+                "file": "World of Helodaria/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 15 -"
+              "title": "Primordials"
             }
           },
           {
-            "id": "c5fed135f8b54827",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon of Castle Sungrand.md",
+                "file": "World of Helodaria/Primevals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
+              "title": "Primevals"
             }
           },
           {
-            "id": "4da08dbd4a5cacce",
+            "id": "49b934b9d79b95ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
+                "file": "Timeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Sungrand"
+              "title": "Timeline"
             }
           },
           {
-            "id": "8251815e2aea9a57",
+            "id": "e840f11b0df225eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
+              "title": "Vanguard Arc 7 - Unnamed"
+            }
+          },
+          {
+            "id": "63ceb731a9172f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "0c524ea09f852add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Severa.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa"
+            }
+          },
+          {
+            "id": "f7959fe287d59db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Severa Statblock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa Statblock"
+            }
+          },
+          {
+            "id": "b61348b0f370b515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran"
+            }
+          },
+          {
+            "id": "cb0a3bb9f91cc8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
             }
           }
         ],
@@ -136,7 +206,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -144,27 +214,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "e0f42a9e678e0b1e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#water%20elemental_mm",
-                "title": "Water Elemental - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Water Elemental - 5etools"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 315.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -174,6 +229,53 @@
         "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
+            }
+          },
+          {
+            "id": "c7b8b91b2cdfe6ba",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#giant%20rat_mm",
+                "title": "Giant Rat - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Giant Rat - 5etools"
+            }
+          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -189,36 +291,18 @@
             }
           },
           {
-            "id": "b3c79ccde858898a",
+            "id": "f913bfe3e075c876",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "icon": "lucide-list",
+              "title": "Outline of Red Wizards of Thay"
             }
           },
           {
@@ -228,25 +312,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f913bfe3e075c876",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Dungeon of Castle Sungrand.md",
-                "followCursor": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline of Dungeon of Castle Sungrand"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -264,12 +335,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,34 +353,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5fed135f8b54827",
+  "active": "85502860378e5ee7",
   "lastOpenFiles": [
-    "Session 15 -.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "Timeline.md",
+    "World of Helodaria/Primevals.md",
+    "World of Helodaria/Primordials.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Desseran.md",
+    "Statblocks/Severa Statblock.md",
+    "World of Helodaria/Severa.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "World of Helodaria/Leah Gashin.md",
+    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
+    "Session Notes/Eclipse/Session 16 -.md",
     "Statblocks/Yellow Mold Skeleton.md",
-    "Session 14 - Mold and Rats (Go Deeper, My King).md",
+    "World of Helodaria/Cened.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Nethendell Valley Map Notes.md",
+    "Session Notes/Eclipse/Session 14 - Mold and Rats (Go Deeper, My King).md",
+    "World of Helodaria/Malphur.md",
     "General Notes and Ideas.md",
     "Guidelines.md",
-    "Dungeon of Castle Sungrand.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session 93 - Uldrinea's Bane.md",
+    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Uldrinea.md",
     "World of Helodaria/Dularen.md",
-    "World of Helodaria/Heart of the Abyss.md",
-    "Seed of the Abyss.md",
-    "World of Helodaria/Deities of Helodaria.md",
-    "Tanar'ri.md",
-    "World of Helodaria/Ruina.md",
-    "Administration and Other Notes/Strongholds and Followers Notes.md",
-    "World of Helodaria/Desseran.md",
-    "Statblocks/Units/(Unit) Trayfort Guards.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Statblocks/Units/(Unit) Trayfort Archers.md",
-    "Pricing and Crafting.md",
-    "World of Helodaria/Gilded Resolution.md",
-    "World of Helodaria/Ophelia the Sylph.md",
-    "World of Helodaria/Red Wizards of Thay.md",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",

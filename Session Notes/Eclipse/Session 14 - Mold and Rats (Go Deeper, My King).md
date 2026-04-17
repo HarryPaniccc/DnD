@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 13 - Suspicion Sows its Seeds]]
-**Subsequent Session:** [[Session 15 -]]
+**Subsequent Session:** [[Session 15 - A Knife in the Back]]
 ## Post Mortem
 **Vanadrahs 17th**
 - After [[Togwae]] and [[Ferro]] finish their scouting mission, the group takes an hour rest to wait for [[Lord Margit Tormon|Margit Tormon]] to meet them
