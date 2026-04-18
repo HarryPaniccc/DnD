@@ -9,10 +9,8 @@ tags:
 - Tevis is acquainted with [[Shrute]]
 
 # Description
----
 Tevis has long black bair with piercing, cold blue eyes
 # Biography
----
 Tevis was captured by [[Lucius]] and transformed into the Vorciln Enforcer, where he played the head role in hunting down the stragglers of Einzberns who escaped at the same time as Kanan.
 
 ### [[Vanguard Arc 6 - The Golden Age]]

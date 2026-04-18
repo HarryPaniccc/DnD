@@ -36,6 +36,7 @@ The Founding Gods are divided into two categories: The [[Creation Gods]], Gods o
 - [[Tyr]], The Lawbearer - God of Law and Civilisation (LN)
 - [[Umberlee]], The Storm Weaver - God of the Sea and Storms (CN)
 ## The [[Destroyer Gods]]
+
 - [[Asmodeus]], Lord of the Damned - God of Tyranny, Power and Lies. (LE)
 - [[Gruumsh]], The Ruiner - God of Hordes, War and Ruin. (CE)
 - [[Lolth]], the Spider Queen - Goddess of Manipulation, Betrayal and Torture. (NE)
@@ -66,7 +67,8 @@ Archdevils, or the Lords of the [[Nine Hells]], are powerful infernal fiends. Th
 >Note: Add [[Obyriths]] and the difference to the [[Tanar'ri]]
 
 - [[Orcus]], the Blood Lord
-- 
+- [[Demogorgon]], the Prince of Demons
+- [[Eltab]], the Hidden Lord
 
 ## Archfey
 - [[Athelstan]], the Bloodfey

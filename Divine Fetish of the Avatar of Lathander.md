@@ -1,3 +1,9 @@
+---
+tags:
+  - Lore
+---
+
+
 # Dawn Caller's Shroud (working title) - maybe name after the avatar
 *Wondrous Item, Legendary, Requires Attunement*
 

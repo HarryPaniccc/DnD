@@ -8,8 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f3ee23846ab1eb0",
+            "id": "770d2990c53200d2",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,13 +18,15 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "ae475d42e120be2e",
+            "id": "08389105e0321ab7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -31,138 +34,98 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "d26a1d76887754db",
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primordials"
+              "title": "Session 93 - Uldrinea's Bane"
             }
           },
           {
-            "id": "85502860378e5ee7",
+            "id": "a1573f6e89f7ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primevals.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primevals"
+              "title": "Vanguard"
             }
           },
           {
-            "id": "49b934b9d79b95ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "e840f11b0df225eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 7 - Unnamed"
-            }
-          },
-          {
-            "id": "63ceb731a9172f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
-            }
-          },
-          {
-            "id": "0c524ea09f852add",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Severa.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severa"
-            }
-          },
-          {
-            "id": "f7959fe287d59db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Severa Statblock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severa Statblock"
-            }
-          },
-          {
-            "id": "b61348b0f370b515",
+            "id": "4ff31011dc1e2e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Desseran.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Desseran"
             }
           },
           {
-            "id": "cb0a3bb9f91cc8f2",
+            "id": "248394f0f5cb2d27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "file": "World of Helodaria/Steinwalde.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steinwalde"
+            }
+          },
+          {
+            "id": "06223d780826e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
+              "title": "Deities of Helodaria"
+            }
+          },
+          {
+            "id": "031bf2d885cd8377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strongholds and Followers Notes"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +144,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -214,12 +177,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "53f23441ad921b38",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/bestiary.html#aspect%20of%20bahamut_ftd",
+                "title": "Aspect of Bahamut - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Aspect of Bahamut - 5etools"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 337.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -229,53 +207,6 @@
         "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
-          {
-            "id": "b3c79ccde858898a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Red Wizards of Thay"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Items/Bloodthirster Helm or Helm of the Ceaseless.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Bloodthirster Helm or Helm of the Ceaseless"
-            }
-          },
-          {
-            "id": "c7b8b91b2cdfe6ba",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#giant%20rat_mm",
-                "title": "Giant Rat - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Giant Rat - 5etools"
-            }
-          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -291,18 +222,36 @@
             }
           },
           {
-            "id": "f913bfe3e075c876",
+            "id": "b3c79ccde858898a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "followCursor": false,
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of Red Wizards of Thay"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 93 - Uldrinea's Bane"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 93 - Uldrinea's Bane"
             }
           },
           {
@@ -312,12 +261,27 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 93 - Uldrinea's Bane"
             }
           },
           {
@@ -335,11 +299,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 339.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,34 +318,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "85502860378e5ee7",
+  "active": "78edd0f139636cdf",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "Timeline.md",
-    "World of Helodaria/Primevals.md",
-    "World of Helodaria/Primordials.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Desseran.md",
-    "Statblocks/Severa Statblock.md",
-    "World of Helodaria/Severa.md",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "World of Helodaria/Leah Gashin.md",
-    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
-    "Session Notes/Eclipse/Session 16 -.md",
-    "Statblocks/Yellow Mold Skeleton.md",
-    "World of Helodaria/Cened.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Nethendell Valley Map Notes.md",
-    "Session Notes/Eclipse/Session 14 - Mold and Rats (Go Deeper, My King).md",
-    "World of Helodaria/Malphur.md",
-    "General Notes and Ideas.md",
-    "Guidelines.md",
     "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
-    "World of Helodaria/Vanguard.md",
+    "Administration and Other Notes/Strongholds and Followers Notes.md",
+    "World of Helodaria/Ruina.md",
+    "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
+    "Platinum Highroad.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Isilme Vanariel.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "World of Helodaria/Kanan Einzbern.md",
+    "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Uldrinea.md",
+    "World of Helodaria/Vanguard.md",
+    "World of Helodaria/Desseran.md",
+    "World of Helodaria/Steinwalde.md",
+    "Unnamed Avatar of the Bahamut.md",
+    "Divine Fetish of the Avatar of the Bahamut.md",
+    "Fetishes of the Resurgence.md",
+    "Divine Fetish of the Avatar of Lathander.md",
+    "World of Helodaria/Lathran, Avatar of Lathander.md",
+    "Templates/Settlement.md",
+    "World of Helodaria/Gilded Resolution.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Dularen.md",
+    "Eltab.md",
+    "Attachments/Pasted image 20260418112545.png",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
@@ -400,7 +366,6 @@
     "Attachments/Pasted image 20260121094334.png",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
-    "Attachments/RylaiPFPCrop.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

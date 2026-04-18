@@ -2,16 +2,54 @@
 tags:
   - Settlement
 ---
+>[!infobox|sm]+
+># Desseran
+> ![[Pasted image 20260418112545.png]]
+># General Information
+>| | |
+>| - | - |
+>| Population| Approximately 300 000 |
+
 # Description
-The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay|Empire of Thay]].
+The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay|Empire of Thay]]. The origin of [[Human]] civilisation, the oldest still standing city in [[Eranulaid]], and a cultural and religious center, Desseran is known as the **Throne of Gods**, being the home of the God Kings of the [[Desseran Apostolate]] in ages past.
+
+The city is a sprawling metropolis built and rebuilt many times over its thousands of years of history. A center of trade for Eranulaid, one can find many travellers from across the continent and beyond coming to Desseran. [[Sirkonos|Sirkonian]], [[Ruina|Ruinan]] and [[Zitrumea|Zitrumean]] traders all make their ways to the city.
 
 ## Politics
+
 ### City Council (RENAME)
 - Leader of the [[Thayan Orthodoxy]]
 - [[Silver Talon]] Leader
 - [[Desseran Apostolate]]
 
 Politics area should discuss the relationships between the factions, and not the factions. That should go in the [[#Factions]] section (duh).
+
+# Notable Characters and Factions
+- [[Severa]] - High mage of the red wizards and political figure.
+- [[Bahamut Avatar Descendant]] - Grandmaster of the knights of the [[Silver Talon]] and half-dragon descendant of [[Unnamed Avatar of the Bahamut]]
+
+
+## City's Council
+
+
+## Military
+
+
+## Religion
+The city has a rich history of religious conflict and various worships, many being formed from the ashes of old worships present in the [[Thay|Empire of Thay]], or during the time of the god kings of Desseran.
+
+- The [[Silver Talon]]
+- The [[Desseran Apostolate]]
+- [[Thayan Orthodoxy]]
+
+### The Knights of the [[Silver Talon]]
+The order of the [[Silver Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
+
+## The [[Red Wizards of Thay]] 
+The [[Red Wizards of Thay]] is a religion of powerful wizards whose members train their minds to be masterful in the use of magics. 
+
+
+# Locations
 
 # History
 Desseran's history stretches back to before even the [[Age of Ascension]], likely beginning before even the [[Age of Wounds]], which could make it up to tens of thousands of years old. The city is so important, that its history is inseperably impactful on the [[Eranulaid History|History of Eranulaid]].
@@ -43,29 +81,3 @@ During this time the war for the [[Nightshade Peaks]] was fought which culminate
 ### Modern Day
 
 
-# Notable Characters
-## City's Council
-- [[Severa]] - High mage of the red wizards and political figure.
-- [[Bahamut Avatar Descendant]] - Grandmaster of the knights of the [[Silver Talon]] and half-dragon descendant of [[Unnamed Avatar of the Bahamut]]
-- 
-
-
-# Factions
-
-## Military
-
-## Religion
-The city has a rich history of religious conflict and various worships, many being formed from the ashes of old worships present in the [[Thay|Empire of Thay]], or during the time of the god kings of Desseran
-
-- The [[Silver Talon]]
-- The [[Desseran Apostolate]]
-- [[Thayan Orthodoxy]]
-
-### The [[Silver Talon]]
-The order of the [[Silver Talon]] is often believed to have originated from Desseran. They have a large presence here and the leader of the faction has a place on the council. They are worshippers of [[Bahamut]] the Platinum Dragon
-
-## The [[Red Wizards of Thay]] 
-The [[Red Wizards of Thay]] is a religion of powerful wizards whose members train their minds to be masterful in the use of magics. 
-
-
-# Locations

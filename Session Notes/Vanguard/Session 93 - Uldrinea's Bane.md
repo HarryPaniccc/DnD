@@ -8,15 +8,16 @@
 
 ## Recap
 **Much has happened** these past weeks, too much to tell now, but here is what is most important.
-- Two years ago, when the home of [[House Vanariel]], [[Castle Anavar]], was assaulted by [[Alfred Gundrei|Lord Gundrei]] and [[General Isaac]] of the [[Boreal Conclave]]. Ulrandir was arrested, and the house was brought to ruin.
-- 
+- Four years ago, the home of [[House Vanariel]], [[Castle Anavar]], was assaulted by [[Alfred Gundrei|Lord Gundrei]] and [[General Isaac]] of the [[Boreal Conclave]]. [[Ulrandir Vanariel]], [[Isilme Vanariel|Isilme]]'s grandfather, was arrested, and the house was brought to ruin.
+- Since then, the charges of consorting with demonic powers and ritual sacrifice have been brought against Ulrandir, and he has remained in the custody of [[Alfred Gundrei|Lord Gundrei]] in the prisons of [[Dularen]].
+- Thought his crimes are great, and he is incredibly dangerous, Ulrandir is yet to be executed.
+- During their journey to explore a ruin near [[Vasspryg]], [[Isilme Vanariel|Isilme]], [[Dusk]] and [[Rylai Sweetsong|Rylai]] met with [[General Isaac]]. During this meeting, he advised them to speak with Lord Gundrei directly, as it seems the duty of Ulrandir's punshiment falls on his head.
+- Now, having invited the citylord of Dularen to a dinner at Trayfort, the group prepares to confront Lord Alfred Gundrei.
 
 ### Opening Monologue
-The idea is to Pavlov's dog them into the zone. Choose an arc intro song.
-
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+> Winter has set in, but the surrounds you find yourself in are hard, warm stone.
 > 
-> The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
+> The day is the 18th of *Dulussahn*, 813, and you lift the helm of teleportation onto your head, and an aurora opens around you, as you teleport into the hall of [[Trayfort Keep]].
 
 
 # Dusk's Dream Research
