@@ -275,13 +275,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 93 - Uldrinea's Bane"
+              "title": "Outline"
             }
           },
           {
@@ -298,8 +297,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,10 +316,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "78edd0f139636cdf",
+  "active": "53f23441ad921b38",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+    "General Notes and Ideas.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
     "World of Helodaria/Ruina.md",
     "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
@@ -345,7 +344,6 @@
     "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/Eranulaid.md",
     "World of Helodaria/Dularen.md",
-    "Eltab.md",
     "Attachments/Pasted image 20260418112545.png",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
