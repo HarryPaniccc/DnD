@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 14 - Mold and Rats (Go Deeper, My King)]]
-**Subsequent Session:** [[Session 16 - ]]
+**Subsequent Session:** [[Session 16 - Resolve]]
 ## Post Mortem
 **Vanadrahs 17th**
 - The party face and defeat the spectator and gargoyles. A doppelganger in the form of [[Cened]] infultrates the party.

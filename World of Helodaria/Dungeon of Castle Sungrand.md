@@ -89,7 +89,7 @@ This zone is untravelled, save for Canon's trips down the main vector of the dun
 
 # Level 2: Rooms 1 - 9 (South Path)
 **Abandoned Sewers**. Dirty water, but not horribly ruined. Mucky, algae. Some animal feces.
->**Summaries**: 3 x **giant lightning eels**, **darkmantle**. **Water Elemental**.
+>**Summaries**: 3 x **giant lightning eels**, **Water Elemental**.
 
 ## 1. Collection Cistern
 **Slow Flowing Water**. Grand room of almost still pool. Platform looks in, and gunk floats in the pool
@@ -126,6 +126,8 @@ idk what is in here
 **Natural light** gleams down from the opening well during the day
 
 ## 10. Primary Channel
+
+
 ## 11. Entrance Catchment Area
 - **Loot**. Under the water is a large collection of dropped keys, ruined pikes, and a **Perception 15** lets you 
 
@@ -134,4 +136,3 @@ idk what is in here
 
 ## 13. Conspiracy Chamber
 Where [[Malphur]] meets with the goblin messangers. Firelight from within.
-- Thee **bugbears**
