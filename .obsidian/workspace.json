@@ -4,119 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "770d2990c53200d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "08389105e0321ab7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 6 - The Golden Age"
+            }
+          },
+          {
+            "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Session 93 - Uldrinea's Bane"
             }
           },
           {
-            "id": "9ad8247b91b7e549",
+            "id": "a1573f6e89f7ff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 16 - Resolve.md",
+                "file": "World of Helodaria/Vanguard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 16 - Resolve"
+              "title": "Vanguard"
             }
           },
           {
-            "id": "c5eb7ac49b15aa2a",
+            "id": "4ff31011dc1e2e7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 17 -.md",
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran"
+            }
+          },
+          {
+            "id": "248394f0f5cb2d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Steinwalde.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steinwalde"
+            }
+          },
+          {
+            "id": "06223d780826e8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Deities of Helodaria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 17 -"
+              "title": "Deities of Helodaria"
             }
           },
           {
-            "id": "c5fed135f8b54827",
+            "id": "031bf2d885cd8377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Dungeon of Castle Sungrand.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
-            }
-          },
-          {
-            "id": "4da08dbd4a5cacce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castle Sungrand"
-            }
-          },
-          {
-            "id": "8251815e2aea9a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
-            }
-          },
-          {
-            "id": "24b719531efa243d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Yellow Mold Skeleton.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yellow Mold Skeleton"
-            }
-          },
-          {
-            "id": "bf6eda342770903e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing and Crafting.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pricing and Crafting"
+              "title": "Strongholds and Followers Notes"
             }
           }
         ],
@@ -139,7 +144,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -164,7 +169,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -174,24 +179,25 @@
             }
           },
           {
-            "id": "e0f42a9e678e0b1e",
+            "id": "53f23441ad921b38",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#wraith_fleemortals",
-                "title": "Wraith - 5etools",
-                "mode": "webview"
+                "url": "https://2014.5e.tools/bestiary.html#aspect%20of%20bahamut_ftd",
+                "title": "Bestiary - 5etools",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Wraith - 5etools"
+              "title": "Bestiary - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 337.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -221,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +237,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
+              "title": "Backlinks for Session 93 - Uldrinea's Bane"
             }
           },
           {
@@ -240,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "title": "Outgoing links from Session 93 - Uldrinea's Bane"
             }
           },
           {
@@ -255,7 +261,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -267,13 +275,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Session 17 -.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 17 -"
+              "title": "Outline"
             }
           },
           {
@@ -290,12 +297,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
+    "width": 339.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -310,20 +316,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c5eb7ac49b15aa2a",
+  "active": "78edd0f139636cdf",
   "lastOpenFiles": [
-    "Session Notes/Eclipse/Session 16 - Resolve.md",
-    "Session Notes/Eclipse/Session 17 -.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Pricing and Crafting.md",
-    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Statblocks/Yellow Mold Skeleton.md",
-    "World of Helodaria/Great Houses.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
-    "General Notes and Ideas.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+    "Nethendell Valley Map Notes.md",
+    "Untitled.base",
+    "Pricing and Crafting.md",
+    "Statblocks/Yellow Mold Skeleton.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session Notes/Eclipse/Session 17 -.md",
+    "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
+    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
+    "World of Helodaria/Great Houses.md",
+    "General Notes and Ideas.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
     "World of Helodaria/Ruina.md",
     "Session Notes/Vanguard/Session 86 - The Synod of Elevation.md",
@@ -336,12 +345,9 @@
     "World of Helodaria/Uldrinea.md",
     "World of Helodaria/Vanguard.md",
     "World of Helodaria/Desseran.md",
-    "World of Helodaria/Steinwalde.md",
-    "Unnamed Avatar of the Bahamut.md",
     "Attachments/Pasted image 20260418112545.png",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Pasted image 20260406222552.png",
     "Attachments/Pasted image 20260406222501.png",
     "Attachments/Pasted image 20260331220411.png",
@@ -357,7 +363,6 @@
     "Attachments/Pasted image 20231217153118.png",
     "Attachments/Pasted image 20260121094334.png",
     "Attachments/Worldographer/Ruina-tmp.wxx",
-    "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

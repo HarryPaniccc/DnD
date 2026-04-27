@@ -76,7 +76,7 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 | 6     | [[Breathtaker]] \| Young Green Dragon |
 ### Deep Forest Encounters
 
-| (1D6) |                                       |
+| (1D6) | Deep Forest Monster Encounter         |
 | ----- | ------------------------------------- |
 | 1     | 1D3 Will o Wisps                      |
 | 2     | 1D8 + 1 Phase Spiders                 |
@@ -84,22 +84,37 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 | 4     |                                       |
 | 5     | Breathtaker Druid                     |
 | 6     | [[Breathtaker]] \| Young Green Dragon |
+### Fen Encounters
+
+| 1D8 | Fen Monster Encounter |
+| --- | --------------------- |
+| 1   | Ghouls                |
+| 2   | 3d6 Lizardfolk        |
+| 3   | Shambling Mound       |
+| 4   | Hydra                 |
+| 5   | Goldrend Slavers      |
+| 6   | Ghost                 |
 
 ### Hill Encounters
 
+|     |     |
+| --- | --- |
+|     |     |
+
 ### Mountain Encounters
 
-
-
+|     |     |
+| --- | --- |
+|     |     |
 ## Dangerous Terrains
 Challenges other than monsters that need to be overcome. Non-combat challenges will certainly be issues that are dependent on terrain type.
 
-| (Dn) | Dangerous Terrain Encounter |
-| ---- | --------------------------- |
-| 1    | Monster Lair                |
-| 2    |                             |
-| 3    |                             |
-| 4    |                             |
+| (Dn) | Dangerous Terrain Encounter                                                     |
+| ---- | ------------------------------------------------------------------------------- |
+| 1    | Monster Lair                                                                    |
+| 2    | Tainted water. Moving through it exposes a creature to the "sight rot" disease. |
+| 3    |                                                                                 |
+| 4    |                                                                                 |
 **Monster Lair**: Roll on the appropriate terrain's Monster Encounters table. A lair appropriate to the outcome of the roll is found in this region.
 
 
@@ -135,15 +150,22 @@ Locations that wind up being boons to the players.
 
 **Ruin**: A destroyed location of somekind, whether that be a windmill, a farmhouse, an old bastion, or an inn. The structure has been abandoned by its original owners, and has changed hands a number of times. It may act as shelter, and might contain hidden valuables or someone already present.
 
-**Safe Haven**:
+**Safe Haven**: A place sheltered and well hidden from the surrounding environs, such as a cave behind a waterfall filled with fig-like vines. This area has enough abubdant food to sustain the party for 1d4 days.
 
-**Shortcut**:
+**Shortcut**: A shortcut cuts its way through the region, halving the time it takes cross through the hex.
 
-**Useful Herbs:**
+**Useful Herbs:** A lucky collection of plants, flowers or herbs. Someone with proficiency with a *herbalism kit* can identify them as beneficial. Roll on the herbs table.
 
-**Vista:**
+| 1d4 | Useful Herbs                                  |
+| --- | --------------------------------------------- |
+| 1   | Antitoxin                                     |
+| 2   | Healing Salve (Healer's Kit)                  |
+| 3   | Herbal Tea (Healing Potion During Short Rest) |
+| 4   | Poison                                        |
+**Vista:** The party has a clear view of the surrounding wilderness and adjacent hexes. They can make a DC 10 perception check for 10 minutes to survey an adjacent hex. On a success, roll its encounter check, and tell the party what they will find.
 
-**Double:** ???
+**Double:** Roll twice, rerolling 12s.
+
 ## Unique Terrains
 Not sure how unique I should go, maybe a list of terrains that are fun and can go anywhere? Reroll for now...?
 

@@ -1,4 +1,4 @@
-**Previous Session:** [[Session 16 - Resolve]]
+**Previous Session:** [[Session 16 - Corpses in Stagnant Waters]]
 **Subsequent Session:** [[Session 18 - ]]
 ## Post Mortem
 

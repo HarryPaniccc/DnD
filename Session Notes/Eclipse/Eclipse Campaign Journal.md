@@ -93,7 +93,7 @@ Sungrand becomes a base of operations. They will need to mount expiditions and r
 ### Sessions
 Presented in reverse chronological order
 - [[Session 17 -]]
-- [[Session 16 - Resolve]]
+- [[Session 16 - Corpses in Stagnant Waters]]
 - [[Session 15 - A Knife in the Back]]
 - [[Session 14 - Mold and Rats (Go Deeper, My King)]]
 - [[Session 13 - Suspicion Sows its Seeds]]

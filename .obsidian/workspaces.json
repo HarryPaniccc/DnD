@@ -3392,12 +3392,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
+                    "file": "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 15 - A Knife in the Back"
+                  "title": "Session 16 - Corpses in Stagnant Waters"
                 }
               },
               {
@@ -3406,12 +3406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 16 -.md",
+                    "file": "Session Notes/Eclipse/Session 17 -.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 16 -"
+                  "title": "Session 17 -"
                 }
               },
               {
@@ -3455,23 +3455,9 @@
                   "icon": "lucide-file",
                   "title": "Nethendell Valley Map Notes"
                 }
-              },
-              {
-                "id": "24b719531efa243d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Statblocks/Yellow Mold Skeleton.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Yellow Mold Skeleton"
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 5
           }
         ],
         "direction": "vertical"
@@ -3530,19 +3516,20 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#doppelganger_mm",
-                    "title": "Doppelganger - 5etools",
+                    "url": "https://2014.5e.tools/tables.html#swamp%20encounters%20(levels%205%e2%80%9410)_xge",
+                    "title": "Swamp Encounters (Levels 5—10) - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Doppelganger - 5etools"
+                  "title": "Swamp Encounters (Levels 5—10) - 5etools"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "horizontal",
-        "width": 385.5
+        "width": 393.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3618,13 +3605,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Dungeon of Castle Sungrand.md",
+                    "file": "Nethendell Valley Map Notes.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Dungeon of Castle Sungrand"
+                  "title": "Outline of Nethendell Valley Map Notes"
                 }
               },
               {
@@ -3661,8 +3648,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "c5eb7ac49b15aa2a",
-      "mtime": "2026-04-18T11:08:37+02:00"
+      "active": "8251815e2aea9a57",
+      "mtime": "2026-04-27T11:04:44+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -4684,5 +4671,5 @@
       "mtime": "2026-04-23T13:17:18+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Trayfort Downtime (Formerly Rylai)"
 }
