@@ -4,124 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "770d2990c53200d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "08389105e0321ab7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "78edd0f139636cdf",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 93 - Uldrinea's Bane"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "a1573f6e89f7ff6e",
+            "id": "9ad8247b91b7e549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Vanguard.md",
+                "file": "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard"
+              "title": "Session 16 - Corpses in Stagnant Waters"
             }
           },
           {
-            "id": "4ff31011dc1e2e7e",
+            "id": "c5eb7ac49b15aa2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
+                "file": "Session Notes/Eclipse/Session 17 - Eels.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran"
+              "title": "Session 17 - Eels"
             }
           },
           {
-            "id": "248394f0f5cb2d27",
+            "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Dungeon of Castle Sungrand.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Dungeon of Castle Sungrand"
             }
           },
           {
-            "id": "06223d780826e8f8",
+            "id": "4da08dbd4a5cacce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Deities of Helodaria.md",
-                "mode": "source",
+                "file": "World of Helodaria/Castle Sungrand.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deities of Helodaria"
+              "title": "Castle Sungrand"
             }
           },
           {
-            "id": "031bf2d885cd8377",
+            "id": "8251815e2aea9a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
+                "file": "Nethendell Valley Map Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strongholds and Followers Notes"
+              "title": "Nethendell Valley Map Notes"
             }
           }
         ],
@@ -144,7 +111,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -169,7 +136,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -179,17 +146,17 @@
             }
           },
           {
-            "id": "53f23441ad921b38",
+            "id": "e0f42a9e678e0b1e",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#aspect%20of%20bahamut_ftd",
-                "title": "Bestiary - 5etools",
-                "mode": "blank"
+                "url": "https://2014.5e.tools/bestiary.html#giant%20lightning%20eel_tftyp",
+                "title": "Giant Lightning Eel - 5etools",
+                "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bestiary - 5etools"
+              "title": "Giant Lightning Eel - 5etools"
             }
           }
         ],
@@ -197,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 393.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -227,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 93 - Uldrinea's Bane"
+              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
             }
           },
           {
@@ -246,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 93 - Uldrinea's Bane"
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -261,9 +228,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -275,12 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nethendell Valley Map Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Nethendell Valley Map Notes"
             }
           },
           {
@@ -297,11 +263,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -316,20 +283,23 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "78edd0f139636cdf",
+  "active": "c5eb7ac49b15aa2a",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 17 - Eels.md",
+    "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
     "Nethendell Valley Map Notes.md",
+    "World of Helodaria/The Raven Queen.md",
+    "World of Helodaria/Pallax.md",
+    "World of Helodaria/Zakuul.md",
+    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Untitled.base",
     "Pricing and Crafting.md",
     "Statblocks/Yellow Mold Skeleton.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
     "World of Helodaria/Castle Sungrand.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session Notes/Eclipse/Session 17 -.md",
-    "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
     "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
     "World of Helodaria/Great Houses.md",
     "General Notes and Ideas.md",
@@ -343,8 +313,6 @@
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Tevis Einzbern.md",
     "World of Helodaria/Uldrinea.md",
-    "World of Helodaria/Vanguard.md",
-    "World of Helodaria/Desseran.md",
     "Attachments/Pasted image 20260418112545.png",
     "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",

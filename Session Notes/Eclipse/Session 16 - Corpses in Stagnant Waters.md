@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 15 - A Knife in the Back]]
-**Subsequent Session:** [[Session 17 - ]]
+**Subsequent Session:** [[Session 17 - Eels]]
 ## Post Mortem
 **Vanadrahs 17th**
 - Down into cistern
