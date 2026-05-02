@@ -19,6 +19,7 @@ The Outer-City fields is the name of the region south of the city. The richest o
 - [[Alfred Gundrei]], citylord of Dularen with [[Zitrumea|Zitrumean]] heritage
 - [[Veylan Glovir]], human cleric of [[The Raven Queen]] at the [[Grave Nest]]
 - [[Persephone Adamos]] is a beautiful [[Pyleas|Pylean]] woman and member of the [[Uldronos Council]]
+- [[Ulrandir Vanariel]], disgraced high elf member of the [[Uldronos Council]]
 - [[Brindor Shieldwall]] Dwarf Forge Cleric at the Heart-Kiln. Copper Skin, bald, full white beard that is a bit burnt. Strong Spoken deeper hoarse voice with slight scottish accent
 - [[Lorgar Thell]] is the High Walker Half-Elven Cleric of the raven queen. He wears simple black priestly robes with tight sleeves and a deep hood. He has cold brown and deepening grey hair. He is often tending to the Grave Nests more valuable mausoleum in the central temple. He sounds like Bill Nighy.
 - [[Veylan Glovir]] female human cleric of the Raven Queen. She has short, dark black hair and dark green eyes. She is one of the clerics that serves in the Grave Nest
@@ -37,17 +38,17 @@ The Outer-City fields is the name of the region south of the city. The richest o
 # Locations
 ## Outer-City Fields
 ### Locations
-
 - [[Castle Gundrei]] is a large structure surrounded by a fortified wall that is well manned with the [[Gundrei Family]]'s personal guard. The path to the wall separates a vineyard and an orchard, facing towards the grounds has the orchard on one’s right. It is within an hour's ride from the city.
-- [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (2ish hour normal travel). 
+- [[Trayfort Keep]] is the home to the [[Vanguard]], some 9 miles south of Dularen proper (3ish hour normal travel on road). 
+- [[Golden Horn Inn]] is a holdfasted inn some 20 minutes ride from Trayfort. It is visible and in the same hex.
 
 
 ## Silver-Strewn Quarter
 The Silver-Sewn Quarter is a walled-off, central part of the City, and it is where the prominent nobles and richer houses live, other than those who choose to live outside in the Outer-City fields. The District is well guarded and gated off, with a garrison of guards dedicated entirely to the watching of its walls.
 
 Notable interior features include well-kept gardens, rich houses and, interestingly, copper lines sewn into the well crafted streets, along which magically propelled trams glide silently through the district.
-### Locations
 
+### Locations
 - [[Castle Anavar]], home to [[House Vanariel]]
 - The [[Court of Verdicts]], a large stone pillared structure, made with sections of dark, strong oak and stone, acting as the primary meeting place for the [[Uldronos Council]].
 - The [[Imperial Annals]] (I am going to regret this name) is a stark structure of marbled stone and various pillars. It contains an incredible collection of knowledge, and operates as both a library and a meeting place for the [[Imperial Arcanists]].

@@ -3406,12 +3406,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 17 -.md",
+                    "file": "Session Notes/Eclipse/Session 17 - Eels.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 17 -"
+                  "title": "Session 17 - Eels"
                 }
               },
               {
@@ -3457,7 +3457,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -3516,12 +3516,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/tables.html#swamp%20encounters%20(levels%205%e2%80%9410)_xge",
-                    "title": "Swamp Encounters (Levels 5—10) - 5etools",
+                    "url": "https://2014.5e.tools/bestiary.html#giant%20lightning%20eel_tftyp",
+                    "title": "Giant Lightning Eel - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Swamp Encounters (Levels 5—10) - 5etools"
+                  "title": "Giant Lightning Eel - 5etools"
                 }
               }
             ],
@@ -3648,8 +3648,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "8251815e2aea9a57",
-      "mtime": "2026-04-27T11:04:44+02:00"
+      "active": "c5eb7ac49b15aa2a",
+      "mtime": "2026-05-02T08:39:37+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -4671,5 +4671,5 @@
       "mtime": "2026-04-23T13:17:18+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Trayfort Downtime (Formerly Rylai)"
 }

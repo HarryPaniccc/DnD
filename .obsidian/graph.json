@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "-path:Statblocks -path:Templates  ",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -68,12 +68,12 @@
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 0.994717881944444,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.993229166666667,
   "collapse-forces": false,
   "centerStrength": 0.306553819444444,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 345,
-  "scale": 0.1409485647328549,
+  "scale": 0.03648293709133093,
   "close": true
 }
