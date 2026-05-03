@@ -1,9 +1,22 @@
 **Previous Session:** [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
-**Subsequent Session:**
+**Subsequent Session:** 
 >**Note**: This session encompasses the online gameplay in addition to the live session.
 
 ## Post Mortem
+**Dulussahn 18th**
+- [[Caede]] returns to Trayfort. [[Kanan Einzbern]] is approached by [[Lathran, Avatar of Lathander|Lathran]]
+- Caede meets the new soldiers, meets [[Ophelia the Sylph|Ophelia]], [[Maurice the Flameskull|Kran]]
+- [[Isilme Vanariel]] has been training [[Dusk]] with the other infantry
+- Caede interrogates Isilme about whether she has remained in control of her curse. She tells Caede about the acolyte in the [[Synod of Elevation]]
+- The group decides to plan [[Session 999 - Tournament of Trayfort Hold]]
+- Rylai speaks with Caede about the truth of her past
 
+**Dul'ussahn 20th**
+- [[Alfred Gundrei]] and [[Minra Vanariel]] arrive with twenty honor guard. There is a very awkward family reunion
+- The party goes hunting in the surrounding woods
+- Gundrei explains the history of the [[Uldronos Council]], [[Uldrinea]] and [[Ulrandir Vanariel|Ulrandir]]. As well as why he cannot execute Ulrandir
+- Gundrei asks Rylai to help him as an advisor in the [[Uldronos Council]] meetings. Minra also asks Rylai to mentor her as a bard.
+- Minra leaves dinner early and Isilme finds her crying. Minra says that she is willing to try and start over
 
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light.

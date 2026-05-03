@@ -37,6 +37,7 @@ tags:
 ## Must Work On
 - [ ] **ANATHEMA**
 - [ ] Notes on [[Uldrinea]]
+- [ ] Members of the [[Uldronos Council]]
 - [ ] Brocia locations and stuff
 - [ ] [[Imperial Arcanists]] and their arbiters.
 - [ ] [[Eranulaid History]]

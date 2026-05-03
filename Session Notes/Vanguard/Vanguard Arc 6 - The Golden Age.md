@@ -54,7 +54,7 @@ tags:
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 - *(18th) Caede wants to go home TODO*
-- (20th) Gundrei dinner
+- (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day.
 
 **Week 9 (Dulussahn 21st)**
 
@@ -224,7 +224,7 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 # [[Dusk]]
 - [ ] Practice blade singing
 	- [x] Level 2
-	- [ ] Level 6
+	- [x] Level 6
 	- [ ] Level 10
 	- [ ] Level 14
 
