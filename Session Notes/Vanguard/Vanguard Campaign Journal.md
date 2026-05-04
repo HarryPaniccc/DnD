@@ -46,7 +46,7 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
 - [[Session 999 - Dragon Hunting]]
-- [[Session 999 - Into Fire]] - Kanan Solo
+- [[Session 94 - Into Fire]] - Kanan Solo
 
 #### Past Sessions
 
@@ -63,12 +63,13 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 - [[Session 85 - Estravian Brigands]] - Kanan + Caede
 - [[Session 84 - Travel to Steinwalde]] - Kanan + Caede
 - [[Session 83 - Through the Sirkonian Countryside (Start of Arc)]] - Kanan solo
-- [[Session 82 - Meeting King Sirkon (End of Arc)]]
-- [[Session 81 - Blessings of the Deathwatch]]
+
 
 # Arc 5: Sirkonos
 In the year of 813 Post-Fall the [[Vanguard]] travelled to the [[Sirkonos]] to hunt down and destroy the [[Vorciln]] vampires, led by [[Lucius]]. In the process, they discovered that the [[Einzberns]] were linked to a powerful deity-like being known as [[Athelstan]].
 ## Sessions
+- [[Session 82 - Meeting King Sirkon (End of Arc)]]
+- [[Session 81 - Blessings of the Deathwatch]]
 - [[Session 80 - A Flame Rekindled]]
 - [[Session 79 - Divisions Form]]
 - [[Session 78 - Whispers and Revelry]]

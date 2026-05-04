@@ -26,6 +26,9 @@ One night, while trying to create a flame, she accidentally created a great blaz
 She would shut off her connection to the elemental plane of air by freezing her heart and sundering her ability to cast sorcerer magics. She would still become a powerful bard.
 ## Campaign One: Vanguard
 Rylai would find [[Caede]] very early after he rose from his long slumber near the town of [[Splitmount]] on her way to [[Ironbase]]. 
+
+After confronting her past with the help of [[Ophelia the Sylph]], Rylai realised that it was [[Lina Sweetsong]] who started the fire that night. This self-actualisation allowed her to reconnect with her internal magic and become a full storm sorcerer.
+
 # Character Information
 ## Quests
 ## Notable Items
@@ -35,14 +38,14 @@ Rylai would find [[Caede]] very early after he rose from his long slumber near t
 - Elixir of Health
 - Elemental Essence Shard of Fire
 - Ion Stone of Leadership
-- Carpet of Flying
 - Bracers of Defence
 - Boon of Aerondite
-- Spear of Damnation
+- [[Spear of Damnation]]
 - [[Sylphmade Cloak]]
 ### Former Items
+- [[Carpet of Flying]]
+
 # Relationships
----
 - [[Lina Sweetsong]], her supposed sister
-- [[Lin Sweetsong]]
-- [[Nathaniel Sweetsong]]
+- [[Lin Sweetsong]], her mother
+- [[Nathaniel Sweetsong]], her father

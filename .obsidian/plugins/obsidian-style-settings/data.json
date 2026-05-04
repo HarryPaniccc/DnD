@@ -89,5 +89,10 @@
   "ITS@@hide-header-underline-1": false,
   "ITS@@heading-spacing": 10,
   "ITS@@heading-spacing-top": 10,
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "ITS@@file-line-width": 700,
+  "ITS@@modal-width": 90,
+  "ITS@@check-color": true,
+  "ITS@@check-text": false,
+  "ITS@@tag-text": false
 }

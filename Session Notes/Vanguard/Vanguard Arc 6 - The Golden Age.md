@@ -53,7 +53,7 @@ tags:
 - (16th) Caede and Kanan meet [[Gaz the Branded]] and his [[Flamebrands]] and do battle with [[Oriothar the Monarch]]. They aid [[Steinwalde]] in a defence against invading forces, protecting an [[Infernoguard Tower]] from a [[Fire Giant]]
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
-- *(18th) Caede wants to go home TODO*
+- (18th) Caede teleports home, meets [[Maurice the Flameskull|Kran]] and the others, and catches up with the [[Vanguard]] about he and Kanan's travels.
 - (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day.
 
 **Week 9 (Dulussahn 21st)**
@@ -103,6 +103,8 @@ The PC's are going to be accumulating allies throughout this period.
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
+- [[Session 94 - Into Fire]]
+- [[Session 91.5 - Hammer to Anvil (Online)]]
 - [[Session 90 - Dragonfire]]
 - [[Session 88 - Duergar Sunblighters]]
 - [[Session 85.5 - The North Estravian Faults (Online)]]
@@ -115,12 +117,13 @@ Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from t
 
 #### Gear Ideas
 One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Pricing and Crafting]] document too.
-
+- [[Nightfall, the Hand that Feeds]]
+- [[Anathema]]
 - [[+2 Dragon Scale Leather Armor]]
 - [[Infernal Compass]]
 - [[Potion of Vampiric Sense]]
 - [[Repeating Crossbow]]
-- [[Anathema]]
+
 #### Dragon Problem in Steinwalde
 [[Dragons of Helodaria|Dragon]] season has come early to Steinwalde this generation. The dragons and their usual politics are being fought by the dwarven forces, and the hunt for red dragons is being led by the [[Flamebrands]].
 - [[Oriothar the Monarch]] is currently attempting to take Steinwalde, believing to be pretending to be loyal to [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] with the goal of steal her place.
@@ -141,19 +144,21 @@ Something certainly happens in [[Ralia]].
 ### Commander of the [[Battalion of the Silver Arrow|Silver Arrow]]
 [[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]]. Also maybe send him to stifle some kind of dissent against the Sirkonian line Game of Thrones style.
 
+
 # [[Caede]]
 ## Repair the [[Leviathan Axe]]
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 
-The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled.
+The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled. In order to fix the axe he needs: The soul of a freshly slain adult frost dragon, an ingot of runite, and 6000 gp of material work.
 - [[Session 91.5 - Hammer to Anvil (Online)]]
 - [[Session 91 - Steinwalde]]
 
 ### [[Sunblight Stronghold]]
 White dragon lair has what he needs.
 
-### Defences and Staff of [[Trayfort Keep]]
-The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin.
+## Defences and Staff of [[Trayfort Keep]]
+The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin. He plans on hosting a tournament to find people willing to fight for them in their hold.
+- [[Session 999 - Tournament of Trayfort Hold]]
 
 ### Herald of the [[Deathwatch]]
 Caede will fill more into his role as the sword of the raven queen.
@@ -171,9 +176,13 @@ Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vo
 	- [ ] Baron's parties
 - [ ] Information from noble parties
 - [ ] Darius thing
+- [ ] Advisor to [[Alfred Gundrei|Gundrei]], tutor to [[Minra Vanariel]]
 
-### [[Ley Lines]] and the [[Elemental Plane of Air]]
+### [[Lina Sweetsong]]
 
+
+### [[Ley Lines]] and the [[Elemental Plane of Air]] (CONCLUDED)
+- [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 - [[Session 86 - The Synod of Elevation]]
 - [[Session 87 - An Element of Truth]]
 - [[Session 89 - Marthirion, Marred by Seeing]]
@@ -188,33 +197,9 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 - [[Akadi]] the [[Primordials|Primordial]] of air
 
 
-### [[Darius Nubide]]
-> Rylai rolled a 12 on her random encounter table which means its time for the dishevelled interaction.
-> 
-> *The evening air is comfortable surrounding Trayfort. The wooden flooring and small fireplaces in each of the important rooms make the keep's temperature easy to maintain. Ulfric always lights what is needed as it is needed. 
-> 
-> One evening, before going to bed you finish off the end of a previously started collection of ballads before sating your appetite for entertainment for the evening, so you make your way from your desk to the nearly desolate library to replace the book and find a new one.
-> 
-> After returning to your room and placing the tome of choice on your bed side table you go and close your door for the evening. You watch as your shadow is outlined on the door by a beautiful blue flash from behind you, and turn to see a man holding a staff standing in your room.
-> 
-> You know Darius Nubide to be a completely composed man, in control of every aspect of himself, and most aspects of the environments he inhabits. The man before you has longer, unkept hair. His beard is untrimmed. He doesn't look like he has slept in the last 24 hours, and he leans on a staff forged of beautiful rune-inscribed spell metal, betraying his age for the first time since you have known him. He tries to conceal an increasingly bloodied bandage on his left hand.
-> 
-> "It is improper for one such as yourself to summon a member of the Uldronos Council, especially to command something of me." He does not shout, but his anger, exhaustion, and frustration is evident in his tone.*
-
-
-### [[Lina Sweetsong]]
-
->[!Note]
->Use a **layleech** from flee mortals
-
-
-# [[Silb Heft|Silb]]
-
-### Lord Stormshield's Trial + [[Hommlet]]
-
-- [[Session 999 - The Trial of Silb Heft]]
-
 # [[Isilme Vanariel|Isilme]]
+
+## [[Deathwatch]]
 
 ## [[Minra Vanariel]]
 
@@ -228,7 +213,7 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 	- [ ] Level 10
 	- [ ] Level 14
 
-## Dreams
+## Dreams | [[Heart of the Abyss]] visions and knowledge gained
 > The research heralded this information in the [[Imperial Annals]]
 "What does the beating heart on the west horizon mean?"
 A simple question. What significance does this sound play? What is its connection to Dagon?
@@ -240,3 +225,10 @@ A depiction of a piece of art is displayed on a charcoal rubbing. A tattooed, ba
 This moment, this betrayal, marks the beginning of the Emprie of Thay that stretched across the entirety of Eranulaid, encompassing all now-settled regions south of the Maglahs Mountains
 But Thay was sundered, and you know that the God Kings returned in a moment known to history as "the Resurgence" at some point during the Fall. Thay collapsed under its own weight as supremacy and eugenics took root in its east, and as the war of the Gods reached Eranulaid, the West of Thay fell victim to the rampaging of the Hordes of Malar. The timeline is muddled. The first king of modern Sirkonos finds his throne in the bloody battle of Diredahl, in the same spire where you met King Sikarius Sirkon, Arthur's father, known to be the seat of ancient history in Sirkonos, but that history is largely overshadowed by modern Sirkonian pride, and disdain for Thayan rule. There is just so much, especially during a time in which the literal spawn of the Gods return to their earthly thrones and begin to battle away united forces of the Abyss, and a warrior of legend finds victory in a battle so impossible they name a kingdom after him. Poems and accounts start being ridiculous, even for the period, and history is sadly made a miasma by political interests and comments.
 The final piece of lore you are certain of, the second piece of lore you earn from this research, and you feel like you may have exhausted the Annals' resources on this matter, that is, without asking Darius Nubide the bastard himself directly, is that the end of the resurgence was marked with the death of Bahamut's Avatar-Child, the allegiance of the Thayan Orthodoxy with the church of the Desseran Apostolate. It is also considered nearly impossible to pin down exactly when Old Ruina was destroyed in this timeline.
+
+# [[Silb Heft|Silb]]
+
+### Lord Stormshield's Trial + [[Hommlet]]
+
+- [[Session 999 - The Trial of Silb Heft]]
+

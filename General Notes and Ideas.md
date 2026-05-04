@@ -10,6 +10,63 @@ tags:
 	- [x] Dusk
 	- [x] Caede
 	- [ ] Silb
+- [ ] **ANATHEMA**
+- [ ] Update Tevis' activities and allies
+- [ ] Members of the [[Uldronos Council]]
+- [ ] [[Severa]] notes and stats
+- [ ] Caede's Necromantia contents
+- [ ] Make Rylai todo list and figure out what she wants/is doing
+
+
+## Lore to Fill in
+
+- [ ] [[Imperial Arcanists]] and their arbiters.
+- [ ] [[Eranulaid History]]
+- [ ] Name the mountains that Vasspryg is on
+- [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
+
+- [ ] Bring all notes over
+	- [ ] Characters
+		- [ ] Isilme
+		- [ ] Kanan
+		- [ ] Caede
+		- [ ] Silb
+		- [ ] Rylei
+		- [ ] Skye
+		- [ ] Adhara
+	- [ ] Session notes archive
+- [ ] Eranulaid Regions
+	- [ ] Desseran
+	- [ ] Kyral
+	- [ ] Free shores
+	- [ ] Etc
+	- [ ] [[Nightshade Peaks]]
+
+## Maps
+- [ ] Digital maps?
+- [ ] Ruina regional map
+- [ ] Kyral Regional Map
+- [ ] Desseran Regional Map
+- [ ] Sirkonos
+
+## New Ideas
+- [ ] Timeline
+- [ ] Magic item shops and spells specifically
+- [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
+- [ ] Rage potion
+- [ ] NPCs of importance to the vanguard
+- [ ] Zitrumean Kingdoms
+	- [ ] Solari + Doomfist Society in Armoured lands
+	- [ ] [[Pyleas]]
+	- [x] Capital
+	- [ ] [[Isaura]]
+	- [ ] [[Qel-Annura]]
+	- [ ] [[Camroc]]
+	- [ ] [[Baylan's Rest]]
+- [ ] Zitrumea Map
+- [ ] Zitrumea Thieves Guild
+- [ ] Fall History
+- [ ] Innkeepers guild on Zitrumea
 
 ## Miniatures
 - [x] Stone Arches
@@ -34,60 +91,6 @@ tags:
 - [ ] Bowman/crossbowman
 - [ ] Chests
 - [ ] Stone Railing
-## Must Work On
-- [ ] **ANATHEMA**
-- [ ] Notes on [[Uldrinea]]
-- [ ] Members of the [[Uldronos Council]]
-- [ ] Brocia locations and stuff
-- [ ] [[Imperial Arcanists]] and their arbiters.
-- [ ] [[Eranulaid History]]
-- [ ] Name the mountains that Vasspryg is on
-- [ ] NPCs with more stakes in the world. NOT JUST SHOPKEEPS but FACTION people **ideas below**
-	- [ ] [[Severa]] notes and stats
-- [ ] Caede's Necromantia contents
-- [ ] **MAPS**
-	- [ ] Digital maps?
-	- [ ] Ruina regional map
-	- [ ] Kyral Regional Map
-	- [ ] Desseran Regional Map
-	- [ ] Sirkonos
-- [ ] Bring all notes over
-	- [ ] Characters
-		- [ ] Isilme
-		- [ ] Kanan
-		- [ ] Caede
-		- [ ] Silb
-		- [ ] Rylei
-		- [ ] Skye
-		- [ ] Adhara
-	- [ ] Session notes archive
-- [ ] Eranulaid Regions
-	- [ ] Desseran
-	- [ ] Kyral
-	- [ ] Free shores
-	- [ ] Etc
-	- [ ] [[Nightshade Peaks]]
-
-## New Ideas
-- [ ] Timeline
-- [ ] Magic item shops and spells specifically
-- [ ] Counterspell item that gives either half the spell level back OR buffs you somehow
-- [ ] Rage potion
-- [ ] Kidnap someone
-- [ ] NPCs of importance to the vanguard
-- [ ] Zitrumean Kingdoms
-	- [ ] Solari + Doomfist Society in Armoured lands
-	- [ ] [[Pyleas]]
-	- [x] Capital
-	- [ ] [[Isaura]]
-	- [ ] [[Qel-Annura]]
-	- [ ] [[Camroc]]
-	- [ ] [[Baylan's Rest]]
-- [ ] Zitrumea Map
-- [ ] Zitrumea Thieves Guild
-- [ ] Fall History
-- [ ] Innkeepers guild on Zitrumea
-
 
 # Scratch Notes
 - Wood elf warriors

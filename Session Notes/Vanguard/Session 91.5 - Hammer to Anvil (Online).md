@@ -2,7 +2,6 @@
 **Subsequent Session:**
 ## Post Mortem
 
-
 # Notes
 
 - [[Caede]] hunting an adult white dragon to fix the [[Leviathan Axe]]

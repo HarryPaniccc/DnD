@@ -41,5 +41,6 @@ The Sentinels were formed as a division of the [[Arbiters]] by [[Darius Nubide]]
 
 - [[Aramis Terelon]] - A High Elf man of just below collar bone length blond hair with darker ends and beautiful green eyes. He wears dark aquamarine and black robes with light pauldron shoulder pads and silver inlay. He is firm in tone and intelligent 
 - [[Lina Sweetsong]]
+- [[Arbiter Elend Mindfire]] - **Arbiter Elend Mindfire** is the advisor to [[Persephone Adamos]] and the steward and lieutenant of[[Adamos Estate]]
 
 ### Arcanists
