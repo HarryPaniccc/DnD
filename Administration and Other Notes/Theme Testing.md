@@ -1,3 +1,4 @@
+![[Pasted image 20260505212543.png]]
 >[!infobox| left]
 ># Title of somthing
 >sdf asdf
