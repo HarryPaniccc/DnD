@@ -1,4 +1,18 @@
+>[!infobox|wfull]
+> # Nightfall, the Hand that Feeds
+> ***Weapon (Longsword), Legendary, Requires Attunement***
+> 
+> | |
+> |-|
+> Does stuff 
+
+
+
+
+
+
 # Nightfall, the Hand that Feeds
+
 
 *Weapon (Longsword), Requires Attunement, Legendary*
 

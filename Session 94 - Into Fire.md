@@ -25,12 +25,38 @@ Kanan will need to fill the vessel with as many damned souls as he can from the 
 
 
 # Lathran Comes to the Door
+Lathran is not happy that Kanan has brought the [[Vessel of Avarice]] to Steinwalde, but he can forgive that. To bring a significant shard of the [[Primordial of Hunger]] inside of [[Athelstan]] is dangerous. He doesn't blame him, but he does not like this situation.
 
+Lathran knows how to destroy the vessel. The current enchantment placed on it is feeding Athelstan's power back in on itself, creating a sort of self induced pressure. It cannot maintain this if it is exposed to too much power at once.
+
+He knows where to send Kanan, and asks if he truly is dedicated to destroying the vessel.
+
+> "Meet me in the forge in two hours. That should be long enough. Bring with you everything you would bring to face your destiny."
 
 # The Gate and the Mission
+Lathran shall, using a *Gate* spell, transport Kanan to Avernus. There he will need to find or fight his way to the [[River Styx]] and bathe the [[Vessel of Avarice]] in its waters. The Vessel will act as a well for the damned souls travelling through the waters to their wretched afterlife, absorbing them until it is overfull with power.
+
+In 24 hours he will reopen the gate next to you. The spell finds its way to where it needs to be.
 
 
 # [[Avernus]]
+> The clean dryness of the forge is replaced by an atmosphere tinged with sulfur. The sky above is a tapestry of black and grey clouds lit by the colours of fire and ash. The faces of skulls look down upon the jagged landscape, formed out of the ashen pillars that make the surrounds. Pools of flaming lava flow readily around you, the soil beneath your feet is thick with blood, not water. Screams and a howling wrath echoes across the landscape, and fire falls from the sky like miniature comets. The heat is unbearable. This is Hell.
+
+**Objectives**
+1. Get bearings. Figure out the landscape
+2. See that there is a battlefield between him and the closest bank of the Styx
+3. Fight, fight, motorcycle fight.
+4. Demons?
+5. ???
+6. Hold the Vessel in the river, draining it himself slightly
+
+
+## Chase Through Avernus
+Do some cool shit with the devil motorcycle
 
 
 # The [[River Styx]]
+
+
+# Breaking the Vessel
+Lathran will place the overcharged vessel on the central dias, heated with the fires of the volcano. The hammer from above will be actuated and strike the vessel with immense force, and an explosion of energy will burst outwards, shattering the artefact.
