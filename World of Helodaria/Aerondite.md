@@ -4,6 +4,10 @@ tags:
 ---
 #TODO Make her a deity/holy patron
 When Aerondite is freed from the curse of the feywild, she more accurately resembles a [[Planetar]] in stats
+# Statblock
+Aerondite is a Deva with a shield and longsword, and an AC of 20.
+
+
 # Statblock (Maddened)
 HP = 272
 ```statblock

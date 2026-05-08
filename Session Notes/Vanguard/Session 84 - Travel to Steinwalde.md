@@ -94,7 +94,6 @@ Encounter holdfasts in the countryside, as well as encountering the lord who gro
 | 14                        | Frost Giants                            |
 
 # Mad Lord's Hold
----
 Kanan and Rudolph have made it to a sheltered wooded region amidst some hills and rocks, a few miles west of where the [[Eastern Wastes]] begin. They have ended their travels for the evening at the [[Drachenzunge Inn]]. The inn is full, at each table a different group of freeriders or mercenaries or even some [[Kronesguard]] bearing colours of an unknown battalion.
 
 ### Rumours of [[Rokbaur Castle]]
@@ -132,13 +131,11 @@ The castle still looms over the village like a festering wound. The rear balcony
 - An [[Erinyes]] named [[Odessa]] stalks the dungeon inspecting the castle. She is an emissary of [[Zariel]], bound to look for what she is owed.
 
 # The [[Sieleran River]] Trail
----
 Follow the river for some time before heading west and curling up the foothills.
 Maybe encounter the [[Steinefni Mining Company]]
 
 
 # [[Estravia]]
----
 The villages are superstitious and scattered, small little settlements, mostly unnamed and a few hours away from one another. The largest Estravian town is two villages deep in the mountains. [[Valeria]] is a village in the middle of a deep valley, surrounded on all sides by mountain and adjacent to a frigid river. It is guarded by a [[Kronesguard]] by the name of [[Syr Edmund]], a knight that heads rangings around Valeria.
 
 - Day 1: Werewolf

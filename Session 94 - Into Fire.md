@@ -14,7 +14,7 @@
 - Now, his travelling companion having teleported home to the other side of the continent, Kanan stands alone in the rooms he has been lent by [[King Dharn the Blacklock]].
 
 ### Opening Monologue
-> The surrounds you find yourself in are old. Older than you, maybe older than I. But one things for certain, you are not the first to come through here recently.
+> The surrounds you find yourself in are warm. Stone beneath your boots reverberates ever so often with the sound of clamouring steel. One thing is for certain. You are not alone.
 > 
 > The day is the 18th of *Dulussahn*, 813, and the aurora summoned by Caede's teleportation fades away. The doorway opens, and [[Lathran, Avatar of Lathander|Lathran]] enters.
 
@@ -36,7 +36,10 @@ He knows where to send Kanan, and asks if he truly is dedicated to destroying th
 # The Gate and the Mission
 Lathran shall, using a *Gate* spell, transport Kanan to Avernus. There he will need to find or fight his way to the [[River Styx]] and bathe the [[Vessel of Avarice]] in its waters. The Vessel will act as a well for the damned souls travelling through the waters to their wretched afterlife, absorbing them until it is overfull with power.
 
-In 24 hours he will reopen the gate next to you. The spell finds its way to where it needs to be.
+In 24 hours he will reopen the gate next to Kanan. The spell finds its way to where it needs to be.
+
+## [[Aerondite]]
+Standing with Lathran is a woman in familiar garb, a gold plated white cloth leaving toned shoulders and legs bare, with delicate but durable looking boots of the same golden colour. Bracelets and bracers cover her forearms and biceps. Wings aglow with gentle golden light curl behind her, and her silvery skin is unmistakeable. Hair now reaching down to her shoulders, Aerondite, saint of the dawn stands with her shield on her back, and her longsword at her hip.
 
 
 # [[Avernus]]
@@ -51,11 +54,15 @@ In 24 hours he will reopen the gate next to you. The spell finds its way to wher
 6. Hold the Vessel in the river, draining it himself slightly
 
 
-## Chase Through Avernus
-Do some cool shit with the devil motorcycle
+## Chase Through the Hellscape
+### *Encounter: Glabrezu Demon vs Cambions x 3*
+Kanan can happen upon a crew of hellriders that are being slaughtered by a **Glabrezu Demon**. The ichorous remains of the demon's allies surround it, and the ruined corpses of four Cambions surround the remaining soldiers.
 
+## Blood War
+A field of wrath opens before you. On one side, swarming chaos that are the hordes of the [[Abyss]] surge like a tide, meeting and breaking against the smaller, but more organised legions of Hell. Above them, what looks like a cloud of uncountable winged creatures swarm three titanic, blade-shaped basalt and brimstone floating... vessels of some kind, surging with red soulfire, sending flames and winged cambions to do battle with the attacking air force.
 
 # The [[River Styx]]
+## [[Odessa]]
 
 
 # Breaking the Vessel
