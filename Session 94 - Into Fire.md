@@ -1,7 +1,18 @@
 **Previous Session:** [[Session 91.5 - Hammer to Anvil (Online)]]
 **Subsequent Session:**
 ## Post Mortem
+**Dulussahn 18th**
+- [[Lathran, Avatar of Lathander|Lathran]] approaches [[Kanan Einzbern]], telling him that he needs to destroy Athelstan as soon as he can.
+- Kanan shops around for more health potions, and readies himself for a difficult trial
+- [[Kanan Einzbern|Kanan]] and [[Aerondite]] are transported to [[Avernus]] with the intent of making their way to a bank of the [[River Styx]]
+- They encounter a series of cambion hellriders battling a glabrezu demon, choosing to avoid the battle instead of engaging
+- Travelling through a ruined city, they encounter condemned souls in forms of lemures, and are spotted by a horned devil which they defeat
+- They encounter a battle occuring during the [[Blood War]], and narrowly escape an infernal war vessel falling to the ground around them
+- They make it to the bank of the styx, where [[Odessa]] sees Kanan and tells him that him bringing [[Lucius]]' vessel here was foolish, and that she could take it from him and give it to [[Zariel]] as a prize, but instead she would like him to owe her a favour
+- Kanan plunges the [[Vessel of Avarice]] into the river, it absorbs hundreds of infernal souls, and the pair gate back to [[Steinwalde]], where [[Lathran, Avatar of Lathander|Lathran]] destroys the majority of [[Athelstan]]'s self, leaving only a self-devouring elemental shard of primordial hunger, orbited by the shards of the chalice
 
+**Dulussahn 19th**
+- Kanan sleeps for 19 hours, and awakens to find a fiendish addition to the runes on his arm, the word for  "Favour" or "Debt"
 
 ## Introduction
 > So we will find our dreams fade in time, and in time our dreams leave us blind.. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light

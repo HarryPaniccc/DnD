@@ -1,6 +1,8 @@
 ---
 tags:
   - PC
+aliases:
+  - Isilme
 ---
 >[!infobox|right lp wsm-med]
 > ![[Pasted image 20260126170022.png|300]]

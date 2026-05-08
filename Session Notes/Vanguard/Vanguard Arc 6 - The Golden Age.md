@@ -54,10 +54,12 @@ tags:
 - (17th) Caede and Kanan make it to [[Steinwalde]] and begin their work on their masterwork items, meeting [[Lathran, Avatar of Lathander|Lathran]].
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 - (18th) Caede teleports home, meets [[Maurice the Flameskull|Kran]] and the others, and catches up with the [[Vanguard]] about he and Kanan's travels.
+- (18th - 19th) Kanan, alongside [[Aerondite]], travel to [[Avernus]] and destroy the [[Vessel of Avarice]]. Kanan promises a favour to [[Odessa]].
 - (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day.
 
 **Week 9 (Dulussahn 21st)**
-
+- (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
+- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]].
 
 
 # Things to Remember
