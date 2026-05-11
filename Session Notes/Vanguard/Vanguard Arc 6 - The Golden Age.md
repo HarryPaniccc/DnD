@@ -55,6 +55,7 @@ tags:
 - (17th) Kanan teleports back to [[Luthrand Manor]] to speak with [[Tevis Einzbern]]. He returns to Steinwalde the next day.
 - (18th) Caede teleports home, meets [[Maurice the Flameskull|Kran]] and the others, and catches up with the [[Vanguard]] about he and Kanan's travels.
 - (18th - 19th) Kanan, alongside [[Aerondite]], travel to [[Avernus]] and destroy the [[Vessel of Avarice]]. Kanan promises a favour to [[Odessa]].
+- (20th) Kanan and Lathran share a meal.
 - (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day.
 
 **Week 9 (Dulussahn 21st)**
@@ -115,7 +116,7 @@ The PC's are going to be accumulating allies throughout this period.
 
 Kanan plans to travel north of [[Sirkonos|Sirkonos]] in order to find aid from the dwarves of [[Steinwalde]] in reforging [[Anathema]] and in turning the [[Vessel of Avarice]] into [[Nightfall, the Hand that Feeds]]. Kanan is going to need the help of a guide of some kind, in addition to carefully managing his resources for the long trip. [[Rudolph van Richten]] is his guide
 
-- Overload the chalice and maybe go to the hells?
+- Overload the chalice and maybe go to the hells? (Done)
 
 #### Gear Ideas
 One of the primary objectives too is for Kanan to sort out some of his gear on this journey. Gear should be put into the [[Pricing and Crafting]] document too.

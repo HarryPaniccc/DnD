@@ -1,3 +1,14 @@
+>[!infobox|wfull]
+> # Item
+> ***Type (Subtype), Rarity, Requires Attunement***
+> 
+> | |
+> |-|
+> Does stuff 
+
+
+
+
 # Old
  **The Leviathan Axe
 

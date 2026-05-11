@@ -2251,7 +2251,6 @@
           {
             "id": "f6ee7c6f3acda308",
             "type": "tabs",
-            "dimension": 51.7531556802244,
             "children": [
               {
                 "id": "4197be4e659ef1fd",
@@ -2282,17 +2281,17 @@
                 }
               },
               {
-                "id": "a75602818ecbfd11",
+                "id": "21dfa06dad190cbc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
-                    "mode": "source",
+                    "file": "Session 94 - Into Fire.md",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 91.5 - Hammer to Anvil (Online)"
+                  "title": "Session 94 - Into Fire"
                 }
               },
               {
@@ -2302,7 +2301,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Items/Nightfall, the Hand that Feeds.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -2321,34 +2320,6 @@
                   },
                   "icon": "lucide-file",
                   "title": "Anathema"
-                }
-              },
-              {
-                "id": "8c43bf6f18e64ccf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Items/Leviathan Axe.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Leviathan Axe"
-                }
-              },
-              {
-                "id": "bc3c835be2e913fc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Duergar Sunblight Stronghold.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Duergar Sunblight Stronghold"
                 }
               },
               {
@@ -2378,15 +2349,7 @@
                   "icon": "lucide-file",
                   "title": "Einzberns"
                 }
-              }
-            ],
-            "currentTab": 5
-          },
-          {
-            "id": "ad403f483996d6ec",
-            "type": "tabs",
-            "dimension": 48.2468443197756,
-            "children": [
+              },
               {
                 "id": "b570b995d66a4f2d",
                 "type": "leaf",
@@ -2416,20 +2379,6 @@
                 }
               },
               {
-                "id": "64865fe6e781d3bd",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/book.html#xge,2,awarding%20magic%20items",
-                    "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Dungeon Master's Tools - Xanathar's Guide to Everything - 5etools"
-                }
-              },
-              {
                 "id": "0ab9e66bd4bc3e62",
                 "type": "leaf",
                 "state": {
@@ -2442,65 +2391,9 @@
                   "icon": "lucide-file",
                   "title": "Steinwalde"
                 }
-              },
-              {
-                "id": "1b0bd1cf7a6f75a5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Grelchar the Keen.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Grelchar the Keen"
-                }
-              },
-              {
-                "id": "7b9b594f89c9a941",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Frostcleaver.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Frostcleaver"
-                }
-              },
-              {
-                "id": "bf10959d1bcca8fb",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#adult%20white%20dragon_mm",
-                    "title": "Adult White Dragon - 5etools",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Adult White Dragon - 5etools"
-                }
-              },
-              {
-                "id": "b6054952e48df156",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Statblocks/Adult White Dragon.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Adult White Dragon"
-                }
               }
             ],
-            "currentTab": 7
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -2532,7 +2425,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#TODO",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -2559,21 +2452,47 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/",
-                    "title": "5etools",
+                    "url": "https://2014.5e.tools/bestiary.html#deva_mm",
+                    "title": "Deva - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "5etools"
+                  "title": "Deva - 5etools"
+                }
+              },
+              {
+                "id": "fdc348f5696fe83b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/book.html#dmg,8,ending%20a%20chase,0",
+                    "title": "Running the Game - Dungeon Master's Guide - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Running the Game - Dungeon Master's Guide - 5etools"
+                }
+              },
+              {
+                "id": "8f4a2f2dcc9bafb1",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://2014.5e.tools/adventure.html#bgdia,3",
+                    "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 433.5,
-        "collapsed": true
+        "width": 430.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -2582,7 +2501,6 @@
           {
             "id": "5ece3774c37e9648",
             "type": "tabs",
-            "dimension": 62.21153846153846,
             "children": [
               {
                 "id": "4cb96e6d4287e8a5",
@@ -2604,17 +2522,17 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "World of Helodaria/Steinwalde.md",
+                    "file": "Session 94 - Into Fire.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Steinwalde"
+                  "title": "Backlinks for Session 94 - Into Fire"
                 }
               },
               {
@@ -2652,13 +2570,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Steinwalde.md",
+                    "file": "Session 94 - Into Fire.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Steinwalde"
+                  "title": "Outline of Session 94 - Into Fire"
                 }
               },
               {
@@ -2677,38 +2595,6 @@
               }
             ],
             "currentTab": 4
-          },
-          {
-            "id": "92400877833113eb",
-            "type": "tabs",
-            "dimension": 37.78846153846154,
-            "children": [
-              {
-                "id": "bf82f9f28d38c15b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Guidelines.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Guidelines"
-                }
-              },
-              {
-                "id": "c68b5dcf4c07320d",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ],
-            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -2727,8 +2613,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b6054952e48df156",
-      "mtime": "2026-05-04T22:16:49+02:00"
+      "active": "be715f8a455bacc5",
+      "mtime": "2026-05-09T14:05:43+02:00"
     },
     "Silb Downtime": {
       "main": {
@@ -4380,7 +4266,7 @@
       "active": "cc07f8f6989593ae",
       "mtime": "2026-01-17T18:15:57+02:00"
     },
-    "Trayfort Downtime (Formerly Rylai)": {
+    "Trayfort Downtime": {
       "main": {
         "id": "e3ca7fd74647b9f6",
         "type": "split",
@@ -4441,12 +4327,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "World of Helodaria/Vanguard.md",
+                    "file": "World of Helodaria/Synod of Elevation.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Vanguard"
+                  "title": "Synod of Elevation"
                 }
               },
               {
@@ -4456,40 +4342,12 @@
                   "type": "markdown",
                   "state": {
                     "file": "World of Helodaria/Desseran.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
                   "title": "Desseran"
-                }
-              },
-              {
-                "id": "248394f0f5cb2d27",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Steinwalde.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Steinwalde"
-                }
-              },
-              {
-                "id": "06223d780826e8f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "World of Helodaria/Deities of Helodaria.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Deities of Helodaria"
                 }
               },
               {
@@ -4567,11 +4425,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://2014.5e.tools/bestiary.html#aspect%20of%20bahamut_ftd",
-                    "title": "Bestiary - 5etools",
-                    "mode": "blank"
+                    "title": "Aspect of Bahamut - 5etools",
+                    "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Bestiary - 5etools"
+                  "title": "Aspect of Bahamut - 5etools"
                 }
               }
             ],
@@ -4698,9 +4556,9 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "53f23441ad921b38",
-      "mtime": "2026-04-23T13:17:18+02:00"
+      "active": "78edd0f139636cdf",
+      "mtime": "2026-05-09T14:40:59+02:00"
     }
   },
-  "active": "Kanan Downtime"
+  "active": "Trayfort Downtime"
 }

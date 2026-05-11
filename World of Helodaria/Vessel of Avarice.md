@@ -1,4 +1,6 @@
-The Vessel of Avarice is an artefact forged before the end of the Age of Ascension. It was used by [[Athelstan]] to claim the power of the sun and the stars and become a vampire that was able to drink light.
+The Vessel of Avarice is an artefact forged before the end of the Age of Ascension. It was used by [[Athelstan]] to absorb a fragment of the [[Primordial of Hunger]], and become a blood god. In the year 813PF, [[Kanan Einzbern]] with the help of [[Lathran, Avatar of Lathander|Lathran]] destroyed the Vessel.
+
+
 # Vessel of Avarice
 *Wondrous Item, Artefact, Requires Attunement*
 **Artefact Properties**. The Vessel has the following properties, which you gain while attuned to it:

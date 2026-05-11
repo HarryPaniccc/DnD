@@ -18,18 +18,21 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 ## Active Threads and Goals
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - [[Ulrandir Vanariel]] has not been executed. Why?
-	- [[Alfred Gundrei]] must respond to the letter sent by Isilme and Rylai. Dinner
+	- [[Alfred Gundrei|Gundrei]]s play for power
+- [[Minra Vanariel]] is staying with [[Alfred Gundrei|Gundrei]]
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
 - Follow up with [[Darius Nubide]] following [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th)
+- Forge [[Nightfall, the Hand that Feeds]]
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
 	- Acquire the required materials and hunt an [[Adult White Dragon]]
 - Repair [[Lathran's Staff]]
 - Kanan must head the [[Battalion of the Silver Arrow]]
 - Something fishy is happening around [[Rokbaur Castle]] and [[Lord Malgus Kraber]]
+- Kanan owes a favour to [[Odessa]]
 
 ## Threads to Introduce
 
@@ -46,10 +49,11 @@ In the years after the defeat of the [[Vorciln]] and the sealing of [[Athelstan]
 - [[Session 999 - Tournament of Trayfort Hold]] 
 - [[Session 999 - The Trial of Silb Heft]] - Silb solo
 - [[Session 999 - Dragon Hunting]]
-- [[Session 94 - Into Fire]] - Kanan Solo
+
 
 #### Past Sessions
 
+- [[Session 94 - Into Fire]] - Kanan Solo
 - [[Session 93 - Uldrinea's Bane]]
 - [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 - [[Session 91.5 - Hammer to Anvil (Online)]]
