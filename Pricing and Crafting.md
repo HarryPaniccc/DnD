@@ -3,6 +3,7 @@ tags:
   - Rules
 aliases:
   - Magic Item Pricing
+  - Magic Items
 ---
 # Bounties
 I need to track how much money monsters are worth.

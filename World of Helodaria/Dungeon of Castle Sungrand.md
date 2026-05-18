@@ -135,4 +135,4 @@ idk what is in here
 - **Hidden Corpse**. Dead goblin surrounded by effigies and 14 platinum pieces.
 
 ## 13. Conspiracy Chamber
-Where [[Malphur]] meets with the goblin messangers. Firelight from within.
+Where [[Malphur]] meets with the goblin messangers. Firelight from within. A catchment area with clean water leads through a cave to a large underwater lake near the walls of the castle. It acts as a defensive moat, and extends widely from the base of the walls, but those who know where to look can use it to enter and exit the sewers.

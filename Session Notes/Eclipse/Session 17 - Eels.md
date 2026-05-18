@@ -1,7 +1,12 @@
 **Previous Session:** [[Session 16 - Corpses in Stagnant Waters]]
 **Subsequent Session:** [[Session 18 - ]]
 ## Post Mortem
-
+**Vanadrahs 17th**
+- Rest, return to the cistern
+- The group inspects the pathways around the sewers
+- Almost leave, but return
+- Going deeper they encounter a large catchment area and face and defeat giant lightning eels
+- The group hear a voice taunting them on the air, it is [[Malphur]] mocking them, egging them on
 
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
