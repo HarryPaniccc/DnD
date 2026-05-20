@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 16 - Corpses in Stagnant Waters]]
-**Subsequent Session:** [[Session 18 - ]]
+**Subsequent Session:** [[Session 18 - Chains of Glass]]
 ## Post Mortem
 **Vanadrahs 17th**
 - Rest, return to the cistern

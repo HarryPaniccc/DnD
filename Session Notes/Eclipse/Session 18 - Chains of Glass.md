@@ -1,7 +1,8 @@
 **Previous Session:** [[Session 17 - Eels]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 19 - ]]
 ## Post Mortem
-
+**Vanadrahs 17th**
+- 
 
 ## Recap
 **Much has happened** this day, too much to tell now, but here is what is most important.

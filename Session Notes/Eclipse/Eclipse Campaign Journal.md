@@ -92,7 +92,7 @@ Sungrand becomes a base of operations. They will need to mount expiditions and r
 
 ### Sessions
 Presented in reverse chronological order
-- [[Session 18 -]]
+- [[Session 18 - Chains of Glass]]
 - [[Session 17 - Eels]]
 - [[Session 16 - Corpses in Stagnant Waters]]
 - [[Session 15 - A Knife in the Back]]
