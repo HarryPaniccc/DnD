@@ -3304,7 +3304,7 @@
                 }
               },
               {
-                "id": "9ad8247b91b7e549",
+                "id": "c5eb7ac49b15aa2a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -3318,17 +3318,17 @@
                 }
               },
               {
-                "id": "c5eb7ac49b15aa2a",
+                "id": "87b0ef7e5f27f671",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session Notes/Eclipse/Session 17 - Eels.md",
+                    "file": "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Session 17 - Eels"
+                  "title": "Session 18 - Chains of Glass"
                 }
               },
               {
@@ -3338,7 +3338,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "World of Helodaria/Dungeon of Castle Sungrand.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -3372,9 +3372,47 @@
                   "icon": "lucide-file",
                   "title": "Nethendell Valley Map Notes"
                 }
+              },
+              {
+                "id": "9a54b21201c31a59",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pricing and Crafting.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pricing and Crafting"
+                }
+              },
+              {
+                "id": "f4e6cbcf30dd4a96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "World of Helodaria/Kanan Einzbern.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kanan Einzbern"
+                }
+              },
+              {
+                "id": "00ffb4b7cbc51f14",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 8
           }
         ],
         "direction": "vertical"
@@ -3433,12 +3471,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#giant%20lightning%20eel_tftyp",
-                    "title": "Giant Lightning Eel - 5etools",
+                    "url": "https://2014.5e.tools/bestiary.html#bugbear_mm",
+                    "title": "Bugbear - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Giant Lightning Eel - 5etools"
+                  "title": "Bugbear - 5etools"
                 }
               }
             ],
@@ -3446,7 +3484,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 393.5
+        "width": 413.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3565,8 +3603,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "c5eb7ac49b15aa2a",
-      "mtime": "2026-05-02T08:39:37+02:00"
+      "active": "e0f42a9e678e0b1e",
+      "mtime": "2026-05-30T21:40:16+02:00"
     },
     "Steinwalde and other creation": {
       "main": {
@@ -4630,5 +4668,5 @@
       "mtime": "2026-05-15T10:16:25+02:00"
     }
   },
-  "active": "Eclipse"
+  "active": "Trayfort Downtime"
 }
