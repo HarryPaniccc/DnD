@@ -241,11 +241,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/spells.html#prestidigitation_phb",
-                "title": "Prestidigitation - 5etools",
+                "title": "Spells - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Prestidigitation - 5etools"
+              "title": "Spells - 5etools"
             }
           }
         ],
