@@ -40,6 +40,20 @@
             }
           },
           {
+            "id": "39a1f94096105bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Ashen Peaks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ashen Peaks"
+            }
+          },
+          {
             "id": "78edd0f139636cdf",
             "type": "leaf",
             "state": {
@@ -181,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -241,11 +255,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/spells.html#prestidigitation_phb",
-                "title": "Spells - 5etools",
+                "title": "Prestidigitation - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Spells - 5etools"
+              "title": "Prestidigitation - 5etools"
             }
           }
         ],
@@ -331,12 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "World of Helodaria/Ruina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ruina"
             }
           },
           {
@@ -353,12 +368,12 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 339.5,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,16 +387,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53f23441ad921b38",
+  "active": "a0013ce8152f7688",
   "lastOpenFiles": [
-    "World of Helodaria/Caede.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Ashen Peaks.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Ruina.md",
-    "Wraithhold.md",
+    "World of Helodaria/Mistborn Inquisitor Analogue.md",
     "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Scoria Bark Tree.md",
+    "Attachments/Pasted image 20260121094334.png",
+    "World of Helodaria/Caede.md",
+    "Wraithhold.md",
     "World of Helodaria/Synod of Elevation.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
     "World of Helodaria/Desseran.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
@@ -395,11 +416,6 @@
     "Pricing and Crafting.md",
     "Glamour Studded Leather Armour.md",
     "Nethendell Valley Map Notes.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Statblocks/Adult White Dragon.md",
-    "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Vanguard.md",
     "Untitled.base",
     "Attachments/Pasted image 20260505212543.png",
     "Attachments/Pasted image 20260505212129.png",
@@ -412,7 +428,6 @@
     "Statblocks/Units",
     "Attachments/Pasted image 20260406222552.png",
     "Attachments/Pasted image 20260406222501.png",
-    "Attachments/Pasted image 20260331220411.png",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",

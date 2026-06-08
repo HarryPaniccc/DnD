@@ -42,14 +42,6 @@ The center of the Republic, the Dularen Plains is a region of great prosperity f
 ### The [[Oakrot Woods]]
 The Oakrot is a huge swamp off the shores of the [[Amberloch]]. The area is known for natural life cycling and an expedient cycle of life and death, the animals and plants thriving off of rot.
 
-### The [[Cinder Valley]]
-The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignty of [[Ralengrad]].
-
-- [[Bridgehold]]: A small community on the southern side of the [[Bridge of Giants]].
-- [[Ashfort]]: A massive castle city atop a cliff face, and home to the [[Ashen Legion]].
-- [[Ralengrad]]: Also the name of the city that surrounds the base of Ashfort.
-- [[Wraithhold]]: Within the [[Shiver]], Wraithhold is an ice 
-
 ### The [[Amberloch]]
 #TODO 
 
@@ -62,8 +54,23 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 - [[Ironspine Pass]]: A road that leads up the cresting peaks from a bit into the [[Dularen Forest]]. Somewhere along the pass there exists a tomb of paladins dedicated to [[Lathander]].
 
 #TODO 
+
+### The [[Cinder Valley]]
+The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignty of [[Ralengrad]].
+
+- [[Bridgehold]]: A small community on the southern side of the [[Bridge of Giants]].
+- [[Ashfort]]: A massive castle city atop a cliff face, and home to the [[Ashen Legion]].
+- [[Ralengrad]]: Also the name of the city that surrounds the base of Ashfort.
+
+### The [[Crowning Wilderness]]
+North of Ruina is an incredible, unknownable expanse of forest known as the [[Crowning Wilderness]]. Few settlements dot its edges, but mostly it is considered an edge of the map. Close to the [[Cinder Valley]] the trees take on a dark, charcoal like appearance. They are known as [[Scoria Bark Tree]]s
+
+- [[Unnamed Hammlet Near the Synod of Elevation]]:
+
+### The [[Shiver]]
+- [[Wraithhold]]: Within the [[Shiver]], Wraithhold is an ice
+
 # Society and Factions
----
 ## Culture
 Groups of settlers from around the world and almost broke into war.
 

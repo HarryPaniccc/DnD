@@ -22,7 +22,7 @@ During the wars of the fall on Eranulaid, Caede and his brothers and sisters of 
 ---
 
 > [!Caede's Oaths] Caede's Oaths
->*Caede has one unknown oath. He cannot recall its details.*
+>*Caede has one unknown first oath. He cannot recall its details.*
 >"I will slay undead."
 >"I will redeem those who are undeserving of death."
 

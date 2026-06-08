@@ -14,6 +14,7 @@ tags: Lore
 - [[Anaroth the Sun Mountains]]
 - [[Osara the Isle of Teeth]] 
 - [[Basilisk Island]]
+- [[Crowning Wilderness]]
 
 ### Map
 

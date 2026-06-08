@@ -60,7 +60,7 @@ tags:
 
 **Week 9 (Dulussahn 21st)**
 - (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
-- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]].
+- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
 
 
 # Things to Remember
