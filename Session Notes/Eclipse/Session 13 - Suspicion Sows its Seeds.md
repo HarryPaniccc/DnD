@@ -6,7 +6,7 @@
 - [[Ealendar]] notices [[Ferro]] paying respects to the fallen of the massacre at the [[Borderlands Inn]].
 - The group meet Margit for breakfast, ask him about his health, and confront Ferro
 - She agrees to follow them
-- The group decide to follow the thread and speak with [[Belle the Acolyte]], meeting [[Pallax]]
+- The group decide to follow the thread and speak with [[Belle the Acolyte]], meeting [[Palax]]
 - Investigating [[Gothrend Grinda]]'s office, they find he left in a hurry, and that he disappeared after speaking with [[Kalir Windguard]].
 - They investigate below the chapel with the [[Ilmater]] worship chamber, and the tomb of [[Saint Windguard]].
 - [[Ealendar]] gets the feeling of someone being held hostage in the castle, and the group reasons it must be [[Canon Valaris]]' bugbear prisoner or someone related in the dungeon
@@ -58,7 +58,7 @@ He was inclined to stay put seeing as everyone keeps wanting to commit themselve
 - Ardee has been following the party since they found the dead bodies that night in hex 11 10.
 
 
-## [[Pallax]]
+## [[Palax]]
 - 
 
 # [[Gothrend Grinda]]

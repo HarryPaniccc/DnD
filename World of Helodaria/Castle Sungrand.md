@@ -25,6 +25,7 @@ The castle was used as a hold fast during the invasion of the [[Khalar'hok]] in 
 - [[Gothrend Grinda]] - Head cleric at the chapel of [[Ilmater]] and friend to [[Kalir Windguard]]
 - [[Kalir Windguard]] - Fighter hero of castle sungrand. She went missing some time before the attack of [[Pallidmoore]].
 - [[Belle the Acolyte]] - Black haired human acolyte of the chapel beneath [[Gothrend Grinda]].
+- [[Douglas Dier]] - Offers identify services for 20gp
 
 # Locations
 ### Inner Keep

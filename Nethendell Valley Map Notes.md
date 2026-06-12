@@ -4,6 +4,24 @@ tags:
 ---
 This is the first of a series of notes that are used to tabulate and describe information on a HEXMAP. It is likely that it will wind up being simply a table, or series of tables. 
 
+# Overland Travel
+Travel pace is defined as 3 miles per hour with one more or one less mile per hour if the group is going fast or slow respectively. The following is used to adapt:
+## Travel Pace
+As a baseline, pace is calculated as follows:
+- **Normal**: A normal travel pace is assumed for terrain types that do not greatly impeded the speeds of the characters, such as meadows, light forests, and light hills. One hex can be traversed in two hours.
+- **Fast**: When the charaters are moving at a fast pace they travel 33% faster than usual. For unimpeded movement, this translates to an extra hex per day.
+- **Slow**: The characters sacrifice speed for stealth, moving 33% slower, translating to a loss of one hex per day for unimpeded movement
+
+### Modifiers
+The primary cost to moving through a set of terrain includes things like the presence of a road, mounts, the types of terrain present, and the weather.
+- **Roads**: For every two hexes travelled over a period of time, a road gives an additional hex of distance, and travelling on a road does not impede movement (unless it is reasonable for it to do so, such as after a calamity or something). For example, at a normal pace, a group travels 6 hexes in 8 hours
+- **Mounts:** While riding on a mount, travel pace increases 50%, gaining an additional hex per two hours. Slower groups like trade caravans don't gain this benefit
+- **Terrain**: 
+- **Weather**: Bad weather slows you by a quarter.
+
+## Actions
+One can spend time searching through a hex but rolls another random encounter.
+
 # Random Encounters
 > Move, roll, describe, react. That is the flow of random overland encounters.
 
@@ -19,9 +37,9 @@ Steps to determining the encounter
 | Column Shift, Reroll | 1                | 1                | 1         | 1                | -          |
 | No Encounter         | 2 - 11           | 2 - 11           | 2 - 11    | 2 - 10           | 1 - 7      |
 | Civilised Encounter  | 12 -19           | 11 - 17          | 11 - 14   | 11 - 14          | -          |
-| Monster Encounter    | 20               | 18               | 15 - 17   | 15 - 17          | 8 - 18     |
-| Dangerous Terrain    | -                | 19               | 18 - 19   | 18               | 19         |
-| Valuable Terrain     | -                | 20               | 20        | 19               | 10         |
+| Monster Encounter    | 20               | 18               | 15 - 17   | 15 - 17          | 8 - 17     |
+| Dangerous Terrain    | -                | 19               | 18 - 19   | 18               | 18         |
+| Valuable Terrain     | -                | 20               | 20        | 19               | 19         |
 | Unique Terrain       | -                |                  |           | 20               | 20         |
 
 ## Civilised Encounters
@@ -37,8 +55,8 @@ Civilised encounters are unlikely to be dependent on the terrain type. The natur
 | 6     | Prisoner Transport            |
 ## Monster Encounters
 Roaming monsters often are dependent on the region they inhabit. Members of the [[Khalar'hok]] are monsters, but bands of them are also 'civilised'. These tables will contain monsters unaligned with the war in addition to the Khalarok forces.
-### Grassland Encounters
 
+### Grassland Encounters
 | (1D8) | Grassland Monster Encounters           |
 | ----- | -------------------------------------- |
 | 1     | Hobgoblin Regiment                     |
@@ -65,6 +83,17 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 
 **Chimera**
 
+
+### Farmland Encounters 
+| (1D6) | Farmland Monster Encounter   |
+| ----- | ---------------------------- |
+| 1     | Violent Civilised Encounter  |
+| 2     | Hobgoblin Looters and Ghouls |
+| 3     | Scarecrows                   |
+| 4     | Werewolfs                    |
+| 5     |                              |
+| 6     |                              |
+
 ### Forest Encounters
 | (1D6) | Forest Monster Encounter              |
 | ----- | ------------------------------------- |
@@ -80,12 +109,11 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 | ----- | ------------------------------------- |
 | 1     | 1D3 Will o Wisps                      |
 | 2     | 1D8 + 1 Phase Spiders                 |
-| 3     |                                       |
-| 4     |                                       |
+| 3     | Cursed Civilised Encounter            |
+| 4     | Treant                                |
 | 5     | Breathtaker Druid                     |
 | 6     | [[Breathtaker]] \| Young Green Dragon |
 ### Fen Encounters
-
 | 1D8 | Fen Monster Encounter |
 | --- | --------------------- |
 | 1   | Ghouls                |
@@ -109,18 +137,23 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 ## Dangerous Terrains
 Challenges other than monsters that need to be overcome. Non-combat challenges will certainly be issues that are dependent on terrain type.
 
-| (Dn) | Dangerous Terrain Encounter                                                     |
-| ---- | ------------------------------------------------------------------------------- |
-| 1    | Monster Lair                                                                    |
-| 2    | Tainted water. Moving through it exposes a creature to the "sight rot" disease. |
-| 3    |                                                                                 |
-| 4    |                                                                                 |
+| (1D6) | Dangerous Terrain Encounter                                                     |
+| ----- | ------------------------------------------------------------------------------- |
+| 1     | Monster Lair                                                                    |
+| 2     | Tainted water. Moving through it exposes a creature to the "sight rot" disease. |
+| 3     | Awful Despoiling                                                                |
+| 4     | Enshrouded Terrain                                                              |
+| 5     | Challenge                                                                       |
+| 6     | Double                                                                          |
 **Monster Lair**: Roll on the appropriate terrain's Monster Encounters table. A lair appropriate to the outcome of the roll is found in this region.
 
 
+
+
 ## Valuable Terrains
-Locations that wind up being boons to the players.
 > Table copied from Chubby Funster's "The Journey is the Destination" video.
+
+Locations that wind up being boons to the players.
 
 | (1D12) | Valuable Terrain Encountered |
 | ------ | ---------------------------- |
@@ -162,6 +195,7 @@ Locations that wind up being boons to the players.
 | 2   | Healing Salve (Healer's Kit)                  |
 | 3   | Herbal Tea (Healing Potion During Short Rest) |
 | 4   | Poison                                        |
+
 **Vista:** The party has a clear view of the surrounding wilderness and adjacent hexes. They can make a DC 10 perception check for 10 minutes to survey an adjacent hex. On a success, roll its encounter check, and tell the party what they will find.
 
 **Double:** Roll twice, rerolling 12s.
@@ -184,8 +218,12 @@ Triangle = special interest location
 Cross/X = dungeon
 Castle = fortification
 
+#### 08 06 | [[Tira Stone]]'s Refugee Camp
+**Mountain**
+Hidden in an old mine is Tira's camp.
+
 #### 09 14 | Blackhand Tower
-Visible from two hexes away, [[Blackhand Tower]] is another decrepit structure of stone that has been occupied by the [[Goldrend Bandits]]. They operate their slaving operation from this location. It is well defended.
+Visible from two hexes away, [[Blackhand Tower]] is another decrepit structure of stone that has been occupied by the [[Goldrend Bandits]]. They operate their slaving operation from this location. It is well defended, and a hostile approach from the west of the river is very difficult.
 
 #### 10 07 | Orc Logger Camp
 **Forest**
@@ -199,7 +237,7 @@ Deep in the forest lay the ruins of an elven town. Beautifully wrought stone sta
 
 #### 11 10 | Blighted Grove
 **Thick Forest**
-The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces
+The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces, [[Breathat]] masquerading as the druid when he is out of his lair.
 
 #### 11 12 | Vraath Keep
 **Thick Forest**
@@ -209,6 +247,18 @@ The blighted grove of the druid master [[Bayaz]] and his acolytes, now under con
 **Forest**
 Near the entrance to the forest in this region sits a soldier's camp, a guard base for [[Castle Sungrand]] soldiers. A large number of tents, supplies, and maps are laid out. From here, rangings into the forest to resist the invasion are sent out.
 
+#### 13 10 | [[Castle Sungrand]]
+**Grassland**
+Military castle sits in this region.
+
+#### 14 12 | [[Barrow of Eirik Dulgar]]
+**Fen**
+A barrowmound sits atop a hill where the rivers converge. Necrotic energies fester in the rivers around here.
+
 #### 15 07 | Sorcerer Ruins
 **Mountain**
 Hidden in the face of this mountain is a meeting ground for the conclave of sorcerers from the [[Cult of the Dragon]].
+
+#### 16 10 | Abandoned Fortress
+**Mountain**
+Kinda helms deep like but built into the mountain and crawling with undead. #TODO

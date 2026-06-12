@@ -1,8 +1,11 @@
 **Previous Session:** [[Session 17 - Eels]]
-**Subsequent Session:** [[Session 19 - ]]
+**Subsequent Session:** [[Session 19 - The Greater Threat]]
 ## Post Mortem
 **Vanadrahs 17th**
-- 
+- Swift rejoins the party
+- The group attacks [[Malphur]]s bugbears and he ambushes them from behind
+- The bugbears are slain and [[Malphur]] escapes through the water system
+- [[Canon Valaris]] is revealed to have been the imprisoned bugbear
 
 ## Recap
 **Much has happened** this day, too much to tell now, but here is what is most important.

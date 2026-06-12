@@ -15,7 +15,7 @@
 - Arising in [[Castle Sungrand]], having survived the previous night under attack from undead wraiths and shadows, you went about some business throughout the castle keep
 - While out, [[Ealendar]] met a strange elven woman by the name of [[Ferro]] paying respects to some of the fallen from the inn the previous night. She followed him, having wildshaped into the form of a mouse, and was confronted by the group after they had a breakfast with lord Tormon
 - Tugging on a thread from before, the group decided to investigate the missing cleric [[Gothrend Grinda]]'s temple, noting that their former adventuring fellows [[Parcival Grimbourne]] and [[Douglas Dier]] have joined various enterprises around the castle grounds
-- Entering into the temple, they made a loud, violent acquaintance with [[Pallax]], a dragonborn mercenary itching to cut someone down and be paid while doing it
+- Entering into the temple, they made a loud, violent acquaintance with [[Palax]], a dragonborn mercenary itching to cut someone down and be paid while doing it
 - The group investigated the missing cleric's study, noting a few things around the chamber, and then searched around sanctum below the chapel, noting the entrance to the crypt below
 - As they were about to give up their search, Ealendar felt the tug of divine strings pulling him towards the castle, sensing that someone is being held wrongly somewhere within the walls. 
 - Ferro and Togwae, disguised as mice, skulked around the castle prisons, noting some hobgoblin prisoners in cages, and an entrance to a deep, dark, abandoned dungeon below. Deciding it probably safest not to delve deeper alone, the pair of them met up with the group above, and planned to make their way towards the prisons, looking for answers

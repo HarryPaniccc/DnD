@@ -8,9 +8,13 @@ Useful links:
 Organ
 ## Threads
 - [[Gothrend Grinda]] has disappeared in a hurry after meeting [[Kalir Windguard]], who also disappeared.
-- [[Canon Valaris]] has a prisoner in the dungeon below [[Castle Sungrand]]
+- [[Canon Valaris]] was imprisoned below [[Castle Sungrand]]
 - The [[Goldrend Bandits]] slavers held up in [[Blackhand Tower]]
 - Vraath Keep is now undefended
+- [[Malphur]] has escaped after impersonating [[Canon Valaris]]
+- [[Tira Stone]]'s advice would be valuable to the castle
+- [[Bayaz]]'s forest area is cursed and the soldiers have had to pull back from the deeper forest
+- There are undead popping up around the eastern river
 
 #### TODO
 - Barrows of fallen [[House Ralenroth]]
@@ -26,9 +30,9 @@ Organ
 - [[Dagger of Acid]] (Prejudice)
 - [[Thread of Deceit]]
 - [[Ring of Protection +1]]
-- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
-**Soon to be Awarded**
 - [[Resolve]]
+**Soon to be Awarded**
+- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 **Unawarded**
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
@@ -45,17 +49,12 @@ Organ
 - [[Boots of the Resolute]]
 
 # Player Characters
-### Tristyn - [[Cened]] (Helf Rogue)
-
-### Francois - [[Togwae]] (Helf Druid)
-
-### Rob - [[Ealendar]] (Horc Paladin)
-
-### Si Teng - [[Swift]] (Wood Elf Mercy Monk)
-
-### Sarah - [[Ferro]] (Wood Elf Spores Druid)
-
-### Charles - [[Pallax]] (Red Dragonborn Zealot Barbarian)
+- Tristyn - [[Cened]] (Helf Rogue)
+- Francois - [[Togwae]] (Helf Druid)
+- Rob - [[Ealendar]] (Horc Paladin)
+- Si Teng - [[Swift]] (Wood Elf Mercy Monk)
+- Sarah - [[Ferro]] (Wood Elf Spores Druid)
+- Charles - [[Palax]] (Red Dragonborn Zealot Barbarian)
 
 ### Previous Characters
 - Tim - [[Rosmary (and Thyme)]]
@@ -85,6 +84,8 @@ Now with Nethendell under seige, the survivors fled to a forgotten mine in a mou
 - [[Conclave Temple]] - location where the sehanine conclave sit
 - [[Tower of Yierdur]]
 - [[Pallidmoore]]
+- 
+
 # Act 2 - The Enemy Revealed
 Having made it to [[Castle Sungrand]], the party must convince [[Lord Margit Tormon]] to send aide to [[Tira Stone]] and the refugees from [[Nethendell]]. They will uncover the treachery of [[Canon Valaris]] and learn of that the factions at play are more dangerous than they could have hoped for.
 
@@ -92,6 +93,7 @@ Sungrand becomes a base of operations. They will need to mount expiditions and r
 
 ### Sessions
 Presented in reverse chronological order
+- [[Session 19 - The Greater Threat]]
 - [[Session 18 - Chains of Glass]]
 - [[Session 17 - Eels]]
 - [[Session 16 - Corpses in Stagnant Waters]]

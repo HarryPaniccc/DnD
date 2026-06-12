@@ -27,7 +27,7 @@ tags:
 **Week 5 (Antumbrahn 23rd)**
 - (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
 - Caede and Kanan make it to the first village of [[Estravia]], and later Valeria, where they meet [[Belle Nierhund]]
-- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and find and delve into the [[Synod of Elevation]], facing and defeating [[Marthirion]]
+- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and find and delve into the [[Synod of Elevation]], facing and defeating [[Marthirion]]. [[Mistborn Inquisitor Analogue]] escapes and roams the earth.
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
 - Kanan and Caede make it to the base of the North Estravian Faults where they face winter wolves, frost giants, blizzards, and meet the [[Battlehammer Clan]] scouts
