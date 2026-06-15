@@ -14,7 +14,7 @@ The surrounding mire is mostly only travelable on the main roads with any form o
 
 - [[Sheriff Burgon Ironclad]]. Dark brown furred Bugbear. He leads a small militia and takes taxes on the area. His men guard the walls of Fengate from attack. He has a great axe and chainmail. Gritty slight german accent.
 - [[Dunmer Eiseltan]] Innkeep of the Spearpommel Inn. Rouner, Short dark hair. Higher Sirkonian accent
-- [[Adelaide]]. Her mother owns a fruit stand. Red hair and a button nose and green eyes
+- [[Adelaide]]. Her mother owns a fruit stand. Red hair and a button nose and green eyes. Saved by the vangaurd at the western watchtower.
 
 # Locations
 
