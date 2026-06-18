@@ -4,95 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "6eff3c0b43ee9101",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "25685d0a01d13bf7",
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eclipse Campaign Journal"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "87b0ef7e5f27f671",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 18 - Chains of Glass"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "dde4d401d8843cc6",
+            "id": "cb0a3bb9f91cc8f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 19 - The Greater Threat"
+              "title": "Trayfort Keep"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "206beb3ee20ad574",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c5fed135f8b54827",
+            "id": "4de9ac80279cfb99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Dungeon of Castle Sungrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dungeon of Castle Sungrand"
-            }
-          },
-          {
-            "id": "4da08dbd4a5cacce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Castle Sungrand.md",
+                "file": "Administration and Other Notes/Strongholds and Followers Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Castle Sungrand"
-            }
-          },
-          {
-            "id": "8251815e2aea9a57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nethendell Valley Map Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nethendell Valley Map Notes"
+              "title": "Strongholds and Followers Notes"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +114,7 @@
             }
           },
           {
-            "id": "60144437ebeeb8fa",
+            "id": "990cb2f371a0b860",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -146,24 +124,25 @@
             }
           },
           {
-            "id": "e0f42a9e678e0b1e",
+            "id": "788f324251493a42",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#bugbear_mm",
-                "title": "Bugbear - 5etools",
+                "url": "https://2014.5e.tools/variantrules.html#downtime%20revisited_xge",
+                "title": "Downtime Revisited - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bugbear - 5etools"
+              "title": "Downtime Revisited - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
+    "width": 438.5,
     "collapsed": true
   },
   "right": {
@@ -174,6 +153,39 @@
         "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
+            }
+          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -189,36 +201,18 @@
             }
           },
           {
-            "id": "b3c79ccde858898a",
+            "id": "f913bfe3e075c876",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "World of Helodaria/Trayfort Keep.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Eclipse Campaign Journal"
+              "icon": "lucide-list",
+              "title": "Outline of Trayfort Keep"
             }
           },
           {
@@ -228,25 +222,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f913bfe3e075c876",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Nethendell Valley Map Notes.md",
-                "followCursor": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline of Nethendell Valley Map Notes"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -264,29 +245,12 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "ed632257dcc111f3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e2c111cf6607f0d9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Nethendell Valley Export 1 A1"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,35 +264,41 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8251815e2aea9a57",
+  "active": "4de9ac80279cfb99",
   "lastOpenFiles": [
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Nethendell Valley Map Notes.md",
-    "World of Helodaria/Dularen.md",
-    "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
-    "World of Helodaria/Ruina.md",
-    "World of Helodaria/Eranulaid.md",
-    "World of Helodaria/Ashen Peaks.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Mistborn Inquisitor Analogue.md",
-    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Scoria Bark Tree.md",
-    "Attachments/Pasted image 20260121094334.png",
-    "World of Helodaria/Caede.md",
-    "Wraithhold.md",
-    "World of Helodaria/Synod of Elevation.md",
+    "Items/Wastehunter.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Dularen.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Desseran.md",
-    "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Isilme Vanariel.md",
-    "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
-    "Session Notes/Eclipse/Session 17 - Eels.md",
-    "World of Helodaria/Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
-    "Session Notes/Eclipse/Session 14 - Mold and Rats (Go Deeper, My King).md",
+    "Statblocks/Severa Statblock.md",
+    "World of Helodaria/Severa.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "Timeline.md",
+    "World of Helodaria/Primordials.md",
+    "World of Helodaria/Primevals.md",
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+    "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
+    "World of Helodaria/Hommlet.md",
+    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
+    "Attachments/Worldographer/Ruina-tmp.wxx",
+    "Attachments/Worldographer/Untitled.pdf",
+    "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
+    "Attachments/Worldographer/Sirkonos-tmp.wxx",
+    "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
+    "Session Notes/Vanguard/Session 84 - Travel to Steinwalde.md",
+    "World of Helodaria/Sirkonos.md",
+    "World of Helodaria/Lord Malgus Kraber.md",
+    "World of Helodaria/Fengate.md",
+    "Session Notes/Vanguard/Session 83 - Through the Sirkonian Countryside (Start of Arc).md",
+    "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
+    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
+    "Attachments/Pasted image 20260121094334.png",
     "Untitled.base",
     "Attachments/Pasted image 20260505212543.png",
     "Attachments/Pasted image 20260505212129.png",
@@ -342,11 +312,6 @@
     "Attachments/Pasted image 20260406222501.png",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
-    "Attachments/Worldographer/Nethendell Valley-autosave-tmp.wxx",
-    "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
-    "Attachments/Worldographer/Sirkonos-autosave.wxx",
-    "Attachments/Worldographer/Sirkonos.wxx",
-    "Attachments/Worldographer/Ruina-tmp.wxx",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",

@@ -61,6 +61,8 @@ tags:
 **Week 9 (Dulussahn 21st)**
 - (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
 - (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
+- (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
+- 
 
 
 # Things to Remember
@@ -203,11 +205,18 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 # [[Isilme Vanariel|Isilme]]
 
 ## [[Deathwatch]]
+Isilme is bound to serving [[Caede]] through the [[Deathwatch]] as pennance for her [[Dhampir]]ism.
+
 
 ## [[Minra Vanariel]]
+Isilme wants to rekindle her relationship with her mother. Minra is now the consort of [[Alfred Gundrei]], and is staying at [[Castle Gundrei]] in the outer city fields of Dularen, so the two are close together.
+
+- Isilme wants to go on a hunting trip with her mother
+
 
 ## [[Ulrandir Vanariel]]
 - [[Session 93 - Uldrinea's Bane]]
+
 
 # [[Dusk]]
 - [ ] Practice blade singing

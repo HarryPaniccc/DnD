@@ -20,6 +20,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - [[Ulrandir Vanariel]] has not been executed. Why?
 	- [[Alfred Gundrei|Gundrei]]s play for power
 - [[Minra Vanariel]] is staying with [[Alfred Gundrei|Gundrei]]
+	- Isilme wants to connect to her
 - Restore the [[Einzbern Hold]]
 - Find [[Elizabeth Einzbern]]
 - Find [[Lina Sweetsong]]
@@ -33,8 +34,11 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Kanan must head the [[Battalion of the Silver Arrow]]
 - Something fishy is happening around [[Rokbaur Castle]] and [[Lord Malgus Kraber]]
 - Kanan owes a favour to [[Odessa]]
+- What happened to the [[Mistborn Inquisitor Analogue]]
+- Isilme is following up on the orc attacks on [[Vasspryg]]
 
 ## Threads to Introduce
+
 
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]

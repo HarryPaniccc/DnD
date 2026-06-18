@@ -68,7 +68,7 @@ Barracks temporarily upgrade the experience level of some number of units by one
 
 ### Guards
 - [[(Unit) Trayfort Guards|Trayfort Guards]]
-- [[(Unit) Trayfort Archers|Trayfort Archers]]
+- [[(Unit) Trayfort Archers|Trayfort Archers]] - 55sp per day
 
 # Layout
 ### Library
