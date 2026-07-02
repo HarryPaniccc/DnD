@@ -6,6 +6,7 @@ Useful links:
 - [[Nethendell Valley Map Notes]]
 # Planning
 Organ
+
 ## Threads
 - [[Gothrend Grinda]] has disappeared in a hurry after meeting [[Kalir Windguard]], who also disappeared.
 - [[Canon Valaris]] was imprisoned below [[Castle Sungrand]]

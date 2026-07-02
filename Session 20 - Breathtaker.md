@@ -1,7 +1,8 @@
 **Previous Session:** [[Session 19 - The Greater Threat]]
 **Subsequent Session:** [[Session 21 - ]]
 ## Post Mortem
-
+**Vanadrahs 18th**
+- The group face and slay [[Breathtaker]].
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.

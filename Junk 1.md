@@ -1,6 +1,7 @@
 ---
 tags:
 ---
+
 >[!infobox|wfull]
 > # Saint Windguard's Towershield
 > ***Armour (Shield), Rare, Requires Attunement***

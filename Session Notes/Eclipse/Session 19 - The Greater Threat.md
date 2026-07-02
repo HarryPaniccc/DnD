@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 18 - Chains of Glass]]
-**Subsequent Session:** [[Session 20 - ]]
+**Subsequent Session:** [[Session 20 - Breathtaker]]
 ## Post Mortem
 **Vanadrahs 17th**
 - Returned above ground with [[Canon Valaris]] and slept
