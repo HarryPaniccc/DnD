@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 19 - The Greater Threat]]
-**Subsequent Session:** [[Session 21 - ]]
+**Subsequent Session:** [[Session 21 - Deeper Into the Forest]]
 ## Post Mortem
 **Vanadrahs 18th**
 - The group face and slay [[Breathtaker]].

@@ -9,13 +9,13 @@ Organ
 
 ## Threads
 - [[Gothrend Grinda]] has disappeared in a hurry after meeting [[Kalir Windguard]], who also disappeared.
-- [[Canon Valaris]] was imprisoned below [[Castle Sungrand]]
 - The [[Goldrend Bandits]] slavers held up in [[Blackhand Tower]]
 - Vraath Keep is now undefended
 - [[Malphur]] has escaped after impersonating [[Canon Valaris]]
 - [[Tira Stone]]'s advice would be valuable to the castle
 - [[Bayaz]]'s forest area is cursed and the soldiers have had to pull back from the deeper forest
 - There are undead popping up around the eastern river
+- Find [[Breathtaker]]s lair
 
 #### TODO
 - Barrows of fallen [[House Ralenroth]]

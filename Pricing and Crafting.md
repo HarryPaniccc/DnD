@@ -21,16 +21,17 @@ In order to craft an item, each 100gp of its **crafting cost** requires one day 
 ### Components
 Magical items can be crafted using the components found in the environment or harvested from dead monsters. The value of these items is deducted from the crafting cost
 
-| **Component**       | **Used In**                             | **Value + Notes**                                                                                               |
-| ------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| Giant bone          | [[Potion of Fire Giant Strength]], etc. | 750g roughly of crushed giant bone accounts for half the crafting cost of a potion                              |
-| Behir Pearl         |                                         |                                                                                                                 |
-| Wound Crest Flower  | Potion of healing (common)              | one flower pays for 15 Gp of a potion                                                                           |
-| Griphon Feathers    | [[Potion of Flying]]                    | A griphon feather pays for 100 Gp of the cost, up to three can be used                                          |
-| Giant fingernail    | Potion of giant strength                | A giant fingernail pays for 250 Gp of the respective potion                                                     |
-| [[Cold Iron]]       | Holy Avengers, [[Anathema]]             | Very high? Idk                                                                                                  |
-| Phase Spider Venom  | [[Phase Spider Poison]]                 | https://www.thievesguild.cc/harvest/creature.php?id=470                                                         |
-| Adult Dragon Scales | Armour, shields                         | Sufficient dragon scales and leather can potentially **exceed** half the value of the armour they are made into |
+| **Component**       | **Used In**                             | **Value + Notes**                                                                                                       |
+| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Giant bone          | [[Potion of Fire Giant Strength]], etc. | 750g roughly of crushed giant bone accounts for half the crafting cost of a potion                                      |
+| Behir Pearl         |                                         |                                                                                                                         |
+| Wound Crest Flower  | Potion of healing (common)              | one flower pays for 15 Gp of a potion                                                                                   |
+| Griphon Feathers    | [[Potion of Flying]]                    | A griphon feather pays for 100 Gp of the cost, up to three can be used                                                  |
+| Giant fingernail    | Potion of giant strength                | A giant fingernail pays for 250 Gp of the respective potion                                                             |
+| [[Cold Iron]]       | Holy Avengers, [[Anathema]]             | Very high? Idk                                                                                                          |
+| Phase Spider Venom  | [[Phase Spider Poison]]                 | https://www.thievesguild.cc/harvest/creature.php?id=470                                                                 |
+| Adult Dragon Scales | Armour, shields                         | Sufficient dragon scales and leather can potentially **exceed** half the value of the armour they are made into         |
+| Young Dragon Scales | Armour, Shields                         | Young dragon scales can be used to craft either +1 armour or armour or resistance, or cloaks of resistance. Their value |
 # Item Pricing
 This section documents the value of items and how it is determined. Largely, the rarity determine's an item's value using the [[#DMG Pricing Table]]. In some cases, mostly potions, the price of an item falls widely outside of the rarity's expected value range.
 ### DMG Pricing Table

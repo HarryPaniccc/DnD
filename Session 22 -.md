@@ -1,11 +1,16 @@
-**Previous Session:** [[Session 20 - Breathtaker]]
-**Subsequent Session:** [[Session 22 - ]]
+**Previous Session:** [[Session 21 - Deeper Into the Forest]]
+**Subsequent Session:** [[Session 23 - ]]
 ## Post Mortem
 
 
+## Introduction
+> So we will find our dreams fade in time, and in time our dreams leave us blind. By moonlight and starlight those shadows led me astray. Take comfort in darkness, and hide away from the light
+
 ## Recap
 **Much has happened** these past months, too much to tell now, but here is what is most important.
-- While traversing the forest...
+- Last session these things happened
+- This is important because
+- And then this
 
 ### Opening Monologue
 The idea is to Pavlov's dog them into the zone. Choose an arc intro song.

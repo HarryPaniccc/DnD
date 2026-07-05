@@ -95,15 +95,15 @@ Roaming monsters often are dependent on the region they inhabit. Members of the 
 | 6     |                              |
 
 ### Forest Encounters
-| (1D6) | Forest Monster Encounter              |
-| ----- | ------------------------------------- |
-| 1     | Hobgoblin Rangers and a Worg          |
-| 2     | Orc Marauders                         |
-| 3     | Ogres                                 |
-| 4     | Bugbear Ambushers                     |
-| 5     | Wolves                                |
-| 6     | [[Breathtaker]] \| Young Green Dragon |
-### Deep Forest Encounters
+| (1D6) | Forest Monster Encounter                                    |
+| ----- | ----------------------------------------------------------- |
+| 1     | Hobgoblin Rangers and a Worg                                |
+| 2     | Orc Marauders                                               |
+| 3     | Ogres                                                       |
+| 4     | Bugbear Ambushers                                           |
+| 5     | Wolves                                                      |
+| 6     | ~~[[Breathtaker]] \| Young Green Dragon~~ Uhhh idk? Reroll? |
+### Deep Forest Encounters | [[Arden's Vale]]
 
 | (1D6) | Deep Forest Monster Encounter         |
 | ----- | ------------------------------------- |
@@ -233,7 +233,7 @@ A large group of orcs have been tasked with felling logs from the forest in this
 **Thick Forested Hills**
 This region is coated in a thick fog. This is the main hunting ground of the young green [[Dragons of Helodaria|Dragon]] [[Breathtaker]]. His lair is a decrepit elven mausoleum for the dead who fought in this area during [[The Fall]]. Breathtaker hunts in the valleys where water has pooled from the hills in wide rivers.
 
-Deep in the forest lay the ruins of an elven town. Beautifully wrought stone statues, centred around a courtyard act as the centrepiece of the now overgrown ruins. Here, the corpses of some of the [[Breathtaker]]'s victims have been left to stew.
+Deep in the forest lay the ruins of an elven town. Beautifully wrought stone statues, centred around a courtyard act as the centrepiece of the now overgrown ruins. Here, the corpses of some of the [[Breathtaker]]'s victims have been left to stew. Most of the town is submerged in water.
 
 #### 11 10 | Blighted Grove
 **Thick Forest**

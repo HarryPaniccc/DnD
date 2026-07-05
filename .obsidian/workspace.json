@@ -4,193 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "6eff3c0b43ee9101",
         "type": "tabs",
         "children": [
           {
-            "id": "0f3ee23846ab1eb0",
+            "id": "25685d0a01d13bf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Eclipse Campaign Journal"
             }
           },
           {
-            "id": "ae475d42e120be2e",
+            "id": "dde4d401d8843cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session 21 - Deeper Into the Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Session 21 - Deeper Into the Forest"
             }
           },
           {
-            "id": "fa341a42ed1449ac",
+            "id": "45ef5bca9b756ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+                "file": "Session 22 -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 91.5 - Hammer to Anvil (Online)"
+              "title": "Session 22 -"
             }
           },
           {
-            "id": "85502860378e5ee7",
+            "id": "c5fed135f8b54827",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primevals.md",
+                "file": "World of Helodaria/Dungeon of Castle Sungrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primevals"
+              "title": "Dungeon of Castle Sungrand"
             }
           },
           {
-            "id": "d26a1d76887754db",
+            "id": "4da08dbd4a5cacce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primordials"
-            }
-          },
-          {
-            "id": "49b934b9d79b95ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "e840f11b0df225eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 7 - Unnamed"
-            }
-          },
-          {
-            "id": "63ceb731a9172f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "file": "World of Helodaria/Castle Sungrand.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
+              "title": "Castle Sungrand"
             }
           },
           {
-            "id": "0c524ea09f852add",
+            "id": "8251815e2aea9a57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Severa.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Severa"
-            }
-          },
-          {
-            "id": "f7959fe287d59db4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Severa Statblock.md",
+                "file": "Nethendell Valley Map Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Severa Statblock"
+              "title": "Nethendell Valley Map Notes"
             }
           },
           {
-            "id": "b61348b0f370b515",
+            "id": "f7a18335dbc88ad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
+                "file": "Pricing and Crafting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran"
-            }
-          },
-          {
-            "id": "cb0a3bb9f91cc8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
-            }
-          },
-          {
-            "id": "bc63915d00221029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theme Testing"
+              "title": "Pricing and Crafting"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,7 +150,7 @@
             }
           },
           {
-            "id": "990cb2f371a0b860",
+            "id": "60144437ebeeb8fa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -244,24 +160,25 @@
             }
           },
           {
-            "id": "788f324251493a42",
+            "id": "e0f42a9e678e0b1e",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#adult%20green%20dragon_mm",
-                "title": "Adult Green Dragon - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#treant_mm",
+                "title": "Treant - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Adult Green Dragon - 5etools"
+              "title": "Treant - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 413.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -271,39 +188,6 @@
         "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
-          {
-            "id": "b3c79ccde858898a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
-            }
-          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -319,18 +203,36 @@
             }
           },
           {
-            "id": "f913bfe3e075c876",
+            "id": "b3c79ccde858898a",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "followCursor": false,
+                "file": "Session Notes/Eclipse/Session 11 - Approach of Castle Sungrand.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
                 "showSearch": false,
-                "searchQuery": ""
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               },
-              "icon": "lucide-list",
-              "title": "Outline of Vanguard Campaign Journal"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 11 - Approach of Castle Sungrand"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Eclipse Campaign Journal"
             }
           },
           {
@@ -340,12 +242,25 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session 21 - Deeper Into the Forest.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 21 - Deeper Into the Forest"
             }
           },
           {
@@ -364,10 +279,28 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ed632257dcc111f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c111cf6607f0d9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Nethendell Valley Export 1 A1"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
+    "width": 437.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -382,8 +315,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "3b2a6831c271b3d7",
+  "active": "dde4d401d8843cc6",
   "lastOpenFiles": [
+    "Session 22 -.md",
+    "Session 21 - Deeper Into the Forest.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session 20 - Breathtaker.md",
+    "Nethendell Valley Map Notes.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/Deities of Helodaria.md",
+    "World of Helodaria/Togwae.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
+    "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
+    "Administration and Other Notes/Theme Testing.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Red Wizards of Thay.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
@@ -394,23 +339,11 @@
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Junk 1.md",
     "2014.5e.tools.md",
-    "Nethendell Valley Map Notes.md",
     "Templates/Item template.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Steinwalde.md",
     "World of Helodaria/Caede.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session 21 -.md",
-    "Session 20 - Breathtaker.md",
-    "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
     "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
-    "Administration and Other Notes/Strongholds and Followers Notes.md",
-    "Items/Wastehunter.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "World of Helodaria/Dularen.md",
-    "World of Helodaria/Desseran.md",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Untitled.pdf",
