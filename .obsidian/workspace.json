@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -187,6 +187,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 58.22510822510822,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -254,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 21 - Deeper Into the Forest.md",
+                "file": "Nethendell Valley Map Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 21 - Deeper Into the Forest"
+              "title": "Outline of Nethendell Valley Map Notes"
             }
           },
           {
@@ -277,12 +278,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "ed632257dcc111f3",
         "type": "tabs",
+        "dimension": 41.77489177489178,
         "children": [
           {
             "id": "e2c111cf6607f0d9",
@@ -300,8 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5,
-    "collapsed": true
+    "width": 437.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,17 +315,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dde4d401d8843cc6",
+  "active": "4cb96e6d4287e8a5",
   "lastOpenFiles": [
-    "Session 22 -.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "Nethendell Valley Map Notes.md",
     "Session 21 - Deeper Into the Forest.md",
+    "General Notes and Ideas.md",
+    "Session 22 -.md",
     "Session Notes/Eclipse/Eclipse Campaign Journal.md",
     "Session 20 - Breathtaker.md",
-    "Nethendell Valley Map Notes.md",
     "Pricing and Crafting.md",
     "World of Helodaria/Deities of Helodaria.md",
     "World of Helodaria/Togwae.md",
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
     "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
     "Administration and Other Notes/Theme Testing.md",
@@ -342,8 +343,6 @@
     "Templates/Item template.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Untitled.pdf",
