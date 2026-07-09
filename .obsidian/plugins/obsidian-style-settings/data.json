@@ -94,5 +94,6 @@
   "ITS@@modal-width": 90,
   "ITS@@check-color": true,
   "ITS@@check-text": false,
-  "ITS@@tag-text": false
+  "ITS@@tag-text": false,
+  "ITS@@select": "none"
 }

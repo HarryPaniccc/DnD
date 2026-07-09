@@ -79,3 +79,6 @@ If the wielder of *Nightfall* dies with the blade in their hands, they must make
 
 
 Vessel/conduit has a limit. Maybe overload the vessel?
+
+
+![[WhatsApp Image 2026-07-08 at 10.29.52 PM.jpeg]]
