@@ -1,15 +1,22 @@
 **Previous Session:** [[Session 91 - Steinwalde]]
-**Subsequent Session:**
+**Subsequent Session(s):** [[Session 94 - Into Fire]]
 ## Post Mortem
 
 # Notes
 
 - [[Caede]] hunting an adult white dragon to fix the [[Leviathan Axe]]
 - [[Kanan Einzbern]] doing [[Vessel of Avarice]] stuff
+- Forging [[Nightfall, the Hand that Feeds]]
 
 # Leviathan Axe
 - [[Sunblight Stronghold]] Dungeon
 
+# Kanan's next goals
+- Get Caede to taxi him home
+- Hunt vampire for blood
+- Ask for magic help
+- Wants to pull money from Tevis
+- Extra cash from helping with hunting stuff
 
 # Forging of [[Nightfall, the Hand that Feeds]]
 ## Process
@@ -25,9 +32,8 @@ The most important part of the process is the lock and chain. It will need to be
 
 ## Minigame:
 Alchemy check to get the mercury: DC 18
-Strength check to force the shard into the ingot: DC 40 - Spell levels forced into the ingot. Can reattempt
+Strength check to force the shard into the ingot: DC 40 - Twice spell levels forced into the ingot. Can reattempt
 Constitution check to forge the blade into the correct shape: DC 22. Can reattempt.
-
 
 ## Cost
 - Mercury imbued with vamp blood, alchemically transmuted to solid

@@ -5,18 +5,21 @@ aliases:
   - The Legend of the Vanguard
 ---
 I think this should be an arc summary document. Link to arc pages, but have summaries and links to session notes. I think session notes should each have a summary timeline appended to them **after** the session. Maybe summaries of who is doing what in an arc? Links to the [[Vanguard]].
-# Active Plot Points/Quests/Things to Remember
+# Tracking Dashboard
 ## Next Sessions (Working on)
 - **Caede, Kanan** [[Session 91.5 - Hammer to Anvil (Online)]]
-- **Dusk, Isilme, Rylai** [[Session 93 - Uldrinea's Bane]]
+- **Dragon hunt party session/adventure**: [[Session 999 - Dragon Hunting]]
 
 ## Status Tracker
 - Sending Stone Pair 1: [[Kanan Einzbern]] - [[Prince Artorius Sirkon]]
 - Sending Stone Pair 2: [[Caede]] - [[Kanan Einzbern]]
-- [[Helm of Teleportation]]: [[Kanan Einzbern]]. Soon to be [[Caede]] after [[Session 93 - Uldrinea's Bane]]
+- [[Helm of Teleportation]]: [[Caede]]
 
 ## Active Threads and Goals
+- [[Tevis Einzbern]] is rebuilding the [[Einzberns]]
 - [[Isilme Vanariel]]'s Dhampirism consequences
+- Forge [[Nightfall, the Hand that Feeds]]
+	- [[Kanan Einzbern]] needs vampire blood
 - [[Ulrandir Vanariel]] has not been executed. Why?
 	- [[Alfred Gundrei|Gundrei]]s play for power
 - [[Minra Vanariel]] is staying with [[Alfred Gundrei|Gundrei]]
@@ -26,7 +29,6 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Find [[Lina Sweetsong]]
 - Follow up with [[Darius Nubide]] following [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
 - Retrieve Silb's [[Dwarven Plate]] (Banahras 17th)
-- Forge [[Nightfall, the Hand that Feeds]]
 - Reforge [[Anathema]]
 - Repair the [[Leviathan Axe]]
 	- Acquire the required materials and hunt an [[Adult White Dragon]]
@@ -37,8 +39,8 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - What happened to the [[Mistborn Inquisitor Analogue]]
 - Isilme is following up on the orc attacks on [[Vasspryg]]
 
-## Threads to Introduce
 
+## Threads to Introduce
 
 
 # [[Vanguard Arc 7 - Unnamed|Arc 7: Unnamed]]

@@ -63,6 +63,8 @@ tags:
 - (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
 - (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
 - (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]].
+- (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]]
+- 
 
 
 # Things to Remember
@@ -81,6 +83,9 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - [[Isilme Vanariel]] - 203Gp
 - [[Dusk]] - 101Pp 26Sp
 
+
+
+
 # Random ideas that don't fit anywhere
 
 - Vin-like rogue girl
@@ -90,6 +95,9 @@ I'm not going to track each gold piece but its a good idea to get an idea of fun
 - **SWIM FROM MIDVALE PLEDGES ALLEGIANCE TO THE VANGUARD WITH LIZARDFOLK**
 - Tournament hosted by the Vanguard to find those willing to fight for them
 
+
+
+
 # Units per Character
 The PC's are going to be accumulating allies throughout this period.
 ### Communal
@@ -97,14 +105,22 @@ The PC's are going to be accumulating allies throughout this period.
 - They should get a sage?
 ### Caede
 - [[Count Drakus]] acts as an **Ambassador** for Caede
-- 
+- [[Maurice the Flameskull|Kran]] joined the [[Deathwatch]]
 ### Kanan
 - **Thayan Scribe** as a steward
 - **Changeling Spy** for his work in the [[Sirkonos|Sirkonian]] courts
 ### Rylai
 - Maybe a tailor? idfk
 
-# [[Kanan Einzbern|Kanan]]
+
+
+
+
+# Character's Persuits and Goals
+Below is a running list of character's persuits and their goals, as well as linking sessions where these are actuated.
+
+
+## [[Kanan Einzbern|Kanan]]
 [[Kanan Einzbern|Kanan]] is going to spend his time in [[Sirkonos|Sirkonos]]. His focus is going to be on helping the people who were abandoned when the [[Vorciln]] attacked, travel and sort his equipment, as well as fulfil his role as the [[Hand of Sirkonos]].
 
 ### Pilgrimage to [[Steinwalde]]
@@ -133,8 +149,20 @@ One of the primary objectives too is for Kanan to sort out some of his gear on t
 [[Dragons of Helodaria|Dragon]] season has come early to Steinwalde this generation. The dragons and their usual politics are being fought by the dwarven forces, and the hunt for red dragons is being led by the [[Flamebrands]].
 - [[Oriothar the Monarch]] is currently attempting to take Steinwalde, believing to be pretending to be loyal to [[Duvan'ahr the Sleeping Odium|Duvan'ahr]] with the goal of steal her place.
 
+
+#### Forge [[Nightfall, the Hand that Feeds]]
+With [[Athelstan]] imprisoned, Kanan now wishes to destroy the [[Vessel of Avarice]] and forge it into a sword. To do so, he travelled to [[Avernus]] with the help of [[Lathran, Avatar of Lathander|Lathran]] and [[Aerondite]], destroying the Vessel and releasing it into a Shard of Primordial Hunger
+
+[[Session 91.5 - Hammer to Anvil (Online)#Forging of Nightfall, the Hand that Feeds]] Has the details
+
+
+#### Reforge [[Anathema]]
+Kanan wishes to restore [[Siegfried Einzbern]]'s sword, [[Anathema]].
+
+
+
 ### Count Einzbern
-Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**.
+Kanan will also need to be introduced to the courts of the [[Nobility of Sirkonos]] in preparation for his role as [[Prince Artorius Sirkon|Arthur's]] [[Hand of Sirkonos]]. Kanan will be offered a **steward** and a **spy**. (See [[Strongholds and Followers Notes]])
 
 - Spy [[Doppelganger|Doppelganger]]
 - [[Thayan Orthodoxy]] Steward
@@ -150,18 +178,18 @@ Something certainly happens in [[Ralia]].
 [[Gnolls]] are growing in commonality in the wastes and the foothills surrounding the [[Nightshade Peaks]]. Also maybe send him to stifle some kind of dissent against the Sirkonian line Game of Thrones style.
 
 
-# [[Caede]]
-## Repair the [[Leviathan Axe]]
+## [[Caede]]
+### Repair the [[Leviathan Axe]]
 Caede has joined Kanan on his pilgrimage to Steinwalde where he hopes he can repair the damage that was dealt to the Leviathan Axe when they battled [[Lucius]].
 
 The axe has accidentally absorbed a hellish soul that was being used during the ritual to free [[Athelstan]]. Its ability to absorb frost giant souls accidentally activated when it encountered such a pure form of the soul, but the nature of the soul damaged. It needs to be expunged and cooled. In order to fix the axe he needs: The soul of a freshly slain adult frost dragon, an ingot of runite, and 6000 gp of material work.
 - [[Session 91.5 - Hammer to Anvil (Online)]]
 - [[Session 91 - Steinwalde]]
 
-### [[Sunblight Stronghold]]
+#### [[Sunblight Stronghold]] for [[Session 999 - Dragon Hunting]]
 White dragon lair has what he needs.
 
-## Defences and Staff of [[Trayfort Keep]]
+### Defences and Staff of [[Trayfort Keep]]
 The Vanguard have been gone from their home for some time, and during that time Trayfort has been defended by a group of ashen legion. It is a mess, having been ransacked by [[Meeek]] the kobold, as well as other vermin. He plans on hosting a tournament to find people willing to fight for them in their hold.
 - [[Session 999 - Tournament of Trayfort Hold]]
 
@@ -172,7 +200,7 @@ Caede will fill more into his role as the sword of the raven queen.
 Caede intends to supply arms for the guards of [[Trayfort Keep]] by looting [[Vorciln Castle]]. The castle has been claimed, and the supplies need only be transported back to Ruina.
 
 
-# [[Rylai Sweetsong|Rylai]]
+## [[Rylai Sweetsong|Rylai]]
 - [x] Perform magic ritual thing
 - [ ] Speak with [[Darius Nubide]] - **arcane sickness plot**
 - [ ] Find [[Lina Sweetsong]]
@@ -202,30 +230,34 @@ Rylai shied away from the truth that she believes is likely - that she killed he
 - [[Akadi]] the [[Primordials|Primordial]] of air
 
 
-# [[Isilme Vanariel|Isilme]]
+## [[Isilme Vanariel|Isilme]]
+Isilme is learning to find her place now with her new power, and is paranoid about her grandfather, [[Ulrandir Vanariel|Ulrandir]] returning. She also wishes to build her relationship with her mother, as well as take a leadership role with the defences of [[Trayfort Keep]].
 
-## [[Deathwatch]]
+### [[Deathwatch]]
 Isilme is bound to serving [[Caede]] through the [[Deathwatch]] as pennance for her [[Dhampir]]ism.
 
 
-## [[Minra Vanariel]]
+### [[Minra Vanariel]]
 Isilme wants to rekindle her relationship with her mother. Minra is now the consort of [[Alfred Gundrei]], and is staying at [[Castle Gundrei]] in the outer city fields of Dularen, so the two are close together.
 
 - Isilme wants to go on a hunting trip with her mother
 
 
-## [[Ulrandir Vanariel]]
+### [[Ulrandir Vanariel]]
 - [[Session 93 - Uldrinea's Bane]]
 
 
-# [[Dusk]]
+## [[Dusk]]
 - [ ] Practice blade singing
 	- [x] Level 2
 	- [x] Level 6
 	- [ ] Level 10
 	- [ ] Level 14
 
-## Dreams | [[Heart of the Abyss]] visions and knowledge gained
+### Dreams | [[Heart of the Abyss]] visions and knowledge gained
+Dusk peered into a [[Page of Vile Darkness]] from the [[Book of Vile Darkness]], learning [[Dagon]]'s name and hearing the [[Heart of the Abyss]] beat in West.
+
+#### Dream 1
 > The research heralded this information in the [[Imperial Annals]]
 "What does the beating heart on the west horizon mean?"
 A simple question. What significance does this sound play? What is its connection to Dagon?
@@ -237,6 +269,10 @@ A depiction of a piece of art is displayed on a charcoal rubbing. A tattooed, ba
 This moment, this betrayal, marks the beginning of the Emprie of Thay that stretched across the entirety of Eranulaid, encompassing all now-settled regions south of the Maglahs Mountains
 But Thay was sundered, and you know that the God Kings returned in a moment known to history as "the Resurgence" at some point during the Fall. Thay collapsed under its own weight as supremacy and eugenics took root in its east, and as the war of the Gods reached Eranulaid, the West of Thay fell victim to the rampaging of the Hordes of Malar. The timeline is muddled. The first king of modern Sirkonos finds his throne in the bloody battle of Diredahl, in the same spire where you met King Sikarius Sirkon, Arthur's father, known to be the seat of ancient history in Sirkonos, but that history is largely overshadowed by modern Sirkonian pride, and disdain for Thayan rule. There is just so much, especially during a time in which the literal spawn of the Gods return to their earthly thrones and begin to battle away united forces of the Abyss, and a warrior of legend finds victory in a battle so impossible they name a kingdom after him. Poems and accounts start being ridiculous, even for the period, and history is sadly made a miasma by political interests and comments.
 The final piece of lore you are certain of, the second piece of lore you earn from this research, and you feel like you may have exhausted the Annals' resources on this matter, that is, without asking Darius Nubide the bastard himself directly, is that the end of the resurgence was marked with the death of Bahamut's Avatar-Child, the allegiance of the Thayan Orthodoxy with the church of the Desseran Apostolate. It is also considered nearly impossible to pin down exactly when Old Ruina was destroyed in this timeline.
+
+
+####
+
 
 # [[Silb Heft|Silb]]
 
