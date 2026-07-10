@@ -3,6 +3,8 @@ tags:
   - Core
 ---
 # To do list
+- [ ] Continue the campaign
+- [ ] Isilme training stuff
 - [ ] Everyone's items
 	- [x] Isilme
 	- [x] Kanan

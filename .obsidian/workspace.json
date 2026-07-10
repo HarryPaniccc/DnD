@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,12 +214,40 @@
               "icon": "globe-2",
               "title": "Deva - 5etools"
             }
+          },
+          {
+            "id": "fdc348f5696fe83b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/book.html#dmg,8,ending%20a%20chase,0",
+                "title": "Running the Game - Dungeon Master's Guide - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Running the Game - Dungeon Master's Guide - 5etools"
+            }
+          },
+          {
+            "id": "8f4a2f2dcc9bafb1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://2014.5e.tools/adventure.html#bgdia,3",
+                "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 430.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -297,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline of Session 94 - Into Fire"
             }
           },
           {
@@ -325,7 +353,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,36 +368,36 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "be715f8a455bacc5",
+  "active": "0ab9e66bd4bc3e62",
   "lastOpenFiles": [
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Alfred Gundrei.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "General Notes and Ideas.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Mountreach.md",
+    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
+    "World of Helodaria/Thordan Stormshield.md",
+    "World of Helodaria/Uldronos Council.md",
+    "World of Helodaria/Dripping Barrel Inn.md",
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "World of Helodaria/Steinwalde.md",
-    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
     "World of Helodaria/Lady Leah Luthrand.md",
     "Pricing and Crafting.md",
-    "World of Helodaria/Sirkonos.md",
     "World of Helodaria/Einzberns.md",
+    "World of Helodaria/Sirkonos.md",
     "Items/Anathema.md",
     "Items/Nightfall, the Hand that Feeds.md",
     "Session 94 - Into Fire.md",
+    "World of Helodaria/Avernus.md",
+    "World of Helodaria/Centuria.md",
+    "World of Helodaria/Caede.md",
+    "World of Helodaria/Alfred Gundrei.md",
+    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
     "World of Helodaria/Primordials.md",
     "World of Helodaria/Primevals.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "Session Notes/Vanguard/Session 77 - Lucius.md",
-    "Items/Staff of the Void.md",
     "Attachments/WhatsApp Image 2026-07-08 at 10.29.52 PM.jpeg",
-    "Session 21 - Deeper Into the Forest.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
-    "Nethendell Valley Map Notes.md",
-    "Session 22 -.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session 20 - Breathtaker.md",
-    "World of Helodaria/Deities of Helodaria.md",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Untitled.pdf",

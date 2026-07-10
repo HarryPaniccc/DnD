@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 91.5 - Hammer to Anvil (Online)]]
-**Subsequent Session:**
+**Subsequent Session:** [[Session 91.5 - Hammer to Anvil (Online)]], again (kinda loops back, think of this note as a section in this session)
 ## Post Mortem
 **Dulussahn 18th**
 - [[Lathran, Avatar of Lathander|Lathran]] approaches [[Kanan Einzbern]], telling him that he needs to destroy Athelstan as soon as he can.
