@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ee7c6f3acda308",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4197be4e659ef1fd",
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "be715f8a455bacc5",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "21dfa06dad190cbc",
+            "id": "fa341a42ed1449ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,105 +50,133 @@
             }
           },
           {
-            "id": "f1c9f02a19a2f78e",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Nightfall, the Hand that Feeds.md",
+                "file": "World of Helodaria/Primevals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primevals"
+            }
+          },
+          {
+            "id": "d26a1d76887754db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Primordials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Primordials"
+            }
+          },
+          {
+            "id": "49b934b9d79b95ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "e840f11b0df225eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Arc 7 - Unnamed"
+            }
+          },
+          {
+            "id": "63ceb731a9172f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nightfall, the Hand that Feeds"
+              "title": "Red Wizards of Thay"
             }
           },
           {
-            "id": "84838bb556769568",
+            "id": "0c524ea09f852add",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Anathema.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Anathema"
-            }
-          },
-          {
-            "id": "70bc8c302a9636cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Sirkonos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sirkonos"
-            }
-          },
-          {
-            "id": "9234f490f856b4da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Einzberns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Einzberns"
-            }
-          },
-          {
-            "id": "b570b995d66a4f2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pricing and Crafting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pricing and Crafting"
-            }
-          },
-          {
-            "id": "699713deba4e83f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Lady Leah Luthrand.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lady Leah Luthrand"
-            }
-          },
-          {
-            "id": "0ab9e66bd4bc3e62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Steinwalde.md",
+                "file": "World of Helodaria/Severa.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steinwalde"
+              "title": "Severa"
+            }
+          },
+          {
+            "id": "f7959fe287d59db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Severa Statblock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa Statblock"
+            }
+          },
+          {
+            "id": "b61348b0f370b515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran"
+            }
+          },
+          {
+            "id": "cb0a3bb9f91cc8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +195,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -180,8 +208,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -202,52 +230,26 @@
             }
           },
           {
-            "id": "84cf1c25544cd6be",
+            "id": "788f324251493a42",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#deva_mm",
-                "title": "Deva - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#adult%20green%20dragon_mm",
+                "title": "Adult Green Dragon - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Deva - 5etools"
-            }
-          },
-          {
-            "id": "fdc348f5696fe83b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/book.html#dmg,8,ending%20a%20chase,0",
-                "title": "Running the Game - Dungeon Master's Guide - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Running the Game - Dungeon Master's Guide - 5etools"
-            }
-          },
-          {
-            "id": "8f4a2f2dcc9bafb1",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/adventure.html#bgdia,3",
-                "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Avernus - Baldur's Gate: Descent Into Avernus - 5etools"
+              "title": "Adult Green Dragon - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 438.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -257,6 +259,39 @@
         "id": "5ece3774c37e9648",
         "type": "tabs",
         "children": [
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
+            }
+          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -272,36 +307,18 @@
             }
           },
           {
-            "id": "b3c79ccde858898a",
+            "id": "f913bfe3e075c876",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Session 94 - Into Fire.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "Nethendell Valley Map Notes.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Session 94 - Into Fire"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Session Notes/Session 81 -.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Session 81 -"
+              "icon": "lucide-list",
+              "title": "Outline of Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -320,21 +337,6 @@
             }
           },
           {
-            "id": "f913bfe3e075c876",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Session 94 - Into Fire"
-            }
-          },
-          {
             "id": "c21e89a76f4631bf",
             "type": "leaf",
             "state": {
@@ -349,11 +351,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
+    "width": 353.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -368,36 +370,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0ab9e66bd4bc3e62",
+  "active": "ae475d42e120be2e",
   "lastOpenFiles": [
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "World of Helodaria/Dusk.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "World of Helodaria/Dularen.md",
-    "World of Helodaria/Mountreach.md",
-    "Session Notes/Vanguard/Session 999 - The Trial of Silb Heft.md",
-    "World of Helodaria/Thordan Stormshield.md",
-    "World of Helodaria/Uldronos Council.md",
-    "World of Helodaria/Dripping Barrel Inn.md",
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
-    "World of Helodaria/Steinwalde.md",
-    "World of Helodaria/Lady Leah Luthrand.md",
+    "Session 22 - Ambush.md",
+    "Session 23 -.md",
+    "Session 21 - Deeper Into the Forest.md",
     "Pricing and Crafting.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Sirkonos.md",
-    "Items/Anathema.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "Session 94 - Into Fire.md",
-    "World of Helodaria/Avernus.md",
-    "World of Helodaria/Centuria.md",
-    "World of Helodaria/Caede.md",
-    "World of Helodaria/Alfred Gundrei.md",
-    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
-    "World of Helodaria/Primordials.md",
-    "World of Helodaria/Primevals.md",
-    "Attachments/WhatsApp Image 2026-07-08 at 10.29.52 PM.jpeg",
+    "Nethendell Valley Map Notes.md",
+    "World of Helodaria/Castle Sungrand.md",
+    "Session 20 - Breathtaker.md",
+    "Session Notes/Eclipse/Session 19 - The Greater Threat.md",
+    "Session Notes/Eclipse/Session 18 - Chains of Glass.md",
+    "Session Notes/Eclipse/Session 17 - Eels.md",
+    "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
+    "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
+    "Session Notes/Eclipse/Session 14 - Mold and Rats (Go Deeper, My King).md",
+    "Session Notes/Eclipse/Session 13 - Suspicion Sows its Seeds.md",
+    "Session Notes/Eclipse/Session 12 - The Clock Strikes Twelve.md",
+    "Session Notes/Eclipse/Session 11 - Castle Sungrand.md",
+    "Session Notes/Eclipse/Session 10 - A New Ally (hit level 6).md",
+    "Session Notes/Eclipse/Session 9 - Vraath Keep.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "Breathtaker.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
+    "World of Helodaria/Deities of Helodaria.md",
+    "Attachments/Rylai Portrait.jpg",
+    "Attachments/Isilme Portrait.png",
+    "Attachments/WhatsApp Image 2026-07-08 at 10.29.52 PM.jpeg",
     "Attachments/Worldographer/Ruina-autosave-tmp.wxx",
     "Attachments/Worldographer/Ruina-tmp.wxx",
     "Attachments/Worldographer/Untitled.pdf",
@@ -411,9 +415,7 @@
     "Attachments/Pasted image 20260502090806.png",
     "Attachments/Pasted image 20260502090744.png",
     "Attachments/Pasted image 20260418112545.png",
-    "Attachments/Pasted image 20240320125108.png",
     "Statblocks/Units",
-    "Attachments/Pasted image 20260406222552.png",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Untitled.canvas",

@@ -105,7 +105,6 @@ Presented in reverse chronological order
 
 
 # Act 1 - Traversal and Introductions
----
 The group start in a ransacked town and fight their way out, looking to find some kind of bearing on the world. This act will have them escaping [[Nethendell]] and finding [[Tira Stone]] and helping the refugees get set up, and maybe holding off against a seige. They will need to petition [[Lord Margit Tormon]] for shelter. Use the black iron pact stats for [[Lord Eskel Tormon]] and friends.
 
 - Escape

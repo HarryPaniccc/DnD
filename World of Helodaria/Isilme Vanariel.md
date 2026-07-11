@@ -5,7 +5,7 @@ aliases:
   - Isilme
 ---
 >[!infobox|right lp wsm-med]
-> ![[Pasted image 20260126170022.png|300]]
+> ![[Isilme Portrait.png|300]]
 ># Character Information
 >| | |
 >| - | - |

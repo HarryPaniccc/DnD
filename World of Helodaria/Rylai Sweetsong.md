@@ -5,7 +5,7 @@ aliases:
   - Rylai
 ---
 >[!infobox]
->![[RylaiPFPCrop.jpg]]
+>![[Rylai Portrait.jpg]]
 >
 >| | |
 >|-|-|

@@ -9,6 +9,7 @@ aliases:
 I need to track how much money monsters are worth.
 - Young red dragon had a bounty of 6000 gp in [[Steinwalde]]
 
+
 # Crafting
 Crafting and item by DMG rules and Xanathars takes incredibly long. The sell price of an item is roughly double that of the crafting cost. The crafting time in the DMG gives 25gp per day increment, which is ridiculously slow. *The idea is to quarter or eighth the crafting time.*
 

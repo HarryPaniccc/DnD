@@ -229,35 +229,58 @@ Visible from two hexes away, [[Blackhand Tower]] is another decrepit structure o
 **Forest**
 A large group of orcs have been tasked with felling logs from the forest in this region for the [[Khalar'hok]]'s construction projects. Black smoke rises from this area. 
 
-#### 10 10 | Breathtaker's Lair
+#### 10 10 | 
+
+
+#### 10 11 | Breathtaker's Lair
 **Thick Forested Hills**
 This region is coated in a thick fog. This is the main hunting ground of the young green [[Dragons of Helodaria|Dragon]] [[Breathtaker]]. His lair is a decrepit elven mausoleum for the dead who fought in this area during [[The Fall]]. Breathtaker hunts in the valleys where water has pooled from the hills in wide rivers.
 
 Deep in the forest lay the ruins of an elven town. Beautifully wrought stone statues, centred around a courtyard act as the centrepiece of the now overgrown ruins. Here, the corpses of some of the [[Breathtaker]]'s victims have been left to stew. Most of the town is submerged in water.
 
+##### Cache and Silver Ore
+Additionally, on the southern side of the hex, visible from [[Vraath Keep]] is an elven treehouse platform where a useful cache was hidden, as well as along the cliff face half an hour east from that point, there is a long strip of exposed silver ore. Where it is positioned, it is well placed to absorb moonlight, and has been magically enriched by the power of the moon.
+
+#### 10 13 | Sawmill
+There is a sawmill with a ferry dock that crosses the river here. There are six small boats. The [[Nethendell Valley Sawmill]] is abandoned and a pack of gnolls have taken up residence, using it as a makeshift throne and den. A sorcerer used to live in the basement, but he was devoured by the gnolls.
+
 #### 11 10 | Blighted Grove
 **Thick Forest**
-The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces, [[Breathat]] masquerading as the druid when he is out of his lair.
+The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces, [[Breathtaker]] masquerading as the druid when he is out of his lair.
 
 #### 11 12 | Vraath Keep
 **Thick Forest**
 [[Vraath Keep]] stits atop a hill in this forested hex. Pathways criss cross surrounding the keep, from which you can see [[Castle Sungrand]] clearly in the fields beyond [[Arden's Vale]].
 
+
+#### 11 14 | Elven Settlement
+**Forested Hills**
+A small elven settlement is hidden in the forest in this hex. Here a small group of high elves live their lives away from much of the world. It is not a secret place, but it is well hidden. However, when the players come across the village, it will be burning and being raided by the [[Khalar'hok]]. **Entering the hex, the players can see the flames.** 
+
+
 #### 12 11 | Soldier's Camp
 **Forest**
 Near the entrance to the forest in this region sits a soldier's camp, a guard base for [[Castle Sungrand]] soldiers. A large number of tents, supplies, and maps are laid out. From here, rangings into the forest to resist the invasion are sent out.
+
+
+#### 13 05 | Western Watchtower
+Now a bastion of control for the [[Khalar'hok]], the tower gives a good view over the environs and control over the crossroads.
+
 
 #### 13 10 | [[Castle Sungrand]]
 **Grassland**
 Military castle sits in this region.
 
+
 #### 14 12 | [[Barrow of Eirik Dulgar]]
 **Fen**
 A barrowmound sits atop a hill where the rivers converge. Necrotic energies fester in the rivers around here.
 
+
 #### 15 07 | Sorcerer Ruins
 **Mountain**
 Hidden in the face of this mountain is a meeting ground for the conclave of sorcerers from the [[Cult of the Dragon]].
+
 
 #### 16 10 | Abandoned Fortress
 **Mountain**

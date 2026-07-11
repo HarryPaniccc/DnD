@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 20 - Breathtaker]]
-**Subsequent Session:** [[Session 22 - ]]
+**Subsequent Session:** [[Session 22 - Ambush]]
 ## Post Mortem
 **Vanadrahs 18th**
 - Harvested Breathtaker's corpse, acquiring 3 vials of dragon blood, 10kg of hide and scales, and 3 shattered and 2 unshattered dragon teeth
