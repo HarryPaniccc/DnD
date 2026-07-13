@@ -9,17 +9,20 @@ tags:
 - Tevis is acquainted with [[Shrute]]
 
 # Description
-Tevis has long black bair with piercing, cold blue eyes
+Tevis has long black bair with piercing, cold blue eyes. He lost one of his eyes during the [[Battle of Strahldale]].
+
 # Biography
 Tevis was captured by [[Lucius]] and transformed into the Vorciln Enforcer, where he played the head role in hunting down the stragglers of Einzberns who escaped at the same time as Kanan.
 
 ### [[Vanguard Arc 6 - The Golden Age]]
 Tevis is spending significant efforts to rebuild the [[Einzberns]] capabilities. He is consolodating how much wealth the estate still has. During this time he lived in [[Luthrand Manor]] as a guest to [[Baron Owen Luthrand]].
+
+
 # Stats
----
+
 
 # Statblock
----
+
 Tevis is the [[Einzberns]] heir and the [[Vorciln]] enforcer.
 ## Enforcer Statblock (No longer)
 ```statblock

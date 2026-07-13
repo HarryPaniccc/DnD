@@ -62,8 +62,8 @@ tags:
 - (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
 - (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
 - (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
-- (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]]
-- (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]]
+- (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]], and Dusk interrogates the ravager's soul.
+- (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]], and Kanan receives the red dragon leather armour.
 - 
 
 

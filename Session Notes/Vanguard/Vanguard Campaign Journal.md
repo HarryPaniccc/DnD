@@ -19,7 +19,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - [[Tevis Einzbern]] is rebuilding the [[Einzberns]]
 - [[Isilme Vanariel]]'s Dhampirism consequences
 - Forge [[Nightfall, the Hand that Feeds]]
-	- [[Kanan Einzbern]] needs vampire blood
+	- [[Kanan Einzbern]] needs vampire blood and the other components for it. Maybe can buy from [[Azim Krasis]]
 - [[Ulrandir Vanariel]] has not been executed. Why?
 	- [[Alfred Gundrei|Gundrei]]s play for power
 - [[Minra Vanariel]] is staying with [[Alfred Gundrei|Gundrei]]
@@ -38,6 +38,7 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Kanan owes a favour to [[Odessa]]
 - What happened to the [[Mistborn Inquisitor Analogue]]
 - Isilme is following up on the orc attacks on [[Vasspryg]]
+- [[Prince Boryg the Brash]] offers to give Kanan [[+2 Dragon Scale Leather Armor|+2 Red Dragon Leather Armor]] in trade for his adult green dragon scales. 600gp is required to fit it to him.
 
 
 ## Threads to Introduce

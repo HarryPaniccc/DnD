@@ -5,6 +5,7 @@ tags:
 # To do list
 - [ ] Continue the campaign
 - [ ] Isilme training stuff
+- [ ] Who is joining the tournament and who is being invited
 - [ ] Everyone's items
 	- [x] Isilme
 	- [x] Kanan
@@ -17,8 +18,6 @@ tags:
 - [ ] Members of the [[Uldronos Council]]
 - [ ] [[Severa]] notes and stats
 - [ ] Caede's Necromantia contents
-- [ ] Make Rylai todo list and figure out what she wants/is doing
-
 
 ## Lore to Fill in
 
