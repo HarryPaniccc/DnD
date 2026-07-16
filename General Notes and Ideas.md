@@ -6,6 +6,7 @@ tags:
 - [ ] Continue the campaign
 - [ ] Isilme training stuff
 - [ ] Who is joining the tournament and who is being invited
+- [ ] Save the [[Golden Horn Inn]]
 - [ ] Everyone's items
 	- [x] Isilme
 	- [x] Kanan

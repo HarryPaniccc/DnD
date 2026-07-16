@@ -1,0 +1,1 @@
+Black ice is essentially Chardalyn form Icewind Dale that is suffused with demonic energy.

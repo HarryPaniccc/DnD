@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f3ee23846ab1eb0",
+            "id": "b6df2faaa5471b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "15e3416bc6e9d01b",
+            "id": "08389105e0321ab7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,13 +36,27 @@
             }
           },
           {
-            "id": "97dfd8e9c96403c6",
+            "id": "2d8b02946de1be74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Dularen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dularen"
+            }
+          },
+          {
+            "id": "4859a2c24bd1b882",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Trayfort Keep.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,147 +64,119 @@
             }
           },
           {
-            "id": "fa341a42ed1449ac",
+            "id": "85104b17518aa359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+                "file": "World of Helodaria/Ulfric Straven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 91.5 - Hammer to Anvil (Online)"
+              "title": "Ulfric Straven"
             }
           },
           {
-            "id": "85502860378e5ee7",
+            "id": "f8a1b136e54311f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primevals.md",
+                "file": "Sunblight Stronghold.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primevals"
+              "title": "Sunblight Stronghold"
             }
           },
           {
-            "id": "d26a1d76887754db",
+            "id": "b30c27cf9035263c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Primordials.md",
+                "file": "World of Helodaria/Sunblight Clan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primordials"
+              "title": "Sunblight Clan"
             }
           },
           {
-            "id": "49b934b9d79b95ec",
+            "id": "9de7c36705f91567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "e840f11b0df225eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Arc 7 - Unnamed"
-            }
-          },
-          {
-            "id": "63ceb731a9172f47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "file": "Statblocks/Adult White Dragon.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
+              "title": "Adult White Dragon"
             }
           },
           {
-            "id": "0c524ea09f852add",
+            "id": "865d81c2430e9445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Severa.md",
+                "file": "Statblocks/Black Ice Duergar Statblock.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Black Ice Duergar Statblock"
+            }
+          },
+          {
+            "id": "c2caa1bf991485c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Black Ice Half Plate.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Severa"
+              "title": "Black Ice Half Plate"
             }
           },
           {
-            "id": "f7959fe287d59db4",
+            "id": "6746e34dcebf8cc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statblocks/Severa Statblock.md",
+                "file": "Duergar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Severa Statblock"
+              "title": "Duergar"
             }
           },
           {
-            "id": "b61348b0f370b515",
+            "id": "3bae879379463dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
-                "mode": "source",
+                "file": "World of Helodaria/Dularen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran"
-            }
-          },
-          {
-            "id": "cb0a3bb9f91cc8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
+              "title": "Dularen"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -209,7 +195,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -222,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dungeon  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,24 +230,25 @@
             }
           },
           {
-            "id": "788f324251493a42",
+            "id": "720b841d4cf8e292",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/conditionsdiseases.html#exhaustion_phb",
-                "title": "Exhaustion - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#adult%20white%20dragon_mm",
+                "title": "Adult White Dragon - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Exhaustion - 5etools"
+              "title": "Adult White Dragon - 5etools"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
+    "width": 507.5,
     "collapsed": true
   },
   "right": {
@@ -271,7 +258,22 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
+        "dimension": 63.74999999999999,
         "children": [
+          {
+            "id": "4cb96e6d4287e8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "General Notes and Ideas"
+            }
+          },
           {
             "id": "b3c79ccde858898a",
             "type": "leaf",
@@ -297,41 +299,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "World of Helodaria/Trayfort Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
-            }
-          },
-          {
-            "id": "4cb96e6d4287e8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes and Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Notes and Ideas"
-            }
-          },
-          {
-            "id": "f913bfe3e075c876",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Trayfort Keep"
+              "title": "Outgoing links from Trayfort Keep"
             }
           },
           {
@@ -341,12 +314,25 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "f913bfe3e075c876",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World of Helodaria/Dularen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dularen"
             }
           },
           {
@@ -363,12 +349,71 @@
               "title": "All properties"
             }
           }
+        ]
+      },
+      {
+        "id": "92400877833113eb",
+        "type": "tabs",
+        "dimension": 36.25,
+        "children": [
+          {
+            "id": "bf82f9f28d38c15b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guidelines.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guidelines"
+            }
+          },
+          {
+            "id": "fc6e4fe2893dcbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vanguard Campaign Journal"
+            }
+          },
+          {
+            "id": "7564bc8b83f56f6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helodaria"
+            }
+          },
+          {
+            "id": "0b6a92f621642cae",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
+    "width": 332.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -383,34 +428,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cb0a3bb9f91cc8f2",
+  "active": "3bae879379463dbf",
   "lastOpenFiles": [
-    "World of Helodaria/Trayfort Keep.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "General Notes and Ideas.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Sunblight Stronghold.md",
+    "World of Helodaria/Sunblight Clan.md",
+    "Statblocks/Black Ice Duergar Statblock.md",
+    "Statblocks/Adult White Dragon.md",
+    "Items/Black Ice Half Plate.md",
+    "Duergar.md",
+    "Administration and Other Notes/Theme Testing.md",
+    "Attachments/Pasted image 20260715152937.png",
+    "Black Ice.md",
+    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
+    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults (Online).md",
+    "World of Helodaria/Faults of North Estravia.md",
+    "World of Helodaria/Ulfric Straven.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "Statblocks/Kronesguard Ranger.md",
+    "World of Helodaria/Frostcleaver.md",
+    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
     "World of Helodaria/Primevals.md",
     "World of Helodaria/Primordials.md",
     "Timeline.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "Items/Supple Brigandine of the Sentinel.md",
-    "Items/+2 Dragon Scale Leather Armor.md",
-    "World of Helodaria/Steinwalde.md",
-    "Pricing and Crafting.md",
-    "Junk 1.md",
-    "Items/Nightfall, the Hand that Feeds.md",
-    "World of Helodaria/Tevis Einzbern.md",
-    "World of Helodaria/Einzberns.md",
-    "World of Helodaria/Underfoot Tollhouse.md",
-    "Session Notes/Vanguard/Session 75 - Laying Siege.md",
-    "Session Notes/Vanguard/Session 76 - Reunited.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Dusk.md",
-    "Session 22 - Ambush.md",
-    "Session 23 -.md",
-    "Session 21 - Deeper Into the Forest.md",
-    "Nethendell Valley Map Notes.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Rylai Portrait.jpg",
     "Attachments/Isilme Portrait.png",
@@ -427,7 +472,6 @@
     "Attachments/Pasted image 20260502090814.png",
     "Attachments/Pasted image 20260502090806.png",
     "Attachments/Pasted image 20260502090744.png",
-    "Attachments/Pasted image 20260418112545.png",
     "Statblocks/Units",
     "Attachments/Red Hand of Doom.pdf",
     "Attachments/Worldographer/Nethendell Valley-tmp.wxx",

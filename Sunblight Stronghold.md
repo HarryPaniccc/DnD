@@ -4,13 +4,16 @@ tags:
 ---
 Around halfway through the [[Faults of North Estravia]] there is a mountain in which an ancient stronghold is situated. Long abandoned, the stronghold is now occupied by a clan of Duergar known as the [[Sunblight Clan]]. They seek to mine [[Black Ice]] that has been found occurring in the caverns that the ruined stronghold leads to. In addition, the [[Adult White Dragon]] [[Frostcleaver]] has laired in the caverns of the mountain. The Sunblighters have struck an accord with the dragon: They will provide it slaves to eat and will help refine the black ice they find to grow its horde, and in return it allows them to continue mining operations and defend the region surrounding the mountain.
 
-A tribe of bugbears often makes their way through the [[Underdark]] to the stronghold in order to trade slaves with the duergar, but are not allied with them. Some of the bugbears act as muscle for the duergar.
+A tribe of bugbears often makes their way through the [[Underdark]] to the stronghold in order to trade slaves with the duergar, but are not allied with them. Some of the bugbears act as muscle for the duergar, but otherwise they are neutral to the Sunblighters.
 
 # Planning
+
+
 ## Combats
 - Dragon (outside)
-- Dragon (lair)
+- Dragon (lair) (fire shield)
 - Duergar forces
+- Duergar king with [[Black Ice Crown]]
 - Rime Wraiths
 - Frost Elemental
 - Some mindless dungeon thing + Defences
@@ -26,6 +29,7 @@ For the purposes of aligning with Chubby's dungeon ideas to separate the region 
 - Front = main entry, foolhardy
 - Underdark = alternative
 - Secret entrance which connects to the crypts and the black ice caverns
+
 ## Chambers Per Zone
 ### Entryway
 1. **Courtyard**
@@ -38,7 +42,7 @@ For the purposes of aligning with Chubby's dungeon ideas to separate the region 
 Quite separated from the rest of the region. Like a tunnel lead here to the lift.
 1. **Slaver Camp (Underdark)**
 2. **Lift Room** - Quite large chamber, it's a significant structure
-3. **Tribute Room**
+3. **Tribute Room** - Where Forstcleaver Eats
 4. **Slave Pens**
 5. **Rec Room**
 6. **Discussion Chamber** (???)
@@ -53,4 +57,4 @@ URNS! PUT URNS HERE!
 ### Black Ice Caverns
 1. **Forge Room** where the ice is made into gear
 2. **Barracks for the duergar**
-3. 
+3. **Dragon Lair**.
