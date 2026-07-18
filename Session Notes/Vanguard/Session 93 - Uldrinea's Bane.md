@@ -1,5 +1,5 @@
 **Previous Session:** [[Session 92 - The Temple of Elemental Evil (Rylai Level 15)]]
-**Subsequent Session:** 
+**Subsequent Session:**[]
 >**Note**: This session encompasses the online gameplay in addition to the live session.
 
 ## Post Mortem
