@@ -8,6 +8,13 @@ A tribe of bugbears often makes their way through the [[Underdark]] to the stron
 
 # Planning
 
+## Interesting Foes
+- Duergar Despot as king/boss
+- White dragon
+- Duergar Warlords as enforcers around the area, they wear black ice armor and weapons
+- Wizard Duergar/Necromancer situation going on
+- Berserker duergar (son of the despot)
+- Bugbears here and there
 
 ## Combats
 - Dragon (outside)
@@ -53,8 +60,9 @@ URNS! PUT URNS HERE!
 2. **Body Preparation Chamber**
 3. **Lost Cathedral**
 4. **Sarcophagus Rooms**
+5. **Remorhaz Roaming Monster**.
 
 ### Black Ice Caverns
 1. **Forge Room** where the ice is made into gear
 2. **Barracks for the duergar**
-3. **Dragon Lair**.
+3. **Dragon Lair** -> should be separated from the dragon lair because no one wants to be near that monster
