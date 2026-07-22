@@ -23,6 +23,7 @@ A tribe of bugbears often makes their way through the [[Underdark]] to the stron
 - Duergar king with [[Black Ice Crown]]
 - Rime Wraiths
 - Frost Elemental
+- Remorhaz
 - Some mindless dungeon thing + Defences
 
 ## Zones
