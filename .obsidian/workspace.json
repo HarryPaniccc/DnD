@@ -235,12 +235,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#adult%20white%20dragon_mm",
-                "title": "Bestiary - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#duergar%20warlord_mpmm",
+                "title": "Duergar Warlord - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bestiary - 5etools"
+              "title": "Duergar Warlord - 5etools"
             }
           }
         ],
@@ -248,7 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 498.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -427,9 +427,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f8a1b136e54311f8",
+  "active": "720b841d4cf8e292",
   "lastOpenFiles": [
+    "Sunblight Stronghold.md",
     "World of Helodaria/Sunblight Clan.md",
+    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
     "Statblocks/Adult White Dragon.md",
     "Statblocks/Black Ice Duergar Statblock.md",
     "Items/Black Ice Half Plate.md",
@@ -437,7 +440,6 @@
     "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Sunblight Stronghold.md",
     "World of Helodaria/Trayfort Keep.md",
     "Duergar.md",
     "Items/Sylphmade Cloak.md",
@@ -445,7 +447,6 @@
     "World of Helodaria/Helodarian Calendar.md",
     "World of Helodaria/Ulfric Straven.md",
     "World of Helodaria/Caede.md",
-    "World of Helodaria/Dularen.md",
     "General Notes and Ideas.md",
     "Administration and Other Notes/Theme Testing.md",
     "Attachments/Pasted image 20260715152937.png",
@@ -455,7 +456,6 @@
     "World of Helodaria/Faults of North Estravia.md",
     "Statblocks/Kronesguard Ranger.md",
     "World of Helodaria/Frostcleaver.md",
-    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Rylai Portrait.jpg",
     "Attachments/Isilme Portrait.png",

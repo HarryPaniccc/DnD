@@ -8,13 +8,11 @@ A tribe of bugbears often makes their way through the [[Underdark]] to the stron
 
 # Planning
 
-## Interesting Foes
-- Duergar Despot as king/boss
-- White dragon
-- Duergar Warlords as enforcers around the area, they wear black ice armor and weapons
-- Wizard Duergar/Necromancer situation going on
-- Berserker duergar (son of the despot)
-- Bugbears here and there
+## Statblocks List
+- [[Adult White Dragon]]
+- [[Black Ice Duergar Statblock]]
+- [[Duergar Veteran Statblock]]
+- [DuergarHumanoid (Dwarf)1MM'14](https://2014.5e.tools/bestiary.html#duergar_mm)
 
 ## Combats
 - Dragon (outside)
@@ -26,6 +24,7 @@ A tribe of bugbears often makes their way through the [[Underdark]] to the stron
 - Remorhaz
 - Some mindless dungeon thing + Defences
 
+
 ## Zones
 For the purposes of aligning with Chubby's dungeon ideas to separate the region into zones, the dungeon is broken into the following:
 - **Front Entryway** is accessible from the [[Nalaziegel]]. This place is heavily guarded by Duergar, especially after a previous attack.
@@ -34,9 +33,11 @@ For the purposes of aligning with Chubby's dungeon ideas to separate the region 
 - **Crypts** have roaming undead from the dungeon's constructors. This region is largely unexplored by the other denizens of the dungeon as they have no interest in plundering it.
 
 ## Entrances
-- Front = main entry, foolhardy
-- Underdark = alternative
-- Secret entrance which connects to the crypts and the black ice caverns
+The ways to enter the dungeon itself are as follows:
+- **Front Entrance Via [[Nalaziegel]]**: The primary entrance used in history to enter the fortress is currently well guarded (and has since been further reinforced after Kanan and Caede's pass through the fortress). This entrance gives direct access to the primary lane of the dungeon, but attack through here is likely to alert the Sunblighters, and draw the ire of the dragon
+- **Underdark Slaver Camp**: The sunblighters control a large lift that they lower into the underdark for when dealing with the bugbears. The bugbears camp near the lift. They can be reasoned with to betray the Sunblighters, or defeated and the lift can be seized. This will grant direct access to the core of the operation.
+- **Crypt Entrance**: If cleverly scouted, the party can see an entrance to the ice caverns that stretch below the fortress. They will contend with the undead of the crypts that are sealed here and the remorhaz that makes the caverns its home, but the element of surprise and access to many points within the dungeon are a great boon if they can afford it. They will also be able to rest in this area without worrying about roaming duergar patrols.
+- **Dragon Cave**: The most direct and aggressive of the entrypoints, there is a cave that curves from the top of the mountain along which the fortress is built that leads to the dragon's lair and the black ice caverns, should they want to go head on against dragon. The constant blizzard will, however, be a problem.
 
 ## Chambers Per Zone
 ### Entryway
@@ -49,7 +50,7 @@ For the purposes of aligning with Chubby's dungeon ideas to separate the region 
 ### Underdark/Bugbears
 Quite separated from the rest of the region. Like a tunnel lead here to the lift.
 1. **Slaver Camp (Underdark)**
-2. **Lift Room** - Quite large chamber, it's a significant structure
+2. **Lift Room** - Quite large chamber, it's a significant structure. Leading to the fortress zone
 3. **Tribute Room** - Where Forstcleaver Eats
 4. **Slave Pens**
 5. **Rec Room**
