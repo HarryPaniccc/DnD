@@ -10,9 +10,12 @@ A tribe of bugbears often makes their way through the [[Underdark]] to the stron
 
 ## Statblocks List
 - [[Adult White Dragon]]
+- Duergar
+- Duergar Warlord
+- Duergar Stone Guard
 - [[Black Ice Duergar Statblock]]
 - [[Duergar Veteran Statblock]]
-- [DuergarHumanoid (Dwarf)1MM'14](https://2014.5e.tools/bestiary.html#duergar_mm)
+- 
 
 ## Combats
 - Dragon (outside)
