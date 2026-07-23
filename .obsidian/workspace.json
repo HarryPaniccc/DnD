@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,15 +236,14 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/bestiary.html#duergar%20alchemist_oota",
-                "title": "Bestiary - 5etools",
+                "title": "Duergar Alchemist - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Bestiary - 5etools"
+              "title": "Duergar Alchemist - 5etools"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -427,25 +426,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "720b841d4cf8e292",
+  "active": "08389105e0321ab7",
   "lastOpenFiles": [
-    "Sunblight Stronghold.md",
-    "World of Helodaria/Sunblight Clan.md",
     "World of Helodaria/Dularen.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Statblocks/Adult White Dragon.md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Statblocks/Black Ice Duergar Statblock.md",
-    "Items/Black Ice Half Plate.md",
+    "Statblocks/Adult White Dragon.md",
+    "World of Helodaria/Sunblight Clan.md",
+    "Sunblight Stronghold.md",
+    "World of Helodaria/Ulfric Straven.md",
+    "World of Helodaria/Trayfort Keep.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "Items/Black Ice Half Plate.md",
     "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Isilme Vanariel.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "World of Helodaria/Trayfort Keep.md",
     "Duergar.md",
     "Items/Sylphmade Cloak.md",
     "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
     "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Ulfric Straven.md",
     "World of Helodaria/Caede.md",
     "General Notes and Ideas.md",
     "Administration and Other Notes/Theme Testing.md",

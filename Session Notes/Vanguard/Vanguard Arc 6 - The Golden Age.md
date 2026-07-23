@@ -64,7 +64,9 @@ tags:
 - (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
 - (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]], and Dusk interrogates the ravager's soul.
 - (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]], and Kanan receives the red dragon leather armour.
-- 
+- (26th) [[Caede]] retrieves [[Kanan Einzbern]] from [[Steinwalde]] and Kanan tells Caede about his plan to forge Nightfall. Suspicion is sewn about Dusk, again. The entire Vanguard returns to the hunt.
+
+**Week 10 (Dulussahn 28th)**
 
 
 # Things to Remember
