@@ -26,7 +26,7 @@ Politics area should discuss the relationships between the factions, and not the
 
 # Notable Characters and Factions
 - [[Severa]] - High mage of the red wizards and political figure.
-- [[Bahamut Avatar Descendant]] - Grandmaster of the knights of the [[Silver Talon]] and half-dragon descendant of [[Unnamed Avatar of the Bahamut]]
+- [[Unnamed Bahamut Avatar Descendant]] - Grandmaster of the knights of the [[Silver Talon]] and half-dragon descendant of [[Unnamed Avatar of the Bahamut]]
 
 
 ## City's Council

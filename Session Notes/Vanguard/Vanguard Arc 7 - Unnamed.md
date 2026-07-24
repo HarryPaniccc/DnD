@@ -15,12 +15,38 @@ The consequences of unclosed storylines coalesce as [[Eranulaid]] goes up in fla
 - Sirkon needs what's in the city of the glass moon
 - [[King Sirkon|Sirkon]] has used his powers to grant gifts to those that he seeks loyalty from. They understand his power, and accept the positive relationship but know to turn against his will is death
 
-### Antagonists
-[[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vassal of the abyss and bring around his rule of [[Eranulaid]].
+## From [[King Sirkon|Sirkon]]s Perspective
+Sirkon's ultimate goal is to have [[Prince Artorius Sirkon|Arthur Sirkon]] reclaim the [[Heart of the Abyss]] as his Avatar, as Sirkon's ruined form is no longer able to actually use the Heart. He needs a living being of the material plane to do so.
+
+### The Vorciln threat, why he allowed them to do what they did
+The Einzberns are a problem so Sirkon allows the [[Vorciln]] to deal with the Einzberns, while also using them to activate [[Erin Einzbern]]. Unforeseen is the uncovering of the [[Vessel of Avarice]], which Sirkon wants. Sadly it illudes his grasp, but his motives were strengthened. The people of Sirkonos are vigilant and strong, and the Einzberns have been mostly eradicated.
+
+### [[Ruina]]
+Sirkon becomes aware of an ancient blue dragon that has escaped hundreds of years of captivity in Ruina, who has also managed to defeat and capture a high ranking member of the [[Uldronos Council]]. A massive opportunity, he provides [[Zakuul]] with a copy of the *simulacrum* spell in order to use Darius as a trojan horse.
+
+Sirkon needs the current seat of the Raven Queen's power on the continent to be destabilised. A war in Ruina only aids him, and he needs one of his generals to break out of his imprisonment (See [[Session 999 - The Trial of Silb Heft]] Balor). Sirkon then breaks [[Ulrandir Vanariel|Ulrandir]] out of prison, installing a simulacrum of his own to await trial and execution, all the while using the Darius Simulacrum to delay the discovery of the Ulrandir one. He plans on having Zakuul and Ulrandir on his next council of leaders once he regains control of the continent. His inability to just give Zakuul the spell simulacrum causes the dragon to conspire against him, but whatever he doesn't care about Zakuuls loyalty.
+
+He will aid Zakuul in his war with the [[Drow]] of the [[City of the Glass Moon]] and allow Ulrandir to attempt to kill [[General Isaac]] as it only further destabilises Ruina. Unfortunately the construction of the Darius simulacrum is imperfect and it starts to freak the fuck out.
+
+### [[Sirkonos]]
+Demonic powers on the Western side of the [[Nightshade Peaks]] begin to swell under Renslayer's command, and Sirkon needing to keep up appearances and try and figure out what Kanan did with the [[Vessel of Avarice]] decides to use the [[Battalion of the Silver Arrow]] to face them, led by Kanan Einzbern. The final goal of it would be to surround and betray Kanan and the Battalion using the [[Order of the Rose]] and [[Syr Bayle Renslayer|Syr Renslayer]].
+
+### [[Desseran]]
+[[Severa]] is the main antagonistic force Sirkon is aware of. She is not corruptible by the other Thayans that are loyal to her, and she is incredibly resourceful.
+
+But something goes wrong. At some point, a group of adventurers stumble across the tomb of an old Zulkir of Thay which depicts Sirkon and his true nature. The Zulkir, a Lich, is resurrected after consuming the soul of one of the tomb raiders, but the knowledge escapes. The information gets out too soon for Sirkon to act, so he calls upon [[Syr Bayle Renslayer|Syr Renslayer]] to unleash a torrent of death upon Western Desseran to find and destroy the evidence. Being forced to play his hand too quickly, Sirkon steps into a war with the Silver Talon before he wants to.
+
+
+
+
+## Antagonists
+[[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vessel of the abyss and bring around his rule of [[Eranulaid]].
 
 His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
 
-### Desired Plot Points + Brainstorming
+There are also three Balors that are under his control that eagerly await the call of the heart of the abyss.
+
+## Desired Plot Points + Brainstorming
 
 - The Red Wizard woman who has the vampire spawn has some kind of goal
 - The [[Nightshade Peaks]] and a fortress there go to war with [[Desseran]] and [[Sirkonos]], [[Sion of Orcus]] in rulership
@@ -104,7 +130,6 @@ I need to list each character in a bullet point and also their motivations. Ill 
 
 
 # Encounters
----
 I just wanted to list encounters I want to have here
 
 - Sanctum of the God Emperor

@@ -1532,6 +1532,20 @@
             "type": "tabs",
             "children": [
               {
+                "id": "4fcea9326b1559e6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Vanguard Arc 7 - Unnamed"
+                }
+              },
+              {
                 "id": "af038168cc18132a",
                 "type": "leaf",
                 "state": {
@@ -1737,7 +1751,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#TODO",
                     "matchingCase": true,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -1758,7 +1772,8 @@
                   "title": "Bookmarks"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal",
@@ -1840,13 +1855,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "World of Helodaria/Eranulaid History.md",
+                    "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Eranulaid History"
+                  "title": "Outline of Vanguard Arc 7 - Unnamed"
                 }
               },
               {
@@ -1889,12 +1904,11 @@
           }
         ],
         "direction": "horizontal",
-        "width": 278.5
+        "width": 322.5
       },
       "left-ribbon": {
         "hiddenItems": {
           "bases:Create new base": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -1904,8 +1918,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "7c179c6cb7ce04e6",
-      "mtime": "2025-10-06T14:09:41+02:00"
+      "active": "4fcea9326b1559e6",
+      "mtime": "2026-07-24T16:04:46+02:00"
     },
     "Updating Deity and World": {
       "main": {
@@ -2852,20 +2866,19 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://2014.5e.tools/bestiary.html#adult%20white%20dragon_mm",
-                    "title": "Adult White Dragon - 5etools",
+                    "url": "https://2014.5e.tools/bestiary.html#duergar%20alchemist_oota",
+                    "title": "Duergar Alchemist - 5etools",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Adult White Dragon - 5etools"
+                  "title": "Duergar Alchemist - 5etools"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
-        "width": 372.5
+        "width": 498.5
       },
       "right": {
         "id": "ea35a9a317969db7",
@@ -3045,7 +3058,7 @@
         }
       },
       "active": "b6df2faaa5471b38",
-      "mtime": "2026-07-17T08:26:43+02:00"
+      "mtime": "2026-07-24T14:22:29+02:00"
     },
     "Eclipse": {
       "main": {
@@ -4740,5 +4753,5 @@
       "mtime": "2026-06-19T09:21:48+02:00"
     }
   },
-  "active": "Caede Downtime"
+  "active": "Next Arc Planning"
 }

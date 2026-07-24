@@ -4,179 +4,198 @@
     "type": "split",
     "children": [
       {
-        "id": "ad403f483996d6ec",
+        "id": "745e293b6b6b2d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "b6df2faaa5471b38",
+            "id": "4fcea9326b1559e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
+              "title": "Vanguard Arc 7 - Unnamed"
             }
           },
           {
-            "id": "08389105e0321ab7",
+            "id": "af038168cc18132a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "World of Helodaria/Desseran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 6 - The Golden Age"
+              "title": "Desseran"
             }
           },
           {
-            "id": "2d8b02946de1be74",
+            "id": "77b4d7d5f8a869af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Dularen.md",
+                "file": "World of Helodaria/Thayan Orthodoxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dularen"
+              "title": "Thayan Orthodoxy"
             }
           },
           {
-            "id": "4859a2c24bd1b882",
+            "id": "86b1403d5eba48e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "World of Helodaria/Zakuul.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trayfort Keep"
+              "title": "Zakuul"
             }
           },
           {
-            "id": "85104b17518aa359",
+            "id": "fdeaa2a156954d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Ulfric Straven.md",
+                "file": "World of Helodaria/Uladar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulfric Straven"
+              "title": "Uladar"
             }
           },
           {
-            "id": "f8a1b136e54311f8",
+            "id": "4bc58232b1d122cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunblight Stronghold.md",
+                "file": "World of Helodaria/King Sirkon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunblight Stronghold"
+              "title": "King Sirkon"
             }
           },
           {
-            "id": "b30c27cf9035263c",
+            "id": "9dd1aa2fe7064fe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Sunblight Clan.md",
+                "file": "Fetishes of the Resurgence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunblight Clan"
+              "title": "Fetishes of the Resurgence"
             }
           },
           {
-            "id": "9de7c36705f91567",
+            "id": "ef78878be7537cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statblocks/Adult White Dragon.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adult White Dragon"
-            }
-          },
-          {
-            "id": "865d81c2430e9445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/Black Ice Duergar Statblock.md",
+                "file": "World of Helodaria/Desseran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Black Ice Duergar Statblock"
-            }
-          },
-          {
-            "id": "c2caa1bf991485c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Black Ice Half Plate.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Black Ice Half Plate"
-            }
-          },
-          {
-            "id": "6746e34dcebf8cc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Duergar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Duergar"
-            }
-          },
-          {
-            "id": "3bae879379463dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Dularen.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dularen"
+              "title": "Desseran"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "73ae6739b4d1d516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c179c6cb7ce04e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Eranulaid History.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eranulaid History"
+            }
+          },
+          {
+            "id": "c0b69b0cf72150bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "0cd1a259f961f81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/History of Helodaria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "History of Helodaria"
+            }
+          },
+          {
+            "id": "515d52a4acec68b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "fb9508880a60902b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran Apostolate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran Apostolate"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +214,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -208,7 +227,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dungeon  ",
+                "query": "tag:#TODO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,26 +247,14 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "720b841d4cf8e292",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://2014.5e.tools/bestiary.html#duergar%20alchemist_oota",
-                "title": "Duergar Alchemist - 5etools",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Duergar Alchemist - 5etools"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 258.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -256,7 +263,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 63.74999999999999,
+        "dimension": 58.948545861297546,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -278,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "file": "World of Helodaria/Desseran.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,7 +295,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+              "title": "Backlinks for Desseran"
             }
           },
           {
@@ -297,12 +304,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World of Helodaria/Trayfort Keep.md",
+                "file": "World of Helodaria/Desseran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trayfort Keep"
+              "title": "Outgoing links from Desseran"
             }
           },
           {
@@ -324,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World of Helodaria/Dularen.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dularen"
+              "title": "Outline of Vanguard Arc 7 - Unnamed"
             }
           },
           {
@@ -347,12 +354,13 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "92400877833113eb",
         "type": "tabs",
-        "dimension": 36.25,
+        "dimension": 41.051454138702454,
         "children": [
           {
             "id": "bf82f9f28d38c15b",
@@ -367,52 +375,12 @@
               "icon": "lucide-file",
               "title": "Guidelines"
             }
-          },
-          {
-            "id": "fc6e4fe2893dcbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanguard Campaign Journal"
-            }
-          },
-          {
-            "id": "7564bc8b83f56f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Helodaria"
-            }
-          },
-          {
-            "id": "0b6a92f621642cae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -426,35 +394,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08389105e0321ab7",
+  "active": "4fcea9326b1559e6",
   "lastOpenFiles": [
-    "World of Helodaria/Dularen.md",
+    "World of Helodaria/Eranulaid History.md",
+    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+    "World of Helodaria/Desseran.md",
+    "Unnamed Bahamut Avatar Descendant.md",
+    "World of Helodaria/Silver Talon.md",
+    "General Notes and Ideas.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "World of Helodaria/Dun Murroc.md",
+    "Fetishes of the Resurgence.md",
+    "World of Helodaria/King Sirkon.md",
+    "World of Helodaria/Uladar.md",
+    "World of Helodaria/Zakuul.md",
+    "World of Helodaria/Thayan Orthodoxy.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "World of Helodaria/Dularen.md",
     "Statblocks/Black Ice Duergar Statblock.md",
     "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Sunblight Clan.md",
     "Sunblight Stronghold.md",
     "World of Helodaria/Ulfric Straven.md",
     "World of Helodaria/Trayfort Keep.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Dungeon of Castle Sungrand.md",
     "Items/Black Ice Half Plate.md",
-    "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Isilme Vanariel.md",
     "Duergar.md",
-    "Items/Sylphmade Cloak.md",
-    "Session Notes/Vanguard/Session 93 - Uldrinea's Bane.md",
-    "World of Helodaria/Helodarian Calendar.md",
-    "World of Helodaria/Caede.md",
-    "General Notes and Ideas.md",
-    "Administration and Other Notes/Theme Testing.md",
     "Attachments/Pasted image 20260715152937.png",
-    "Black Ice.md",
-    "Session Notes/Vanguard/Session 88 - Duergar Sunblighters.md",
-    "Session Notes/Vanguard/Session 85.5 - The North Estravian Faults (Online).md",
-    "World of Helodaria/Faults of North Estravia.md",
-    "Statblocks/Kronesguard Ranger.md",
-    "World of Helodaria/Frostcleaver.md",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Rylai Portrait.jpg",
     "Attachments/Isilme Portrait.png",
