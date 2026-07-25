@@ -39,7 +39,9 @@ But something goes wrong. At some point, a group of adventurers stumble across t
 
 
 
-## Antagonists
+## Antagonists and their roles
+- [[King Sirkon|Sirkon]] 
+
 [[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vessel of the abyss and bring around his rule of [[Eranulaid]].
 
 His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
@@ -63,24 +65,23 @@ There are also three Balors that are under his control that eagerly await the ca
 Want to do an adventure where people find a clue to Sirkon and then die, starting the attacks on Desseran.
 
 ## Act 1 - [[City of the Glass Moon]]
-When [[Zakuul]] defeated [[Darius Nubide]] he decided that not only are the Drow his enemy, but so is [[Ruina]] - it was a Ruinan group that sold him into slavery, and now a member of the [[Uldronos Council]] has come to try enslave him. He would torture Darius for a long time which drew [[King Sirkon|Sirkon's]] attention. Sirkon would parlay with and intimidate Zakuul, granting him a simulacrum of Darius to use in his dismantling of his opponents.
+When [[Zakuul]] defeated [[Darius Nubide]] he decided that not only are the Drow his enemy, but so is [[Ruina]] - it was a Ruinan group that sold him into slavery, and now a member of the [[Uldronos Council]] has come to try enslave him. He would torture Darius for a long time which drew [[King Sirkon|Sirkon's]] attention. Sirkon would parlay with Zakuul, granting him a simulacrum of Darius to use in his dismantling of his opponents.
 
 Sirkon's desire with this move is to weaken Ruina and reclaim something that is within the [[City of the Glass Moon]]. Zakuul will use what he has been granted by Sirkon to initiate a war against the Drow while also tactically involving Ruina.
 
-[[Ulrandir Vanariel]], soon to be executed, has already been saved by Sirkon - a simulacrum placed in his stead. Ulrandir has been promised rule over Ruina once the dust settles, and has been made to assist Zakuul.
+[[Ulrandir Vanariel]], soon to be executed, has already been saved by Sirkon - a simulacrum placed in his stead. Ulrandir has been promised rule over Ruina once the dust settles, and has been made to assist Zakuul. Ulrandir and Zakuul both share a burning hate for the Drow, so they are glad to work on their distruction.
 
-This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Orcs|Orc]] abyssal loyalists to Sirkon, and the [[Duergar]] servants of Zakuul assemble in the ruins of an old ruinan stronghold. Their first victim? [[Vasspryg]] will fall.
+This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Demons|Demon]] loyalists to Sirkon, and [[Orcs|Orc]] armies taken by Zakuul assemble in the ruins of an old ruinan stronghold. Their first victim? [[Vasspryg]] will fall.
+
 ### Events summary
 ##### Background
 
 - [[Alfred Gundrei]] becomes Duke of [[Ruina]].
-- [[Darius Nubide]] acts as a mole and proxy in the Ruinan government. This treachery will allow [[Vasspryg]] to fall.
-- 
-
+- [[Darius Nubide]] acts as a mole and proxy in the Ruinan government. This treachery will allow [[Vasspryg]] to fall eventually.
+- Zakuul and Ulrandir's forces will attack the city of the glass moon. With carefully laid plans, the drow are forced to flee to the surface for supplies for their war. In order to reclaim their city, the drow decide to attack the surface.
 - [[Alfred Gundrei]] has become Duke and immediately had to take war council
 - [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government so that Zakuul can cause another front of destruction for the drow 
-- [[King Sirkon]] wants something from within the [[City of the Glass Moon]], and has given [[Zakuul]] the tools to achieve control of an [[Orcs]] (?) army to aid in has assaults - **Demon/Zodd guys are Sirkon's control of the situation**
-- [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him (Sent by Zakuul?/Ulrandir?/Darius?). They are getting past his security using the **Paintings**
+- [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him Ulrandir through the painting smudge was in
 
 ##### Key Points
 
@@ -114,14 +115,13 @@ The [[Thayan Orthodoxy]] woman has the wit to ask: why now? And why in this mann
 How does this end
 
 # Characters
----
 I need to list each character in a bullet point and also their motivations. Ill cross characters off when I find a thing that they can do.
 ### List
 
-- [ ] [[King Sirkon]]
-- [ ] [[Syr Bayle Renslayer]]
-- [ ] [[Zakuul]]
-- [ ] [[Ulrandir Vanariel]]
+- [x] [[King Sirkon]]
+- [x] [[Syr Bayle Renslayer]]
+- [x] [[Zakuul]]
+- [x] [[Ulrandir Vanariel]]
 - [x] [[Darius Nubide]]
 - [ ] [[Dagon]]
 - [ ] [[Tharizdun]]
@@ -129,9 +129,14 @@ I need to list each character in a bullet point and also their motivations. Ill 
 ## Motivation
 
 
-# Encounters
-I just wanted to list encounters I want to have here
+# Session ideas in order
+I just wanted to list encounters and sessions here.
 
-- Sanctum of the God Emperor
-- [[Demogorgon]]
-- 
+- Vanguard are asked to go help with Isaac
+- Investigate general Isaac, fighting him and potentially Zariel
+- Armies reunited, they go to attack the drow
+- Darius Nubide confides in the Vanguard about his ailment, he literally has no idea what to do
+- Battle with the Drow attackers
+- Orcs
+- Find out Zakuul is alive, confront Nubide, ah of course hes a simulacrim
+- Vasspryg falls

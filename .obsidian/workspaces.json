@@ -1904,7 +1904,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 322.5
+        "width": 322.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -1919,7 +1920,7 @@
         }
       },
       "active": "4fcea9326b1559e6",
-      "mtime": "2026-07-24T16:04:46+02:00"
+      "mtime": "2026-07-24T23:30:10+02:00"
     },
     "Updating Deity and World": {
       "main": {

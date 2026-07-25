@@ -19,6 +19,7 @@ tags:
 - [ ] Members of the [[Uldronos Council]]
 - [ ] [[Severa]] notes and stats
 - [ ] Caede's Necromantia contents
+- [ ] What is [[Smudge]]?
 
 ## Lore to Fill in
 

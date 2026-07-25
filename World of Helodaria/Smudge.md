@@ -1,0 +1,1 @@
+So far I think that smudge is a little piece of a primordial, similar to how [[Ophelia the Sylph|Ophelia]] is.
