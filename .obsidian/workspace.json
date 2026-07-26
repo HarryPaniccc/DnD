@@ -4,171 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "745e293b6b6b2d1a",
+        "id": "ad403f483996d6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4fcea9326b1559e6",
+            "id": "0f3ee23846ab1eb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
+                "file": "Session Notes/Vanguard/Vanguard Campaign Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vanguard Arc 7 - Unnamed"
+              "title": "Vanguard Campaign Journal"
             }
           },
           {
-            "id": "af038168cc18132a",
+            "id": "ae475d42e120be2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran"
+              "title": "Vanguard Arc 6 - The Golden Age"
             }
           },
           {
-            "id": "77b4d7d5f8a869af",
+            "id": "fa341a42ed1449ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Thayan Orthodoxy.md",
+                "file": "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thayan Orthodoxy"
+              "title": "Session 91.5 - Hammer to Anvil (Online)"
             }
           },
           {
-            "id": "86b1403d5eba48e9",
+            "id": "85502860378e5ee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Zakuul.md",
+                "file": "World of Helodaria/Primevals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zakuul"
+              "title": "Primevals"
             }
           },
           {
-            "id": "fdeaa2a156954d8c",
+            "id": "d26a1d76887754db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Uladar.md",
+                "file": "World of Helodaria/Primordials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uladar"
+              "title": "Primordials"
             }
           },
           {
-            "id": "4bc58232b1d122cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/King Sirkon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "King Sirkon"
-            }
-          },
-          {
-            "id": "9dd1aa2fe7064fe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fetishes of the Resurgence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fetishes of the Resurgence"
-            }
-          },
-          {
-            "id": "ef78878be7537cac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Desseran.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desseran"
-            }
-          }
-        ]
-      },
-      {
-        "id": "73ae6739b4d1d516",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c179c6cb7ce04e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Eranulaid History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eranulaid History"
-            }
-          },
-          {
-            "id": "c0b69b0cf72150bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Red Wizards of Thay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Wizards of Thay"
-            }
-          },
-          {
-            "id": "0cd1a259f961f81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/History of Helodaria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Helodaria"
-            }
-          },
-          {
-            "id": "515d52a4acec68b1",
+            "id": "49b934b9d79b95ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,35 +92,91 @@
             }
           },
           {
-            "id": "fb9508880a60902b",
+            "id": "e840f11b0df225eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Desseran Apostolate.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desseran Apostolate"
+              "title": "Vanguard Arc 7 - Unnamed"
             }
           },
           {
-            "id": "22c64ff20d10b543",
+            "id": "63ceb731a9172f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World of Helodaria/Smudge.md",
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
+            }
+          },
+          {
+            "id": "0c524ea09f852add",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Severa.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Severa"
+            }
+          },
+          {
+            "id": "f7959fe287d59db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/Severa Statblock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smudge"
+              "title": "Severa Statblock"
+            }
+          },
+          {
+            "id": "b61348b0f370b515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Desseran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Desseran"
+            }
+          },
+          {
+            "id": "cb0a3bb9f91cc8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World of Helodaria/Red Wizards of Thay.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Wizards of Thay"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -242,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,17 +230,17 @@
             }
           },
           {
-            "id": "955c60e88cede65e",
+            "id": "788f324251493a42",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/index.html",
-                "title": "5etools",
+                "url": "https://2014.5e.tools/spells.html#true%20seeing_phb",
+                "title": "True Seeing - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "5etools"
+              "title": "True Seeing - 5etools"
             }
           }
         ],
@@ -282,8 +248,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5,
-    "collapsed": true
+    "width": 438.5
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -292,8 +257,40 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 58.948545861297546,
         "children": [
+          {
+            "id": "b3c79ccde858898a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+            }
+          },
+          {
+            "id": "e26a69bedfa5e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
+            }
+          },
           {
             "id": "4cb96e6d4287e8a5",
             "type": "leaf",
@@ -309,36 +306,18 @@
             }
           },
           {
-            "id": "b3c79ccde858898a",
+            "id": "f913bfe3e075c876",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "World of Helodaria/Desseran.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
+                "file": "Nethendell Valley Map Notes.md",
+                "followCursor": false,
                 "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": ""
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Desseran"
-            }
-          },
-          {
-            "id": "e26a69bedfa5e5f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "World of Helodaria/Desseran.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Desseran"
+              "icon": "lucide-list",
+              "title": "Outline of Vanguard Arc 6 - The Golden Age"
             }
           },
           {
@@ -348,25 +327,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "f913bfe3e075c876",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "World of Helodaria/Smudge.md",
-                "followCursor": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline of Smudge"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -383,32 +349,13 @@
               "title": "All properties"
             }
           }
-        ]
-      },
-      {
-        "id": "92400877833113eb",
-        "type": "tabs",
-        "dimension": 41.051454138702454,
-        "children": [
-          {
-            "id": "bf82f9f28d38c15b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Guidelines"
-            }
-          }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -422,34 +369,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "22c64ff20d10b543",
+  "active": "cb0a3bb9f91cc8f2",
   "lastOpenFiles": [
-    "World of Helodaria/Zakuul.md",
+    "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
+    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
+    "Timeline.md",
+    "World of Helodaria/Red Wizards of Thay.md",
+    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
     "World of Helodaria/Smudge.md",
+    "World of Helodaria/Zakuul.md",
     "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
     "General Notes and Ideas.md",
-    "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "World of Helodaria/Eranulaid History.md",
     "World of Helodaria/Desseran.md",
     "Unnamed Bahamut Avatar Descendant.md",
     "World of Helodaria/Silver Talon.md",
-    "World of Helodaria/Red Wizards of Thay.md",
     "World of Helodaria/Dun Murroc.md",
     "Fetishes of the Resurgence.md",
     "World of Helodaria/King Sirkon.md",
     "World of Helodaria/Uladar.md",
     "World of Helodaria/Thayan Orthodoxy.md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "World of Helodaria/Dularen.md",
     "Statblocks/Black Ice Duergar Statblock.md",
     "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Sunblight Clan.md",
     "Sunblight Stronghold.md",
     "World of Helodaria/Ulfric Straven.md",
-    "World of Helodaria/Trayfort Keep.md",
-    "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Items/Black Ice Half Plate.md",
-    "World of Helodaria/Isilme Vanariel.md",
     "Attachments/Pasted image 20260715152937.png",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Rylai Portrait.jpg",
