@@ -4,8 +4,13 @@ tags:
 aliases:
   - Skye
 ---
-- [[Fenrir]] Friend from [[Camroc]]
-- Once known as [[Skye]]
+>[!infobox|right lp wsm-med]
+>![[Pasted image 20260730093315.png|300]]
+># Character Information
+>| | |
+>| - | - |
+>|Class| Wizard (Bladesinger)|
+>|Race| Changeling|
 # Intro
 
 Dusk is a [[Changeling]] Wizard and member of the [[Vanguard]].
@@ -23,7 +28,6 @@ Dusk is a [[Changeling]] Wizard and member of the [[Vanguard]].
 ## Notable Items
 
 ### Current Items
-- [[Staff of Frost]]
 - [[Staff of the Void]]
 - [[+1 Arcane Grimoire]]
 - [[Ring of Iron Alar]]
@@ -31,6 +35,9 @@ Dusk is a [[Changeling]] Wizard and member of the [[Vanguard]].
 - [[Pike of Life Stealing]]
 - +1 Dagger
 - Hearthstone
-- Compasse of the Old Orders
+- [[Compasses of the Old Orders]]
+
 ### Former Items
+- [[Staff of Frost]] (Given to [[Rylai Sweetsong|Rylai]])
+
 # Relationships
