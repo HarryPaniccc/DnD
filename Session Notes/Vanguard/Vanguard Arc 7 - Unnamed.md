@@ -44,9 +44,7 @@ But something goes wrong. At some point, a group of adventurers stumble across t
 
 [[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vessel of the abyss and bring around his rule of [[Eranulaid]].
 
-His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]].
-
-There are also three Balors that are under his control that eagerly await the call of the heart of the abyss.
+His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]]. There are also three Balors that are under his control that eagerly await the call of the heart of the abyss.
 
 ## Desired Plot Points + Brainstorming
 
@@ -74,19 +72,16 @@ Sirkon's desire with this move is to weaken Ruina and reclaim something that is 
 This causes a terrible alliance to be forged with the goal of the destruction of Ruina and her armies. Ulrandir and his honor guard, [[Demons|Demon]] loyalists to Sirkon, and [[Orcs|Orc]] armies taken by Zakuul assemble in the ruins of an old ruinan stronghold. Their first victim? [[Vasspryg]] will fall.
 
 ### Events summary
-##### Background
-
+#### Background
 - [[Alfred Gundrei]] becomes Duke of [[Ruina]].
 - [[Darius Nubide]] acts as a mole and proxy in the Ruinan government. This treachery will allow [[Vasspryg]] to fall eventually.
 - Zakuul and Ulrandir's forces will attack the city of the glass moon. With carefully laid plans, the drow are forced to flee to the surface for supplies for their war. In order to reclaim their city, the drow decide to attack the surface.
-- [[Alfred Gundrei]] has become Duke and immediately had to take war council
 - [[Darius Nubide]] acts as [[Zakuul|Zakuul's]] proxy within the [[Ruina]] government so that Zakuul can cause another front of destruction for the drow 
-- [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him Ulrandir through the painting smudge was in
+- [[General Isaac]] is in command of many of the [[Boreal Conclave]] forces but has focused on defending himself from assassins trying to kill him Ulrandir through the painting smudge was in. So far Isaac's son and wife have been slain, and his paranoia will cause him to grow mad.
 
-##### Key Points
-
-- War breaks out in Ruina on two fronts. [[Orcs|Orc]] demon loyalists strike, as do [[Drow]] raider refugees.
-- [[Vasspryg]] falls, [[Midvale]] becomes a defensive position for the [[Boreal Conclave]] and [[Ashen Legion]].
+#### Key Moments
+- War breaks out in Ruina on two fronts. [[Orcs|Orc]] dragon loyalists strike, as do [[Drow]] raider refugees.
+- [[Vasspryg]] falls, [[Midvale]] becomes a defensive position for the [[Boreal Conclave]] and [[Ashen Legion]] and the war stretches between the settlements. Because of this the [[Eithval River]] will become an important strategic position.
 - [[General Isaac]] won't push forwards as he believes there is treachery in the ranks.
 
 - General Isaac nearly sells his home to [[Zariel]] for protection. Zariel has interest in this as an agent against [[Demons|Demonic]] forces
@@ -94,10 +89,20 @@ This causes a terrible alliance to be forged with the goal of the destruction of
 
 - Travel the [[Underdark]] and come to the [[City of the Glass Moon]] and battle with the [[Eldar]] there, the high priestess of something or other.
 
-
 ### [[General Isaac]] Assassin Plot and Painting Revelation
+Genereal Isaac, general of the [[Boreal Conclave]], has survived multiple assassination attempts which has caused incredible paranoia in the soldier. He believes that the forces of the enemies of Ruina are trying to remove him because of his abilities in war. So far, his wife and son have been slain in one of the attempts. It has led him to believe that his close confedants are trying to kill him, and has caused him to spend exceptional war funds on defences for his castle north of [[Midvale]]; Iron Golems being the primary expenses.
+
+The issue is, the assassins completely disappear, and no one can understand how. No spell is being cast, the counterspell glyphs of warding would have gone off and alerted the castle defences. The assassins are unlikely to be disintegrating themselves. It is maddening for the old warlord. To the point where the archduke of [[Avernus]], [[Zariel]], has taken notice of his desparation. She has offered to provide protection to the entire estate of the castle if Isaac will give her something in return *that will cause the castle to be sucked into Avernus? It needs to be large enough for Zariel to send a high ranking communicator?* 
+
+> I need to somehow involve [[Ulysses Brimheart]].
+
+In truth, [[Ulrandir Vanariel]] loyalists are using magic to disguise themselves as Drow and using the [[Smudge Paintings]] to slip between the locations. Ulrandir Vanariel knows how the paintings work, maybe Isaac will suggest interrogating him in his cell?
+
+If the source of the assasination attempts cannot be pried out, Isaac will believe that the Vanguard were sent to kill him, and that they must be in on the plot to destroy him as well.
+
 
 ### Arcane Sickness Plot and [[Zakuul]] Reveal
+All the while, [[Darius Nubide]]'s simulacrum has been groing more and more terrified for his life. His unclotting wound which he must stuff with was and wrap, his inability to restore his magical reserves. and his memory loss have all led him to believe that he has acquired an unknown, unique and rare magical disease somehow.
 
 ### Proxy War
 

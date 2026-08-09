@@ -218,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -316,7 +316,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vanguard Arc 6 - The Golden Age"
+              "title": "Backlinks"
             }
           },
           {
@@ -330,7 +330,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vanguard Arc 6 - The Golden Age"
+              "title": "Outgoing links"
             }
           },
           {
@@ -353,13 +353,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nethendell Valley Map Notes.md",
+                "file": "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vanguard Arc 6 - The Golden Age"
+              "title": "Outline"
             }
           },
           {
@@ -392,7 +392,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -411,34 +411,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "74aed61aea7c8f24",
+  "active": "f7959fe287d59db4",
   "lastOpenFiles": [
+    "World of Helodaria/Deities of Helodaria.md",
+    "Statblocks/Severa Statblock.md",
+    "World of Helodaria/Desseran.md",
+    "World of Helodaria/Dularen.md",
     "World of Helodaria/Kanan Einzbern.md",
     "World of Helodaria/Dusk.md",
-    "World of Helodaria/Dularen.md",
-    "Attachments/Pasted image 20260730093315.png",
-    "World of Helodaria/Red Wizards of Thay.md",
-    "World of Helodaria/Dularen Heart-Kiln.md",
-    "World of Helodaria/Dripping Barrel Inn.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
-    "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
-    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
-    "Timeline.md",
-    "Session Notes/Vanguard/Session 89 - Marthirion, Marred by Seeing.md",
-    "World of Helodaria/Smudge.md",
-    "World of Helodaria/Zakuul.md",
-    "Session Notes/Vanguard/Vanguard Arc 7 - Unnamed.md",
-    "General Notes and Ideas.md",
-    "World of Helodaria/Eranulaid History.md",
-    "World of Helodaria/Desseran.md",
-    "Unnamed Bahamut Avatar Descendant.md",
-    "World of Helodaria/Silver Talon.md",
-    "World of Helodaria/Dun Murroc.md",
-    "Fetishes of the Resurgence.md",
+    "Templates/Deity Template.md",
+    "World of Helodaria/Primevals.md",
+    "World of Helodaria/Primordials.md",
+    "Demons.md",
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Nethendell Valley Map Notes.md",
+    "Pricing and Crafting.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
+    "Session 23 -.md",
+    "Session 22 - Ambush.md",
+    "World of Helodaria/Ruina.md",
+    "World of Helodaria/Eranulaid.md",
+    "World of Helodaria/Sirkonos.md",
     "World of Helodaria/King Sirkon.md",
-    "World of Helodaria/Uladar.md",
-    "World of Helodaria/Thayan Orthodoxy.md",
+    "Session Notes/Vanguard/Vanguard Campaign Journal.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Ulfric Straven.md",
+    "Sunblight Stronghold.md",
+    "World of Helodaria/Sunblight Clan.md",
+    "Attachments/Pasted image 20260730093315.png",
     "Attachments/Pasted image 20260715152937.png",
     "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Attachments/Rylai Portrait.jpg",

@@ -72,10 +72,7 @@ tags:
 - [ ] Innkeepers guild on Zitrumea
 
 ## Miniatures
-- [x] Stone Arches
 - [ ] Cages x 2
-- [x] Giant rats
-- [x] Oni
 - [ ] Zombies
 - [ ] Gnolls
 - [ ] Sewer grate  
