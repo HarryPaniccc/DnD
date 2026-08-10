@@ -105,8 +105,7 @@
               "title": "Nethendell Valley Map Notes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +167,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#werebear_mm",
-                "title": "Werebear - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#wood%20woad_vgm",
+                "title": "Wood Woad - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Werebear - 5etools"
+              "title": "Wood Woad - 5etools"
             }
           },
           {
@@ -182,20 +181,20 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/classes.html#druid_phb,state:ishideoutline=b1~sub_moon_phb=b1",
-                "title": "Druid - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#hobgoblin_mm",
+                "title": "Hobgoblin - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Druid - 5etools"
+              "title": "Hobgoblin - 5etools"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 474.6253890991211
+    "width": 438.34765625
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -271,7 +270,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 23 -.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -317,7 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.3223876953125
+    "width": 351.80859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,21 +329,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "28e96f8cca1b66c5",
+  "active": "e0f42a9e678e0b1e",
   "lastOpenFiles": [
+    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
+    "Session 23 -.md",
     "Session 22 - Ambush.md",
     "Executioner.md",
     "Nethendell Valley Map Notes.md",
+    "World of Helodaria/Helodarian Calendar.md",
+    "Vraath Keep.md",
+    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "Items/Sylphmade Cloak.md",
     "Pricing and Crafting.md",
     "Items/Duskdrinker.md",
     "Items/Resolve.md",
-    "Session Notes/Eclipse/Eclipse Campaign Journal.md",
-    "Session 23 -.md",
-    "Attachments/Worldographer/Nethendell Valley Export 1 A1.pdf",
     "World of Helodaria/Castle Sungrand.md",
     "World of Helodaria/Dungeon of Castle Sungrand.md",
-    "Vraath Keep.md",
     "World of Helodaria/Ferro.md",
     "Statblocks/Severa Statblock.md",
     "World of Helodaria/Deities of Helodaria.md",
@@ -359,7 +358,6 @@
     "World of Helodaria/Primordials.md",
     "Demons.md",
     "World of Helodaria/Ruina.md",
-    "World of Helodaria/Eranulaid.md",
     "Attachments/Pasted image 20260730093315.png",
     "Attachments/Pasted image 20260715152937.png",
     "Attachments/Rylai Portrait.jpg",
