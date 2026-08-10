@@ -1,7 +1,12 @@
 **Previous Session:** [[Session 21 - Deeper Into the Forest]]
 **Subsequent Session:** [[Session 23 - ]]
 ## Post Mortem
-
+**Vanadrahs 19th**: Hex \[10 11]
+- The group investigates the treehouse cache and provide a short buriel for the elf remains they found in the tree overhead
+- Embarking on a small exploration of the environs, they began to uncover the remains of an old civilisation with elven architecture
+- Eventually they made their way to the strip of exposed ore that was visible from [[Vraath Keep]] and Togwae manages to break some of it off the side of the mountain, securing about a kilogram of the slightly lumanescent material
+- After settling down for a lunch for the day and taking a short rest, the group reads through the deceased elf's journal, noting from his crude map a few important details, specifically the notings of a settlement in the hills east of Vraath keep, blood and death written about in the valley north of that, and a bridge between the two.
+- As the group began to head out towards their next objective, the sounds of weapons being drawn and ambush being set alerted them to the hobgoblin scouting party that had surrounded them.
 
 ## Recap
 **Much has happened** these past days, too much to tell now, but here is what is most important.

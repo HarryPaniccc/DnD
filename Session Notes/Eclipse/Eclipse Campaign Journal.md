@@ -32,9 +32,13 @@ Organ
 - [[Thread of Deceit]]
 - [[Ring of Protection +1]]
 - [[Resolve]]
+- [[Cloak of Elvenkind]]
+
 **Soon to be Awarded**
-- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
+- [[Executioner]]
+
 **Unawarded**
+- [[Arrow-Catching Shield|Saint Windguard's Towershield]]
 - [[Heavy Crossbow of some sort]]
 - [[Big Axe]]
 - [[Elven Hammer of some kind]]
@@ -94,6 +98,9 @@ Sungrand becomes a base of operations. They will need to mount expiditions and r
 
 ### Sessions
 Presented in reverse chronological order
+- [[Session 22 - Ambush]]
+- [[Session 21 - Deeper Into the Forest]]
+- [[Session 20 - Breathtaker]]
 - [[Session 19 - The Greater Threat]]
 - [[Session 18 - Chains of Glass]]
 - [[Session 17 - Eels]]

@@ -248,6 +248,17 @@ There is a sawmill with a ferry dock that crosses the river here. There are six 
 **Thick Forest**
 The blighted grove of the druid master [[Bayaz]] and his acolytes, now under control of dark forces, [[Breathtaker]] masquerading as the druid when he is out of his lair.
 
+The grove was built atop a tomb for one of the heroes of the Fall... See [[House Ralenroth Barrows]].
+
+##### Wrathful Spirits
+Within Bayaz's domain, roughly surrounding the hex, the forest outside of the grove has been covered in the densest of the cursed fog that has been let loose. Undead spirits roam the fogs.
+
+| 1d4 | Spirit Encounter              |
+| --- | ----------------------------- |
+| 1   | Banshee                       |
+| 2   | 1d3 Will 'O Wisps             |
+| 3   | Ghost                         |
+| 4   | Shadow Scryers (Free Scrying) |
 #### 11 12 | Vraath Keep
 **Thick Forest**
 [[Vraath Keep]] stits atop a hill in this forested hex. Pathways criss cross surrounding the keep, from which you can see [[Castle Sungrand]] clearly in the fields beyond [[Arden's Vale]].

@@ -25,6 +25,7 @@ Proficiencies:
 - Herbalism Kit
 - Saves: Int, Wis
 - Skills: Arcana + Religion
+
 #### Starting Equipment
 - Wooden Shield
 - Scimitar
@@ -32,6 +33,7 @@ Proficiencies:
 
 #### Druidic
 Secret druid language
+
 #### Spellcasting
 DC = 8 + prof + WIS
 Atk = prof + WIS
@@ -39,20 +41,22 @@ WIS + Lvl prepared
 
 ### Level 2 Wildshape
 Lots of words
-### Circle of Spores
-#### Circle Spells:
-- Chill touch cantrip
-- Blindness/deafness, genlte repose
-- animate dead, gaseous form
-#### Halo of Spores
-reaction 10 feet. Con save deal 1d6 necrotic damage
-#### Symbiotic Entity
-Angry mushroom wildshape child
+
+### Level 2: Circle = Shepard
+#### Speech of the Woods
+- Get Sylvan
+- Can chat with beasts
+
+#### Spirit Totem 1/rest, 1 min duration
+- Bonus action to make or move a totem buff AOE thingy
+
 
 ## ASI/Feat: Observant
 
-## Fungal Infestation
-Fungus Zombie Guy
+## Level 6 Mighty Summoner
+- More HP on beast/fey summons (2/hit die)
+- All deal magical damage w natural weapons
+
 
 ## Stats
 15 14 13 12 10 8
@@ -64,8 +68,9 @@ Fungus Zombie Guy
 | Bonuses        |     |     |     | +1  |     |     |
 | Totals         | 10  | 16  | 12  | 14  | 8   | 16  |
 | Modifiers      | 0   | +2  | +1  | +2  | -1  | +3  |
+
 ## Background
 Outlander
 Skills: Athletics and Survival
-tools: One musical instrument
-One language: Sylvan
+tools: One musical instrument = Lyre
+One language: Primordial
