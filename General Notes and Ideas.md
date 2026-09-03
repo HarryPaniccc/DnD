@@ -3,7 +3,7 @@ tags:
   - Core
 ---
 # To do list
-- [ ] Continue the campaign
+- [x] Continue the campaign
 - [ ] Isilme training stuff
 - [ ] Who is joining the tournament and who is being invited
 - [ ] Save the [[Golden Horn Inn]]

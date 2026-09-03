@@ -36,9 +36,9 @@ I think this should be an arc summary document. Link to arc pages, but have summ
 - Kanan must head the [[Battalion of the Silver Arrow]]
 - Something fishy is happening around [[Rokbaur Castle]] and [[Lord Malgus Kraber]]
 - Kanan owes a favour to [[Odessa]]
-- What happened to the [[Mistborn Inquisitor Analogue]]
+- What happened to the [[Runite Man]]
 - Isilme is following up on the orc attacks on [[Vasspryg]]
-- [[Prince Boryg the Brash]] offers to give Kanan [[+2 Dragon Scale Leather Armor|+2 Red Dragon Leather Armor]] in trade for his adult green dragon scales. 600gp is required to fit it to him.
+- [[Rylai Sweetsong|Rylai]] is to be Minra's tutor and Gundrei's advisor.
 
 
 ## Threads to Introduce

@@ -2,7 +2,6 @@ The **Synod of Elevation** is a research facility belonging to a sect of [[Old R
 
 The Synod also had the objective of bringing out latent magical power in the children of sorcerers from the [[Old Ruinan Empire]] in order to give them a "last chance" to not dishonor their blood lines.
 # Dungeon Layout
----
 ### Arrival Chamber
 The chamber in which the Nalfeshnee guard and the entrance portal are stored. Tiered with two levels, and a vastly high ceiling. The portal opens into an open chamber of stone, tiered, with what appears to be a balcony of sorts cut one layer. The ceiling of the central chamber is high, maybe 60 ft up. There are six pathways on the ground floor: Two left, two right, and two forward
 
@@ -45,7 +44,7 @@ Where the students were subjected to various forms of physical pain, kept distan
 On the left side, beneath the torture chambers
 > Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
 
-- Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
+- Something like the corpse of an [[Runite Man]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
 
 ### Chamber of Rebirth

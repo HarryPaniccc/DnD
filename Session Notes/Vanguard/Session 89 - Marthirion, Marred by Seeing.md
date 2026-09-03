@@ -42,7 +42,7 @@
 # TODO list
 - Marthirion encounter
 - Find information useful to Darius, but nothing about how Rylai can do her thing. No 
-- Go to torture chamber to see the [[Mistborn Inquisitor Analogue]]
+- Go to torture chamber to see the [[Runite Man]]
 - Ophelia leads them to a [[Ley Nexus]]
 
 # Marthirion, Marred by Seeing

@@ -109,7 +109,7 @@ A chamber where those who fail to prove themselves capable of elevation are brou
 On the left side, beneath the torture chambers
 > Rooms filled with tables of smooth, light stone with depressions in them, cut seemingly so that a body can lie at the centers of them and be supported comfortably. At the center of the room, is what looks to be a slab of cobalt, polished flat on one side, and engraved in writings.
 
-- Something like the corpse of an [[Mistborn Inquisitor Analogue]] guy
+- Something like the corpse of an [[Runite Man]] guy
 - Some kind of experiment on extracting the ability of people to use magic so that those born out of a sorcerer family.
 
 ### Minister Research Wing Hallway

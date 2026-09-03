@@ -27,7 +27,7 @@ tags:
 **Week 5 (Antumbrahn 23rd)**
 - (23rd) Rylai, Dusk, and Isilme leave for the [[Synod of Elevation]]
 - Caede and Kanan make it to the first village of [[Estravia]], and later Valeria, where they meet [[Belle Nierhund]]
-- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and find and delve into the [[Synod of Elevation]], facing and defeating [[Marthirion]]. [[Mistborn Inquisitor Analogue]] escapes and roams the earth.
+- (28th) Rylai, Isilme and Dusk meet [[General Isaac]], and find and delve into the [[Synod of Elevation]], facing and defeating [[Marthirion]]. [[Runite Man]] escapes and roams the earth.
 
 **Week 6 (Antumbrahn 30th) - Winter starts**
 - Kanan and Caede make it to the base of the North Estravian Faults where they face winter wolves, frost giants, blizzards, and meet the [[Battlehammer Clan]] scouts
@@ -56,11 +56,11 @@ tags:
 - (18th) Caede teleports home, meets [[Maurice the Flameskull|Kran]] and the others, and catches up with the [[Vanguard]] about he and Kanan's travels.
 - (18th - 19th) Kanan, alongside [[Aerondite]], travel to [[Avernus]] and destroy the [[Vessel of Avarice]]. Kanan promises a favour to [[Odessa]].
 - (20th) Kanan and Lathran share a meal.
-- (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day.
+- (20th) Gundrei dinner at Trayfort. [[Minra Vanariel]] reuintes with [[Isilme Vanariel|Isilme]]. Gundrei is confronted with his responsibility about [[Ulrandir Vanariel|Ulrandir]]. His retinue leaves Trayfort the next day. [[Rylai Sweetsong|Rylai]] an offering from Gundrei to be his advisor within the [[Uldronos Council]].
 
 **Week 9 (Dulussahn 21st)**
 - (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
-- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Mistborn Inquisitor Analogue]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
+- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Runite Man]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
 - (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
 - (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]], and Dusk interrogates the ravager's soul.
 - (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]], and Kanan receives the red dragon leather armour.

@@ -44,7 +44,7 @@ But something goes wrong. At some point, a group of adventurers stumble across t
 
 [[King Sirkon|Sirkon]] is behind it all obviously. His objective is to reclaim the [[Heart of the Abyss]] so that [[Prince Artorius Sirkon]] can ascend and act as his material vessel of the abyss and bring around his rule of [[Eranulaid]].
 
-His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marileth Lieutenant]]. There are also three Balors that are under his control that eagerly await the call of the heart of the abyss.
+His commanders/generals/lieutenants include: [[Syr Bayle Renslayer]] [[Ulrandir Vanariel]], [[Zakuul]], [[Darius Nubide]]'s simulacrum, [[Sirkons Goristro Lieutenant]], [[Sirkons Marilith Lieutenant]]. There are also three Balors that are under his control that eagerly await the call of the heart of the abyss.
 
 ## Desired Plot Points + Brainstorming
 

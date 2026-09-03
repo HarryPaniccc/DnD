@@ -1,6 +1,5 @@
 **Previous Session:** [[Session 91.5 - Hammer to Anvil (Online)]]
 **Subsequent Session:**
-
 ## Post Mortem
 
 
@@ -19,14 +18,27 @@
 > The day is the nth of *month*, 813, and you are (bleeding/dying/chilling/eating).
 
 
-# Session Start
-Ideas for what should happen
+# TODO List
+- Finish exploration of the lower ends of the [[Crowning Wilderness]] and discover what happened to the [[Runite Man]]
+	- [ ] Tiny Hexcrawl (4 x 4)
+	- [ ] A4 Handout
+- Return to Trayfort
+- Adapt because theyre gonna want some shit...
+- Move silb plotline to [[Deathwatch]]
 
 
-# Section
-Something happens
+# [[Crowning Wilderness]] Hexcrawl
 
 
-# Section
-Something else happens
+
+# What Happened Here...
+[[Sirkons Marilith Lieutenant]] and [[Runite Man]]
+
+
+
+# Bridging Monologue
+
+
+
+# [[Sunblight Stronghold]]
 
