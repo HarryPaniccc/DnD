@@ -29,10 +29,13 @@
 
 # [[Crowning Wilderness]] Hexcrawl
 
+- High ground
+- Stone circle (aurora) coming out
+- 
 
 
-# What Happened Here...
-[[Sirkons Marilith Lieutenant]] and [[Runite Man]]
+# The Trail Goes Cold...
+> [[Sirkons Marilith Lieutenant]] and [[Runite Man]]
 
 
 
@@ -40,5 +43,7 @@
 
 
 
+
 # [[Sunblight Stronghold]]
+> Whispers of a dragon in the [[Faults of North Estravia]].
 
