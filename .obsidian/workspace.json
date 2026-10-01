@@ -136,9 +136,23 @@
               "icon": "lucide-file",
               "title": "Trayfort Keep"
             }
+          },
+          {
+            "id": "eea7ad22744324c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nethendell Valley Map Notes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nethendell Valley Map Notes"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -349,8 +363,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "78edd0f139636cdf",
+  "active": "eea7ad22744324c6",
   "lastOpenFiles": [
+    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
+    "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-autosave.wxx",
     "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl.wxx",
     "Attachments/Pasted image 20261001124432.png",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
@@ -363,7 +379,6 @@
     "Administration and Other Notes/Strongholds and Followers Notes.md",
     "World of Helodaria/Desseran.md",
     "World of Helodaria/Runite Man.md",
-    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
     "Forging Nightfall.md",
     "General Notes and Ideas.md",
     "Session Notes/Vanguard/Session 91.5 - Hammer to Anvil (Online).md",
@@ -395,8 +410,6 @@
     "Attachments/Pasted image 20260505212543.png",
     "Attachments/Pasted image 20260505212129.png",
     "Statblocks/Units",
-    "Attachments/Red Hand of Doom.pdf",
-    "Attachments/Worldographer/Nethendell Valley-tmp.wxx",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
