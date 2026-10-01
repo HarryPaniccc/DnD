@@ -8,7 +8,7 @@ tags:
 ># General Information
 >| | |
 >| - | - |
->| Population| Approximately 300 000 |
+>| Population| ~ 300 000 |
 
 # Description
 The city of Desseran is one of the oldest cities in [[Helodaria]], and the original seat of power of the [[Thay|Empire of Thay]]. The origin of [[Human]] civilisation, the oldest still standing city in [[Eranulaid]], and a cultural and religious center, Desseran is known as the **Throne of Gods**, being the home of the God Kings of the [[Desseran Apostolate]] in ages past.
