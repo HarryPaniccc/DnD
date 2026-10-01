@@ -39,6 +39,8 @@
 Base area they are, will redefine later: Starting in hex 50 04
 ![[Pasted image 20261001124432.png|600]]
 
+
+
 - High ground
 - Stone circle
 - Random encounter
