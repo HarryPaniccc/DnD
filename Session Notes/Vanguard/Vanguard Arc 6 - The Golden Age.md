@@ -60,9 +60,9 @@ tags:
 
 **Week 9 (Dulussahn 21st)**
 - (22nd) [[Dusk]] tells [[Isilme Vanariel|Isilme]] about her ties to [[Uldrinea]]. [[Caede]] accepts the services of [[Maurice the Flameskull|Kran]].
-- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Runite Man]]. They find [[Unnamed Hammlet Near the Synod of Elevation]].
+- (22nd) [[Dusk]] and [[Caede]] investigate the [[Synod of Elevation]] for the [[Runite Man]]. They find [[Vorelheim]].
 - (23rd) Isilme starts proper martialling of the [[Trayfort Keep]] guards.
-- (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Unnamed Hammlet Near the Synod of Elevation]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]], and Dusk interrogates the ravager's soul.
+- (25th) [[Dusk]] and [[Caede]] start hunting the raiders near [[Vorelheim]] with [[Kirin]]. They slay the ravager and return to [[Trayfort Keep]], and Dusk interrogates the ravager's soul.
 - (25th) [[Kanan Einzbern]] and [[Grelchar the Keen]] figures out how to forge [[Nightfall, the Hand that Feeds]], and Kanan receives the red dragon leather armour.
 - (26th) [[Caede]] retrieves [[Kanan Einzbern]] from [[Steinwalde]] and Kanan tells Caede about his plan to forge Nightfall. Suspicion is sewn about Dusk, again. The entire Vanguard returns to the hunt. Dusk is tempted by the shard of the [[Primordial of Hunger]].
 - (27th) The group begin to be followed by the shades of the [[Einherjar]] that fought with the [[Valkuur]] in the [[Crowning Wilderness]].

@@ -10,10 +10,11 @@ TODO this session
 >2. **Need to drink the blood of the living**
 ### Summons To [[Leerehalt]] OR [[Diredahl]]
 ---
-An escort will summon the Vanguard to the location **two days** after Isilme's ritual. 
+An escort will summon the Vanguard to the location **two days** after Isilme's ritual.
+
 ### Meeting with [[King Sirkon]] "Sikarius"
----
 King Sirkon is draped in regal, warm garments of deep greys and blacks, with an overcoat of blue with purple stitching, bearing the house colours. His hands are pale tired old things that bear the marks of a war fought long ago, and various rings that are of unknowable value. On a table next to him sits an ancient crown of mithril bearing jewels and a golden inlay. He sits playing a slow but measured tune on a violin with the expertise of master musician. To his side, in ornate armor bearing the head of a dragon on a pauldron and a silk cloak stands Renslayer, almost large enough to be confused with one of the pillars of the room.
+
 #### Points of order
 - **What is the value of a blade.** Complex in purpose, simple in use. It cuts. But does whether it cuts the throat of a king or the hand of a thief or the loin of a swine determine its value? Or is it the history of the lives it has ended determine its value? This blade was forged some time after the Thayan Empire overthrew the old Desseran kingdom and established its control over all of Eranulaid. It has been passed between assassins hands for centuries, it is the cause of the deaths of a few of my ancestors, and it is older than the name of the kingdom you find yourself in. But it has sat over there, on a counter, for over four hundred years. Unused, dull, covered in what little dust the Kronesguard permit. So I ask, what value, truly, is in an unused blade?
 - **Kanan raised to Syr Einzbern** and granted the title of Count. The Einzbern manor will be reconstructed. His company are to be raised to knighthood, viscounts of Sirkonos in their own rights.

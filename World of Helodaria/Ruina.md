@@ -65,7 +65,7 @@ The region to the north of the [[Ashen Peaks]], the valley houses the Sovereignt
 ### The [[Crowning Wilderness]]
 North of Ruina is an incredible, unknownable expanse of forest known as the [[Crowning Wilderness]]. Few settlements dot its edges, but mostly it is considered an edge of the map. Close to the [[Cinder Valley]] the trees take on a dark, charcoal like appearance. They are known as [[Scoria Bark Tree]]s
 
-- [[Unnamed Hammlet Near the Synod of Elevation]]:
+- [[Vorelheim]]:
 
 ### The [[Shiver]]
 - [[Wraithhold]]: Within the [[Shiver]], Wraithhold is an ice
