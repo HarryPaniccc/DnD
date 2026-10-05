@@ -26,6 +26,23 @@ The primary cost to moving through a set of terrain includes things like the pre
 One can spend time searching through a hex but rolls another random encounter.
 
 
+# Random Encounters
+1. Roll on encounter classification table.
+2. Roll on terrain table for said classification.
+3. Roll on subsequent tables should the needs be.
+
+Compared to the other one this should be limited and small
+
+| (1D20)               | Wooded Hills | Boglands | Dark Forest |
+| -------------------- | ------------ | -------- | ----------- |
+| Column Shift, Reroll | 1            | 1        | -           |
+| No Encounter         | 2 - 11       | 2 - 8    | 1 - 6       |
+| Civilised Encounter  | 12 -19       | 11 - 17  | -           |
+| Monster Encounter    | 20           | 18       | 8 - 17      |
+| Dangerous Terrain    |              |          |             |
+| Valuable Terrain     |              |          |             |
+| Unique Terrain       | 20           | 20       | 20          |
+
 
 # Hex Key
 Triangle = special interest location

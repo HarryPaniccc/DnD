@@ -38,7 +38,7 @@
 - Kanan might wish to do the forging of [[Nightfall, the Hand that Feeds]] (See [[Forging Nightfall]])
 
 
-# [[Crowning Wilderness Hexcrawl Notes|Crowning Wilderness Hexcrawl]]
+# [[Crowning Wilderness Hexcrawl Map Notes|Crowning Wilderness Hexcrawl]]
 
 
 
