@@ -1,4 +1,8 @@
 ![[Pasted image 20260505212543.png]]
+```markdown
+>[!infobox|position size]
+```
+
 >[!infobox| right]
 ># Title of somthing
 >sdf asdf

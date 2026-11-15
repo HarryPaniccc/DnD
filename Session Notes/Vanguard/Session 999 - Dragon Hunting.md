@@ -22,7 +22,9 @@
 > The day is the 28th of *Dulussahn*, 813, and you shake off the cold of the morning, as you pack your camp and ready yourselves to continue on *The Path*.
 
 
-# TODO List
+# Planning
+
+## Todo list
 - Finish exploration of the lower ends of the [[Crowning Wilderness]] and discover what happened to the [[Runite Man]]
 	- [x] Tiny Hexcrawl (6 x 4)
 	- [ ] A4 Handout
@@ -44,11 +46,24 @@
 
 ![[Pasted image 20261002220458.png|516]]
 
-
-
 - High ground
 - Stone circle
 - Random encounter
+
+## [[Einherjar]] Shades
+
+
+
+
+## [[Shard of Primordial Hunger]]
+> The effects of the shard of primordial hunger echo through the group, most potantly effecting [[Isilme Vanariel|Isilme]].
+
+**Rest of the Group**
+
+
+**Isilme**
+Due to Isilme's dhampirism, some of the effects of the Shard pray on her automatically.
+- 
 
 
 
@@ -59,7 +74,7 @@
 
 
 # Bridging Monologue
-
+> Between the search for the runite man and the assembly of people to go
 
 
 

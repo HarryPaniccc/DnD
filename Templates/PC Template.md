@@ -9,6 +9,7 @@
 # Character Information
 
 ## Quests
+## Custom Rules and Features
 ## Notable Items
 ### Current Items
 ### Former Items

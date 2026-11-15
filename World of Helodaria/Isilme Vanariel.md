@@ -37,9 +37,6 @@ After undergoing an [[Einzberns|Einzbern]] transformation process in which she b
 When Isilme was transformed into a [[Dhampir]], she gained heightened abilities and a power over the grave, but also acquired an insatiable hunger for blood, preferrably the blood of a humanoid. When she is hungry, she becomes irritable and exhausted.
 
 
-
-
-
 # Biography
 ## Before the Campaign
 Isilme was born on the 26th of Seedfall, 789 Post Fall. Isilme was raised in the guards quarters of [[Castle Anavar]] in the city center of [[Dularen]]. She is the bastard child of two families: Her mother is the child of [[House Vanariel]] of the [[Uldronos Council]], whose father once sat on the council. Her father was the lieutenant of the guard of the house and formed a romantic relationship with Isilme's mother. When the pregnancy was discovered by [[Ulrandir Vanariel|Ulrandir]], Isilme's grandfather, Isilme's father disappeared from Dularen and was not seen again. 
@@ -55,6 +52,21 @@ She joined the [[Vanguard]] and became a [[Dhampir]] while hunting the [[Vorciln
 - Become immortal (completed)
 - Kill [[Ulrandir Vanariel]]
 - Learn of [[Smudge]]'s origins
+- Reunite with [[Minra Vanariel|Minra]] and reforge their relationship
+
+## Custom Rules and Features
+
+>[!infobox| wfit]
+># Insatiable Thirst
+>| |
+>|-|
+>| *Isilme is a [[Dhampir]], part vampire, and afflicted by an insatiable hunger for blood. Isilme must feed on blood to sate quell her curse, or be slowly consumed by her predator instincts.* |
+> 
+
+Drinking the blood of a humanoid through her vampire bite reduces her level of hunger by 
+
+
+
 ## Notable Items
 ### Current Items
 - The [[Blade of Despair]]
@@ -65,6 +77,7 @@ She joined the [[Vanguard]] and became a [[Dhampir]] while hunting the [[Vorciln
 - [[Infernal Cuirass]], looted from [[Lucius]]
 - [[Cadaverous Edge]], gifted from [[Kanan Einzbern]]
 ### Former Items
+
 # Relationships
 - [[Ulrandir Vanariel]], Isilme's grandfather and former member of the [[Uldronos Council]].
 - [[Minra Vanariel]], Isilme's mother.
