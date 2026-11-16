@@ -7,14 +7,15 @@
 		{"id":"d1198129e7482148","x":-57,"y":-30,"width":93,"height":60,"color":"5","type":"text","text":"Shitter"},
 		{"id":"d5163edb6af99889","x":133,"y":357,"width":250,"height":60,"type":"text","text":"This is outside the dungeon I think"},
 		{"id":"396554ead1a151c5","x":133,"y":220,"width":250,"height":60,"color":"5","type":"text","text":"Pathway to the [[Nalaziegel]]"},
-		{"id":"019ac1bbbf63c865","x":383,"y":-165,"width":81,"height":207,"color":"3","type":"text","text":"Halls"},
+		{"id":"019ac1bbbf63c865","x":383,"y":-141,"width":81,"height":184,"color":"3","type":"text","text":"Halls"},
 		{"id":"a8996136a3c70583","x":464,"y":-75,"width":203,"height":117,"color":"1","type":"text","text":"### Barracks\n- Some off duties"},
 		{"id":"582f24ea44a3bdc7","x":464,"y":-135,"width":203,"height":60,"color":"5","type":"text","text":"Armoury"},
 		{"id":"a2c0c2f5dcb9378c","type":"file","file":"Sunblight Stronghold.md","x":-628,"y":-263,"width":524,"height":757,"color":"#ffffff"},
 		{"id":"07083236e897a815","x":10,"y":15,"width":134,"height":135,"color":"1","type":"text","text":"### Guard Post\n- Beware alarm"},
-		{"id":"7218a87e4c323d41","x":518,"y":-195,"width":149,"height":60,"color":"3","type":"text","text":"Locked door to unexplored"},
+		{"id":"7218a87e4c323d41","x":402,"y":-195,"width":265,"height":60,"color":"3","type":"text","text":"Locked doors to unexplored"},
 		{"id":"b6961e1265125f28","x":370,"y":42,"width":148,"height":108,"color":"5","type":"text","text":"Collapsed Battlement. Treacherous!"},
-		{"id":"21899a361c199cc9","x":144,"y":-235,"width":239,"height":187,"color":"1","type":"text","text":"# Main Hall\n- Duergar patrols and living space\n- Warlords\n"}
+		{"id":"21899a361c199cc9","x":144,"y":-235,"width":239,"height":187,"color":"1","type":"text","text":"# Main Hall\n- Duergar patrols and living space\n- Warlords\n"},
+		{"id":"6ce49dbc8a6d5217","x":126,"y":-452,"width":276,"height":217,"color":"6","type":"text","text":"# Large Collapsed Space\nConnection Section of central cluster"}
 	],
 	"edges":[
 		{"id":"7d9b129448ea1407","fromNode":"396554ead1a151c5","fromSide":"bottom","toNode":"d5163edb6af99889","toSide":"top","color":"5"}
