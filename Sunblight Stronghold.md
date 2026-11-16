@@ -76,8 +76,16 @@ URNS! PUT URNS HERE!
 3. **Dragon Lair** -> should be separated from the dragon lair because no one wants to be near that monster
 
 
-
 # Nalaziegel Entryway
+> A vast fortress, long past its prime, now home to the greedy and violent. Retake it.
+### Random Encounters
+
+| 1D4 |     |
+| --- | --- |
+| 1   |     |
+| 2   |     |
+| 3   |     |
+| 4   |     |
 
 
 
