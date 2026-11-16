@@ -28,7 +28,7 @@
 - Finish exploration of the lower ends of the [[Crowning Wilderness]] and discover what happened to the [[Runite Man]]
 	- [x] Tiny Hexcrawl (6 x 4)
 	- [ ] A4 Handout
-	- [ ] Isilme thirst problem - [[Vessel of Avarice]]
+	- [ ] Isilme thirst problem - [[Shard of Primordial Hunger]]
 	- [ ] Shades of the [[Einherjar]] following Caede
 	- [ ] Werewolves drawn by the Shard of hunger
 	- [ ] Sidequest - slay the swamp witch
@@ -65,7 +65,7 @@
 **Rest of the Group**
 - The group are overcome by the urge to consume flesh.
 - Seeing a corpse, they must make a DC 14 Wisdom saving throw or feel the desire to eat the flesh of it.
-- Failing the save by 5 or more causes them to desire... **TODO**
+- Failing the save by 5 or more causes them to desire it so greatly that they find the urges irresistable. They will allow someone to intervene, like a smoker trying to quit, but it requires significant effort. Until the next long rest, they have disadvantage on Wisdom checks and concentration checks.
 
 **Isilme**
 Due to Isilme's dhampirism, some of the effects of the Shard pray on her automatically.

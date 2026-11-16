@@ -56,41 +56,30 @@ She joined the [[Vanguard]] and became a [[Dhampir]] while hunting the [[Vorciln
 
 ## Custom Rules and Features
 
->[!infobox| wfit]
-># Insatiable Thirst
->| |
->|-|
->| *Isilme is a [[Dhampir]], part vampire, and afflicted by an insatiable hunger for blood. Isilme must feed on blood to sate quell her curse, or be slowly consumed by her predator instincts.* |
-> At the end of each day, if Isilme has not consumed blood that day, her level of hunger increases by one.
 
-Delete this table
 
-| Level of Hunger | Notes and Descriptions                                                                                                                                                                                                                                                                                                                                                                                                                     | Rules                                                                                                                                                                                                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0               | Isilme has gorged herself on a humanoid, consuming as much blood as she could possibly have wanted. he feels light headed and a little giggly, but otherwise is clear in her mind, and feels as healthy as she did on a good day before taking on the curse. She will not need to consume blood for the next week, but only by exhanguinating a humanoid or drinking an extreme amount of blood can Isilme lower her hunger to this level. | For one week, do not increase levels of hunger at the end of a day.                                                                                                                                                                                                                  |
-| 1               | Isilme's hunger has been sated. She is in control of herself and her desires to feed. The curse is at bay, for now...                                                                                                                                                                                                                                                                                                                      | Isilme suffers no ill effects.                                                                                                                                                                                                                                                       |
-| 2 - 4           | Isilme feels the need to feed. The effects of the curse are irritating her, making her potentially short with the people around her, and her hunger for combat and violence is greater.                                                                                                                                                                                                                                                    | If Isilme has not consumed blood this day, by halfway through the day she must make a DC 8 + hunger CON saving throw or gain a level of exhaustion.                                                                                                                                  |
-| 5+              | Isilme hears the singing streams of life in those she is near, and yearns to feed. She is difficult to be around, and eager for violence. She must actively resist her urges.                                                                                                                                                                                                                                                              | Being thirsty enough causes her to make DC 8 + hunger WIS save to resist forcing herself on someone she interacts with to feed off of them. She gains advantage on the save if it is someone she knows well and is fond of, and disadvantage if she is sees the person unfavourably. |
 
 #### Hunger
+At the end of each day, if Isilme has not consumed blood that day, her level of hunger increases by one.
+
 - **Elated (0 hunger):** Isilme has gorged herself and feels incredible, if not slightly giggly. 
   *For one week, she will not increase her hunger levels at the end of the day.*
-- **Sated (1 hunger):** Isilme's hunger has been sated, and is in control of herself and her urges. The curse is at bay, for now.
-- **Hungry (2 - 3 hunger):** Isilme feels the return of the itch, and is irritable and prone to violence. 
-  *Insert thingies here, disadvantages or smth. CON Save to have minimum of 1 exhaustion?*
+- **Sated (1 hunger):** Isilme's hunger has been sated, and is in control of herself and her urges. The curse is at bay, for now...
+- **Hungry (2 - 3 hunger):** Isilme feels the return of the itch, and is irritable and quicker to violence. 
+  *At the start of the day, if Isilme has not fed in the last 24 hours she must make a DC 10 + Hunger CON saving throw. On a failure, until she feeds, the minimum amount of exhaustion levels she can have is 1.*
 - **Blood Starved (4+):** Isilme hears the singing streams of life. She must actively resist her urges.
   *Make a DC 8 + hunger WIS save to resist forcing herself on someone to feed off of them. She gains advantage if she is close to the person, and disadvantage if she sees them unfavourably.
   While Isilme is blood starved, she cannot concentrate on spells, and is easily insulted.*
 
 
 #### Happiness and Satiation
-After drinking the blood of a humanoid Isilme causes the humanoid to become *bloodless*, reducing their ability checks and saving throws by -1. Isilme becomes *happy* for 24 hours, gaining a +1 to attack rolls, ability checks, and saving throws. Both of these effects end at the end of a long rest.
+After drinking the blood of a humanoid Isilme causes the humanoid to become *bloodless*, reducing their attack rolls, ability checks, and saving throws by -1. Isilme becomes *happy* for 24 hours, gaining a +1 to attack rolls, ability checks, and saving throws. Both of these effects end at the end of a long rest.
 
 Drinking the blood of a humanoid through her vampire bite reduces her level of hunger by a number of points dependent on how much she drinks.
 - Total exhanguination and unchecked gorging will cause a humanoid to be slain by the feeding, but will reset her hunger to zero.
 - Feeding on a humanoid will reduce her hunger level by 3, to a minimum of 1, causing them to become *bloodless* and Isilme to become *happy*.
 
-Consuming the blood of an animal is not as fulfilling as consuming the blood of a humanoid, so it will not reduce her levels of hunger. It will only prevent her from gaining levels at the end of a day.
+Consuming the blood of an animal is not as fulfilling as consuming the blood of a humanoid, so it will not reduce her levels of hunger. It will only prevent her from gaining levels at the end of a day. Regardless of the amount consumed, it will not leave her *happy.*
 
 
 

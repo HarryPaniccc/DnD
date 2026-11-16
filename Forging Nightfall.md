@@ -19,7 +19,7 @@ The most important part of the process is the lock and chain. It will need to be
 Forging Nightfall is a mythical task, requiring the magical and physical might of the heroes of old, and the will to survive the ordeal. *Forcing* primordial essence of any nature to behave how you desire is a feat that may even slay one who attempts it.
 
 ### Refining the Sanguine Mercury
-Once the sanguine mercury ingot is prepared, arcane power will need to be channeled into the metal while the Primordial Shard is hammered into it. Spellcasters can channel a spell slot of third level or higher into the metal to charge the ingot. Then the Primordial Shard must be infused into the charged metal. As an action, make a Strength (Smith's Tools) check to hammer the essence into the ingot. The DC of the check is 40 minus the total levels of spells imbued within the metal. Success or fail, the spell levels are consumed.
+Once the sanguine mercury ingot is prepared, arcane power will need to be channeled into the metal while the Primordial Shard is hammered into it. Spellcasters can channel a spell slot of third level or higher into the metal to charge the ingot. Then the [[Shard of Primordial Hunger]] must be infused into the charged metal. As an action, make a Strength (Smith's Tools) check to hammer the essence into the ingot. The DC of the check is 40 minus the total levels of spells imbued within the metal. Success or fail, the spell levels are consumed.
 
 Kanan may use his flame rite upon the hammer to add one roll of his hemocraft die to the Strength (Smith's Tools) check, as the flame of his soul is irreversibly linked to the Primordial Essence.
 

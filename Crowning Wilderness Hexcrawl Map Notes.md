@@ -150,6 +150,8 @@ Hidden beneath a messy waterfall lies an ancient stone tomb, overgrown with moss
 
 Three Vampires were entombed within this structure, staked in their resting places and covered in steel in their coffins. Recently, a werewolf managed to get into one and devoured its heart, and has become a *Deathwolf*. The vampires have degenerated into *Nosferatus* in this time.
 
+Werewolves have also dug into the other coffins, but the imprisoned undead within escaped.
+
 ###### Encounter: Nosferatus
 Two nosferatus are trapped withint he structure by a waterfall flowing over the entrance of the crypt. They sit in incredible darkness at the back of the tight room, a ray of sunlight keeping them abay.
 

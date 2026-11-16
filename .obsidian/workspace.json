@@ -6,7 +6,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 21.75531914893617,
+        "dimension": 41.86170212765957,
         "children": [
           {
             "id": "770d2990c53200d2",
@@ -144,7 +144,7 @@
       {
         "id": "368ab846bd50eca3",
         "type": "tabs",
-        "dimension": 78.24468085106383,
+        "dimension": 58.13829787234043,
         "children": [
           {
             "id": "d5f63b779aa24524",
@@ -209,7 +209,7 @@
               "type": "markdown",
               "state": {
                 "file": "World of Helodaria/Isilme Vanariel.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -224,8 +224,8 @@
               "state": {
                 "file": "Sunblight Stronghold Layout.canvas",
                 "viewState": {
-                  "x": 102.79126819126816,
-                  "y": 28.571933471933463,
+                  "x": 56.277962577962526,
+                  "y": 18.836590436590498,
                   "zoom": -0.11330681331928841
                 }
               },
@@ -233,8 +233,7 @@
               "title": "Sunblight Stronghold Layout"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,11 +298,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://2014.5e.tools/bestiary.html#grell_mm",
-                "title": "Grell - 5etools",
+                "title": "Bestiary - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Grell - 5etools"
+              "title": "Bestiary - 5etools"
             }
           }
         ],
@@ -450,35 +449,37 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "019af20822badb14",
+  "active": "d5f63b779aa24524",
   "lastOpenFiles": [
     "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
+    "Forging Nightfall.md",
+    "World of Helodaria/Runite Man.md",
+    "Shard of Primordial Hunger.md",
+    "Crowning Wilderness Hexcrawl Map Notes.md",
+    "Crowning Wilderness Hexcrawl Player Handout.md",
+    "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-tmp.wxx",
+    "Attachments/Crowing Wilderness Player Map.png",
+    "World of Helodaria/Isilme Vanariel.md",
     "Sunblight Stronghold Layout.canvas",
+    "Administration and Other Notes/Theme Testing.md",
     "World of Helodaria/Dungeon of Castle Sungrand.md",
     "Session Notes/Eclipse/Session 17 - Eels.md",
     "Session Notes/Eclipse/Session 16 - Corpses in Stagnant Waters.md",
     "Session Notes/Eclipse/Session 15 - A Knife in the Back.md",
     "Session Notes/Eclipse/Session 14 - Mold and Rats (Go Deeper, My King).md",
     "Sunblight Stronghold.md",
-    "Crowning Wilderness Hexcrawl Player Handout.md",
-    "World of Helodaria/Isilme Vanariel.md",
     "Nethendell Valley Map Notes.md",
-    "Crowning Wilderness Hexcrawl Map Notes.md",
     "World of Helodaria/Trayfort Keep.md",
     "World of Helodaria/Ruina.md",
     "Statblocks/Adult White Dragon.md",
     "World of Helodaria/Steinwalde.md",
     "Administration and Other Notes/Strongholds and Followers Notes.md",
-    "World of Helodaria/Runite Man.md",
     "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
     "Untitled.md",
-    "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-tmp.wxx",
-    "Administration and Other Notes/Theme Testing.md",
     "General Notes and Ideas.md",
     "Templates/Item template.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
-    "Templates/PC Template.md",
     "Attachments/Pasted image 20261002220458.png",
     "Attachments/Pasted image 20261002214355.png",
     "Attachments/Worldographer/ssssssssssssss.pdf",
@@ -497,7 +498,6 @@
     "Attachments/Worldographer/Untitled.pdf",
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
     "Attachments/Worldographer/Sirkonos-tmp.wxx",
-    "Attachments/Pasted image 20260121094334.png",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"
