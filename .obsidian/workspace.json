@@ -6,7 +6,7 @@
       {
         "id": "ad403f483996d6ec",
         "type": "tabs",
-        "dimension": 54.166666666666664,
+        "dimension": 21.75531914893617,
         "children": [
           {
             "id": "770d2990c53200d2",
@@ -137,28 +137,14 @@
               "icon": "lucide-file",
               "title": "Trayfort Keep"
             }
-          },
-          {
-            "id": "e0726b928509605e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World of Helodaria/Isilme Vanariel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Isilme Vanariel"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       },
       {
         "id": "368ab846bd50eca3",
         "type": "tabs",
-        "dimension": 45.83333333333333,
+        "dimension": 78.24468085106383,
         "children": [
           {
             "id": "d5f63b779aa24524",
@@ -172,6 +158,34 @@
               },
               "icon": "lucide-file",
               "title": "Crowning Wilderness Hexcrawl Map Notes"
+            }
+          },
+          {
+            "id": "1990721e9c5e46ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crowning Wilderness Hexcrawl Player Handout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crowning Wilderness Hexcrawl Player Handout"
+            }
+          },
+          {
+            "id": "b8c0b3d80a84dd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunblight Stronghold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunblight Stronghold"
             }
           },
           {
@@ -189,21 +203,38 @@
             }
           },
           {
-            "id": "9962c2ec56225011",
+            "id": "e0726b928509605e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Administration and Other Notes/Theme Testing.md",
-                "mode": "source",
+                "file": "World of Helodaria/Isilme Vanariel.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theme Testing"
+              "title": "Isilme Vanariel"
+            }
+          },
+          {
+            "id": "019af20822badb14",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Sunblight Stronghold Layout.canvas",
+                "viewState": {
+                  "x": 105.10907926208961,
+                  "y": -68.94348661632712,
+                  "zoom": -0.3333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sunblight Stronghold Layout"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -267,12 +298,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://2014.5e.tools/bestiary.html#marilith_mm",
-                "title": "Marilith - 5etools",
+                "url": "https://2014.5e.tools/bestiary.html#grell_mm",
+                "title": "Grell - 5etools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Marilith - 5etools"
+              "title": "Grell - 5etools"
             }
           }
         ],
@@ -280,7 +311,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.4921875
+    "width": 414.5,
+    "collapsed": true
   },
   "right": {
     "id": "ea35a9a317969db7",
@@ -289,7 +321,7 @@
       {
         "id": "5ece3774c37e9648",
         "type": "tabs",
-        "dimension": 54.72222222222223,
+        "dimension": 54.722222222222214,
         "children": [
           {
             "id": "4cb96e6d4287e8a5",
@@ -358,6 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -386,7 +419,7 @@
       {
         "id": "e50ced349f35b5d1",
         "type": "tabs",
-        "dimension": 45.27777777777778,
+        "dimension": 45.277777777777786,
         "children": [
           {
             "id": "7b4e304455864412",
@@ -402,7 +435,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -416,38 +450,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "53f23441ad921b38",
+  "active": "019af20822badb14",
   "lastOpenFiles": [
+    "Sunblight Stronghold Layout.canvas",
+    "Sunblight Stronghold.md",
+    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
+    "Crowning Wilderness Hexcrawl Player Handout.md",
     "World of Helodaria/Isilme Vanariel.md",
-    "Administration and Other Notes/Theme Testing.md",
+    "World of Helodaria/Dungeon of Castle Sungrand.md",
     "Nethendell Valley Map Notes.md",
+    "Crowning Wilderness Hexcrawl Map Notes.md",
+    "World of Helodaria/Trayfort Keep.md",
+    "World of Helodaria/Ruina.md",
+    "Statblocks/Adult White Dragon.md",
+    "World of Helodaria/Steinwalde.md",
+    "Administration and Other Notes/Strongholds and Followers Notes.md",
+    "World of Helodaria/Runite Man.md",
+    "Session Notes/Vanguard/Session 92 - The Temple of Elemental Evil (Rylai Level 15).md",
+    "Untitled.md",
+    "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-tmp.wxx",
+    "Administration and Other Notes/Theme Testing.md",
     "General Notes and Ideas.md",
     "Templates/Item template.md",
-    "Session Notes/Vanguard/Session 999 - Dragon Hunting.md",
     "Session Notes/Vanguard/Vanguard Arc 6 - The Golden Age.md",
     "Session Notes/Vanguard/Vanguard Campaign Journal.md",
     "Templates/PC Template.md",
     "World of Helodaria/Kanan Einzbern.md",
-    "World of Helodaria/Trayfort Keep.md",
     "Custom Abilities and Features.md",
-    "Crowning Wilderness Hexcrawl Map Notes.md",
     "Dhampir.md",
     "dham.md",
-    "World of Helodaria/Runite Man.md",
-    "Session 94 - Into Fire.md",
-    "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-tmp.wxx",
-    "Templates/Infobox Template.md",
     "Attachments/Pasted image 20261002220458.png",
     "Attachments/Pasted image 20261002214355.png",
-    "Vorelheim.md",
-    "Nethendell Valley Sawmill.md",
     "Attachments/Worldographer/ssssssssssssss.pdf",
-    "Session Notes/Vanguard/Session 81 - Blessings of the Deathwatch.md",
-    "Session Notes/Vanguard/Session 82 - Meeting King Sirkon (End of Arc).md",
-    "Session Notes/Vanguard/Session 80 - A Flame Rekindled.md",
-    "Session Notes/Vanguard/Session 79 - Divisions Form.md",
-    "Session Notes/Vanguard/Session 78 - Whispers and Revelry.md",
-    "Session Notes/Vanguard/Session 77 - Lucius.md",
     "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl-autosave.wxx",
     "Attachments/Worldographer/Crowning Wilderness Runite Man Hexcrawl.wxx",
     "Attachments/Pasted image 20261001124432.png",
@@ -464,7 +498,6 @@
     "Attachments/Worldographer/Sirkonos-autosave-tmp.wxx",
     "Attachments/Worldographer/Sirkonos-tmp.wxx",
     "Attachments/Pasted image 20260121094334.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Ceaseless Arc Planning.canvas",
     "Ceaseless Arc.canvas"

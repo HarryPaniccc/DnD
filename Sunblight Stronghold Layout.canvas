@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4e3bbec9b0be683a","type":"text","text":"# **Courtyard**\n- Duergar guard post\n- Dangerous bridge","x":144,"y":80,"width":228,"height":140,"color":"5"},
+		{"id":"e3fe87b8e7549d58","type":"text","text":"Large Doors","x":185,"y":30,"width":147,"height":50,"color":"3"},
+		{"id":"06898db97beb67af","x":133,"y":-105,"width":250,"height":135,"color":"1","type":"text","text":"## Entryhall \n- Duergar guards + warlord patrols"},
+		{"id":"07083236e897a815","x":36,"y":15,"width":108,"height":81,"color":"1","type":"text","text":"### Guard Post"},
+		{"id":"378d25a6cffe926c","x":36,"y":-48,"width":97,"height":63,"color":"5","type":"text","text":"Store room"},
+		{"id":"d1198129e7482148","x":-57,"y":-30,"width":93,"height":60,"color":"5","type":"text","text":"Shitter"},
+		{"id":"d5163edb6af99889","x":133,"y":357,"width":250,"height":60,"type":"text","text":""},
+		{"id":"396554ead1a151c5","x":133,"y":220,"width":250,"height":60,"color":"5","type":"text","text":"Pathway to the [[Nalaziegel]]"},
+		{"id":"019ac1bbbf63c865","x":383,"y":-135,"width":81,"height":165,"color":"3","type":"text","text":"Halls"},
+		{"id":"a8996136a3c70583","x":464,"y":-75,"width":203,"height":117,"color":"1","type":"text","text":"### Barracks\n- Some off duties"},
+		{"id":"582f24ea44a3bdc7","x":464,"y":-135,"width":111,"height":60,"color":"5","type":"text","text":"Armoury"},
+		{"id":"a2c0c2f5dcb9378c","type":"file","file":"Sunblight Stronghold.md","x":-522,"y":-263,"width":418,"height":586,"color":"#ffffff"}
+	],
+	"edges":[
+		{"id":"7d9b129448ea1407","fromNode":"396554ead1a151c5","fromSide":"bottom","toNode":"d5163edb6af99889","toSide":"top","color":"5"}
+	]
+}
