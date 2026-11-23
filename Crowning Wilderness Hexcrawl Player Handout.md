@@ -11,3 +11,4 @@
 | Dangerous Terrain    | 16 - 18      | 16 - 19  | 18          |
 | Valuable Terrain     | 19           | -        | 19          |
 | Unique Terrain       | 20           | 20       | 20          |
+1

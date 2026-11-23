@@ -2,7 +2,7 @@
 tags:
   - Map_Notes
 ---
-> During [[Session 999 - Dragon Hunting]], the [[Vanguard]] hunt [[Runite Man]] through the crowning wilderness. This is the document used as a note for the map provided.
+> During [[Session 999 - Dragon Hunting]], the [[Vanguard]] hunt [[Runite Man]] through the [[Crowning Wilderness]]. This is the document used as a note for the map provided.
 > For the player handout, see [[Crowning Wilderness Hexcrawl Player Handout]]
 
 # Overland Travel

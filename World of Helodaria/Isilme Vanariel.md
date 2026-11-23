@@ -21,13 +21,13 @@ Isilme was born in [[Dularen]], the bastard child to a noble elf family [[House 
 One night while acting on her guard shift, the home of [[House Vanariel]] was raided by the guards of Dularen and [[Lawbearers]] under the charge of conspiring with dark magics for personal gain. In the dungeons of the manor, Isilme freed a shadow entity trapped within a painting that became known to her as [[Smudge]], and the two of them set out into the world, finally free of both of their ties.
 # Description
 ## Appearance
-
-### Before Transformation
+**Before Transformation**
 Isilme is a late twenties half elf of light skin and long flowing deep black hair. Her features are sharp and her eyes are a vibrant purple. She wears her hair in an expertly crafted braid while in combat so that it stays out of her way under her helmet, but it is worn in a variety of fashions outside of combat. She is around 6 feet tall with a very strong, muscular build.
 
 Isilme wears a longsword of deep gray and flakes of obsidian with her at all times, known as the [[Blade of Despair]]. In battle Isilme wears dark heavy plate armor with sharp adamantine modifications and a standard that acts almost as a battle dress. Her helmet conceals her entire face and her black braided hair can be seen trailing out of the back of it.
 
-Isilme's eyes were blue before [[Smudge]] joined her. After the night that [[Castle Anavar]] fell, they turned purple. Otherwise, her hair and feature bare a very strong resemblance to [[Ulrandir Vanariel]].
+Isilme's eyes were blue before [[Smudge]] joined her. After the night that [[Castle Anavar]] fell, they turned purple. Otherwise, her hair and features bare a very strong resemblance to [[Ulrandir Vanariel]].
+
 ### Current
 After undergoing an [[Einzberns|Einzbern]] transformation process in which she became a [[Dhampir]], Isilme's eyes turned bright red and her hair shone a beautiful silver-white. Her fingernails extended into claws and her canines sharpened into Vampire fangs.
 
@@ -56,7 +56,20 @@ She joined the [[Vanguard]] and became a [[Dhampir]] while hunting the [[Vorciln
 
 ## Custom Rules and Features
 
-
+>[!infobox| wfull]
+># Hunger
+>*At ehe tnd of each day, if Isilme has not consumed blood that day, her level of hunger increases by one.*
+>
+>|  |
+>| - |
+>- **Elated (0 hunger):** Isilme has gorged herself and feels incredible, if not slightly giggly.
+  *For one week, she will not increase her hunger levels at the end of the day.*
+>- **Sated (1 hunger):** Isilme's hunger has been sated, and is in control of herself and her urges. The curse is at bay, for now...
+>- **Hungry (2 - 3 hunger):** Isilme feels the return of the itch, and is irritable and quicker to violence. 
+  *At the start of the day, if Isilme has not fed in the last 24 hours she must make a DC 10 + Hunger CON saving throw. On a failure, until she feeds, the minimum amount of exhaustion levels she can have is 1.*
+>- **Blood Starved (4+):** Isilme hears the singing streams of life. She must actively resist her urges.
+  *Make a DC 8 + hunger WIS save to resist forcing herself on someone to feed off of them. She gains advantage if she is close to the person, and disadvantage if she sees them unfavourably.
+  While Isilme is blood starved, she cannot concentrate on spells, and is easily insulted.*
 
 
 #### Hunger
